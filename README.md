@@ -11,6 +11,16 @@ The source for shapes for all the countries and states.
 
 [![NPM](https://nodei.co/npm/osme-geometry.png?downloads=true&stars=true)](https://nodei.co/npm/osme-geometry/)
 
+# USE
+ OSME-geometry contain:
+  1. world
+  2. world/MicroRegionName (Arfica -> CentralAmerica -> ....)
+  3. country as iso3166-1 code (US, GB, DE)
+  4. state(region) as iso3166-2 code (AU-NSW, RU-MOW...)
+  
+# WARNING
+ ! 500M ! This repo has size over half gigabyte! But you always use a small and single shape file   
+
 # Import
 First step is to get data from `osme-geometry`
 ## UMD
@@ -51,8 +61,12 @@ import AUGeometry from 'osme-geometry/AU/en.coast.hd.js';
  osme.geoJson('AU').then(geoJson => doSomething);
  ```
  
+# TopoJSON
+ OSME data file is 5-10% bigger than TopoJSON equivalent. It just contain extra information. 
+ 
 # Example
- http://data.esosedi.org/ - project home page. 
+ http://data.esosedi.org/ - project home page.
+ https://codesandbox.io/s/koryn1z5no - codesandbox 
  
 # Origin of a data 
    - The data included in this document is from www.openstreetmap.org.
