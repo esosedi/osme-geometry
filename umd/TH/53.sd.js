@@ -1,0 +1,7 @@
+var data = {
+"_ring":2002,
+"_params":".sd-2002-en",
+"regions":{"1908832":{"level":4,"name":"Uttaradit Province","index":0,"property":{"openStreetMapId":1908832,"iso3166":"TH-53"}}},
+"paths":{"1908832":[[1]]},"ways":{"1":"vd0FAUhM9AVBjxgBSBwIBieGAAC5hnMDjoGfCp2BbQxFhWcOX4YEEtOHfhPyi-ATS4xpGUSO9B3RjE8g4IwCIlWSPzCsl3I1v5rQOsCelD_2pMxDDacHS9WlT04QmaNW5JgrWA2a0FlZnmdbFqBfXZWiUl3kpeVbHat_XGmvxWC4svllcbEQa_Sydm4VsktyArOhfWy3iIhouGeNIbcykOa2d5hVtdWZlLQUnEa14qHAtBar-L75skrBBrsBxRC8ccd5vhbMdb9Hz7fEi9HGxPvTbcF-2TjIVtzhyFPdBMe43r7GeuPBySfqTNLq7iXVMPC_2Yz4VOMP-mbm__9w6oX-7uqp_pHsiPym7wv8nPOy-mPzj_nq9Yz3J_f295_4Qfby_WXzev318TT8-_Ej-8XvePmf7rP5sOw89y7pNPrx5ID2feJf-Srf2PqH3I76Utwb_N_dXf2A2___ztNq_P_JjvpowUT7ArwZ_4C6J__9uCv-a7N29Zqux_Lwpojwgp--6VuZS97flaPdX4-O30yMZN-giQndTofV1-mFgdedgcDZqH4G1ql5ztWJcYzQGW9ezdJt5Md2bqbFLXKfwxJxZ7_Dbbi89GMfuORf9q_vU9ioR1DFpWZLMKDZSIWYuUTWlShD15GMQM-PrT--jN859ImENbmGUDN5gG0zQ3zNMQt4dTUHddI02GpEMjhk2C4EX1IujljWKiFXHSwiUwAsjlAyJlFGUSEZRnkeDkUoE8tHqRCGR4MO_kWDBSg6sAUUOE0ItTbTCGU1jwaJK6gDASYUA5IdAADVGpEBiRgBBEYX1QN3FQwBrBLQAAcR8gPLETQLkxHfDXAPtxAZELcQgg4cEjwOUhiFEZIb5xVRIeAXjCrIFiUumhfRMG0UBjMKFLQ0FRU3NjoaWTnSG9U8khk-QVAYWkYKFIhKsA2MTQQO0067CmFRsAmeVS8GdlhIB9dacgt_XnQOH2ltEIlxZw7_et8EvXynBCJ-Lwakfz0GM4ZwACeGAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/53']=data;}

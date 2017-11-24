@@ -1,0 +1,7 @@
+var data = {
+"_ring":1580,
+"_params":".sd-1580-en",
+"regions":{"1685745":{"level":8,"name":"Zavr\u010d","index":0,"property":{"openStreetMapId":1685745,"iso3166":"SI-143"}}},
+"paths":{"1685745":[[1]]},"ways":{"1":"vAPDAqRg9ADb5cMCBlP1AMDzmaZ47lahTezbnUjpBKAY5RClu-BWnbffw5mQ1tmY19VjlrbQw4-YzwySfMyOk-7KTZadyDGY_8f7mt7INZ_Cx9ihH8iupLvF9qVLxe-kg8W9pbLCWaVewAGmEr-qqgS9l60yuqC0UbYOu9ywtrwIrua7oq2TwCmqfsdVouDLIp7w0vmZJtgUlE_Zy4xd4TuJSONbh3Pl_ITW6haD8usefp3sKnhs6tx0HesmbU3uaGOm87NhuPV5YAX2N1vw8q5WLPNwUjj1qlAN9T9KPvkyRgX5Mzo1_xE2___YMM3_hylv-98nCvhgJ-fzBiUq7psfQu3xGoXqDBnK574XV-CRFXLcDhZR2eEcItbNHk3TmSDyx0sgFcMKH5PA2R7JvRYaIrveEmawug5dqFcG3aP2AEabxAFGlwAADI_oAEuKlAB3h54DX4KSA7Z9pQTFeXMLxnELDLlvcwoDZ9UKCF9JCZZa7wnNVmsFyVDKB5dNWwu1SlgMdUfYC5JF-QdJQl8GND--Bno5MAzTNUsRyjQsGCcxEx2mMHAjGjUSKko2ZzBiNfo1IDkFPqU8DUNsOhxNQTO4U-MySlcFNF5avDKfWFwu_VeiKbBVciT6VNMff1lwHTVapBnkWtkY1169F2xe8RHQXJcLn2QzBqloAADGawADp20tAsZvSQlxcBsKa3OxCoh2kAkUgF4BfobVAGmI0QPsirALf46hEAWO5BBnj0YWYZHPFzKUShhDmsMSQJ6nERujcw2VpAwNzaVoDpClXxJop18ZzqdnHd-sXhz9vDAgu8GuH8vIgB0HzFobdc_nHtbTBifW1y0x3N0ePJ3h90ae65JVie4rXD_yf2f687pp0_g0Yi7-HGyW_-Ry__94fQT_XoyT_UyVAvt7m8DzmaY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/143']=data;}

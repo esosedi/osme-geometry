@@ -1,0 +1,7 @@
+var data = {
+"_ring":1099,
+"_params":".sd-1099-en",
+"regions":{"1159881":{"level":4,"name":"Nord Region, Burkina Faso","index":0,"property":{"openStreetMapId":1159881,"iso3166":"BF-10"}}},
+"paths":{"1159881":[[1]]},"ways":{"1":"L4LAANby0v87MdoA7pzo_1iuaNezrBHYDKtL28ynnNybpMDav6M32Lej2tPTnwHOGqAoy1Gfwsj_l9-8y5EVvgyLEsUIieDBFIcAwzqGT8XYgavGQn0CxZR5BcexdbzGUnPCyKBwH8nNb8zH9G7xx-VtfMi8bLzMEWuIzrJpWc-8ZyDPpmYk0Nloy9S1aMDW6GUZ1kNjM9fUYczWEGHa2U9gP9lsYCLYml_v179Zzdt6V3_bP1Y52u9TZdzzUXTZe1Bp2b1NytvtTBveqkmQ32tGOuJRReTorEXd6xNEUu6bRKXw1EOs8jZBAfM-QDf1KT5K9aE9XvQQPRH1MD4V9mQ7hvcPO0L7cDqw-3A6qfpgOar8DTc__RA0z_9aMf__EStb_sQqGv3kK_H3MjDf8i0vFei8LwvmaSrM2fApKtWMKsjOdigAx6clZMLsI6TBLCIfwicgV8BxHbS2HBkdte4Un7ARECawmwvntakIg693CUeuPAzqryIN3a7LDaitbQ1dqRsN2qXdDSmgJw0tnosLAJ7xCsCb_woamf8NPZGvDF2PngyIh1UGCHEAAApVHwj5VPgImlvqCm1dKw11XYoMtlCLC-hMcw6ISwIVPUw5GGlTeB8HUPsgCE4ZIixIPSBYRlAetkWlFEs46xpiMDQaNCs9G8cosRxcKG8fLinLImgnSi3RKMQwyie4NVwrYDZdLTQ3hy36PBMtukOpKjtJ5iokS7grC01OLmtKgj6nSntB00t6Q3NV9kpGVatMDVxoUMBd6lMqYz9YXGMnXJ1k71uYZWhbmmrPTd5lFExnZXVKu2kRPhpyuDkJc2E3y4IJN5-DgzVXg40vvIVSLCGJriuDjdcQDpTUBV6ZAADYnScOc6NQC6OlHgv1qGUIu7cACGK6uQrivQEMMb4GDc-_Mg3kwIkOX9H6FEXThhNm05sRudp4FCvecRoD58kxRvOKQf__WlZP-CN2pu-uiwHodJv25q-b79e8sIjTy7vk0grDD9CnwyTMpL92x6G-GMFqwFOvB9ZYrmjX"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BF/10']=data;}

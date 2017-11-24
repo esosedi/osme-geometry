@@ -1,0 +1,7 @@
+var data = {
+"_ring":2258,
+"_params":".hd-2258-en",
+"regions":{"2324450":{"level":8,"name":"Bonaire","index":0,"property":{"openStreetMapId":2324450,"iso3166":"BQ-BO"}}},
+"paths":{"2324450":[[1]]},"ways":{"1":"Z2-0AKvb6PsA674AzYry-98nR0rRkqABzJUNAceYlgADm1IA_50XADugAAA2owAAMaYhAG6oUQCqqpQA5qzqACOvVAFfsdEBm7NkApe2RwNRuv8DTL25BEfAlwVCw5wGPcbJB3nIxQi2ytoJcM7CC6zQ_Qzo0lMOJdXGDwLXExGe2QoT2tvfFBbe2xZT4PkYMOLSGg3kzhzp5e4eZ-e_IETpLiM_7OMmmu90Kxfxni018lgvcvQbM5D1LDWu9mM3zPfGOev4Xjxo-kFAhvuDQ0X850UE_ZBIw_2bSyL-VE3h_mxRQP8EVKD_Zlf__6te__8zYaD_eGhA_9pr4f5yboH-oHAi_opyY_3YdaT8rXiG-2J8CfrpgUr5TISL-HmGDvdcipD13Y0S9AGRNfKRlFjwzJcc7kybgOsLn0Tp8KEI55akbORmp-7i5Kjz36SrlN_drzTfP7PV3ta1dt4EuLfdp7s53IvBG9tSxVzamMee2a_JINhvzeTVfdIl1Q_Up9P51onS_tjtz0Ldz87s3vLMhOHUy_rimMm05VvHM-h-xSDqg8L07KbAku7Jvhfw7LyD8Q-72PLTuFf0l7a89bq0z_Z9sgH4QbAa-QWuGvoJq1H7zagj_JGm4PzXour93J-X_iKcPP9omKv_K5bU_--T6v-zke3_-Y3X_7yLt_-AiYT_RIc-_weF5P7Lgnf-j4Dm_lJ-Q_-YerL_3nby_6J0___ocP__sWu5_7Vobf_8ZNz-AGJF_gVfi_1LW278D1mm-9NWyfqWVNT5m1Fs-F9PQvdkTJb1SkgW8_BEc_L1Qb3xOz6q8IE6Z-9EOIruSTU-7Y8xfevVLY7pvCkp5yAnduUHI4TiayB54M8dPt51Ghbbehfw138UdtSiEhLSgxGK0OgOp8yrDOXIEAr0w5II0cDTBx2_VgZeu9gEArdbA8yxnALCrt0BIKseAdemvwBBpF8A4KAAAJ6ZAABjll8AIY-_AMCLHgEqiX4B_YY8AluDWwPzfhkEcXzYBCt69gUZd7UGOnUzCNFxsAnCbs4Kp2yrDG1piA5_ZmUQ0WOdFdZcuxZxW_cY1liTGwxWzx3XU2sge1EHI01PoyW2TN8npkrfJ0dK"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BQ/BO']=data;}

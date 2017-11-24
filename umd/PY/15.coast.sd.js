@@ -1,0 +1,7 @@
+var data = {
+"_ring":899,
+"_params":".sd-899-en",
+"regions":{"389884":{"level":4,"name":"Presidente Hayes Department","index":0,"property":{"openStreetMapId":389884,"iso3166":"PY-15"}}},
+"paths":{"389884":[[1]]},"ways":{"1":"5R59_rcyYfymx67-0fWX_K_KI8yeyaTLr8hizJDHyNDaw0_SbMJD0hvAEdCcuwbUirfV0nSx1tjdscLdT7D03Yiu5txdqzXedKin422mUeQuo5nnJ6DS57ydguWominouJkY6jyX7OpNlBHrXY7a6DuHWuzwhLru44Pz8VR_XvhdfVz4c3zu9jd7tPgQebv4knYW93x0qfjKcmn1NnEn9Y5vavbCbkP64Gya-jFrVPxlaSP7imfJ91Nl-voUY8n7V1-29qxag_nJWXb7U1Nn_KtREv7xTu3-Akvm_W5H___eRYf_MkTb_KJAJf-NPdv8MDpt_yY2K_5-NLj-ZzMj-iwwufo8Kxv4lig39bAmm_jTJCv4TyNd--MhSvvsIIz5-yGt9bYaBfOdFjnvjRY67d8TvupBFLLmmBOo5UYSueQVDkHkIQp34ZAFy9oAAG7bkgKM2KUD6thIBEHYZQUp2fIEZthqBu_XEAYp1_4HJdf5B9XVbwk51mQJU9WZConUogtO1QYO8dRLDuHT4w8P00IQt9CLEQPPehVGzfEVdsYdFSrFeBUBxDUZwsKHGEDCEBkbwUoYc740G-O8VRpIu_sai7nbHaq4Zh64tYgh2bIHISqxFhxBq0UeV6qdH3qnHCLXpR8iraROJeOjwyaioesmC6AjKOGekCfknfUpfZocKWeTtipikuYqyJCeLZOPxy3HiYsw_obhMKyEHzPugmE2JX6dNld6wTkidgM6wnI7PsRukT_YaqpBrGnTQYFnz0NIZedDu2M_SWxhU0r7XWFLw13MTlpadE9KWBBSclYFVBxQ_laGTqBp6zFFZxgpmWdHIDdrFhlsaycU2m4rDmRuzwuxcVMK2nLrCCJz0wUsct0Dk3QAANWBvgI6iHcHn4yXDOiPih9lkBMoYpTvMP2VAjJqn4kzUqZ2NiHBvjZ8y4I5L9nmQTDlb0c95-FL0ev2S97tLk1x9RdZf_e0XcH6bWD__wlh5_hMcIH3yYTx90eoMfY5rAfx96755iDNn-TYzsDhb86R33LPKtufzzfX29L-1KHTqNPx0nPUIcwR1BHKpdJ3yMvQnscMzk_IXsw7y9zKGMyvyiPM"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/15']=data;}

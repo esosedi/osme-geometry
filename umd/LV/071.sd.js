@@ -1,0 +1,7 @@
+var data = {
+"_ring":1748,
+"_params":".sd-1748-en",
+"regions":{"1781258":{"level":6,"name":"P\u0101vilosta Municipality","index":0,"property":{"openStreetMapId":1781258,"iso3166":"LV-071"}}},
+"paths":{"1781258":[[1]]},"ways":{"1":"HwVgA8MGQQENYWUDqABIAcpROY6JWQl_vFdnfANYEXsVV2Z3b1UrdgxTN3JhUQNyck5-b_lNw3CdSdJusEd9cN1Ga3TbRN5zo0AMeP4-13b2OGV4Tzaqe0E1oH7IMfOC6So7gvsmP4RoJq-DAibjhHQhJIL5HLB9mxp_dCMUz3GMEZFrxBCjZTsQEWXhEF1igxBFYOkRgF2dECZbHQ9_WiEO91fzDIVYFw1CV9ALB1RVFA5KIyDCQd4hpj2JJXE7YSUeOs0mmzWkGTEvhxmGKnsV7SpgFKQrPBSaLPYCbCQ5AXwkBAFBIO8BGxYAAB4SSwF3DPwB6AteAuoJbgMfCRUEFgYBBaAFRwYAAAoUAgKcJJoHczwTC6FbswvOdg0LHX56CYSQgweqmO4JWZ0VDaCgFRFupJ8ZoKhzIWCvwSiDslMtTLjBN0y8TEGNwapHPsIlSP7CcUfFwVVJCMKyStnH5Fkc1h5zhuJDgRzv7op_8MCMhPHQkBv06pUj-s6dcP3loP__H6XJ_uyorP1Nqfj976kx_LupevuLqiX8Ga2y-0quvPehrrz3IbJx-VyxCPvzuD36tbke-ia8sfjuuHz2crox9hjAbvWDwTL1BcCc8uHBB_L9xX7qsMsY6VPLTudBycLmq8mu5q7Ii-RPx1bjTskV4j7JjODKyqDfvspU39TJFd7TykvdLsqD2svNYNmA0Z7YxtEC17TUVdbp2cnWFNyg1bfc9dXR3mrXD-BB2HHf8tlM4mbZTuVT1RXm5NTb4_LSoeE805LmKtEO8ovR4fqQ0A38_8sU_EzM___NwXv08r6s9ci-zPcPvq_2P77W9Z68PfdZuyz2rbne8mK4JvZ2tSD12rTY8Jq2qPAxtvPsELci6Si3q-TXuHzgkrZF4Wi2499HtKvgZ7R636-yYt5urnzeCax739GngONWo_zjkZ-g6BGbXOMDmaje9pZO1hGVLdQ9ldTSGpc40EWXK81jmELK4Zc5x-WWYsY5lz_DR5Zcw5uWBMKkl6XB0pdSvyWXR73ekh2-ro_cnKaDJZ8kgoGOR1-0lNRfEJbKXr6VFl7qlxVdAphDVdGOpVRnjvtTZY_PUU2OylE5jg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/071']=data;}

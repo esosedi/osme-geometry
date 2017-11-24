@@ -1,0 +1,7 @@
+var data = {
+"_ring":1844,
+"_params":".sd-1844-en",
+"regions":{"1811628":{"level":6,"name":"Lielv\u0101rde Municipality","index":0,"property":{"openStreetMapId":1811628,"iso3166":"LV-053"}}},
+"paths":{"1811628":[[1]]},"ways":{"1":"D7dfAzT5eQGz-GIDhwR_Afid5hs6mkUe4ZNyKIygjTu7opE50KTRPaumKT8qqkY_9amuPSar0zsfrns5a7BtOwSwID84tQdBpLewQUG62j4_wt4_V8UpRPLEn0SUx_BJfcYjSsfIjVWFzEFWS858W6vRaWDq0iRhTtTAYGrVl2Im2VFjt9nYZCHcTmav3A9pCN9Yaejec2rR4ipr8-jZdHjsgndX8Jd5bPEzd370wXUV9fl22PNKeK_zL3xc9Ox9yvFvfybyLoEB9W2CtfXKgV_5qYOa-IeIlPtiijL_N4r__zCNhP_ujWz-w43a_PKQdvs0kdv7_5I0-e-SZ_nhkb_3EZJv9uWPEfQpkE3z6pMq7taX3-k_n4DpNaCl7ZSfce9ro_Xp-6mX67-smenbr8HkGrDG5iO2L-FyusTlub5Y5-rDgObAxBTnS8dC5lvJzuZIyjXmxMpo5iXNjuJU1m7XUN7Z1gbhPs0a6aHK2ufbwxPqRMOl6FTBxegtwfzpX74p7bS8-O0_tHb2V7IQ-1avqvy9raH7u6n__-Kov_07o8f30ZwW_Euay_uvmSvtsZ0j6QOcq-Z9lznTh5QszU6S-MofkETME5Bfy46O0MqujuTJDI2-ycqL59KxiIXSgYkMzSuGsszHhlTPeYY20oqFFtLxhGDXq3-21l-AgtRCfi3U-Hu71lt9TeI6ezjjHnql5XV6gOHzefDfGXUU4ftwIN06c6vaY2pH1ptlptJYaGbN52hEx0RjHb2_YAS8QVkWw5pD6MBrRqi-zkXAvTE6qsJCO8q8oTjxvZk12L2GNbu7zCVUu1QjLbxXInHGwA-Kzv4LQsxjCurF4Ah0xmAFDMRyA7LIwgCuyQAAB8UqANe9VgNtrrEH66A6C_eYEg80kiMX8YZHG41-USrfZ1QxG2MJPn1Y3UhXVl1RZ1cuVQBZ-1qyWO5i21WdaiBQoXQCQtd4Lzh-fBAg539YFMOGHQPbkRkDW5IAAIeXxgCKl4UCQpsyB-GaBQwlmjsMbJjGD42ZNhX4mgQX-J3mGw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/053']=data;}

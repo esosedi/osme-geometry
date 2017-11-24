@@ -1,0 +1,7 @@
+var data = {
+"_ring":1357,
+"_params":".sd-1357-en",
+"regions":{"1674564":{"level":4,"name":"Kunduz Province","index":0,"property":{"openStreetMapId":1674564,"iso3166":"AF-KDZ"}}},
+"paths":{"1674564":[[1]]},"ways":{"1":"U-8pAlMdDgTzvTkCC0giBF5IFyG-UvYZEFnYFIpbyBH-Xu4Q7GBPD_xjiA6EauMK9XMACk6BfAI9hnEBe5PeAXmYAAC4mVMArppkA4Og-wrkrywbZrG0HbewpyKOrXQqV6-0LkOxUTDfs3swJrs-L87BWi8Xx4Yy2cePNjrHODpyxWQ908RuRiHGckk6x-5JJ9AZSOjQSEmQ0AhRp9PNWafTyF0O1jphYdp8Y0bbNmqK3d9t4d1IcvHfrnNd5YVzsudTdDXp23YA6bt6Ju7ZeEfwFXqN8OJ8OO5sgvfwvYnT8FOMNfCxjt3onJTd6JeYjelmmWXt1JmG9mKW6_qvlQT8OZYv_XmaVPs7oJXxqqWX77uouu8hqmrwh6uu8n-sOPWVqzb3hKjy-2Wl9_6kpP__ZaXt_7Cmbfy-q8X8eLLh-xO2YPgUu-D0cr1O6pfBzuaYxhnj2siZ39vNk9WJ0vLPqdqdzTTg5csI4hXJ1-L0xn3ol8Pp6s_IM_gizU_9L8f__0fDj_9ttlv3UrMr-ESuHfufqXv5qqZy-eqhqPtWmwn8VYK28699Q_B5eoXkD3hi4HR0mN3gcd7d52t64r5jheRoWuvql1Yy7AhTbuwSRDHnnz9t5l86CueKLAnrxCn96r0oaeqHKI7o3ymq3Uko7duwI_jcpR-k388V6N4ADanhYQZE5QAAbea8DvHDuhduu5MXwq8RGS6qWxkEo2Qb-Jv5HBKbqyA8m7QmmZOWLAaPeC6BjEUyvIr8NAOICznlhxU6qoYBOLOBRjEee-IwyHeZM0pzqTNebfo5R1sbPD5Rxz1dTVI-VEimPDY3r0HSMWBDxyvKRfIncUVfIy1HbyFeSBch"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/KDZ']=data;}

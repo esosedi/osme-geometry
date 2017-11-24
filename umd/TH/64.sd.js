@@ -1,0 +1,7 @@
+var data = {
+"_ring":1993,
+"_params":".sd-1993-en",
+"regions":{"1908823":{"level":4,"name":"Sukhothai Province","index":0,"property":{"openStreetMapId":1908823,"iso3166":"TH-64"}}},
+"paths":{"1908823":[[1]]},"ways":{"1":"qqP-AHax6gWC3g8BZuX3BUgtVxcbL74StjQoDJo2SQMhOssCZz0VAE1AAAB_QYwC8ElXBedNBwSqT68EklP1AoFbHwlJX3MPEGNCEZNkmhDVZfgNmWePDep44w22fhwQyYHfDiqB7hYOe9QdRHZkH4F0oyXmdhooNnfOK2t51C9sekQ0BH7CNAV_TzdYgGA4mIh5N76L8zhVjzY-y5IRPk-UMz8YmWM9DJtPNwGebTTznk8x-aEoMMSn2jN1qHEzyKl_L8Ctnywirz4q1rAoKnuziiy3uYosWrtuLoy8dTIwvh0zB8JjMfvDuDFNxXwwnsXwLbDGyixFyZwt-sseLT_OLy4gz78vIM8hMt7NPjawzs43W9TUNUDXEzbD2NE2OtwTPLDfdT7X4vo8kOdIP_jrDz1a9ZxFw_lHS8v901P__55i_f6daHb7B3WV8mF_8vDqgn3u04Nn64iG5OlPihfr8Yxt7uOQ1PH1kQL5RZly-bicp_sUobf7Ja75_OK68_mYvfL4uMDc9ZjDOPSDw7XyNsHS8IrBKewZyY7m189s3eHSMtjP0R7WVdBZ09PQ5tHsz-7NZ8tZyyjFF8rWw0PIg8Oqw8TI5cBVyoTAyc2Cv0PPPLzFzrO3TdgpsrfeX62a4Jip-uMyppfhjqTe2buiTdhWoOLYcZ2l3YmZatyGjw_eSoka28OFhtRugyTSBn-Yz4N9AdCDfWPSbXpm0Yd3m9Q9ch3UqG_v1EJsyNMPa4PPMWwoy2JsqsQRbCHBQGsTv25qv77pZ5G_vWHWwyhfVcqOWcnN5FQx1JxQQ9vhSkPn-kaz8cw_r_60O-r_MTot_x85dvwZNnb8ZjQf_fMyVv9OMP__qy4t__ktXf08Lwf4fC-p7gkuf-IFLIrfmyZH4MklNd_NJzzXLCeN0k4o4cyNJ8HJwiF0x0sWqsQHFPPBYhFPug4P2LdmC_C2tQputzAI6MS7BV_HJgO3xgAAnLy0AWi5Fgv6rXcLSKpkCkSf9QqTj4MJfoNUCi18uBxNVT0fFlMUIxZTLCeGUXMqf03XLMJGeC1jQ0gtsT8OKB0hHij4HzQrsRtGLOYYSC1XFw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/64']=data;}

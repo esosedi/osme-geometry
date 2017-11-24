@@ -1,0 +1,7 @@
+var data = {
+"_ring":191312,
+"_params":".hd-191312-en",
+"regions":{"1401835":{"level":4,"name":"Guadeloupe","index":0,"property":{"openStreetMapId":1401835,"iso3166":"GP"}}},
+"paths":{"1401835":[[1]]},"ways":{"1":"-7buAHmuTfwQCf8AUGNg_LQNrLd7FfyQLiIoeAAAmkbcAMBDDgKPQMYC8j67Awk9mgb5N0cIazX0CS0zJwu-MZYMKzC-DhEuLRDOLJ0RpStKE2cq9xRFKZkXsCeDGawmKjKBGo40bRluN00YWDnkFn87eRUWP2UTPkFNEphE2BCCRiEQbEiADwNMvg2lTpYMhFF8C_RS_QrTVSAKQ1fCCSJaJAkBXa0I1mBPCLVjMwgEaKQHXmthBz1u4AYncJoGEXJmBnZ0PgZVd9IFNHqCBZl8EwWDfmEEbYDFA7GFWgKRiLEB4IzdAESPegCekh8AA5UAAOKXAABHmh4Aq5xZAAWg2wDlonkBxKXAAa6nAQIIq50CYq5zA0GxXQRvuOwGTrugB768CwidvwUJh8HHCXHDoQqZxbML_scLDWLKkw6KzCIQsc7jEZvQpROQ0ZoUe9O1Fq3ULBiX1lAaydfNG7TZgR5h200hk9yoI4jd3iV93ococt_tK7v6El8r_AJiIP0-ZNj9L2aP_oNoCv9vaoT_82zC_7xu__-Scv__LHTC_wJ4R_8pe83-Un0V_tZ_mv0-gaX8poM2-6CGA_q6iA75O4ph95KMtPWfjkX0mpCY8rCS6_CMlAHvcJbZ7FKYdeowmoroMpwb542dtuSTnxTigaE131KjS91hpGHbVaV22S-mEtcip8PSk6gL0qW5C9JKu3vTt73q1JfA39XlwtTWtsWM13bIRNgVzIHY3s2_2LPRv9gS04HY6NYH2A7ajNc33NTWut4d1sbgJ9UT4_XTguXD0qTnkNGK6SHQkOuxzl7tBM1B71fL8fBtya3yg8c69FzFyfU0wyv3DcFn-C2-4_lDvMf6WbqS-4W2Av0rsxL-QbGR_lev_f5srVX_gqub_5ipzv-up_D_xKX__9qj_f_voej_BaDC_xueiv8xnD__R5rh_l2YcP59laL9GZPR_C6REfzKjgD7oozo-QCKYfheh6X2Xmvr5ioyYtXFL5LUYC2f03YrwtKMKcvR6iZK0MMkJs8WIyrOaSEXzbwf6cvSHXHKJRwLyTsaRMdQGEPF4RaVw3EVwcEXEti9LRBau8kNy7e0Day3"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GP']=data;}

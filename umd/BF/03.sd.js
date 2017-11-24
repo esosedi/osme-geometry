@@ -1,0 +1,7 @@
+var data = {
+"_ring":2463,
+"_params":".sd-2463-en",
+"regions":{"2746031":{"level":4,"name":"Centre Region, Burkina Faso","index":0,"property":{"openStreetMapId":2746031,"iso3166":"BF-03"}}},
+"paths":{"2746031":[[1]]},"ways":{"1":"beO3AN8f5P_5jsEA1cPv_z2BkARohQISeZDsGaOWyjCQn4YsD6WzLKep2C2Dq1ktULNnJaC24CPUzLsiOtQIIfrfcjPs4C83uODLQDDiAUQx7JdH6fWySJn6cEq1_ndK__9eSz7-mlFH-xxSwvRqVgLnWFky3lpVANTEUqbNBlONyFNVx8fxWifNaWnZ0QByCdEldgnPxHcOywF5y8a5fQDEcH9KteN6EqrwfE-np34lqIKHH6v6kmy1B5vouGqhI7lNq-K0yrNctTm6XLPcvnGw1ME_rF7CiZdkwk-QwsAljYm8torOujGDTbpVf164s3qot3V2qbzdd33AHnQlwRRy-sLLcIDGInNKyuJumdCJa07T_Gqb0jNoDtTUZTPT8GE_1lZiS9iRZC3ZpWYO3Lth-NxIYPXf817331Jc991TWlfgI1xt43ZbguTbVX_k9lRG5flUOejuV6_sBVfS7H1YSu8mWALz4lYP9VRSk_TnTBL4mkkf9q1HOfYyRiL3MUWC_XJDMP75PpX9rjz__yo6_P9ZNiT9AjOA_YMtiPMLJyLv-CSJ6x4qV-fFKgXkwCww4esrNeBULUXejSsC2BYsOdR_KgLRGitMyhIq5cj1KfTFCSw4we0qYb77JO65DSM_twYlMbUAKgqz0SkqrVQkfqaqITmZIRp8kyQWaI1aGs6MmB8Gicgl0Ie7MpKCDTnMge05WH_ROAp-zDibeHg6O3TSPb9xCDrhZKQ362DMMtRd6SPwVqcSzkCNEJw3lgFMMAAA7y2JELUiDRH0C7grAABbPQ4AQEIDAetGGQTISXILOU2fDdVkig2_ZwEKE2rlA91sJwMWb_oE3nHMDMpz1w34f5AFPYGQBA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BF/03']=data;}

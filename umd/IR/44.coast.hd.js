@@ -1,0 +1,7 @@
+var data = {
+"_ring":1089,
+"_params":".hd-1089-en",
+"regions":{"1015996":{"level":4,"name":"Alborz Province","index":0,"property":{"openStreetMapId":1015996,"iso3166":"IR-44"}}},
+"paths":{"1015996":[[1]]},"ways":{"1":"9ToeAmJV_gLwoSoCneEPAzzVaspA0hrNHNOX3CDQRt9rys7pjcpj7M_HO_Twx9D268Eu_MeoAP3lqJT_wKWv_3yiNf1PnP__5JWf_YV5iv6weHXsxYFp5CeHIdKVc8vFa2OEvhZQULftSRe6NEUXv3lBD75qRHC54EPltYZIKrCmR-qsKkcMqqU93J3BO-GaaTc1kvUwn42uKsWIKyP-gwgh04CyIEF_YyAIehYdf3fwGZJ3qBBpeoMNfHpbDd93DgpVdZcJfG1NA6FtAAAWa_oFtGVsDC1okQ8aaCcZf2rdKCBqsyiDZ60r0mTRLr9kfC3PTy0qQk0LJ1VNEyQGUPgdylIGGCxY4hQ_WOgR8FqaDmRYdgt2WCMLOFMdDoZQQBF0UDEXEUtMHU1IIR2tRQ0jSUDWJfc6eCGhKBIkqSAtI3kTFykNDjos_A0-OMcFWT7-AsZHygK9ShIA4k0AADRRlAJ-V3ACIl6XB6BhzgzxZGAPHWUDEhlsahycbE4kGHB9KWhzCiwOd9YzXXpiNt56PT5XfmRDpoHtRROLrUX5l41KHpt3SrakzkwEqFJP6rQrVNO-sFtByGZbPsu0WGPOm1g40U9T6NAcTkbTAEEf02U-RdZMPhzZ_ThC3y82aeIWNmjlYTNB6A8uGehzKxnrvSiQ9GwoLvtsLXz7ojI-_-48___tSSX9Ok9M_dJREft-YTr4yWax-I9uLPYGeff29oVK9NSNTfGGkHXxHJOf7mOYO--6omTsAKjW7MKvs-ncr9npcrLf49K3n9q3usTaTL3M1KvC8tRAxTzVaso="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/44']=data;}

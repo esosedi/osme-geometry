@@ -1,0 +1,7 @@
+var data = {
+"_ring":620,
+"_params":"-620-en",
+"regions":{"254098":{"level":8,"name":"Gurabo, Puerto Rico","index":0,"property":{"openStreetMapId":254098,"iso3166":"PR-063"}}},
+"paths":{"254098":[[1]]},"ways":{"1":"lVYWAT8SEfwjoxYBjHoR_GH66aIv82GjTuvIpEjns6ax41Op-eI_qgbjS67v4JqwA98XtNfbbbij2v-6ltobvPzZf7061xm_KNb7v0_VH8FJ08_FkdJayO3PQcyNy9HQPMjj1R3DONREvrLc2rui4YC55Otqsb_rM6xg6xOo3unyoTHneaVp4juYa9yPlILhwI_Y6FKIAPUohYj0qX___6J9E_8ifF79v3pd_At6RPwNdbD8n3QB98dy7-1ZZ8_Jh2bqxZ1lmroBZku0NWd6rctuNYnNcRV47nGYcTNxTmpjcPJl9G44YaxrmGCWZ59gZWoLa3xq520HX8Zucl8MdyFeLoghWnCGN1AahV9HXoBYO8R7ei5cedApC3lVJQR7WRqFg7EJHnlNCTV4Xwi9d40FZ3d6Af51jABOddMA83AAAH9uDAELbz8CHnBzA2NwuQUxcP8Hd2-YCM5tcQ2wZ0oONmYbDgRl6Ax0Y7kMb2JHDmFhExYxYFcbGl5cI3padiUCWjYrRVkrL5tWsjL-VK40s1OzNQ1SHjZ4UAw-2k2AQvdKC0DUR5FC0EZ8RO1E6khTPPpM9DAQToswUU_eMP1QsTFBUqEzHFQ9NQNVJTVZWc4yiVo-MQtb1i52VLYdClF1EfFNAAAIVHwCbFZhBflZkAj-WsAJ1FsLCwNc6wtHXbgNpl7TDlZghg-kYW0Ph3hvCYl8GggDgDYG7YekBLCLnQTlj8EFu5fYBhWedQiOoRkJ86YfC_SpQA0prK8P1Kz7EJ6ufBLvtQsWxrkWFwy8XRe9vi8XmcOQFWrKkxFxz6cNIdHFDOfUWAsc1-4KpN22CgDh4Anu5rUHvuxKBs7wLQm18QUKIPLJCkHy2wy18TkQQfLVEff1ZxS4-EYVQvmwFZT9tBb___4WJP5OHtL8CCBl-EgjA_G5JtbxJSjk8aY2MPTjNwb3VzoW-SA7QvflRen15kpH9BtTgvPkWZT0MWaA9Lxoe_WOaijxwG1e749wVO-ddLXviXhX7w965enZf9_jU4gQ0yaa3NEbnErbNpzS4dCc-uMhnUvrBZ-v7Y-eR-_NnRDzHZ-a-BGiYfrpog=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/063']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1251,
+"_params":".sd-1251-en",
+"regions":{"1435832":{"level":4,"name":"Kairouan Governorate","index":0,"property":{"openStreetMapId":1435832,"iso3166":"TN-41"}}},
+"paths":{"1435832":[[1]]},"ways":{"1":"Up8WAqpmjQB4zCcC9DadAEwdfOuyHRDq8Rug5rsbaOByGR_b5BMw1foKZMgAAOa-kwB8uAcCurReDSS06xZbsWYfDLHkH0uvQR3Xqncc1aZkGaKeDCHWjMkgVodhIfWA2yICfB8inXYeI0JxFSgZZlsrF2fsLQ5lYDODXiE6rFiXPGxUVD05UcU6mE3IN0xHIUJSQC9HMzQaSQgxlkv9LnJOYi7IV-E4Rl79NuFlAzYEav4r72vKKcVvCihGeKEmjHuBIsCDsxyFhBIZR4qtEr2NOgsNk1AElpeeAKSaAACgnt8D_Z4GB7-ZShUhmlMcw5i1HyKbWSMJnjsu4p8BMRyhqTS3oVY-M6OmQOGkwEK1pU094KqoNkqtEjXWr6w0sbb_O7y5gTrMu_w7yr65PKLGSzaiyEQ2nNK3ThTXVlTm2p5XE93uWiLkGGHE59Zlr-2rbjb2eX6g9tmBD_TJjeTwjo8R7wSVtu3Vk-TrhpWf6Hqbm-mUo_fo7KVk6SSpCOd8sLDksrH44vqzjuFJts3guLkU4yTC2OXkw_nrz8Eb8vvCCPDNxWPvMsja7_DLXfM30q_4ldQz-63U8vy_0oL_CdTb_mXe__9w46b_T-bl_Evjxfj_4kL0RePX72Dg4O1U4CTtC-v76y3twODj8brbKfKB0jPtZstL6KXFquV9xJ3mDcKY5VDBTuNuvdHgsrnA4cW3Jt-otpvfz7Xn3CKzbtxcskPen7G03FCwlNz_rEribaox4-2kG-jVopbrLZe-8IuQrfWtivj3pYcc_K6FA_yff___s31Q9RN4veoGdQrsqG2E8gRs7_IJau7w2mXf6UBhzejwXFzgiFhY389W0N-uUQ3dVk5K3NBKVt1HRr7jCT3f4X0xZ-F3L5LjOixt6rUq0uvtJlfqQCLl6fwdTOtMHXzr"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/41']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":30,
+"_params":".sd-30-en",
+"regions":{"306001":{"level":4,"name":"Guam","index":5,"property":{"openStreetMapId":306001,"iso3166":"GU"}},"306004":{"level":4,"name":"Northern Mariana Islands","index":4,"property":{"openStreetMapId":306004,"iso3166":"MP"}},"571178":{"level":2,"name":"Kiribati","index":1,"property":{"openStreetMapId":571178,"iso3166":"KI"}},"571771":{"level":2,"name":"Marshall Islands","index":2,"property":{"openStreetMapId":571771,"iso3166":"MH"}},"571802":{"level":2,"name":"Federated States of Micronesia","index":0,"property":{"openStreetMapId":571802,"iso3166":"FM"}},"571804":{"level":2,"name":"Nauru","index":6,"property":{"openStreetMapId":571804,"iso3166":"NR"}},"571805":{"level":2,"name":"Palau","index":3,"property":{"openStreetMapId":571805,"iso3166":"PW"}}},
+"paths":{"306001":[[1]],"306004":[],"571178":[[9]],"571771":[],"571802":[],"571804":[[31]],"571805":[]},"ways":{"1":"1TbKALoCnwhyWdAACcGjCP__GraDzv__AADdTXlxAAAb_Guv__8atg==","9":"X_cZAPk5nPbiVh4AiNGh9nj62Sf__56YAAD__6mvAAB1-q0oePrZJw==","31":"e7D3_5Ti8gmaUfj_U3XzCf__CI4AAP__voYAAP__CI4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['world/Micronesia']=data;}

@@ -1,0 +1,18 @@
+{
+  "name": "osme-geometry",
+  "version": "1.0.0",
+  "description": "Geometry shapes for all the countries and states of the World.",
+  "main": "there-is-no-entry.js",
+  "files":["AD","AF","AL","AM","AO","AR","AT","AU","AZ","BA","BE","BF","BG","BH","BI","BJ","BM","BO","BQ","BR","BW","BY","BZ","CA","CD","CF","CH","CI","CL","CM","CN","CO","CR","CU","CZ","DE","DK","DM","DZ","EC","EE","ES","ET","FI","FO","FR","GA","GB","GE","GQ","GR","GT","GW","HK","HR","HT","ID","IE","IL","IN","IR","IT","JP","KG","KH","KN","KP","KR","KZ","LA","LB","LT","LU","LV","LY","MA","MD","ME","MK","ML","MM","MN","MP","MX","NA","NG","NI","NL","NO","NP","NZ","PE","PG","PK","PL","PR","PT","PY","QA","RO","RS","RU","RW","SB","SE","SI","SK","SO","SS","SY","SZ","TD","TG","TH","TM","TN","TR","TW","TZ","UA","US","UY","UZ","VE","VI","VN","YE","ZA","ZM","ZW","world","umd"],
+  "scripts": {
+  },
+  "keywords": [
+    "maps",
+    "administrative",
+    "iso3166",
+    "world",
+    "geojson"
+  ],
+  "author": "Anton Korzunov (thekashey@gmail.com)",
+  "license": "MIT"
+}

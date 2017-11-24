@@ -1,0 +1,7 @@
+var data = {
+"_ring":191330,
+"_params":"-191330-en",
+"regions":{"155987":{"level":3,"name":"Saint Helena","index":2,"property":{"openStreetMapId":155987,"iso3166":""}},"156166":{"level":3,"name":"Ascension Island","index":3,"property":{"openStreetMapId":156166,"iso3166":""}},"1964272":{"level":2,"name":"Saint Helena, Ascension and Tristan da Cunha","index":0,"property":{"openStreetMapId":1964272,"iso3166":"SH"}},"1974295":{"level":3,"name":"Tristan da Cunha","index":1,"property":{"openStreetMapId":1974295,"iso3166":""}}},
+"paths":{"156166":[[1]],"1964272":[[2],[3],[4]],"1974295":[[5],[6]]},"ways":{"1":"tRGG_-v0I_9Dnof_itkl_3fNpJsWxRu1g4fA2Yh2Xfw8XP__QV1k5vs9yd5aEP6bjBy3izcDCj4AAGIotiM3Cwc-6xThlQAACa2XHHzUTiAE9f82__-KXNvZGo53zaSb","2":"tRGG_-v0I_9Dnof_itkl_3fNpJsWxRu1g4fA2Yh2Xfw8XP__QV1k5vs9yd5aEP6bjBy3izcDCj4AAGIotiM3Cwc-6xThlQAACa2XHHzUTiAE9f82__-KXNvZGo53zaSb","3":"cdXI_UOMQ_98dcr9nJRF_4D_Vkf__62u69nF3Qiv-vaqev__4Rf9nR0FKJgAACyBiB15WFgSGkNRewAAJsa0GAzkszw8-fs9gP9WRw==","4":"wYPG_QYhPv9jIsf9jRk__wAAz10sMP9TWTMbEyetAAD__yRYO8GM4RqD__8CLX93AADPXQ==","5":"cdXI_UOMQ_98dcr9nJRF_4D_Vkf__62u69nF3Qiv-vaqev__4Rf9nR0FKJgAACyBiB15WFgSGkNRewAAJsa0GAzkszw8-fs9gP9WRw==","6":"wYPG_QYhPv9jIsf9jRk__wAAz10sMP9TWTMbEyetAAD__yRYO8GM4RqD__8CLX93AADPXQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SH']=data;}

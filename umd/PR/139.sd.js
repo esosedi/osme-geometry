@@ -1,0 +1,7 @@
+var data = {
+"_ring":612,
+"_params":".sd-612-en",
+"regions":{"253987":{"level":8,"name":"Trujillo Alto, Puerto Rico","index":0,"property":{"openStreetMapId":253987,"iso3166":"PR-139"}}},
+"paths":{"253987":[[1]]},"ways":{"1":"mt0XAbtbEPyKdxgBYEMR_Pv7zaBD_FqjafoApeHwpqjp662wq-g_u-fqx7346Ju_GeiWwwHKlcO9vdzKhLSByeewaceVqHHAxqbKvFykPbsRn4e745l1vZaSlL6ngoC-E4FMwWGEXcW2hKnIG4GoyeV7DMdxfVnNtHzo0dl2_9ZecPbeIG-D4txvYexibu3sBG1J54No5OIcZ6bdVWhB3Y1oLttgZZ3gY15b3_Ba-d9dWtLhUU826GlGIuY_RXTpDUGE7dFAOPO4Pcb0ljzv9t4_bfw9P5H9kzt1_dI5vv97OP__FjXL_RAvuPzoK4__1ybT_MYk7_xnI6Pu8ROpzN0OgMziCw_JAxCsw-AKMMVKCUfE_wt4v_UHCLtYAxu5HQOutqwH77YkCWm0JQCToPsQJWl1Gk9VbxztTd8nZThqIRY3ch_RNXQgMzSWJGQy-isVMTkonzAsJ88rUCTaKF4fIC0xFVguxhGSLA8PpSadC6sjbQp9JFkHmSQZAk4iEgEjJDIAjCIAAFgeJQhoGQUVjg1pFFgF-hmKAJwdAAA-La0BQTWSBV88awYJQKkIdkXHCTpI3QlNS24IqVBkCalVkQucWHEPSl3WEI5dnBLbYk8Qz2MBC8pmpgleeIsIxn9hCeOFHQx4kC8IL5W7BzObIgmknRQI-55zCdigjAmgoiwIDqkTCK-p2AVJsEIFzbK8BhW48wXHuRoHObk1CUy6MwvbvOoMwcJpD5PLRxGj22cdK_qcMdHwglNo8d1WVPUOW6TzSF4L9GFjN_vGYlP8sWT__wxnQP_kaCr5lWz4-MNuF_aBctj4KHaU9P174vOHgQv2spLJ9yaTU_gLmD77HJzu-46g-_vNoA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/139']=data;}

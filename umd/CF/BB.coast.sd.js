@@ -1,0 +1,7 @@
+var data = {
+"_ring":2440,
+"_params":".sd-2440-en",
+"regions":{"2634506":{"level":4,"name":"Bamingui-Bangoran","index":0,"property":{"openStreetMapId":2634506,"iso3166":"CF-BB"}}},
+"paths":{"2634506":[[1]]},"ways":{"1":"NBprAHTKHwG67JQA2KNVAbGZIBKQmhITCJ1qEfCfjgzUogkLJaRPCFOnZgZMp4oDaasPA4uqJwHFqwAAna0SAKyvewGurwcD3LG0AzOxZgRqspUEHbMUB1y17AZ4s4YIdLYNCSK2KAsut_gLZriaC3K34gw-uuQNTbk0D-K6-g-juSoST7sVEya6bRPkucgUfruIFiu72hjhu4gYrbwLGpm7Qhq7u_kcg7o8HSq6jh6PupUjx7tiJGS6bSaYuw8nzLrPKIC7Qyq5ub4qC7zDLB665izMu5Quz7qLL8O8TzAcu44xobzJMlG6mDgzu-I5Srq3O3u9J0MAvtJGEb0hSOy910nwvANL274PTF2-HU4nwENPfsDNUfvC7lJMwcNUtcMWVfHDW1aTxSRX7cTNWSLHPlp5w-xc6sUVYsPDBmXqw0VoxsKBatDDKGwjw5xt48VzcP7FfHJtzKt1h8wBeGvSqHZU0_54ENfredvUan601LqCCdl2gvHbt4ah2yqIIN2TivbcIY9n29-RyNy6k8ng7JV94qmafelJnqnuG63D8M2vC_UmsTL3CbMQ_Lu53_60uv__Gb9P7xbBmu-RxofmVs1-42_ODN7-0gvUrdRs0HzWJMuq13vGLtwnwnXeNr4246q5bOQstkvp0a8S6SWi8euim8v0f5kN_x6T__9QkcH9HJED-H6SRO0Wlv7nipNq4gWMIN9LiJ7fS4LB4lx8jOGxd27flnBF4vxu1t_abRPYt3IN13B7p9AXd8LKDnYqxxtx18Sncwi-5W6kuw5qRrXhW5S621qoogZT3KLWTHKhsURHpLY9aKLRM6mdHS6Wn8ApWpuzG-qU5BaKkDMTdYoRFeqCKwyFgHwEHHsAAM1wpgCXYzQEZV59DThUnxCVUogTPU1MF8JKzh3-SXYijkR_J_pBficIQV4rokApL9Y9gTMnM2U5VDRXPvsxJkI8LglDoSf8RHclzUPLI1BH3SDES_4h1U-gIUNSkyKmXuAj-mZdI1xytxs_eWca33xKGOZ-OBXdib0Q546DDHKToQ02lfwOJ5fiDqeZ1BGxmSAS"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CF/BB']=data;}

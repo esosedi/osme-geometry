@@ -1,0 +1,7 @@
+var data = {
+"_ring":2262,
+"_params":"-2262-en",
+"regions":{"2325658":{"level":4,"name":"Saint Joseph Parish, Dominica","index":0,"property":{"openStreetMapId":2325658,"iso3166":"DM-06"}}},
+"paths":{"2325658":[[1]]},"ways":{"1":"ttTqAOhIVvwfhuwAxGRY_I2mAAAUr-oF07xzEIHHeBnZzFofYtJpKBzYtCxF4ZEvg-f4MgztoDb49hJCK_ujRzn-clKa_rFX__89XGv_IWmk-ltrcfbmbTH0HnGg8mp0VOwHee_jKX0s3OGF3dgni0vY7I8z2vaVWt-4nL3i-6Tv4u2qcuFbspzebrcA2ey7R9Y_wLDVfsoY1PLT8c8L3ILNTN8oyJrigb3U6Vm2ifB8rcb6zqq7_CqmC_4Omvn-tHL__-xpIP-nYuz7FVuX85JXKO5aU0rsQ0UE6zM6F-kwNlnnKS3H4rYqF9hbJyTQJyMZyi4auMDfD1a38wyhsmwJFqonCP2iPAscmB0RHoviE_aD6RSNgNYXZXl3GDN1dxijbwcYLmlEF3VjKhW7XZUQQ1YmClBPqgfdSy8FL0V3AgJBAAAbPn4A3TwSAkc6TQMpOVMEIjn5BJ044wUCN1IFeTY_BqA2ggefNIgHCDTQCLIzqAsMMmcM8jFnEbEyXhLkMYoTkzHpGOkw5ByLMesgdzKNI00zESiHMzUrUDNmMiAyuDRwMiE3PDKOOn4xGT7FL5pDdy2CRLss8EM2LIhEuSusSHMq2ksQKQNO1ydNUEEm7FLrI8JUDSOdVtIh9leuIWlZLSG4WWUh5lkQIWlaoiFuWn8hyFtjIeNblCFQXFkh7Fx5IQheOiHAYSAhAmO8IAVnlR7aaQIc6mlNGl1puxkVasYZ7WpUGS1rxRhna8sYFmsGGKhrzRcRbAkXrmy6FnVtpBXAbrsUCm_CFHNvGRQqcJoTGXBAE-RwBhP-cC4TQnGsEkVyDRKnch4Sh3L1EcdyrBFOdJsQynTwDwx1nQ4VdoYNo3eQDKR35wsueNYK3XhiCrF5EQniegMIznrHB2l7jAcxe_0GpHsNB7p8mwYVfmsGgoCZBkmGmgh4jKsM0o0iDcWPZw0WkU8Nb5PADHCYFAr5nzYFlqGZA4qjSAL2pH8AjKYAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DM/06']=data;}

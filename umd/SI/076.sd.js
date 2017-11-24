@@ -1,0 +1,7 @@
+var data = {
+"_ring":1464,
+"_params":".sd-1464-en",
+"regions":{"1676308":{"level":8,"name":"Mislinja","index":0,"property":{"openStreetMapId":1676308,"iso3166":"SI-076"}}},
+"paths":{"1676308":[[1]]},"ways":{"1":"k83DAh3B5gBCpsUC8-PpANjEbu4kxuDpCsWd6Qu9h-oPuKvpJq7f66WgM_Kun-z0_5hs-fWWx_3Okf__nY7B_jKH3fl8gjj0RIKO3eKDJdU-gDPSlXt1yId5Ib90e0C5wHl-tqh2P7SSdYW0IXagsnJvcrMrbXKxMGp_sJBoeq0pZUWsTWMPqvdc3anhVVul5kntppdCFKLHOqqksDZwo9g2TqKwMpmeUzMCnPAvA5vbLKKb-ytKmmgm-pihJHaW3xu6kWkaWJATGlaOVhWyjWMWgodUDzeHmA6ZiRsI34p7B4aDJQVSetgEAWmxASZb2gHXVAAA8VCCAYNP1QPsR54IlT0DDKs8exTnO1ETWD1tGJpCXxtLRD0dnUM3HzhEmSLkRUIjkEehJuJF2yjURlorI0ZMLthHDDNNRRczQUPBMEpBBy7aOhYzxzU_L1YzYy3WMHUs6C7eLP0qwSdsKckgeyrKIpknvyEoH2IlHB7IKScfeC4aHZEuLRu7Kh8Yiix9FgItGhLGL_YOwzF1CkY3tAWQOesCrjldAVJEAABFSCQB5UyQBM1L1wceVJ4MUl6UEHRfpQ7zZjoMBWw5DilymgwmfGIOdH4jDYN_ZBGkfqYUM319FfF90xdmd5UWK3N-F6Fx2RZDcPcWMG7tGN1uUBrCckYcd3NgIid3SiMsepsiWH07JUF_VCT4g9Ak7ooMKeaPoyTKkpwkxpRUIruVJyM1mpkfo5uYINegZhsqoXAglKPFKK-iBjC2oz4yyKWYMn-mBTRDqzQ2lanuN0SyHjzwuG9B8MEuQ3bLoUlS0HBL2tObTjPfR1Pa5d5XePqtVxv9uFn__45agPkYayLzZ3ES779y8-qEdT3mZ3a83fB7kdyagGbZPIUH1qeHJ9RrimbUBI7x1Q6PsdbHksbdrZwQ6FqkR-hfphjksK_y4KSzLeOjtKHitrgi3kK94dwRvY3bh7773Pq_EtzOxCTdrMjh40PRqORa1ELfr9ih2z3Z5trX2prctuId2xPkwtyW5_Xbt-oL1AHtF85H8A7J6-86x9zu2MRu7g=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/076']=data;}

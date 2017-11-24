@@ -1,0 +1,7 @@
+var data = {
+"_ring":605,
+"_params":"-605-en",
+"regions":{"241478":{"level":4,"name":"Khuzestan Province","index":0,"property":{"openStreetMapId":241478,"iso3166":"IR-10"}}},
+"paths":{"241478":[[1]]},"ways":{"1":"ZPnLAUGl-QKUceABUpEUA1JZgEc2W3VHEF8FSbxk5EiQZjNHdGgnR-xtEULbbWtArW-5PhtzYDbsdK00aHj5LVR4Uixigc0jKIWyI72K4SGgjNMhbo4dIFGQDyAmkMAcCow_FgCIZhEFhs0PpoUwCQWLDQTLju8Dx5CHBWuY8AYwnNEGK55pCO-hSQh9p28GQqtOBtSu2wKYsrkCQrbtALXOAACv0JcBkNKEAanSLQOV2PEHvtrbDK_eCBC-4EkTEOOGG1HjgyBd5cMjU-daJf_uYii59hItXP4YMP__ZjbU_Ho4mvVrP9vz0EIr8t1Hmu78TKnupE727LBTSu2gXTbvNl9k7fBgnutRZKvr-WUE6GxpJeZ-adXeYnD13HRwd9eddazV_HgB0mx8nsqigcjIWYMQxR-FYsGMiGvBM4rku1SPPLhmlEy4s5d7tg6bg7a0nGu4S56IuOSk1bRMqP20LrLktsazrLpPtZS85rZcwG64YsAUuknCq7tVwve-QsQzwlTEJMd-wn7Kl8DnyK2vZMl2pKLOmaJU0B6b0NO_hBTo6YIM7eyCsO4wfw7yWX0F93d7EPe5d236FnIw_JBq_P3MZg_-Y13j_7xX__-5V1z-9FNu_vBTy_wOUtT8JFCW-T5O_PdUTL70Zkrc715KlexzSFfpakgP5idMtuIBTmXf_E3B3dtPFNztTdTY6E0w18ZPg9VwVWfVa1XD00hXFdIyV4PLFVl6y8pceMahXiXDfmB2wSpkzbr4Y0SvDWKorSlgsa0xYFevXF6sspVav7LFViuxGFFFsYNLULbwQ3G2NUDMuWs83LljPDa4dTqYtoY4-rSgNgK1wzSvthExrrvbIeS70iE_uusfRbr7Haa4CRoesi8Um6ssErCmOxARpR4QIKD8EXSeFRB6nm4GX5Z-BByTdwR3kYQCkIx3AkaJRgT0hT8ET4RjAliEUAJqfxUEc3o8An16NQLZeAcEK3fLBTVywwWRcOMD9m79Ablr1QGIYwAAk2PNAeVhbwUtYFUFQ1shB5VZxArdV5wKUFFoDKJPHg6tSsAR80hSNTlIJzeKRgw5gUZ4PtA_XUDGPzFCFz6qS-U9jVG4QpNT-UVtV4pHUlmARw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/10']=data;}

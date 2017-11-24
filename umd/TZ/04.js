@@ -1,0 +1,7 @@
+var data = {
+"_ring":1284,
+"_params":"-1284-en",
+"regions":{"1600845":{"level":5,"name":"Iringa Region","index":0,"property":{"openStreetMapId":1600845,"iso3166":"TZ-04"}}},
+"paths":{"1600845":[[1]]},"ways":{"1":"W1mB__V2CQLTOJf_z9szAgAAq6QmDfCiYxOmovgUpKH8EhWfVBZknPcZPJt3F9CSAhosjGUmc4jLIueEjib2gYkjFH5uHp975iDzd0YiBXI2IghugCHMbMAfUGe8H2phwCFlXzMmdF7XJNFZaCexWOosv1SEMQ1RwTL6SY80rkajOGRHXD5hSyVFHEy3S6dL5kzIRkRN6EFKcX8ibW-KF-ttLxLKbXkNi3V_C0N6lQl0gOQHwYirA2SK-gGBjBEBR5FiAIiWAAB7lioCjpnCA_-kgwiGqQILA6vcDdqosRXqqQ0ZaK1lGpO13h60uk8gPb-NIlDB5iThw0AnFcncKNHNqSlO0UIreteDLV3cyC5O4NIxTu3xOdb2kj-R-e1Bfv7vRP__EUc1-OFNFvVrUcH0z1Ra8ZBWme6UWEvtn1v67Gxe7-91Ybnwx2JM87RkGfLGZnPyMmlt8TFu7vHpcD3vxnNS7xZ3UO2jeIHo5Hp-5rN8qeV4gKPjv4Ih4G-Fmt0siPPceov332ePbt8ukRvfcZRs28eaQNl1nI7XsZ7w03Gi7NAipXTO46hvz1WsMs9Nr9rPnbKbz_a1H8r5uBPJjruTxca9N7y8wU-43sPjsmvEzKxvxUuqJ8dzqzfKCK1vzIGri87_p1HRSKP60hie3tOWmfbT4ZRe1YCOYNiujGDYPYwj2baMx9rLjCHek4oX39CGqOR9g3Xm-IDb6Gl_UuzLfa_ueXQS8YZypfNQddn2GXSZ-XNz__-Xcez-xG3K_WZjv_ilVZz0-0YP8QZAO-1MQSboikVU4qFHTN1LRw_XfkQD0Yg8wspAMovFTiegwMgffrwqFVq06w5ortYGuKkAAKuk"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TZ/04']=data;}

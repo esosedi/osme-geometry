@@ -1,0 +1,7 @@
+var data = {
+"_ring":732,
+"_params":".sd-732-en",
+"regions":{"254121":{"level":8,"name":"Vieques, Puerto Rico","index":2,"property":{"openStreetMapId":254121,"iso3166":""}},"254122":{"level":8,"name":"Suarez","index":3,"property":{"openStreetMapId":254122,"iso3166":""}},"254123":{"level":8,"name":"Lo\u00edza, Puerto Rico","index":1,"property":{"openStreetMapId":254123,"iso3166":""}},"310187":{"level":6,"name":"Loiza","index":0,"property":{"openStreetMapId":310187,"iso3166":"PR-087"}}},
+"paths":{"254121":[[1]],"254122":[[2]],"254123":[[3]],"310187":[[4]]},"ways":{"1":"5xoZAUNZE_ybQxkBOIkT_D_63GX75V-LiLUsqn9BdtfLEv__KwP16gwN-csAAHKW2yHaFLSQzxE-2wAA__9yT4L8YWE_-txl","2":"EiwZAdMkE_xHShkBGjsT_G0ZkTESGAAAzeERAv__oxln9e9RHeA-oyzm5vEAAP__PQ7Id20ZkTE=","3":"KiAZAXueEvwBbhkB7twS_LgyAAD5tCOp__-wr97M___bqEP4V0hYyxAGO7mjCjODoQDsfAAAeW-nEpNGRB2wEuAslgG4MgAA","4":"kG0YAUcFEfx3ihoB_-MT_MgoQGUYPcljOj7wX6g9RF5fQIFYFENwWUVFgVuIUh9VFV2_VfxcwVKPYFRLpWmaOrhtEjYfaDUzUWZBMe5lBCzyZ7AobGd1J6pkWiZOZKUjE3OgHq5zNxqsdgkXwXZ7Dpt3NQx6ecwK9YViC_mMogmzj4AFsZLfAxOT1QD__wAAyPrsExT0Cyay7P40NOabPWnlNUo948VS3-c-Xt_qNGk-60t0YueOjHrgb568yau4QMtRws3HutqYwbDsG7n__3RTXuAuTmja_kkW2ZZIa9maR93XzENt1-ZCSdV7OCzN7TKJy-YvMcfuLkfDlCu5v-Ap6L_dJoK9Rh8ju9YVO7qECte16gYQtkYFY68AAGOrNgEVn6MSw58tF9uiaxueolohOqSHKXCkcynopZkxsaXuMh6o6zgGqFU57aBsPHSY4j1BiLtBOH88KtpxHC65bM8pkmbIKEBl"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/087']=data;}

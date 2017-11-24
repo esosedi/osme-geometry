@@ -1,0 +1,7 @@
+var data = {
+"_ring":191259,
+"_params":"-191259-en",
+"regions":{"307763":{"level":2,"name":"United Arab Emirates","index":0,"property":{"openStreetMapId":307763,"iso3166":"AE"}}},
+"paths":{"307763":[[1]]},"ways":{"1":"V15ZAevtEANd144BK3BeA8yZmunymSbpuZp96AacYejonL3ndp4p50GgH-f9oaflkaPw5ASk3uSjpCbl96QU5mSkHef4om_oKaOH6ASl8eenqKjnMqof552qnOZEq4Xlmauh41ere-JequvguKgD38-jNtymofrb25vj3K6Yg9zxltXcwZPZ3fWSqd1PkVjcjI5l3HSNDNtfjO_aWImA2-SDcdtPg4rbs4ES3bOBZd0yfHLdt3i42-92DNrbdqDZ73RM2b508tntdILaNXM53HhyYN1_c0HfCnR142lzROOZc9njR3Oq4ydyu-MacTnkOXDG42xufuRfbL3lWmp45qNooeY-aLrjNmfU4NpkWN2gZRXcsWVY20JmEtsTZg_ajGeW2QVoYdhFZULTimPV0OJiRtA3YBjMjl-7y3FeP8zUW6PPNlvhz3VaC9C-VtbPolMz0C1SAtAMTS_N3ElSzKFGIswvQifLST_QyDs9tscwMyzG4C4LxborkMMrKijDayPyvw0hgr-DH5W_lB3Vvp0bYr7hF22-kRUxvvYMqL4JB9K9QAX7vX4F370AAH-6RRaQOVBsKwcZdigHW3xzBCx-pwBXgQAAdotvBquOgQeLkK8HIpJhByChUg4oqfEQP7AoEh-3nSChvqwy0sUESoHP9mdA19KIkdU6pp_kor3__6XckfpE6of6qesI_DDt_fvC7fX2G-_J9K_uZvF97irvHO627GDupenE7LPnE-1r5pftcuVn7gXlcu5P5DLuMeMh7Ybi2uyS4c_sHOAl7Tne_ex-3Sztrtz-7j_aJ_C32fTw9tlx8ZLawPGh2mzyNttM883bMv5T1P__0Ko2_4WrCfkXq2b3zqoO962psfb9pf7276St9hykufQWo3L0wKGt8_igIfLRoGnwcaDU72efRO_SnPHui5zQ7hucs-08mk_t9JkH7WyZx-uxmevpzJma6Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AE']=data;}

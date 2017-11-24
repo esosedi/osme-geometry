@@ -1,0 +1,7 @@
+var data = {
+"_ring":2092,
+"_params":".hd-2092-en",
+"regions":{"2060189":{"level":4,"name":"Zawiya District","index":0,"property":{"openStreetMapId":2060189,"iso3166":"LY-ZA"}}},
+"paths":{"2060189":[[1]]},"ways":{"1":"YjbrAb9quAC0tfYBoPLDAKjOYvsmy2X7l8ld9sPHjPbHx872DcQu9y3Dt_aovq_2fLqA8oC4z_PRtLL2pLOw906yB_gescb4nrDn-L6uKPserlT7IKyB_Kmr-PwWq8f95aqf_Kqq8fuDqp_7IKoU--Cp6fqJqcX6R6mI-u6o3_mkqCr5_6ce9venb_Wppy30pKem84enSPNrpynzoZAV89CNI_M2iyDzM4sS80uJCfPeiJ_yYohN8peHBPJbhw7xS4eQ8EOHiu_5hrPtXoYC7QKG0ezshN7rOn4I6FJ9zefpe0zn4HoF57N6COeieV7n1nE36otoauoKZQfxuWQI8SlLLe8SKanwfQkz5wAArK_YGxxnaSiYZJwjXziQIBAnBiCbIvgfyiHLH_4ggh8-IFMf5R_iHkEfWx63HhEefB6cG7obvxknGY4fyg81NAAAcEYXFS5XHineWcosQVvgLgRcTjBtXMcwu118NEBfozckYM050WSnPwhn-UA-aFZDBWokRlxr80jSbKRK9m0eTApvJk1-cPRNiXFNTqBy5VD2c79SO3XHUw9241Q-d1BVEnjjVSR5iVbffKpYsn1ZWdh9lVnif81bD4DrW2aAaFywgPhcMoPNX6qDmGBTheBjUoanZfSHvGfNiKpo04mhaTSKI2qpiilrR4wDbmSQbXLdkFdzdZIidt6T1HiLlAJ6OJXVeo2VUXvoloB81ZcMfVua5H3xm1d-5J6af3SgEIADoi2An6JRgI-jrYA8pB-BtaSUgSSlM4JNpbWC4qXqg1amp4Qop0qGAqhehx6or4cpqAeI9qpJilCudYxasEuNYLH9je6za49ytO-Pk7a4kWK3WJMst4aTVLfLk4y3-JOeuDSUmbrvk7a7p5P9vHKTK75kk_m9J5TDvRqWvr0Rl9G9m5fYvUiYzr2gmC6-3ZhMvm2Zhr58mY6-oZmMvg-as74xm7K-eZw1v2aci7-PnBvArpy9wCGcscEknOnBNZxIwnGc18S-nGvHWp3zx4-dPs61nv__Q6cM9___qM5i-w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/ZA']=data;}

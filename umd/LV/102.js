@@ -1,0 +1,7 @@
+var data = {
+"_ring":1828,
+"_params":"-1828-en",
+"regions":{"1806951":{"level":6,"name":"Varak\u013c\u0101ni Municipality","index":0,"property":{"openStreetMapId":1806951,"iso3166":"LV-102"}}},
+"paths":{"1806951":[[1]]},"ways":{"1":"dKdeA253kgFHZWEDr8-YAcBNU9pBSEbdJUQ12wlCptrsPcXYwj0u1gA9ltXMM0HZaSlW5GAmROdXJd_mJSV74jojy-EZHtHgbxUg4_8LJ-K8AareAABs3esAN9dFBeLXpwkK1hQMAtSZD_XP1A_GzDgPScMwCaOweQfGnvAHWJ3FB42aAwcZleYV5ZCgIIKOIx3xii0SyoKaEmiCZxCDgHgQ_3_CEYN_PhOzf7UT_H9mFv193RmJf3oaF4AhHlZ8jB9QfDohp3tLI5J7TiPne0Ul6XvMJ5l8dSyMf8sv1oC9M_SAtjcahIc_ZIbpP6CEsUsrhPdOhoRzUvmIk1UehldcnkXTaLI25H4oHlqL5Q8ilyUJ1JcmAfrDAAC7xFoBosTZAh_HRwhzxngJx8QxCafFeSxSxYQ2NsOISrTDo1USyT9ZV8iIXhXL6V2NzZZoDNHHZkfU8Wt91xVzidg_dEDcynau2813K9sEeN7VQn7k0yCBU9ONhG7XkY0r2EeNL9zijCzfu4175quOzub8joroV5Rb6l2VQurhljPrepcv7UKX3vWdmpv2Jpvd9sGbVvZVnXb2yZ0g9weekPijnVP5sJ0n-5yezvtdnwL8JqAV_Kim7_yap4T9XKnR_tiqtv7urHv_ebDD_lCx8_zHsXP8MbL6-yW1E_m_uDP6vryK_e--9f12vyL-58L__yrFxefNxD_mLMWY3dvMxt0xzQXcus4S2z_QpdoY0OLXJ9VS2FfVtNZj2C7RgOLt0FHid8nN7-LJBPDqyVTwkMjQ8n_Hl_PFw0X1VMJd9WrANfTXvDT0Mryg9PC5lvf-t9z3VLZ294Oz0fdyrx71-60_9Vyqp_c1qLD3LqV2-CukBPl1o5n5haLv-raiT_0yohX-m6Fy_qScifvHnFD7Gpzg-g-YrPgClDn1iJNG9R2PxPMujqLzuYdj9eGEa_WNgqD2-4Db9jx_FvUKe-j0GXP297JyZ_mRcuv7QG_q_ExrPf8faf__3GSL-JthsPlxYY356F2284Ve2_JHXArxOVnE7dxYUObiWLblelnJ5FhZNuMyVr_ev01S2g=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/102']=data;}

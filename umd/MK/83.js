@@ -1,0 +1,7 @@
+var data = {
+"_ring":2383,
+"_params":"-2383-en",
+"regions":{"2580154":{"level":7,"name":"Municipality of \u0160tip","index":0,"property":{"openStreetMapId":2580154,"iso3166":"MK-83"}}},
+"paths":{"2580154":[[1]]},"ways":{"1":"HAN6AkzrTgGYKn8CZO5VAQuV2Co0kJAt2pDkLzCR6zPGjzQ2Po2ONbOKkDW5iOU3k4qJOUONNzpVkLc7V5HjOBGUDDenlug2XJqSN9Cd0TrXn7c7Y6WEO3it-jbGsBM2NrMMN1uzBDoVs8M-SrPqQa27VEW9wdJI6MfpTafPTFKE0ftUYdOpWNTYOVlp3PRXWeCbVZTk-1Pg59xRLe0nUVTwbFKM8b9VnvMHWHf2O1nB-QRanfsoWtL-eFf__0Na5f9dXn3_kGJ2_RBmjfx2aaf8dmss_nZuWfz2cOv5Q3K0-JByNPGQaWDn9mTV3PZkpM-gZivEcWojvfdutLswdbS7OIBFumyIG7XEkBCszpqYoymiTaHErK6XFLjHjpDAc4ZcxpiGPdLAiRbheIrT7HyNT_Uzjc78mIn__6l8aftAcl_6lmk_-J5maPXcZPDxt2Xm5Xdo6eF3aBzdAGmq2YhoDdXTZonS7WKKzVZfkMlBW3vGtFZYx5pN_8onSt3KoUTBy288Ms4MN__N9DE80Ggyf9UqMdXYRS6z2Uoqk9cmIB_O5Rt1x_IRssB_D1G-WQtYvJAJZLk3CU23xwLErwAA3KTgA96bigR3mBAIt5LKDFyM1REbh7UWbYCaHt-DkyMYh6AnMYC3JxV4DSj9cNgoE2lDJ1hkECr0YFMxjV6pObRdikLIW61HqlmNS6NXlkzxUBVJekzPQTNNjT3mSnU8lUc9PoJEV0ShQL1LiDwmT3k7BFTuNQpX_y5zWi4pAl7BHl1e6hh-XZMQXly1DRFebQqhYEcLXmMWCuto8g2Fa4QLUGoKBzBt8ANpdQAAcHrAAM5-CwKshV8H_IoPCpGMvA21jLcPaYqIE6yFohc7g-gY74BpHEyC2Rwxg38exoLpIYOEwyF7hX8f0oYWHlmLziHwjU8hPo0mJLiLIiQTil4lLoq_J2OORSooj4Qp149pJvSRTSbikzYnNpVwKQuV2Co="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/83']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1108,
+"_params":".sd-1108-en",
+"regions":{"1243586":{"level":4,"name":"Moyen-Ogoou\u00e9 Province","index":0,"property":{"openStreetMapId":1243586,"iso3166":"GA-3"}}},
+"paths":{"1243586":[[1]]},"ways":{"1":"gR7t_15wkgBJ6gMAaKCwADv98f9g-Vj-l_Ua_mTrtPhN6jb0Ceih8Evhneq14m3oK-BO52PfzOQg3dfj5Njr3jjJstiRxcvbrsVH31fDG-CJwK_jUbYe5TOqp-JjpXzkqZb77fWMvO2BgObuK3yL8X153fU-bwf6p1b__-RVFvtrV1nz3lzF52pnD9wYbGXXW2951jJ-k8rZjFDFEpD-xT2R0MSfkHjClZOrvj-SbrrVjPC1H5AUsMyO0q2_iPSuCIfoqCGEVqXAggWgb35vnPd5rJmedlmZ_3Y9l010PpcHdB6V1G1HlFRpZ5FAY_2RP2ILjOxd0IsRXEmKoF0yh-ZbLIURWNKFalEZfp5MXHtJRdx7oTzReY4vJXNBKo9uuSY2brsiJnBxIBBvNh8jbBYZg2yaGBlqyRNmaVUSimdgFTZmvhRmYQkS5F_5EbFX6xXnVScTok9pBhxEFQAbQAAAwDq_BI41PAXDM0gEHzJcCGUwHQ-IMS4RWDBpD_ks0RQbLd0cOjBSIAEwdyCDMiIqQC6pLdkvXzZ5Lkw9pybqOlwh5EIFEZ9IFwraaCMDj4YAAFGOXgDjkGcHUpUADGWXXRb-m7gZ95czGmmW4h96mF8j0KKcKrafWy62n-ozXpriNpaMXTZDl9lIbp5FUqukFljpq3tcQaylXcWs0WLfr9NmLrTkaC2-q2ktyO9tWc26dsLUonfU1jh6jteQf4XZnH_n2IaAutn-gFLfs4K23WOGgt9Kh1Dfc4ih7COGU-6hiaHy_omP8waLP_hFij35SI4f-AWWrvl_loz7bJnQ-beb6Pq1nWb7jr_R_HjN__9u0mr82tz1_PLsO_3x_w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/3']=data;}

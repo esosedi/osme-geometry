@@ -1,0 +1,7 @@
+var data = {
+"_ring":863,
+"_params":".hd-863-en",
+"regions":{"364084":{"level":4,"name":"Kotayk Province","index":0,"property":{"openStreetMapId":364084,"iso3166":"AM-KT"}}},
+"paths":{"364084":[[1]]},"ways":{"1":"t9FjAgd8pQJ3Q20CoDuvAhPtDJwV7d2dNufQnr7lZqYV1oCkiMGApBDAnasgvayzqbuEts-0XLnksK68nqYavuqjY788of-_1Zw2xV2bAclimh3QaJnO1X2VwdaOkvbSr4xGzcWIRs1dhLLODHxv0yx2ztXrajrXmmIt2FNYmdl_UJnZj03427BHwt9eP6jhhTib4qAzZuawMLfpPi5o77sukfXRKqD94if__2omoP1qJvD35yYw6mQnOtd1JLLO8iQcx4Ai_78dHTS8wRZcuUQWkKyIFb2kiBUnnZ4R1pm5DPCXNg1AkjwM_I1RCLeJUQgHhF0GqIF4AaiBfQBXfgAASHZzAtprzwijZisPo2YLFZVnbRqVZ6AcuGn3IyRrVCpmZjMwZF0HOARS9zv5SuE-bkpJQw9IwERERMBEKD3RQUAy4T5MKGQ-3h1kPs8V0UEREZJD1Q-2Rn0Sf1DBFmNVzxVOWfcSTllGDdtWlgfbVl8CSFoAALVdbAEiYZYH9miYEDJ1Vx4GfSIiiXwxKol87y7lgk4xlpFLMW2YGTVMnuM4o6VqOH2seDeLr1E3_rPIOcC54zz1vtE-1MTtOfjI1jfCzTg169DZLqPTnSuS1tIn-tqBJNngZR2z5xMaD-5iFPnxpQ9w_NEV4Pt2GP_7Axpu_L0cA_05HaP9HB5F_t8feP4zIJL-mCBj_kohUv7ZIsH-LCSu_58l__9EJvf_cCaB_9Em_v1nJ6z9cCgA_eIp0PxPK5P8oyz4-6QvdfqGMuH54DME-bs0K_k_N__5GzmU-9w6if2SOz3-uT1x_nNATf1NQZ7900S9_WlHaf0DSl78CkzE--FOG_lJT0r4q0_S91lQrfdfUv73n1St9rxXt_YnWmf26ltE9V1fAfQGYUHz9GKM88hlzPITbFjyLW7G8dhvmu9wc8fvMoSu7fiRE-0MnA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AM/KT']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1238,
+"_params":"-1238-en",
+"regions":{"1434952":{"level":4,"name":"Medenine Governorate","index":0,"property":{"openStreetMapId":1434952,"iso3166":"TN-82"}}},
+"paths":{"1434952":[[1]]},"ways":{"1":"MUTsAZMVlACGMQcCZb-wABx4XB28eLYdZnlaHcCEmx2biH8dIYopG5SKMRcpinwS_YqtEI-LWA6pjVwM6Y2cChiQZwfvkngEzZYAAMCWtwHNlbED65SkBomUpAm-lOMLJ5bCD4-WxxPmlR0VKZajF8aWdhollkUcG5bvHrCWLSGvl8ciNZlFJCaZmSUxmDcnypcpKU-ZrSrImUEuqZqNMCOcizK5nVc14Z9wNXShJzV5opA2y6KlOMyjzzrkpSE8a6c8PLmpukCqqRJF46mJRaCpwUUDqnlGKqqkSxisHE6NrdROva99T9qyw1LFtDtUbrYzVSS6JFiAvLFYTsAiWx7EVF6ixqlfU8gGYbTJOWTZytRl5dojbW3bXXTw5214GffAfnn92o7__xOkmfRiuYLnfsdD2wzM3taLylbU4cWbzhLEvMSDz1C0F9jTqsfU7aDy6OGVMfn7gwT9Y4IT_bGAufx_f-L8QHoG99t1K_VCcIHzeGyx879mlPP5ZEfzmmOP8iNg_fHNXR_x_Vti8W9XifFAVGjylUWc8S9AvvCJOSPwjzcP8C81ofCnMzzxKzOm8ZUvZvVwLK35bCrV--Inf_12JCD_HyLs_1Eh__-SHZ7_RBrX_cQX9vqBFMH08BNN9KgTgfMNEw3zdw9I7rMO6-x-DeTpowtN43QI6NyqBNLTAABXyVUVONDrIXjnDCUR5sMjdt_CKbzWcTSByDA_LbmSQX6500KEuihERbv9SSm7eUzBu-1Q5bpOUi67XVdfu5JZWrxhW5O9UF3gvxhfzMBYYB7AKWbauTpnULfYaeezMWwlsqRuv7CeceCvsnRPr6GE-Im_hjaEpIVhg8iK9nkUjKB8_Yx1fZiO530UkMN-JJFJgKqS9X_zkRJ-8JBofNuPKnhEkHJ2gZGddAuTw28Lk69sE5JiauCQ1meDi7legIpgWAGKVFYoiRZUA4nDT_GH4k1ChBFLJoJ4SDGBZkVPgs0_T4NqPUeDyTrNglk4DoKiNk-AHzVkfvczaXy6Mx57oDL6eXMvk3hgJ7p3syMceFwd"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/82']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2409,
+"_params":".sd-2409-en",
+"regions":{"2592899":{"level":7,"name":"Dolneni Municipality","index":0,"property":{"openStreetMapId":2592899,"iso3166":"MK-27"}}},
+"paths":{"2592899":[[1]]},"ways":{"1":"sth2AtWURAHI3HoCKb9JATUfEh-iNrMTZ0aWBFlNRgAmUXEAg1LcAzdStgnGVh0UOmGeFUlpfRN5bQ8Oj3ozAyaGAAD4iwkAaI5XAfCRogbwke4LKZQAEHCa2hJ-nvkVU6BBHlGd8SZPmuEqIJbtNMGvkTNrtgI2N703OmbKDkU304NI5_5KTf__oVF8_U1XQP4_WXj9tVrR--taJfyOXNL5_V5i-YtiNvaEZVL20WwJ-Bxxr_UdcS32nXOB9HB1Q_TQdBXzYHWn6ySAo-l1gFnpNX7n6mF7M-p0ehLmznr75Dh85uL0fC3jsn3V4Yl-m-Fegc7fRYFU3puC-d44hErdUITo3CaFEtoNhQXaT4nd1nqJv9XOiHfUd4tL0w6LtdHmi6XRYo7szXuRt8iXkgjH-pEQxKqTiMCRk4C-RJLourCSwLn4kFC1T46Xr4qSca1Bleif1prgmiigoJqwokycDKTAnQqn6Jopq9CZgq9Hl-qyhJf0tH-VCbfolrG4r5EOwCWTZMBFlQPCRZU4x1eUuciPkorKe4-YyT-Jksq7iC3JLoeWynKGCcrahQjMEoQWzdGDDtCRgqvSZYT31gWCvtyRgf_hZYDY4uN20PICc6H0EmnD_hpnf_3JZZX-AWXO_cNjzP5PYZ7-Slz__6hXlv47V9z7H1U0-rZUbPhCUQL3eFB69A1PbfSVTqDy-0zV8VxN6e55SEHqSUZV6hFGX-j9RKvpoEPq59dDv-YMQkHlq0Mw4ltCEuGqQkzcvT_61uo-QtYhPjjXrDtL0-Q7KdBOPbnNuDw4zO49KcsQPQLKKT7UxpY9NsZ9PsHCDT6BvrtA0bqeRsC3cEU0tytDJrHmQWewLUSurnxB560ZO8Op5Diqppg4_KMfN5ah6S6ulvEwDpVFMsWRbCcQkyAkbJLGIQGRIRkIiPYW_4MxDkBp0AWqXSQHlF0uBlxLBgVwSwAAW0j0BQFIJwnZRgYTLDuOFT85fhbeNYgdDS6cHJIt6hxaKtoexSTJHuAgNR8SHw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/27']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1104,
+"_params":".sd-1104-en",
+"regions":{"1243581":{"level":4,"name":"Ogoou\u00e9-Ivindo Province","index":0,"property":{"openStreetMapId":1243581,"iso3166":"GA-6"}}},
+"paths":{"1243581":[[1]]},"ways":{"1":"1tX0__b9qwBr7hUAQy_dAL_uAKrT7_irMu7jqy_vdawm7BevkOuIsA_tz7B969SxluzDsczt8LMY7bm1gPAFuMjx5bcY8la5VvOZuevydLs19ey7ZfU1wRr4rMNY9YvF3_YVxnP3vMet-mDH2fyhyUf-VMnI_cTI__8jyXX-k8uJ_9jMHf7nzaD_ItCE_dnSQ_0s18j_XdnO_pbaL_uc2634g940-1bkYvoQ6G73bepE92XrRPta6zT5ze0r88zwSezB8Knd-vNF3cr3F9aQ-CjOaPsGyP__w8Oq_7vB0P1WvRL_Wrh7_Qu3mPr-s0X5orFy-XysyfXdqVj14aSJ9lafNPA9m5LuRpmS61uab-Z8nAfkQpol4MSVvt1Skknft4wJ3VOGfNbygCXUNXsL0yF25M8ccx7PFGmR0epgadHzXk3UR1t80-JYotQ6VNrU2lIl1MFSvtEAUKLRVErJzmJKsc3YVHfDV1ZLvSdY5rraVxa49lqjs8lZ0bAOWhCn5Vx_n8BbcJ1VXqea2FwnmV9e3pVvYOaUL2DXkkpu-48HcN2NGnNPjUJxR4xdcMSI3XLYiGdxU4eFc1aHu3TLhYN284Vld76DUXMthFNxcYIjcAGAIHG3fs5vU31Xc5B8vHCjeWhzP3mhea5zv3LpceV26W3FdwdrZkXNY0IlOWDiIWhc4xk2TsQaWk0FGRNMIhlsSiUV8ER1AxgiAAAeGPAQdBT_F-cR1xlAD9QcoA0XLBANjDkcBuRBoAfvSL4GekwKBGZM5wHqTgAAtVnSA3hgpwl-X_8KI2SwDnNmpBN6bfQWFXAaF0h03RjmfkQOCI11Gjm8SkuuwtNLEcWETd7JG0xZzh5NYdP9T7LbllHI3YdTkel7Vxnon5XY5XWYPudxnVXmQJ925yygJ-awoXnoGaJU6ACjiOvhokDqeaSj6wqlxOsCp9bsI6a97OOmcO7epijtzKig7uypv-4Aqg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/6']=data;}

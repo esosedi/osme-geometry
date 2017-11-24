@@ -1,0 +1,7 @@
+var data = {
+"_ring":679,
+"_params":".sd-679-en",
+"regions":{"274048":{"level":4,"name":"Nenets Autonomous Okrug","index":0,"property":{"openStreetMapId":274048,"iso3166":"RU-NEN"}},"1328727":{"level":6,"name":"Nar\u044cyan-Mar","index":1,"property":{"openStreetMapId":1328727,"iso3166":""}}},
+"paths":{"274048":[[1],[2]],"1328727":[[3]]},"ways":{"1":"Ao8UBB6W1wIIbScEpTgIA-oMJzWyImcPVkMAALOKAQBoxdkRZu-7N___x1-W_veOBecAtJ3FQ-LurE31sYj__9Vsr_iOF3K-AAxOsOYCuJkAAH15KAssPOoMJzU=","2":"KVnsA56HdAL9LTYESgnqA0vruKt_9JSuCv7usv__yrWu_-i8vfyjv3_uscXd6UDJO-LazDTgTc_i3yDTBdqa2kDYJuOm0p3sosux9KG9R_4dumD6dLJC-UGxevcDrNP1vqku9BSn9fOipBL1d6NO9POgevRsoFn2kKLJ9sSdVfrpni_7t51u-0Wemfz_nKH8OZ0q_dWZqvwamrH9gZWO_TeR__8qjV3_WInq_TOIVPxBiS_6bYdA-fOI3PYwhpv0VIQM9Ip9kvTSfTrz0Hs08rd7rfLxeVTyH3lP8Al1JO0Rb8vtAm6F7sJqh-0IaXnrnWT56yZl1-kQZ4joIWRC5yVjpOXSXwPlL14v4wpbTuPaWVjiFlY34_FRqOLAQ9LW_z-k1m4-1tXyPgjU6zw3028-x9JqPtrF0Tvrw2c-bcRmPqWEl0OXcoBBXnHlP6FxVz5Cb-Y8pm-gO3hugTm0bqU7C20fOxRsgDWta18yRmxqD6dRTxAXSC0Kg0cuC0dGfwhfRYYElUTSAZJFAAB4RDcBrUEFAEM-fwvsNf4NtTAgDWwv5xKhKqwVUSY3GYojmxzSIo0g-x_APAkVXJkAAEOhIxdZoNwZXppMIBSbjyWwmQwthpMVNVGLezr0e2Q9h3QAPjZ5tUzOd2BTboSVW92U5GNVl_xmophObqGqDnxFsB-D5LGth8KxoYxdon-pw6c9rdCshLLFs-Cyybq6r9O_yK423JqwgOVNrVfq46xL67ir","3":"i-QHBPxKKAMMYAgE0pMqA___WnHN1P__AACsqiF_AABW_iRy__9acQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['RU/NEN']=data;}

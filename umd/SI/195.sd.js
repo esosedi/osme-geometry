@@ -1,0 +1,7 @@
+var data = {
+"_ring":1484,
+"_params":".sd-1484-en",
+"regions":{"1676333":{"level":8,"name":"Municipality of Apa\u010de","index":0,"property":{"openStreetMapId":1676333,"iso3166":"SI-195"}}},
+"paths":{"1676333":[[1]]},"ways":{"1":"VfjHArnh8AD47MgCFYjzAKqb0hxnlEUW2pXUE-ubAhIHn9gOhqNrDEervwpCqwIIPrDSBjmyCQVetyMDYsMAAKDZPQ244goVWPRlL5j_akf__xFpTf7cclD6Hn3P8V6K_d3VnCvUGLH7zaO4-cXUvwW9t8XViTrgkX7u5j509vG4b___p2Jp_8ReNfuCXtn4slwc-bBd0PebXC72Ulnu8yJZvvDIUJXyQE_u8apOK-1JTBjsw0k26IZNzeLPTN7hUj5x4Dg9-d0hIz7bExzA2w4d1dceGODPcRjyzJoUQ8k8DRXH8woix48MjsQGDIfB1A4duKUMv6yNDDKq-g3BqGkHvKe_CM2m1QXPprEGuaXOBN2jzwJyogAAF6JHA3GgYgryoIcSdJyBFtKRaRV5jloUl44IE_eMTxYhjOAVpornGQyKtxpHhyweMoOCHKWBXRrigWIXeIHBEm5-dRV-fAcM83vyCv53QRTrdlMUeXWSHdBzCih_c7gk-3EPJWZv1ByubL4nCWguJ8tkmiIuZK0i9WBoLuhdzitPW5cuKFpgKVdXPyoUVM8rA1RxMhFP5zWaTzQ4i03XOZNOkjsWTgY7pU1HPsVN0D6sTMZA_kymQHNMTkacSytHtUqHS35Kuk73SBxRCUcPSWxDRE0eQ3dNAj1DT6M5SlyTNj9fgDRoYdIw_mR9L5pniTEcbHgx3G_PMtx1tzeddjQ6FX_uN9yAITZZgxM2u4nUMSiRGzF-lcIuVaD3LFSj4ynGpfwpA6Y8K8SpJCh2qR4nNKSFI6GcbSDsndceqJvRHA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/195']=data;}

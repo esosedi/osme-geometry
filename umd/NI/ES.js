@@ -1,0 +1,7 @@
+var data = {
+"_ring":2151,
+"_params":"-2151-en",
+"regions":{"2194930":{"level":4,"name":"Estel\u00ed Department","index":0,"property":{"openStreetMapId":2194930,"iso3166":"NI-ES"}}},
+"paths":{"2194930":[[1]]},"ways":{"1":"eAnEABNW1PqE9MwALBTe-qJs_ANhbgEDGnXwAAp4egACfRoAhoEAAGGELABniVwBzIs8Av-U3gZamJkJGpubDP2d0xCNpLYWUqmCGza3tCd7vW8uYMG8MdvGsTQb21E8-e6xR5X2KUsT_EFPIf13UFL-9VL6_pZWHv84WLb-1luM-mFnnfn_aur3qm9N8yZ51vJZe7_yVX2w8yqEvva2jGz4vpYl_LOj-PzXpar-T6-1_0uz__9attL_-rkM_2K9jv7GwxX-VcZQ_ZrInfwpyjz7ycsW-rTM-_MCz2zrJtN359bSkeXC0SXjG8_I4VDO3uCFzkLfgs8d3qXPDd0QzxPcWc0C24_NjNnmzszX9c7O1pnO29MozJDSlMun0YDLAswIzP3D0830vqTOR72izkO38s3StCbOO7DkzxevB9AGrnPPlq3PzXStdssDrXbKLqyaySmrwspHqQnM0ae1y6qmV8yGpA7MhKA8yiKcbMcFmQ3GSJcdxd2UUcMMk5jChpGowiaQEsOcjcPE64o8x_uIbsnLhtTN3oWszvOEBc_RgZLPcH-x0IR9G9KFesvTv3hH1S914dijcevbwm0G4NRrlOEsabHllmZN6tNj2O-GX0n79V2y_Xxc5v6SWOD_DFb__zpQZP9JTuH9_03h_AdOGvslTfb4t0vh9w9JyvY6SDj24kak9BhGpPG4RKHxZUKL891A0vPHPLnxpzoS8dgzGu7XLZHsmypo6hwp-egnKDDn7Sbm424m5uHSJVfarSTY1iUjadPVHWTLRxsaxr0Zq8PyFxbC2hT_wP8PwMDaBvq-tQCmvg0Ab70AAAS5SQCqtrEDOabqBWeeUAiUmA8Sa4RjE4KCURcefxMZ_n3BGkt9HB2rfDIhanzPJF99yCgJfwkwS4MTNUGFvz0Hh4NGF4i6R9KHkEnnhgBQZ4JfVT5-hFv1eLZf23axaAJ0vGzocQhw8m7PcL5tHHLBbK1yfGpMcyNpGnPLZphzQV-CdfhSVHXET-h0bE0gcxRGKHCqPTVtzjjtZlswCGVKLEJkcCiNZBwkVWVpItxqWhsUbF8aFm12GM1tDBajbmAQg25zDihuvwxubK8HO2zUBaJs_AM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/ES']=data;}

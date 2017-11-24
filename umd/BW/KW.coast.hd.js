@@ -1,0 +1,7 @@
+var data = {
+"_ring":660,
+"_params":".hd-660-en",
+"regions":{"270337":{"level":4,"name":"Kweneng District","index":0,"property":{"openStreetMapId":270337,"iso3166":"BW-KW"}}},
+"paths":{"270337":[[1]]},"ways":{"1":"sweG_t5CXgEi7aH--AWNAfkkK_omIRD4ShlO898WofFmFfzwmQsL66wHv-jWASzlAAAf5HoACNzfC0XPzgxqzSMPT8jNDw7HuBKswGETbL94FN68KxWYu0IWELkpGDy1qB5Ep5AgcKNFJUyZwic3lE4o8JIBKaqRIioij58sDYrALYaHfDHqf5wyYn3uNoV0GTj4cdU7YWr1PNpnqD2TZsk-C2R8P8tijkUfVkFG3lRiR1dSFUgQUUBJiU4yS8FKUkw5SAVN-EYEUKNAt1BiPyFTUzrUUxI5_1SLNrJVSjWPWiwrQlvrKeFrTAhocloIS3ZPCAN8VAg8k3gIN5VsCNOeeAi3omwIm6ZyCCmoWggfqGcHM6h5Bh-okgQzqJ8DH6i4ATOoxAAfqBIAj6keAHqsEgDqrR4AULIMACW4EgCKvAAA-70MACO-9ADxvcgD-728BMm9kQfTvYQIYMmiCFLLoghVzIQILcyQEkvM0RMjzB4f6Mu-P-jLu0T7ywJG8ctXVsrLM1fey_xkyss8ZsrLC3S2y0t1wMsgg6LLYISsy-WLyssmjcrLNZK2y3aTwMtzmKzLtJmsy3ydmMu9nqLLeaJ6y8OohMvSrXDLEq96y8myZssKtITLULWEy9i3cMsZuYTL1bxmyxa-jsuSvuDMbr8K0dPA19Ouwc3a-sMq3GDEIOOxxofkF8cW6uzIfetRyXPyo8va8wjM0PpUzjf8uc6T_TDP__9Oz8_9-s-U7GDYAuPy3Cnf397fz0Dm98065wXMG-hIy1Hovcqd6TbIoO6qx-3vHMbO8nO-MfaUvBn3orrv9_W0lPr5smr7S60P_lmr5f61qdD_kKb__9KelP8UlyP_SZG-_rKFHv7Ag-79HnhO_WFwy_zYYg385mDe-3lP6vqRTbv61EVQ-plCFPrWOF71SDeP9G4zU_Q8LMXzVCqs9EsnOvb-Jyj3bSW7-fkkK_o="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BW/KW']=data;}

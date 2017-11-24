@@ -1,0 +1,10 @@
+const lang = require('../../lng/ES/CL/lang-def.json');
+const base = require('../../umd/ES/CL.coast.hd.js');
+module.exports = {
+"_ring":809,
+"_params":"1-809-def",
+"regions": lang,
+"paths": base.paths,
+"ways": base.ways,
+"meta": base.meta,
+}

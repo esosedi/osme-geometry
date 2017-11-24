@@ -1,0 +1,7 @@
+var data = {
+"_ring":1922,
+"_params":".sd-1922-en",
+"regions":{"1902947":{"level":4,"name":"Qu\u1ea3ng Ninh Province","index":0,"property":{"openStreetMapId":1902947,"iso3166":"VN-13"}}},
+"paths":{"1902947":[[1]]},"ways":{"1":"z6Y3ARsiWAaGlEoBOVtzBqXn8uTc5qnmeNha7vnUdu2mr0rzEKLk_UiQ__-vhlr8v2fP5kBWEdyYUfvXcUSdxV1C47_bQdm3BDxxtGIn96zTG-qkAAD3eCwwgm7gP4RpA0wLZwlUVGYEYw1aZ2XqUnJjiFDLYvZNHWSXTMFfj0PrWi0-N1jhPThU0z7kT-43W1ToNi5WAzApXFQtm14lLbljUC_tZ4svxHEtL5V1-iy2djUrtHZkJsp6kR5NeY8aSHuXGE9-oRedgqQTWID8CjqDHQuegsAIBYUHBj-EawIrhzAAT4qrAc-MAAAAj1AAd4-oAoyOMgNFkWAGhpRkBtKUygU0mU4HFZw2B-icKQjan-sHYKDRCBil_wizpNgMZZ7wDmeeihTPnLsVm5t6FeKb5RcQmocYjZmNHBWc_BxImdQi55kbJQuYfScvlo8vk5XzMg2XjTY-loI4rJiJN6qdlze4nbg7MJuQPKqaRz6qnKs_xJsQQdOceETqmcJGY5oYSKmd-Eg6nh9KTKE4SjOlCkyfpWRNMKg3TSmsYE5zsY9MW7O4TpS0YVPEt0RV57kfVdG66VervohZQ77HW-bADV6PxBtfvsGZaBDHi2_4wQNzbcLAdGbJfXYXyn51Ks02dW7QKnNN0rRzktWsclTa0nMp3Wly9eEFcgvidnC65s5tFek7cA_o0HPz6od1Bes4eEfxI3vV8et8fPB9fU_xtX438KB_3vJchZ7xX4ee9JOJMPY8iUj5VIzc-l2M__94k3b_95SJ-biX0_OBl_nxvpUS8v-YlPDgm2Txk51s8FGebPVxoBX1GKJR9h-j2_Ngp7Pzr7D69uC2tPoNu5v8YsAJ_tbAS_7RxRb7U8nv_YLLb_x_zeb4kM7y9-zP0vaLz531RNCG9DHP3fOE0GjyONAa8InRWfBT1Rnu69VI7M3XgOWk2fjnnuC_58rkpefy5A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/13']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":424,
+"_params":".sd-424-en",
+"regions":{"196248":{"level":4,"name":"Surxondaryo Province","index":0,"property":{"openStreetMapId":196248,"iso3166":"UZ-SU"}}},
+"paths":{"196248":[[1]]},"ways":{"1":"T0c3AhD79gOQmlMCzL0TBEoXLAEWHAAAJB_DAQYimgcuJIsQ5yVuEU4qMxB6N8kCBDsIAltIqwP0Tu4CwlQjBP1YTwZyXboKdmBNDJtieQ5DZusVV2qJFvFuJRT4e3sYeJiDOsyc5ETTn0hKiKVgUduqy1NFtmRWEsuAcM3UH3hf1sx8ONb9gHTV7oMf0hWIs9Gqibzblo2L5TaNvuyliA_0EIfv9pKIRviIinb5ko7_-U2aP_2Dn1X7p6IW_Felifsrpzb9Nqqo_Tywv_sztGv7ibiM_p67uP6jwf__rcT6_wPGR_1JybT8R8z__q_RrP5a1cL8-tgW9nncMPFa5FXvouRt7Djk6us04-DmEORa5VvgQ-Oh3pPhQdRH4DjTsNeo2h7Wndmq1fHU0dI10dDK_dTByfbUdciZ0wi8ndLQtlfXa7V31geyKtlhq-XSo6e50Sun5tXpqDzYJKrD20qkzt_KpIfn-aHM6MueCunQmdH04ZOZ-t6Py_xdjP__gorx_0t8jvuYdsn0RW_1749rL_D6ZAXuMmKy5o1gzNolTR3PO0m6y-lGusfdP_7AUDQpuq0wfLV1JwCy0RehsvIH-LAmAuGuGwHgrL0DKKvFBUSoIgeSpO4GSJ8rCm-ZnwgBlCEG5JDRBT2Pxgb-jbwKXIxmDcWHLQwhhBIIpn5bBUl39AMxbqgBoGsAAPVmUwLaYvcFWGIjB4hhCAhFX7sKY11zDDdZYQzLVWsOVVEdEPtPvxMNUb8VG1DPFwZLKRsCR1YdBkEuHY06ZBkLMLEZ_CjeF3MiFhl_GyIYsBYHGUISdhi4DboY5AbFF0gCShcsAQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/SU']=data;}

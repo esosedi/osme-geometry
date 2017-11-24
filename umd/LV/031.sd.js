@@ -1,0 +1,7 @@
+var data = {
+"_ring":1838,
+"_params":".sd-1838-en",
+"regions":{"1811622":{"level":6,"name":"Garkalne Municipality","index":0,"property":{"openStreetMapId":1811622,"iso3166":"LV-031"}}},
+"paths":{"1811622":[[1]]},"ways":{"1":"zwplA-CLcAGrOmcD4Ad3AU22AAD01yEs8MkxME7OUTYqy5Q1Jp0gPNGfuUNanItCp5HYTbuCHGEzifdhMYxnZU-Rv2U9k19nqJC8Z1WVEGw4mMVr_ZuobGWdhm1AmsxtqKFJcG2o2HE3qdFwnK5ZcpuuC3YJtXF7fMKLfkjAC4Kyu0CF87tOh2y5UInyuxmLBL-Xi8PBHo-5xMyQwMjpnFfKTJ_RzGeews2ZoG3MvKRyzu6kV9AxopvRGKT80rqjHdMap9jVd6p809SscNG0sWrUz7bw1oy5KdhguR_ZVbs73nG98OIqvtLkIcKM6RTCuvImy___2NUF_OfbSfkj3W30mNi66gDUg-fi00fdste87QzqnecM7ObrxvRO5ZL2vt0d90TbvPXm2Gn4otUi8ibQD_Xw0PP3us1Q-QHPgPqhwv__hLeJ9hrB-_LSvybux8Lo7O7J_usbysnqoMxr6ibMl-govyPg1LW34IWyhd_OrizaBWQ_4bthZt9aYpLew2BT3KpeNtukX2TZn16H2M5gjtc7XkvWTl7O1JRbuNJ7Wh_OxFhzztlW38t8WNLLYVZ6yK9WjcVTVrnDc1iVwedXDL69WUK9GlaQrLBXlqudWIWs-Vuuq_JfqK0qYn6sFV6lqqNaMaqLWQyrN1NVqSpRnJ_hU2eet1NWnGJQqpvXTU-NREF7i1JCWIV6QLGE8zp7hd05vIkMO9CKnzfHjFc0N4znMP-MfDByjocr7I5vK9qP1i3mj_0rXpFrKO6OliSpj0kkHo5HIauLZB5ShVMc94Q1Fb2A8BL1gREOzIDbDfaB_QozgxoDMoPhAOqDAAATgWsBo387A_x_iwLXffEFWH6DB49_hQsgfiUK8nvxCvF6vQ0Ne0EN23dwFC50PRkac4wW1HEpF6NvwRMfcPISQG9QGXVsthjMasIadmk-GnJnTCB7ZbAjaWJCJqBimCsMYSgs-F1EL3RbkDSdXVo4z1vsOzlcvUHUU7lMy0vfTRtNQVROTG5Wg05yV6lLG1kvS7xa5EwpXINMOWXgR01jT0IrcQ8kwIDvGp2PyRipkIwbxZjTGOmZ1Bv3o2AaiKI_FiyzfxRIsaIRy7MQDfazVgZQthoATbYAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/031']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1738,
+"_params":".sd-1738-en",
+"regions":{"1781246":{"level":6,"name":"Engure Municipality","index":0,"property":{"openStreetMapId":1781246,"iso3166":"LV-029"}}},
+"paths":{"1781246":[[1]]},"ways":{"1":"FWtkA0AEYAGHk2oDG2RnAbsvriz9MdIsbTOSONY5ZTcROxs7tz0DO50-7DmMPrk1oD_INdg_-DDIQCwwt0H6MJxCEjRaQVc3Z0JAN41D7jhkQ-w6SEE4PDFAcTucQKs-7kKhPR1ErD8nRGlC90SqQrVFjkLXRRpB-UfVQIVJcEPKSi9IGUyqR59MUUbWTYBH2U12SCpMXkkbTNRKyEqwTCZMI07HS21PZUyIUBlOAk-XUH5PnFPXTj1Vq1JWVixSG1g2U85Y91W5V-5YBVo2WzxaeF0DXG9cnVw2WyxeJ1sOXwlcAl9aW_ZkdlmcZK1WemolUiJt9E79coJKTXjDSiR5bUn1eFNInnmiSK58TUSVgNU9goT3M4aJESp1iJYpb4eaJtmGNCKxhawgCIe_H62I_Rv8ihwaiIutF-CNVBkljnoYw4_fFwKPrBStkj0VhJM5E7-SExLUkskP5JG5DuiRRQthk7oKdZQHDeKUgAzelMkJR5SfCDCVHQe_lrgGLpdzA7uWkgFImAAAH5kpAbaYpgInmVMFXZjRBf2Yxgfol-sKzJb7C6OWoxH3lwIQvZiUEMuYixIOoBgZHqKnGhKjRRozo_gaMqQJG6qlQRmxpz4YqahyGQCsLBpurh0Yu7ebJp64zSdquQIn2rmrJYO7sSTNugIjIbvSIeG4nR8YumIeULq7HIa9fiA4yyEgb9drG6zxRhNF8qUTWfcnEf_9TRn__98oUP_wKf_2iDD_5Gc0l944OuHcTTpK2l44fNbAN7TQ4DdFzEw5HMRaPp29xUT2sIRKtaNpU-af6VZ2n2dZQp5aWZGdllbim2dV8ZU2VsaP41SLiW1XdYJ3V8Z7pFjYbKVomGSudChguHyvW86GwVVal7VSEKQOT1q6001zz5dOmNaPTUDdREui4L1HVeIxP2TqSTli7egzb_GnKv__GiKS5A0hmNkAGzrbjxey2m8Vy9XrEK7X9RDx2OIM8tkHBTCs0wBtngAA2ZgtAJ6TtQWJdK8EX2UvDfhECgxCRcMJgjQsCAUzbgk-Ku8GtyU8DEognw1AJLoR0yL7EQ4nchcmLUIY-i4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/029']=data;}

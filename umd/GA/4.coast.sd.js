@@ -1,0 +1,7 @@
+var data = {
+"_ring":1107,
+"_params":".sd-1107-en",
+"regions":{"1243583":{"level":4,"name":"Ngouni\u00e9 Province","index":0,"property":{"openStreetMapId":1243583,"iso3166":"GA-4"}}},
+"paths":{"1243583":[[1]]},"ways":{"1":"Ph7W_6rJlgDTQvr_SP--AAAAyaXzAOOkggbNpfMJSaOdCJuhuQnQn7sIg55MCRab9AzXmKwNdpbND2mUjxHRlI8TXpN4FXOINRhZhb8eYoPKJEmABSvueNwu2nZmMr52uzaWcMQxl02sL9hE2jQkQxE74z09TYY7OlRmOUtZYTagWgUy-FwAMBxZVi1HXBQkrFpCIoZadyCRXbEfEF2VHV9gzRzAX0EZyGK2Fbtl-As6aAQI9HYAAH94GQMuenQC5n0zA61_kwa7fkwJ6YDWCPOB5woRk0wJkZtfEjGevRMEoW0T96JxFPWmchf-rhkgvbDOJECuJiZKrk4s_69vLWWwDTF6rgsyZK9xM26y9zO9ssc1mbZ_NWC3sjfSuII4VrsON5C9UTfowMI6J8nFP53OTUE90-1AQ9b8QnbayEjg3EtI993QSfvcIkwn3kdN4eB0TYPh6lFZ5XlRL-iiUxjsRFRE7NxV-O3bVbrtcVfX769XYfVzXCr5qWf6_NBm0P2BaL376Gwn_0dw__92cyH-UHaE_hJ4yP31eMD7cniC8mZ8JulVhRfnBoYj5IaJfd1Rkg3aA5sW2dGgkdmBpMjQ_Z4JymuetMNSn4K85aIetWuiJrMGo6-vk6E0sL2jga-TptixXamhsfqrcbY2sxW3IrZGqjC1uKZftyChJ75Yk2rLrobcyvF-DclXerjKDHcN0eV3dNMIZ-Lf1Gff4hJkbOhqZM7rSWIh761j5_VOYRD5jF6m-nZdJfrDXTP5Llsz-OhXqPnaTUj5_0cB_PpGU_45Rv__wD7K_AY43v0pMMr6Hi4C-yEtMvxuI9rSTCvPy60sFsnjKZrFCSoYwmooKL5DKHy6TCEJtHElcrJYJi6vPypfrnwqdKuOLKaodyxjpHQnYqapIQ6nCRo_pgUVyKk1DoKrIQMOqCgA7KUAAMml"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/4']=data;}

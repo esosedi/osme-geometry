@@ -1,0 +1,7 @@
+var data = {
+"_ring":1884,
+"_params":"-1884-en",
+"regions":{"1875968":{"level":4,"name":"B\u1ebfn Tre Province","index":0,"property":{"openStreetMapId":1875968,"iso3166":"VN-50"}}},
+"paths":{"1875968":[[1]]},"ways":{"1":"cYaVAMLcUQZHyJ0A639dBoF2vld0hvRQAImqTyOQCUuLltJHoJ_BQ4WiHUKerZ863LLQNS2zITX_sRIz-7FGMk-y0zHts24wvbfaLtO5uywnvFspnL_CJqfE8yUly5YglswvH-vPThqN0PgY8tEvExfSgg2M0ioJQdNIBvbTugSJ1ekCudi1ARTZ6AF02fsC4tw_AkvfRwLk3zsAjuAGAFzjaQDK4yEA3-QAAGXmQACi5rsA0ud9AOTpFgEt7CUCmue8CJfipRAr4ioSteLoFaLjgxdw5b4ZqeXbHeHk0CHC5IYkQuV7JpXm-SjX7CQyPO6WNAnvHjUG80o6z_M3PMj1QkOx9phKNvqUVgf2sFrL9TJb2_XcXFL4z2Ee-yRqDfxrak__H3H__5xzav5besD9Tnz0_Kh9E_l7ghbzvYhy8X2L8-_-jG_wEY5_8JSPA_CklQXuNJiM6BCeY-S5pJnjp6Wn4bqm7t4xqb3dd6rN3EmsrtgOtyHWorv61CG_ttPoxZvQi830zgzRnswp1FrJ8tqbxWnh4rrA7yW3UO5ZtmPwCLKm9GSxfvbpsG_5g66Q--yk__8VocT_P52d_oeaYv7umIn_-ZP__wSPMP-Bf6n2O3hd8Rx1be54dH3rT3iV7JZ7i-6MfKju3nwy7hF80OzKeCTr1HWq6DFz3OcSclzmKGp33tZndt7rYdDb610q1uFW09KQUnvP2lB_zNFF2svEQaPNxEEFzww7edXOMOXXui6p2mgmHt5JHanaXROD1rkGcc7sAYbKAAAvx5oBHcKaBYDAFRLHuLwblrHnGE-vcR6ZqtAlgaVwMs2dhjgxmVQ-FZPiREyIg0gdg2lKCYH1UPl6XVXUdAVaA3HFXhluXF-GbR1j2WaKZTljgmg2YL1rqV10cR1agna_Vw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/50']=data;}

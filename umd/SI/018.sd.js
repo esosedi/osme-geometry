@@ -1,0 +1,7 @@
+var data = {
+"_ring":1492,
+"_params":".sd-1492-en",
+"regions":{"1676348":{"level":8,"name":"Municipality of Destrnik","index":0,"property":{"openStreetMapId":1676348,"iso3166":"SI-018"}}},
+"paths":{"1676348":[[1]]},"ways":{"1":"sMHEAjFZ8QDoqcUCpkHzAAHFAgCvxz4CYs7uBEPT-glY01MMpNZkEb3XCRgk2gAYWtu6GQjkZBxu64ohMeXiKLzx2yvT-eQzW_h_OJDyjzzt84s-Ofp4Pbb0I0Ms90ZES_jfRt30qUqe8cxMGu0tTuTqzVBz6K1QxOa0UeDdGlOX3uxWW9kjXE7aT2Js4Axl7uIwaAXhPWuE4mZsuuP_cgzdEXSI26t229x-eODpunqs7Yt6mO9we-HvQH1U8kh6G_ILfEDzsHqU9Tp6cfnYetz8jXwq_Ml-Iv1Ggdj_zoP__4SNLvrtjT35oImc8baEn_J3iw_0NouL9JqMmvMMjXT3DZOX87uUJenFk-Dq4JZo8f-ZUu76nV7u3p8Y65Ce3ei_n9Tov6Hk6wmkjex4psnnYaaK6Y6qCuWQslvnELaP6L68UOvfwQTv77_i7tnGdPdO1KPyVdam6_rVecZa4NDIbOgnvGPp77xk6tG7D-xPs1vxgrD1-qSgX_vOkv__voaL_IiGl_iQhmr3goz_9Z-SUPPliHLss4jg6hSAo-Mfgm3idoEd4Ux7XN_BdVjcnnHx3QNtdtt2bRPWR2NWwbhfEMITWHu_EVRRwSpPUL2xTly5skpit19Jq7X_PzmzyD8Tsp49vLFIPGGp_zk0p5Y1t6ZrMKqnwClbql8jRKlhIMuiJRlrooUV0ZwAFt2bgRM4mAEVUJYLFfGTehNHkoITLI6dEmGOFxFsiowJdodaApeLAAD2itsC6IYhAgyEIQuZfkwL2HgkE1x1vA_icjMOs29vFr1r3xh3aYofA2fxJU5hiicsXksk0VhCKyNXPy54VAouylJbMrtR2jMWTik2pExQOKxNGTiCUV1AnFB_QYBN7EUSSEZMzEV1S0JDCE4AQl1QOkRjVxVBOFVtPt1WvDokWB47xFskQfhla0DqZVNBE25RQhNz5z9xc8k-pnXNPlR2yz37e887aH40OAiDAjcjgyU15IaENcOSODLalJgvgpQ1KuWX0SZblXElPpO4Ia6i3xj9o9oWNqQpELOmQwp7tTIB775XAdzEnQauw_QCAMUAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/018']=data;}

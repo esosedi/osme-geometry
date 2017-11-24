@@ -1,0 +1,7 @@
+var data = {
+"_ring":2244,
+"_params":".sd-2244-en",
+"regions":{"2319528":{"level":6,"name":"Budva","index":0,"property":{"openStreetMapId":2319528,"iso3166":"ME-05"}}},
+"paths":{"2319528":[[1]]},"ways":{"1":"JmKDAs6xHgFcSIYCvC8iAf__9RGD7JIk0-RxKIDjEkYL4jhNVtHqYfDQqHCgzS96bbSamQCkHaewjcmoHnnUsF9LotTHNynlfC2a800X__8AAMbbvQKV1zkDEdMeBdHRlQYOzg0JdswODbHGpg7Cx8EPZcaKEgfH7hRKyEkWGspLGvfL0R2Zy70kAcf-JyDDtymrv-ApK76VKPC6jiritR8ulbQvL6-1kTC7tDgw0bHwMDqvVjMTrOE0g6yQNqWqsjddpgI2Z6Y2NzilATf6opI4-59tOHmdzzknnVg5o5umO4yZ8z--l2dBXpChQEuQwEDpjsdBBY-aQRWQAUN_jghEyY7dRCGMhkdRiJpIB4hnSS-Fjkx8gsNPHYJHUV-DglXIgfBY7oHzW-WA6l3pfrVdiXsaX05792CAfJFhwXiMYsB3nWUkeSBmRHsOZ3V7Jmd0ehRs_Xm7bF54wW2QeK9uv3Y-cSR5N3lTdzl723TyemVz83mNc4V5q3Jyem5x6HuWcRR7yHKJe-Jzc309dA5_enOWfwR1t4FSdM-BBHPPgx1yyITgc-OEgHJliuBx_ommcuOKt3OpjJ9z2Y3xcp-PEm-5kKRvfJMgb8KVUmx9lZFpUJd9ZjiYOmZXmQFoMpr3Z-2bdGRjnAFaEJuzUGyVolBEmKBOxJcuTgCdakw3njdNFqGUSvGhIEdhoa0-oqAQO0KdZDdFmoA2upkROFyamDg3mr06RJl3OAiX8jfblgE3KZgENmyYcTTKlrAyVpdpMe-W7i-6lWEuuJNOL5OT8CzqklEtc5KFLISTrCtjk7AqApbRKX2XMie5l74kk5k7JJyeix72oBsbBaEMGJCfuhHCm6YMRZqFDISWbhCylJAQVpJ5EnaROBGTlGoMtJVECGSZcAVXmnoCEa1aA9e-IAqI3moItO4eARL0AAAK-Q0DjP3WC___9RE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/05']=data;}

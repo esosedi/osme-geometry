@@ -1,0 +1,7 @@
+var data = {
+"_ring":1255,
+"_params":".sd-1255-en",
+"regions":{"1435836":{"level":4,"name":"Ben Arous Governorate","index":0,"property":{"openStreetMapId":1435836,"iso3166":"TN-13"}}},
+"paths":{"1435836":[[1]]},"ways":{"1":"sGgsAvMnmAA2rTECXT2fAE4TSMzaB9zC2wM2tnIBgrQAAAGuywGRqccGKqo_Cyes8ge2nVMEVpoBAfWPyAcij4IjUZa4JySVNSnAkaUo-Iy-KcOIaSkdgi0uDXoHNeV0oDbwboQ6cWnrQTRnSkk3Y4FXe1mTYopUemfSQ750OCSSch0S0XVCDCp8fgilh4UFTZMAAOeYRgSYnf0J36DSD9atHxvqswMgUrn7Icq_oiYvvfgs37s7NCS8wj7mvQJGQ8CvShDJJVKVzqZTwNMnVxHT010v0PtiKdAPa-vLTXNo0E14Esf8er_LqYDpzQiCrNF_grXXlIDN362C5uJchULnUoME8oGAffazgDT-z6Ir_YyjX_14pPn8lqOZ_JmkOfy8o9_6_6NZ-2SmgfoqqIL7ZKk4-3-q9vz1qSz_H6uL_wGq5__gqsj_o6uO-sGrNvgCqlv3fqr8-VSsRP8crP__pKz-_6mvlP82snP9orU__JO0VfsKtin7XLdY_P24Avv7tkD8YLSs-7ew1Pt8spT2567A9Faur_PMr1X12axD9-StZ_XBrK71Hqzq82Wu7PJ8rf3wwLD178Gw4_CysKD16qi79QSnjfBVsCvyb61n79Ss1euarVHoNq9K6CywFeYEsGzi7LHB05S7esqcxabHc8r_xkjKYsfhynTGIcvSxsPLRcM90KC-u9mOuiHnpLm48em8gv2AuUv8m7M7_vGl___foD36ap7d8Nqdnum7kHDWcoGJ0WBudsRqaqHFImmr0VZl_9U0X5XWClkR1ctPVtGARTTMHkDdyxoyksUaLcHE9iqPx7IqO9PGJxnV5SN80cohp8tOE0jM"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/13']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1378,
+"_params":".sd-1378-en",
+"regions":{"1674994":{"level":4,"name":"Sar-e Pol Province","index":0,"property":{"openStreetMapId":1674994,"iso3166":"AF-SAR"}}},
+"paths":{"1674994":[[1]]},"ways":{"1":"o1YUAoaH5QObCC4CSKsABH9NjNt-TOXX-kxE0yhLns27QhvG2zpTwZE2eL13MdG1Jy7XrSYtR6evK1mlaSlYpMweDqU-Et6iSxBKocYPiJ-hEP2aBBAVmcoKu5fQB6-UrgYHksYGv4l3Ba6AAADKcVYB3GutA5hqcgioasQMd2zYEVxtVhxnazkg4GljIrBnryLuZc0gCWH8H_FbTR1wWdIcl1ZgIfRF7CGTPdciIjyIKl04ZDUEKOQ6lCMRO-ggTjlVHLQ4XhbLOK4N_TxiCYtBkAbzRCcBz0cAAEdUEACoV0QBk1wICOxe6geoYf4FmWOmBjppMg5dbx8Q_nN-E-d17xWNej0gQ31cJE6AiiXaiaYkfIvaJbOLGijaiS8vHomyNqSKi0BIjDBDS5A9Ql6Vwj6Ol7Y89ppKNo6fnzTJoi4yXKQdKsCjmiakpRMgjaasEFengw7ir-UMOLmaDoq_IRGcy8EQM85BEnzRQBbB0yUbtNV3I-XYZyo02uM1RttcO4TdYEEC3vNId99WT9jiylJ87cRWxfDBWXDxCWFM9fJrLfTJe-f2K4Ue95SVePvbpM79uanZ_xas__-Arhb-Vq-V9zau2uftpqnkw6YR32eobNzapwPWRqJN0y6eg9HTnDvQfp2IxMOuIcQirl7BGa4bvbCvfLhzr46xmbAgppS0M6NWtk-dULeHlyS0hZMktNWM2q-3hfivYn42rnt3ZqR6dvaff3ILl9pu4pREbdyVuGxzmJNvR6A-bwSnVW5BqIBrvKf0aqKocmuarIRta7LmcwK5-Xj1wfN6RMigfkXc4oHK5IeElefJiS7nf4x76AWPhfJzkQX4q4ox-0iDS_rXf8D6XHeB_3J0__8Lcrz7jG5S-S9mp_joZdj2dWfC8-xefe1AXk_sIl6R6CVbReMFWQzhkE6z3H9NjNs="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/SAR']=data;}

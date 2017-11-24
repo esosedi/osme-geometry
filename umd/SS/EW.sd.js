@@ -1,0 +1,7 @@
+var data = {
+"_ring":2136,
+"_params":".sd-2136-en",
+"regions":{"2190483":{"level":4,"name":"Western Equatoria","index":0,"property":{"openStreetMapId":2190483,"iso3166":"SS-EW"}}},
+"paths":{"2190483":[[1]]},"ways":{"1":"aGNBAISpkQHHN2gAEZbXAbZJtj4yS15AZVApQUlVXD-XYxY3NWnfNv1tIjV0ccc0P3nqNMJ_LDbLhboyf4vGMmqQWTEWllgtl5Y9Kr2cryZSoVUhfKpWHGOseRg2q1oTKLAUEES0kg7JsnQLdrQeCuS2fQrlu34O4b3qDtfASw6awoQLDskUCarIQwUazIgE3s4yAffQawAp1scAatsAAJbgUALl5TIBjOhYAvvqigUT7d4F4fKTGKv6Fkf__31ZdvP7Znbz3m4j93Z4LPYNfOPcI3d9zzZ3U8g_eNe9lXu3uzd9mre8gdKyx4RqrV6Nt6JykKqYcpCHmHOzWZt9tf-fKLfvrma6K8WAxGvbT8dq3C3Ys8S33PC0F-LnoLnu45Ox9dmMN_wChbP_XID__0R0cP5Mahn7L2Qj-htQ_fntSBj3aTlo6NIo6dskKavahy9n19QyYdQlMw3QYCuYytsb_8K3G-XBZx42wKYcJL9eIAG9XyEzvQkja7pLJDy6oiU1uKwkHLflJpS0MiVms1opHbHMJlSwjSZ6r5AfL7DWG2SuoBdwrt4SFayjEiaqRAvoqM8JoqZqC6Wk6wmqo-YGnKOTBaehcQ0OncwOEZ0DD-2ZrhEZmqgRu5gxFZeWgxPfkzATfpDQFFaOixNmjEwV4IrFGf6KCRxviTUadogqGmGG-xaTha0Wo4R-FPCEfg4Mg6QNX3_FCQl-Ygl8esUAdHcAAPByDwdkca8HlWxbBv1rmAZHaUIKdGe5C2plJQ4NZtcPg2XgDhNlRhAaZGUPumJODSVihBPAX9QaU2A5G35cqx3MWlsZm1mLGbVX7hwVVegesFR3IO9RECM6Ut8okVA3LH9RrDIIUeYzw06OMmFONjP6TBY47UxyPQRKmzzYRQFAZ0IBRGlCnUm8PrZJtj4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SS/EW']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1153,
+"_params":".hd-1153-en",
+"regions":{"1278765":{"level":4,"name":"B\u00e9ja\u00efa Province","index":0,"property":{"openStreetMapId":1278765,"iso3166":"DZ-06"}},"1283404":{"level":7,"name":"Tamridjet","index":2,"property":{"openStreetMapId":1283404,"iso3166":""}},"2094122":{"level":7,"name":"B\u00e9ja\u00efa","index":1,"property":{"openStreetMapId":2094122,"iso3166":""}}},
+"paths":{"1283404":[[1]]},"ways":{"1":"jIctAmuNUQCRli4C1KlTAELyhpd48gWbme2QpqDxW7Xy80-5yftAvP__Vr5d_y3OhP5c0U7vJd4Q607gbNJW6EjRzuc3zNXomsQL7Ai6qu5nrtbzTq0a9EesqPOip9jueKSZ7J2fB-snm_7rgZZY8rWSkvqniY3-eYPK_0R___9GeHj_X3ac_qVsGvfnafryrmVZ6uxiAedSW33gZVWY3fNM2NvKQgTb-jrg2BIuNtfCHH_VqwxQ1bEBctRpAPrTAAA90-kFZdIwErLM4xcRyT8iocMaJ7e_0SwpvRs24LkIPIe4Mz9NtolBL7adSi2580zptfpQIrX4VECzO2EWsMdj0a5pZOetxF89qUZeRab0W92W9FvHkTxdkI6YYFaJYmCThwJd3YMcW52Cr1pKgXBSIX4PT7l7vEzGeOxIwnCOSf1k5EtQWm5DNVQYQcRRuD3OSXM8N0XgPKRCMj9OQJZChD5cQns7Fj1eLhY93yzJPlorTkEYKi1GxyWoRx8iJUnDIDNOeB98Xp4ZKGf0F1JqVxZnb0MRanN7DwB3XgWPfScCfIOQA3GGPQUhiNsHPopiCe6LpglvkVoG6ZKvBZqUmQUYllgItpY9CzCYjw15mbsNX5tKDG2czwYpm5YDAZxCAkadsgFEqAAAYKrWBHWvbxaRsQkfkbFwIoCsYiyhpzEyoae-NmCq8TmDsF0-SLfXRT26r0f8vENK0sjOVlHZA2RX3aBocN9AbE_kyHyI6EqE_fBClkLyhpc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/06']=data;}

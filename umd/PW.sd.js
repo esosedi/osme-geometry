@@ -1,0 +1,7 @@
+var data = {
+"_ring":191301,
+"_params":".sd-191301-en",
+"regions":{"571805":{"level":2,"name":"Palau","index":0,"property":{"openStreetMapId":571805,"iso3166":"PW"}}},
+"paths":{"571805":[[1],[2],[3],[4],[5],[6],[7],[8]]},"ways":{"1":"0PhAAJ8Y4gfvvUIA9rbjBwAA_Xq5Jw8f_38AAOXeRSv__-iHEdZW5cJy__8aITTcAABMhwAA_Xo=","2":"v-Z7AFO2BQhIcX0AiUIHCAAA3n0XK7AfApMAALjrmDX__xCZTs2E55h0___zIO_VAADJgQAA3n0=","3":"YO4pAPot2QfvuC4AZ43cBwAAqGBWB3spnCA6CJc_AAC0hfkO9b2iTeDuCWz__8qm_On52xaa__-MMjXNJwgPigAAS2cAAKhg","4":"2FpoAO_Q_Qf_I3cA9kgHCAAAARRmBxEBChgAAFgiaw1KIZ4o4DAbKR86HjXhTPEpwGFCLOJocjfwaYhJJncvQD6C20lbhCZW3n8hduOSF4H3mC6PiKPViwK_Lp3S0quxEdyaznzoLcdz-v7O___n3OL9Ne1Q5f__-LRy-iOqNf0Plsfp-4FR5-d7Ed4cbVCwA2KqpqNfqZjESgaU7z8liU809XBUK8traxrBTbgWe0LHF0E0YRAQNbgINC8AADQYAAABFA==","5":"7-p5AB19BggQLXwAEnMICAAAVWM3GMkefFYAAHzWNDH__xxkz_razsin__8VOXjX1g3lpgAA0mgAAFVj","6":"0FdGAMyV3AdIOEgAqIDeBwAA4HWgKQscCoEAAJ3cNSn__xqHst7c2jSF__-gKdTiAACciwAA4HU=","7":"n_ssAPnzzwd3zC4AVLPRBwAARngGK3IfIpAAAAjk6C___8CQlN1p4dSL__-SJN7SAAAygAAARng=","8":"IGJQADi64Af_hFIAGXLiBwAAk3ySJF8iB3UAAG3bASj__52N6eD04ZmZ__8OKu7kAABJhgAAk3w="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PW']=data;}

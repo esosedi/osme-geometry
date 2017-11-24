@@ -1,0 +1,7 @@
+var data = {
+"_ring":436,
+"_params":".hd-436-en",
+"regions":{"214697":{"level":4,"name":"El Progreso Department","index":0,"property":{"openStreetMapId":214697,"iso3166":"GT-PR"}}},
+"paths":{"214697":[[1]]},"ways":{"1":"pYTfAJWNnPrrBecAhw6m-rCswEn8tkhWCcU9dMvEKHYsylx09M7AgnDMpombzGuMqM45kfjRUJOD1IGXlteFmkrZ5J5A232grd5Doj7e3qSD3omult5StBbi5bsN44HBa-LBx_biMszu5BvOZOlQzWPzZMn0_77G___N0RnZJ-xZ0A70Sr3__2y9Ce01wjjdrcEE3TOW5O-lk2_xN5Ok85COl_XSiLb0dYTm8rqBI_Bmf2_s-3qu5-h0e-XJciTjMnJW4AhyB95ac7DaQ3Sg2VloP8p4YynGmWGzxAla-b8UVyG46U1Is-Y_ravtNamR-iAViBQgHYG7I_94hx1pW-IW_VrpE65aHhAkWm4O4FgDDEJYognBV04Ha1cCApRXAADQVjsOL1J8Ee9RshNATzcX90q1GKdIqBvaQ14dtTqaIXkvWCTZLfYmAiwcJzQo6yi7JQgtnyEzMgQhCTcTH9k5LxwMPHocRT1dHFI_9RtNQQkboEKPGsxDkRo0RGIba0UNG3hGKht6SJAcK0k5HElKexyASr0cVkyCHalNIB0BT4sbWFCnGs5RpxqHU5gbo1R8GxVW_xvuV74enFnPIM5avyDfW2QgbV6_IBxeWB-lX_seLmCZHSBhMh30YgUcjmR7GkBlghnYZT8Xy2byFrtmKxU1Z90TAGf2Ei5mBBJqZoYQSWeLD3JniQ30ZhcM_mV9CrZlbQicZY4F6mZxBKporQMeaQABS228AAlvDAFrcgAARXfjA4d3nAh4dioM3XXKDDZ3oRB-djkSy3bUFPt1khZ9d2MYV3cdGlp5Dx03eJskIHp5KGx77ijJfwopzYNVI72I9iJbi1AksKzASQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GT/PR']=data;}

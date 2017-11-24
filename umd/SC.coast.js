@@ -1,0 +1,7 @@
+var data = {
+"_ring":191280,
+"_params":"-191280-en",
+"regions":{"536765":{"level":2,"name":"Seychelles","index":0,"property":{"openStreetMapId":536765,"iso3166":"SC"}}},
+"paths":{"536765":[[1],[2],[3],[4],[5],[6],[7]]},"ways":{"1":"B6e2_zrOTAPxaLr_cnVPA2SifawbkoPE74jp-KRsMuY7TL3yp0U84RM4gt1EGKnpAQX__wAAO-ETDPrIzTNGq2YqQ5U7NZWMF0TylFdIPbnsagifIWYtmYWEG309ilJYH5rjQTWUiji_mqYoQ6CoM7-kySyboskRWasAAOiphxThtEUMmMRuLW7H8ldI_U5j__-ebUD6loZy56aUOt2MhlTANY5vvZqEOp3csWSifaw=","2":"giFv_z4lwQJn9HD_L9zFAuBGFhsqTo4nLzJ0LfZu03t2WjuBOnXMjOt7QKxFoH2yOakTy9aZgOJkrUrWi-Ie0f__276Dzv__d5mw_7d85_eGUzPMFWDFmlIC8UAAAD4kox0QDvqhAAC6T0Ed4EYWGw==","3":"jXW9_x-QUQMYkL7_mTxTA9Js__9kUofx5XYv3x1sXcZ5OKzNUEACvlwcN9sAAFzCpidrdvZpdWIdkh8SKtgAAPLythC15nc0__9nNbau4GhPxbeKrIztuQ2dVOgHey7x0mz__w==","4":"fJRr_6_V1AJgp2z_TRPXAj1UQi8QdchabcJHYf__pnxnYP__NFD6zdiTL6fKr5ezkN1njLgp907cJIMSAAAAAE5JeAjpWYYePVRCLw==","5":"1sVw_-g2wgIzE3H_BZ7EAo2xZ-p9mv__AAD84vkxPoTUJiAUA9YAAP__a62NsWfq","6":"1SW7_9tkSgMA1rv_XCFLA50yYN_mA6nJAAA7YOmOAABx7KIH___9p2qh__9kcpHtnTJg3w==","7":"hM1g__FtXwMvRGL_wFxgA_sU7PQAAP__SxLLzqdMHITQ3gAA__-5Bzzv4jMILHbq-xTs9A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SC']=data;}

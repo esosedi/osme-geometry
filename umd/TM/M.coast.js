@@ -1,0 +1,7 @@
+var data = {
+"_ring":469,
+"_params":"-469-en",
+"regions":{"223030":{"level":4,"name":"Mary Province","index":0,"property":{"openStreetMapId":223030,"iso3166":"TM-M"}}},
+"paths":{"223030":[[1]]},"ways":{"1":"IzgYAgpzmQNS8loCNBLcAwRl__85X3H84lpR-YBX8vcxVYb3A1Pu9xhR1PgUT-34LU2V-AtL2fd8SQn34Efd9QFEuPI1QY_vfkAH7sBAQewBQG7qwj9-6Gc_g-fqPqLmaT465t87auUkO1bkKjy04-w7oeJUPOfgOzxp3g08td3mOiXcdzlY2Tc43ddnN0fXoTUZ19kys9dDMoXXrzKP1rIzQtVDNNPTmzT70XE0Hs_LM0DMpTF0yBwxx8aSMHrCdTBGviowY7xOLwC7IC0Iua8sHrjjKTmtmCm-q5ApfaouKuKkXCrYoCoqJaAkKVWfDShAn3cnoqD2Jv6gCSaaoBclv6DqJAWi_CPVogcjL6TwIbWkviH3pJghTaZFIfCmsyAqp20gJqcNIKGmRR9MpMYd4aALHW6fXBy6nkUbqp7bGTefzBjxniIYAZ9_F1Og8haRoJYUoJ80E6SfGRJQnwYRiJ7QEHGd2RDWmjYQQZn8DyqYnA15k_ALfZGvCpWPuQkhjCQJXYuYByiKngbbiPgFiIX6BNeD-gSigqAFXYFJBfJ_YgUEf70Fc37vB1V8OggLe6cIlnqaCMZ5_AeaeGAGlXZVA69zRQEWcgAAo3B5AntvqQOFboUEBm9PBn1ulAembnAIT24kCbRtRwoTbIcLx2cqDA9npQ0AZvoOHWR9EIRi-BFAYB0SU1-KEkReihIdXDoQz1PGD-5SPxDIUKcQjk0kEf5LtRHQRhkSsEXCEyZDiBVjQWAWZz_QFu4-5xdYPlwYRjz6GIs7khqOO3EbBj0CItA_hClaOkYtNUGiMrVBEDQ-O_taqj08fx8h-3wMK7R0MTDFebQ5yX6qM8SCWyn-hAoccJSmFmCWHR2snWIaiKAWIVavihXxuA8ItdEAAKrU8AaP23YHAN5zD9Hy-BNo9Vwgkv-3If__Biw6yM5xI7O_hgGsap8nj3y-mILxsKZk0bIBZZv_BGX__w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TM/M']=data;}

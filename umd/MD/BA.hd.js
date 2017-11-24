@@ -1,0 +1,7 @@
+var data = {
+"_ring":118,
+"_params":".hd-118-en",
+"regions":{"58983":{"level":6,"name":"B\u0103l\u021bi County","index":0,"property":{"openStreetMapId":58983,"iso3166":"MD-BA"}}},
+"paths":{"58983":[[1]]},"ways":{"1":"80fYAjzxpwFHv9kCNgSsAQaCAQCHmQMJaZtXCcCf_gpSoh4KLqQCCvKncAnaqTwKLawUCuuv9gqprysMSLFIDeuzRw6rs58OwrbiD_S2DRCRtm0QjbY9EV619xKDtEwT3qXADV2lAg61iJwpsYa-KlSH2DSQgEo1033pMxF1ZTxWaCtBo1_bPDRSUUKPUZBENkjaSV1GFk0-R-dV4kxxWUVQdli4UWlZIUyZW_xc_2O8YixjeWasZMhkr2bKZThnhWTmZ6ZpTmr6avZp9GzramlugGkGhVlf2o6QYZCN22JgkdBkupmwYbGb7mKlnepiEa8JbTy4S3AOv1d4Mr8deby-xHkivlx6Y7pRf9i4HYK2riKPI6KKn2mv2KqRvOevasVlq63KEK1w1mSvZ-ixtQnXJLy44ya_DOYXvv__x9JbyEPxibuQ6d23OO3WsqTyB6rO-zGm__-qjRj5HoOy8ZV6TutLYmHfLmDt1gtiT9AXhv-8Io7OvsWXsrqokja1Bo0_q5JsLbItRVy2L0GdskNGg60yQz2pF0I-qSkoHKSfJrqj6Rj4mlAYSZp_IBGX1x_KlWQfRZRKGUiGuxCLc8cDpm92E8tnjwLJXAAAmVoEBYRY0AT7Uc0FkFB9COZNYAovTiILok7ZDTZSHRFZUeILykurBNFD1gJQQv4BpUCcBio_BQrdPbcKODsyDcI6jBm4SiwlXVQOLYFMqzMdR-c_3kHTQi1AXkOqP-JNjTOIUUoyn1xAJpNgUxwuZHEY62nMCA52bQS1eSQEFX6UAgaCAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/BA']=data;}

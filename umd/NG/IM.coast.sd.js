@@ -1,0 +1,7 @@
+var data = {
+"_ring":2491,
+"_params":".sd-2491-en",
+"regions":{"2762735":{"level":4,"name":"Imo State","index":0,"property":{"openStreetMapId":2762735,"iso3166":"NG-IM"}}},
+"paths":{"2762735":[[1]]},"ways":{"1":"UONOAHAqZQDAKVwAHw1zAGC5lVFSvJVRQ781VxfIBVoIywVa69A1V9zTNVfN1mVUvtkFWr7ZdmKw3EZlsNyHcKHfx3uh32iBsNzYibDcKqOS4jqxhOULtGbrC7Qr96u5HPpLvxz6jMoO_SzQ__8s0P__zdUO_c3VDv2d2Bz6ndg69D3eOvQN4Sv3ruYr937pHPpO7Cv3Hu8r91_6OvRf-jr0L_1J8V_6V-5f-mbrj_ew3O7xCMvu8RfIj_cXyF_6NMJf-lK8j_ebrf__5Z7___SbX_rlno_35Z6-9PSbHu_0m67mApnd4_SbPd4CmT3eAplt2_Sbndj0m83VApnN1SCTbdsvkG3bTIoN4VuHDeFphN3jh37d47N1DeHCcg3h32xt2-5pbdsLZJ3YGmHN1SlezdU4W_zSRlj80lVVLNBkUizQck9czZBJvMe8QOzEyz0bwto6G8LoN0u_BjJLvxQve7wjLHu8QSbbtk8j27ZtHQu0ihcLtJkUOrHUCDqx4wVqrvECaq4AAMqoAAD6pfECiZ3xArma4wXpl-MFGZXxAkmS8QJ4j-MF2InxAtiJ8QIIh-MFOITjBYRD1AjkPdQIQzi2DqMymRTTL5kUAy2KFwMtihcyKnsaMipBJvIeQSYiHCMsIhwUL_Ie9zTyHvc0wiGtQ8IhgUySJHJPYidkUmInVVWSJFVV8h5kUlEZVVWxE1VVAAA4WwAA_WagBe5poAXQb3AIpHhBC4d-QQt4gREOTIoRDj2N4RACmeEQuadBC6qqEQ6NsOEQfrNRGX6zYidvtmInb7bTL42wQzibrbRAm61URn6zJElguZVR"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/IM']=data;}

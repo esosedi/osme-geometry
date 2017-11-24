@@ -1,0 +1,7 @@
+var data = {
+"_ring":873,
+"_params":"-873-en",
+"regions":{"383894":{"level":4,"name":"Al Hudaydah Governorate","index":0,"property":{"openStreetMapId":383894,"iso3166":"YE-HU"}}},
+"paths":{"383894":[[1]]},"ways":{"1":"tkHNAJPLegJfQPIAwfubAvkXX8YAAE2EaQpwfQMPGHuNFJV6zj_baGJIDW8pVGhkl14wXI1oSFIidxFIz3gMRXWFEDNOiY8vJKM4ILSpeRiHvoAGEOlTADLwAQBp_gAA3v_rdg7_R451_DKTQfxAlOX6HpX6-ZiWDPo6mL35EZmB-TScifg3nmz5oaBK-jGpx_3Cs___hr6-_8DATP8pwf_5bcFi9MLACPC8vazuzL1b7dm-6utjwGPrpcD55MW-ut9Xv3Xc576v2dC-GdnmwK3U6MBj1DDBKdT8wc7SEsIE0_vCtdJFw_PODsLWzMrCc8xzwlbKBcKNyUrCO8kBwtzIKsFcyEvBYsf_wPrFYMGbxRvCPcP5wo_CmsRkvAXJcrxVyjC8G8v7uvPLnLp6zbm6xM4guNrO3Lfw0em04dS2sorWi61L2DSrHduPqo7cv6j_3q6ov-CJp-_gk6az4XqlCuNApbvjPKVY5a2kPeeXo_fnSaNC6nWiiOzjohvun6Qn73akRvCwoezww6DA8kCgBPPHn6TyGZ938VqdB_B9nOLuPZw97WSd2-ohnpDnKpzi55SZE-dhmKvkh5cG5GWXNeHwluzf-ZII3hiQwdushjvghoMn3Kd7rdzyeNjedHhK4Dx0puA7anDkw2bu5MdhfePqYYXhl2F33NVd-tz6WPnfqFNm4kBQc-P7TXTfTUzd3-pKoOFzR5XkkkeA6gpFlu4QQcvz70B59ORAHPYYQZT3xUEq-b9Ekfx4RCH9h0OR_VNBqP_vP___Kj-Q__k-BP8zP0L9cT49_Ck9K_sPPKj62Dep-Sg39_nRNqD5eDa7-JA1aPg6Nf33UDWL95c1bPemN4v3WjqL9Xo6dPQNOr_yvjlT8pc4oPHSN1nxfTZA8dIzgPPrMt70dDKs9x4y_vdzMeX3PTCL9m4wmvXpMET1SDFM9IoxSvLaMJ_x4jBZ7PsvResoL8fo0y4I5jkvL-WpLs3g7i0H3notfN13KlDdNijh2-0mrttSJRjdGCSx3HMk6ddUIa7VdR5V1ggcW9TjGUfM-Rdfxg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/HU']=data;}

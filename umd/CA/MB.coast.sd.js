@@ -1,0 +1,7 @@
+var data = {
+"_ring":916,
+"_params":".sd-916-en",
+"regions":{"390841":{"level":4,"name":"Manitoba","index":0,"property":{"openStreetMapId":390841,"iso3166":"CA-MB"}},"1131068":{"level":8,"name":"Neepawa","index":4,"property":{"openStreetMapId":1131068,"iso3166":""}},"1790696":{"level":8,"name":"Winnipeg","index":2,"property":{"openStreetMapId":1790696,"iso3166":""}},"1836211":{"level":8,"name":"Emerson, Manitoba","index":3,"property":{"openStreetMapId":1836211,"iso3166":""}},"2433672":{"level":6,"name":"Local Government District of Mystery Lake","index":1,"property":{"openStreetMapId":2433672,"iso3166":""}},"2713427":{"level":8,"name":"Teulon","index":5,"property":{"openStreetMapId":2713427,"iso3166":""}}},
+"paths":{"390841":[[1]],"1131068":[],"1790696":[[6]],"1836211":[],"2433672":[[8]]},"ways":{"1":"d6x_A13KbPpN6oADV1px-ley__84kP_ECMRKqAAATG2XYKck__8AAHvJOjlLf7Yx7yRhZL7Bl5jasXr_V7L__w==","6":"n5H2AvGRMvqvmfoCvY44-gP3lac2sv__fZhM0i5RkdJ0JlWuAAAxVK5helR_XAAA059-ByHRPhLExNFN7P25Tf__DZoD95Wn","8":"XO9IAw8OHvqPP1YDZrs0-rz42PN46wjU_H8J1P5_auGLWWXhmlmIuWVmiLloZoGPmXSQnkGEkJ5PhNODwHvUg8N71nfJcI9t33XwZlpVBGoXXYWEMDOFhDAzBGqVGQRqlRmDTwAAg08CAAAAMDMAADAzgRpkZoEaZmZZTpSZWU64nPtlYuYfaJ3slHbz7qSH_v92mP____8R-c70vPjY8w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CA/MB']=data;}

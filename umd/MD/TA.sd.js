@@ -1,0 +1,7 @@
+var data = {
+"_ring":1625,
+"_params":".sd-1625-en",
+"regions":{"1346662":{"level":8,"name":"Cairaclia","index":1,"property":{"openStreetMapId":1346662,"iso3166":""}},"1699033":{"level":6,"name":"Taraclia District","index":0,"property":{"openStreetMapId":1699033,"iso3166":"MD-TA"}}},
+"paths":{"1346662":[[1,2]],"1699033":[[4,5],[6]]},"ways":{"1":"EGW6AvcNtAFe67oCNR20AR8Fn-EAAKZ41BIAABYcGaf_____","2":"z1i6AmYbtAERILsCABK2AU287AB7vvYuSLcHMP__POd0Qf__SgFmYwAANUthGgYWGR3OCTETAAA=","4":"z1i6AmYbtAERILsCABK2AU287AB7vvYuSLcHMP__POd0Qf__SgFmYwAANUthGgYWGR3OCTETAAA=","5":"i7m5AqcjsQGW9L4CNIG3AU4hWnddFZJ9mQcAgG0CS3wAAC9tzQc4aHERgWQnEXpjVBTOYaAZIGA-G8Zcix-bWpIfMlYMJutUNCfCWHc2flULNT1MOTQXMcxHfC8OSzIt-UhqKPhLYScdQpQLMFtIDCZYCALqXwAABGa9FDJjvRe_ZFEYiF9UGm1h8SCIZLQfZmhpJthjpSkUaKI3Lmu6N7BubkODfD5AYnszPBqBfDmlfqIwPYtDLoiKtCXGloAhc5d3JGWh_yHjqWwg_cQ6IPvNUh3J5qAj__8lJ__-3DZx731Ai83BTzrPSFkkzlRZns3YYofQaHCcyu9w5cnganbAtWvUwP5oi7wLaV-7WHIntmhyvLb5UKKojlmcqjhx2bBycUuxDYCZqvODhKQMhDuiVod7sd3UGPD-wn_4We72uf__q7aA7w-vdvGPrF_jvJua58WXjebElxbiYJYw4lZ2teq8YX-AWF_vfjha7X6GW-l5I1kEeBBRJnjYUJl1EGJWdbZbo1rmRAxhvkaybnVJJ3BqSbl0Wjo8dHg6o3c=","6":"bcK9Ai9-uAG4ccECC4m7AbsNZY4AACsqjWgAAM11VmM0q9w82bRLRf___ato4v3rb9n__1ptBWp6PluwWRKwkbsNZY4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/TA']=data;}

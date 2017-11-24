@@ -1,0 +1,7 @@
+var data = {
+"_ring":675,
+"_params":"-675-en",
+"regions":{"272743":{"level":4,"name":"Yaracuy","index":0,"property":{"openStreetMapId":272743,"iso3166":"VE-U"}}},
+"paths":{"272743":[[1]]},"ways":{"1":"w_uWANZh4PsQUKQA7L_u-wAAc0bRAHZGHAG4RUwClESUBDNEFgmcRAEMaEUaECNHURMZSToW-EvRGixU0RwcVnwfu1a1IqBUVSZgT98o7Uw4Mq1HgzP3Q9syIkE_MUo-Xyz9NjUqDDONKHIv5SbvKfYkviZzIt4kyB9nJN0NqiMIDAwi5QxQIN8O2h5bEbsdpBnjGtQcXRlrI30VSijqFPUqSxXaLUMWBDPaFqI3BRbKOhUTfj9bCpVB5gcORxcFNU1LAmBT_gAvWRoAzVwAACZh_gAQZEkDsmZPCAtpOhDnajsV9m5YG2R5jSHVejgkxnq1JTV6BSfidZwphHVVLHl2VS5oeXEwzX3MNHmAETelhFw4gofRN7qLkDVkj0o0pZajMxKaAzShoNM1kKReNoqowjXYqPkxk6f-LkKm7iohqA8ppapaKJiuUig6uBcq6LvbLEq9GC_7wLAxcsQ1M1LIYzX0ysk44czqPFzQukCA1NJChtoDRSrfhEf54iJM6uX-UBPpdVTi60xVOe49VTHvhFyc8NxgS_MwZjL10Ghy90ZrdvoRbo39WXGm_ht1i_wagA78e4UU_NuKsfwMkYj9CpXd_3mb__9jnYH-JZ6u97aeJfJtn_Hk4J9T4gKhMuAfo0resqa423isNNrAsQvY_btA1jPNKdVf8zDVdPgc1a74as6k_BfKnf_myaH_vckW_9XJef-byc__0cm9_4nJ___4yST8Q8mA-HjIdO2ZxzPrib6m5nSxF-dLq6LnJach50OjJeZPn4LkaZA540-Ke-QjhR_nYoA96kx9wOsRejbsGXZN6w9ybOkobXrm-2kx5BBgbd_BWCDfYlKO37FMuOB9Pjnk-C1O6UUoNepyJqDpmiR95X8jlN8kICXZxxd00NQUHMwcEubF8g_3wTsPl79xECm9fxK4u74Vbrs9GXm7shstux0eVLncIFy1oyK0sRAkIK6XJNCoeSMko8ggyJ0-HPeY6hQFlKIOVI96CuuJ3AY0gjUEpnq8AkN0gAGlarQBMWQqArlfpQMcWrUEzlclBf5TeATUT4EAXkkAAHNG"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VE/U']=data;}

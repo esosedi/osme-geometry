@@ -1,0 +1,7 @@
+var data = {
+"_ring":874,
+"_params":".sd-874-en",
+"regions":{"383895":{"level":4,"name":"Ta'izz Governorate","index":0,"property":{"openStreetMapId":383895,"iso3166":"YE-TA"}}},
+"paths":{"383895":[[1]]},"ways":{"1":"-sK-AGjyiwIjUtQAQT2nArECNoIECz9g3xC-WAUjQlHnSVJHwFydQJxt8DS3ooIWdqqOCx6sAABA1VlQN9xaYWDgwWNO5fViqeqtZQ3qfWsp7Ppr6u5Bav30Pmwn-nNsLvx8cAj9L3r__4Z-8f_whHL1KIfE89WNq_QLkZ_2XZII-y6TePZKlzX0jpcJ9DyY_fd-mXb5q54V-46frfvjorX5z6Pm97ii6_aro5z1aKJQ8zqiavKOoODuE6KL86Km_fSEppT10KjB92yp1fetq1r1Nq0u8CWtou7Pqx_vVamK61yp4el-rWLq1rBe6faxT-u8s5voYLZZ5eW7tuV5wBrnjcIw4rXIaOKEzkrcqNKO4EDZKt8R3H3bk9yj2t3dRNrA5P_fxelS5q7r9-Wj7MDczvDX2djuZ9iT7ynXEu9O0pjr7M7m67bMP-7Cygv0Os4j9HDPUvXDycH_yMT__zi6BPl9uVDzqbSo8iO0ve0useDrqLG35yiwBea2ranlwqrE6OelafL-oErztJ8r8hmfM-7Enwvm5JzJ4uGcQ-DXmlngVZwm44Oa4uPomiTllpiw5j6R_uTLiizn2YR35reCFuPJgEziJH9A3kaBuNskgqfQJYal0MWH1M5QhQDO2YTHzyOE8817f63OM37kyLZ1lswMdgPFoneNw7p2ncLvcQrCMW2PwrBqgcGbapS9kGsKvEZyTbZgbJS0OmqPtdpm3rJ1almtWGzHpr5v8KJ0cJug222gmRZnWJQoaK-KUFQ7jKVR0IOkJRpyjyNhdAAA042xAjaC"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/TA']=data;}

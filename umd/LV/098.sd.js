@@ -1,0 +1,7 @@
+var data = {
+"_ring":1727,
+"_params":".sd-1727-en",
+"regions":{"1764656":{"level":6,"name":"T\u0113rvete Municipality","index":0,"property":{"openStreetMapId":1764656,"iso3166":"LV-098"}}},
+"paths":{"1764656":[[1]]},"ways":{"1":"Yh9cA1LtYAFL8F4DxSxmAYms3dKeqn7S3qcO1Lyj-tTMn6zXkZwB3maeC-UFnDTor5Rw5DeX4eE9lDnekpD14C6Pnd8EkHvedotW2tmL69h0h5bWz4SK1lKBUdrieirX3Xc-2hl4veHidLHqxm0V6LRqIuSjXGzmnlwR52BSHOmRUfjoolH357VPsehiUBzoS0_t5idM--lfR8bx5D-J-O09wvidO6_32To6-Wcx__-VKRn6GCgt-CkoIPWqHzTtBxNQ6G0S5eV_E-DlSBQG4ooTR97ZEa_b9RGx2AUTadc5E5XOARB-xQsOD8VpDsTDkwuqw8UNc8CBE8SDGBJFhKYS-ITxEbSF9xCphWARcITQDruDIw0hgtQLvH1zCI16XAnQeMgG33aJBqNzCAQ2ckMFNXE0BJxvNgC5OwAA_zGMATEv1wNzLf4GoyahCX8n6gp5JsgNvShxDp0mKhCNJVQRFiYVE3glhBR8JvUYSCKPH6oebzAyCuE6iARLOksBBjsAALVGrwXIR6gJ3kvYD4dSxQ0_WYwd-F61G5ZeWxqPZMgXOWTjFOhorxUJacIXW27xHQZ1UCHufbAhlH5lLmN6lzjLetw5PYT7PV-KfUjUhUZRSYQBUuOE51RohjpW2YgyXKiEol1OggVhyoCNYjOCFWXKgHhlFoLuZ86A52crgVNpkYCcaaWDLnDUf6Vxc3lAbwR5HHbCft-BS4S1hiyFN4kRiwiPT5C3komQlYx2k_6LbpS4iamTqoL-mbl4NqHndWKuk3OHuwFuC7utcF-81nIbvAV0t75qdsS_S3ZxvZR4C78BeZW-xnk3wUd7f8G8fI_CTHwNwhB__8MEgIbDkIFTwDGDCsD4hJHB1YaxwwSGksfVi_DKo4xXyxiOe8xbjmzNJI1c0JKWY9eBkp7XFZiz56ipVPJTpBL2g6Z7-r6nOv3wqqr-Lats-nmx___xtzH9kbuH-pi69vFAvcXsaMDR6mG-duRIxkTjKsY940bFnOFmxkvb0MYe2uHJvNfpxXTVTscy0V_OLckYySLFwckZwBnNmLrZzP-5uM6jtl_RUrGa0rGxC9JSr8PP3K590Y6s3dI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/098']=data;}

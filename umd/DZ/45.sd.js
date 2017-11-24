@@ -1,0 +1,7 @@
+var data = {
+"_ring":1136,
+"_params":".sd-1136-en",
+"regions":{"1258648":{"level":4,"name":"Na\u00e2ma Province","index":0,"property":{"openStreetMapId":1258648,"iso3166":"DZ-45"}}},
+"paths":{"1258648":[[1]]},"ways":{"1":"dYDqAVl65f9zxQsCqJYCAMrkjwtu7bsaae2JHDTxzyG08IEkxfEfJk7yNysU8kM2BfOWNw7zXTm58W08q_EzQe3zB0Y8-LJIofh7TJn6PlI6-CNWQvNEWaL6dmYi-ExnCvZMavr3ZWyb9kNxQfU3c071H3dA9hd5LPQpf___W5hF_sqZLf0jnFP8l6H--c-lv--2qRjq_6m15u6s3eLxruzfj7KY2mq0r9gJtPLWHrW21j-2_9QDtojTlrRp0n-1J9LDt_3OzLimz3a6-NCqumPSobks1Ka6XNVzvQzUAsCH1a3BZtorw4_dpsZk4dnMGOIp0cHkB9dl41jd7-Oz39vhnuGL4Gji89sR4RnbauE824ni4tkA46fY_eBi2Nnhctwu7BfZ3fIi0prx_8zM8cLLhvaawzv7IMP__xW-L_P3vFXzR7A3-LGLVOt3ipzsEoJM6vZ7CeobdAbnFXLW5slv7-cCbV3s8mh27FpkC-doYkDrGFu15xRXFd6gTobchUyx4VJHIOBcQkrmRz6K5Uw79ONgMNLmEiKo3qoKCsvbDBS8nwYasccOA4fRBG9xAAByYyMHZ2ExB95YnxFeWkIT_1tgFNFb-xQlWt0TQFXLFP1SIRghUfQdglK9H6VRnB-gUqYhHVXGI-hZ6Ca-XFMqz2LrKwRjoECrPsNFwS9dXxUav2CJHnZgbyBuYdghwWStI99mFCNIaRYlfGzOI29ulyFbb_4d83BQGyRytBrOdcAVaHw4EuB-LQ4xhR0J-oc6CvqQ5QkqllIMEJcPDuqYEQ8bnqAPkZ-vEaCi-RPMpe4R6aY1E8mnPRMCqCMSbasPE5WsmRJ2rlUOPLR2C6mzGQgBtCIEJLWTA5a2AACyuiYBGL_4CI3KHgW-5IwLyuSPCw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/45']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2523,
+"_params":"-2523-en",
+"regions":{"2804758":{"level":7,"name":"Ordino","index":0,"property":{"openStreetMapId":2804758,"iso3166":"AD-05"}}},
+"paths":{"2804758":[[1]]},"ways":{"1":"tjKJAnBmFgC_4IoCHocYADf6Cy4h8n40v-iKOa3n8zyS56JG9OgTUZHoBFrG58pdaOraYBfvdWOF8_toZfbHbh30EXWh8RZ4xvNYffD3RIFT-UeHU_uqieL9OZH__zqVM_7qlnD5SaH29neluPhYp0T6BKrx-Tatw_jJr_32oLJy9Ny0cfJdtU3xsrYg7ma4Cu05vRTrdMCO69rDxOmKxbvgXsbX3qnKLtS-zdjMkdVIzNjdYcqq5v3Do-waugTzXbn69kKzFvv1sC_8ja9L_aOtmP1cqWH9iKfw_NGlSP2-oX3_45___2OdwP8hnHX8sJlH88-XZun1lW7nG5LB5BCPwuFrjQvhT4a-2IqD6dW-gnbNnIFazHd-5Mp1fdnJAHxMx9p6kMZNduLFXWwnxadotMPJZfDB62Lev5Vc67kfWzi3GVrssq9VSLQwTQu1Okm4tfVGw7X5Qu20jEAPtLQ-8bObOX20YzSNto0yCreWLmq3MitiuKoopLlCJ5S6ECNKvoogJ8DaHc_AuhuywDAPSb1kBv28aAOmszsCGbEHAZOsZAHHqFkCV6ZJBEajGAWvoDYFK58LBYGduQPNmoUCbpZyAXSRAADghnAEzHdmCC5uBgsKakcI6WYbCPJkOgVsYoQESWJ7BZpgmQZeXxYQll7FEsddLRWVXbwa_l5tHIFeih6PXe0gJlxTIulaJSMUWRgidlVZJ9FVCikHVfEullF6L5pPHTGiSzcypUmYM39HxzffQhk9rj47QGE_gEENP9pFPTzvSBA6VUrSOLdLhTYbTdQ00k61Nc9Q0jUTU6A1v1alNCJeHDXuZfc0wmh1NAFuNDSLcIwzg3KaMgh1bzBoeLMu9XihLXZ3zyhudyQn1Hd3Jeh5ZCLbezwgX3wxHTJ9qBv4f9EXg4BKFr-AZxO5gXoSjoOIEWOEmxA2hewOQIZLCRSHwgcjijcE9IzDAcWSiARmleoIIZmZDOGalgxYnMMP-J9-ESOknQ7bp9UMY6y5CzuxLgqislwILLV1B5y3XQWDurYEmb8PBk7CqgX8xQAAoMymAszQsAPc0V0FpNOyBsbVEQpX3EAQXuDZESnjghKF5WoQE-iJEIHqihIm76QTkfXCE6v28SI3-gsu"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AD/05']=data;}

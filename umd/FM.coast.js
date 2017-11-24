@@ -1,0 +1,7 @@
+var data = {
+"_ring":191299,
+"_params":"-191299-en",
+"regions":{"571802":{"level":2,"name":"Federated States of Micronesia","index":0,"property":{"openStreetMapId":571802,"iso3166":"FM"}}},
+"paths":{"571802":[[1],[2],[3],[4],[5],[6]]},"ways":{"1":"U4RnAJeWbAnDqWoArApwCeNk9-1ufWnOzXOV3YZcocyrRnns_CVu5IQYVM7VC_LbAADJy3wS3LdyCGuwCBgwrD4E2Jf2FH2EqQCee88FqWskH0dpjg8bY-YYsTlGKds-cD0CK9pOPjSMXjUjbWetNBSEMy34gvwRjo-RFL-EzwWAmR4SIZawAYmmAAAKuNgCZ8eUK1nRmygFwMZLLvkUS47rg2H706teJeYBctrzZ2T__1pu-fmWeZPvzmkK7B121cMugZryp4KU1JmRL-hirnyv-MVJ3SnZ5a-LxnCj79OsuYvtC3L__4dgKfHjZPft","2":"8BWQACKOOgheSpIAmPM7CNy-0OYLoB-uqH7iy9WD_qIGZNS14Xrylb4i_y1jA-QjAAAAADRWbxAO8ueg__-q5-fV3cfZ1___dcaF4Ny-0OY=","3":"kz5QAFmztQny7VEA7rm3CYn_SrtL_HjhT6YX1iqG__8KRqLyAAA9vk80936AHfU13BcnYEgmVBLqZAAALZmPURTYunbQ2Wpc__-Aqon_Srs=","4":"AjGRAKXKOwjzKJIAmbs8CJwIO3cAAIIhv1ZCLhE3MAkJZAAA___FeK7UNZesimqKZMD__yNRJN5vIxiiB1g-oklFLnYNHl6JnAg7dw==","5":"1RdxALPVDAmW8HEAmM8NCf__6TUlvv__4HcOnAAAgBv8zQAA___pNQ==","6":"or1vAG0fCQl_0XAAO9QJCebcbizZ_wAA__9oR8nFpnAqqVf791xe9W5_TpNKY_DC7xT__wAAoUMMjzF50c5UHObcbiw="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['FM']=data;}

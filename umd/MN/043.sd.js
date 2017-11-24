@@ -1,0 +1,7 @@
+var data = {
+"_ring":642,
+"_params":".sd-642-en",
+"regions":{"270055":{"level":4,"name":"Khovd Province","index":0,"property":{"openStreetMapId":270055,"iso3166":"MN-043"}}},
+"paths":{"270055":[[1]]},"ways":{"1":"AZmuAhd9ZwWKNOsC6J6gBY4fAABRJAgA9C4LA2Q5SAwXQi8Y4EU7F6JIfBcJS-0UUk78Em9PVxPbVFEP41Q3EAhY9BQwXjoXmGFDGiljKBqXZM0bwGUuGxJmqhcMb_0Zhm7oHW5rCSlIarEqJmUcLpFj4TJQZHM3OGiWPWZoyEsVad5Q0WlVUvFtEVb1dSFCVHq4OYd9tjVQguk0g4m5NnGOVjXSkQsvvZZ7KuGY5iYxo5kosaUpJ7Cp-iKyr1si0bCTHpKyVRxJt7QaEcCmFWnDyRKyx34NJtNsCjfcWAuA4yEKy-X6CLrqfAOY698ELuruEhXs8xnY7l8gje8mJPPuGSja7M8tzfPhOab8YkQH_xpM__8fV877jVZe9TdYyPOQWwb0mmJi83Fln-n5aofpbnv754GHzeWYjnnlbZOG5sOXLOqcnYDqR6Ne6UeoY-ZjrDLgArHi3XC25tzJvBnZccDy1JTAAspXu6PGgrdXv-Or1rYptFuv2cEZq27JCKVRxIegV86-nLLSVppP1HuY_tbDlv_bx5WR4RKU0uXOkZ3nmYeJ7G98rfQ0dz76PHT__8hwUvfDbzfzMW9F5FhuDuDjZi7WJmTK0ytoisylafHCrWRVxTteM8o0XN_KEVlDyi5QNsSZS8y_eEbCvGw5IbkvN0C1lDGep_ov06XuLeWkkSgrpqIh0qmFDwmqAABJrgIBSKujACOmOAEVo-MAT58qAGGeGwF0nTcBl5pzAkWaNANTl5wCBpVqAxmQSAIwjFgBnIA1AJV8SgGodwABiXLuAXhwEgEcaxIF3GGJBfxedwVtTTME6kV5BKBAhgWOPZsE3zznBSI7kwbAOAkKbTVGChg0PQeCMIcIMC2zCDUn4wnyJfUK3SIQDeAh_w0JH3YNBhr8DVkWygwDE2cMvA5bDWsNVhB_D2QSwA14E0ELzRIfCSYVywkMHLsGLx-fAI4fAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/043']=data;}

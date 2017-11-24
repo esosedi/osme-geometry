@@ -1,0 +1,7 @@
+var data = {
+"_ring":625,
+"_params":"-625-en",
+"regions":{"254216":{"level":8,"name":"Barranquitas, Puerto Rico","index":0,"property":{"openStreetMapId":254216,"iso3166":"PR-019"}}},
+"paths":{"254216":[[1]]},"ways":{"1":"VWAVAacADPyDkhUBjmQM_LIto46eLFuOOSZ5i30kNorBIkiHYSHKhaUfo4SNHjKDASBIfNMf43pFHox46hw8d3Iag3VVGGRzxBRkcXEKHGlSBepiuAD-XwAADFyfEKZS4Vj9McxZBTIlbSYpJXOhJoqKWR4-pekWR6cxFt_JPQhJ1nQDyN0AAA_0QyKR7Iclmd5EJmrUNSgZ0xgs6NW1LxXdIDDM4zIv__8SSqO9ZXgRwMl5osNUfHvHxX1TzEaAPM6GgW7Px4JY0TOHWdBkiA_Np4p9ykyO28iZjwbHqZBzxGuREcBkkzy-vJQnvrKVyr9wmFnAdpuDvtCdJ743n0C_BaUmv3SpnL9Oqsu-M67HvLuvgbtFsH65vbDXto2wGLMpr1iw664NrgKvPaxzrx-rK7CTpw6066Ygt0ynz7jvp7G6aKpfvSSsor4sswTAYrYTwR6448HVuMLCebjFw3q3gMS5tR_FbLDrxBGvuMStrALFY6m9xQal6cWCpDbHX6P-x3WnIMnDsNvJb7gdyZe5tMiPrEL2Zqyw99iqCPudolD9aZ2Y_fCb1v25lJ7_14r__z2AU_93eC3_X3bi_aN1-fzOcpP1unIV8xdySvD6b9ntKHCW7Llzy-i5c0PnR3WC46h1PN-9dGrdYHUx2hp0ONdacbXXVGy_1yxgs9jrUyTaQk4k2hBNz9nyRgfXqEMy1XM_U9NTO77RUDlN0Wk61dCbO4rP9zuHzlM7x8t_OCzIBjZAxjIzD8XSMSPEpDGFw6gyWMDrMWK_djH-vRswUrxXLOm54yqruDspcrSDKeSwJiozrzspFq2cKY6sbCvJq-kuxqk3M3ue3jUomvI1JZfzNOKUkzOVkkgx7o9eLxGPsi2jjg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/019']=data;}

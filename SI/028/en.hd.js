@@ -1,0 +1,10 @@
+const lang = require('../../lng/SI/028/lang-en.json');
+const base = require('../../umd/SI/028.hd.js');
+module.exports = {
+"_ring":1564,
+"_params":"0-1564-en",
+"regions": lang,
+"paths": base.paths,
+"ways": base.ways,
+"meta": base.meta,
+}

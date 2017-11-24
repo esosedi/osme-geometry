@@ -1,0 +1,7 @@
+var data = {
+"_ring":1941,
+"_params":".sd-1941-en",
+"regions":{"1908767":{"level":4,"name":"Chachoengsao Province","index":0,"property":{"openStreetMapId":1908767,"iso3166":"TH-24"}}},
+"paths":{"1908767":[[1]]},"ways":{"1":"a_vIAHOwAgYyRNUAGGEUBmT9ZELL9BpFh_EaRbvwZUZR59JEm-BjQlvb9kWX2W5EjtcfRC3Y3kc93C1LkeBQVNzf-FW12zlZid6UXafdMmFc3qFkLtuTZxDc82oI2tVtcdvqby3bnnLD1iV7dc7pgzLOZIgQwLabwrcWnx243qAuwi6k-sKxpsu83q1xvIeyFbmEtqS4Vrlhu4G9Y8TwvRLJ28g3x73LRcKPzkS_gNGMtfXTkq4m1z-tVtoTsH7iXq_i5JinhudonvnmDZu25ziSIu9GjTHvF4dK7aWDyO1Sgi3z4YTE-yyEi_1ZgWf-jHoY_jdz__9waOD_b2X0-_5kofVQYNnz5VvF9M1VlvR_Tdf3d0u5-udIA_xuRtP7ZUF7_es7a_1MOCP_WjQy_wMm1fT0JGrw8yGe7GYPtueEDnDlpBMH5DsVSeANEobaVgvE1_sHDtLyAoTN6wMdxQAA3cHVBmDBjRDau1IYMbrmJtSvlCusp38xgKMWM4OfoT8knNhHqpcdToGP70qeiaRL_4UAUgeBZVrnfaFbsnvGWeJ0I2M-b2BnuWmWaU9oznQQZQN3d2OLeopcFH4kUJ2EJkbKhLtBwXwMPiN8sTlAeB83dHc0L3N0SS7jboMvTGs8L9ppHy2sZkMsWWUDKTlgayfHXNEi1VzsDrJgAABfZBUBLGiTBPJv4gQLedMHXnr6Ce15sQv1e2kNUoWXDbyGwxGBi2oTR5NkGM-Wyhacml0WupzUFP6kZwQ8qW4FB6pxBDnEeQ8KyKQTfswvForTeQ911s0QadfODejayg4h-3sQtv3JHS_-ECf__yYtEP71P2T9ZEI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/24']=data;}

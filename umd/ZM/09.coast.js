@@ -1,0 +1,7 @@
+var data = {
+"_ring":779,
+"_params":"-779-en",
+"regions":{"318864":{"level":4,"name":"Lusaka Province","index":0,"property":{"openStreetMapId":318864,"iso3166":"ZM-09"}}},
+"paths":{"318864":[[1]]},"ways":{"1":"LHYM_7S7pwGuoiD_RyjQAf__ANUr9JTdW9-s5mi9fuinunPs9reS7O-2s-2wtKLtBbMy7nauou2ZrBvslak87Xens-39pYDtQaTM7Y2jh-6IoPftkp9b7-CcZO8_mmvwJ5nS78GV8_APk43wso4M8XqNcvE5jWDynouL8mCJHPLPhuDy_YOZ9N-BTPWngGT2hoBS99t-p_cxfT_4vnwC-pZ7mvpYefj66HbN-rp0ZvvEc2X8a3Ky_LBw__sWb8P8fG3U_OhsTPxIaub7mmUZ_CdlmPxzZLL8CmP3-yhgdvxSX2z9Y19j_rhdnv6bW1v9PVTm-51R-PrMTl_6LExv-9NKMf0pSUL90Ue4_sRF4v4rRMD-ZkH__9c99_2hPFj8Lzws-xA7KPpqO6z4MjwA-MI8HvWCPEDzED0Z8jY-jfE5QDvxR0B58Kc-re_9PFfvmzuh7og4S-zNONXrgzpH66o7Her9PIbpRT5t6XVA3eh-QTDoM0L95jdAaeF5QDDeID8H3XY999V2PWHUSj5K09tAg9E9QbLQLUHvzo9BWc3VQTPNKUN8zL1D8MV4QIbBMT80v40-9LufOWK1TTnEs8Y6R7BCOpOvFjgmrrM3OqwVNWuo6TWYpwo2wKZ_NC-mHjR_pfk1_KE7NpWgLTRsngUwz5qjL_OYoCxLlp0mkI9mJZOM3CMdi34hp4lyHweI9xqjha0WHYKwFPuBFBK6gPwP7n19DZZ8-wtTe8YF2HnOAyN58wIWePkDe3aGA5J04APbc_ADR3BbBKVvwwMYbw4DC28AAPVtqAcVas8FLFqFEdVRnBG4S5Ip1TbvJsAuCR8JKQEo4SNxNeQU8zVbElwvPA1RNQ8IFTIrAjw4bQTDPyQEcUAAAIJQswHjT3cP8lF7EUBa3RFPZ0oRAHUKDnFypQwBdugL-HcFCF50twIdhEEAh5DWCM-FJBP5ieoYWnuZLFOEXTIah9owno9oMdaXojNJmIo1w59eNBGlBDfsqD09rKUOQ5CZXkv5nJdmYJ-9aIu-GXG_wVWBfNS6i3zU4Y1vwXuY4MEhpi7h8qZk4YKsDPMkvPr12cZb_MXL__8A1Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZM/09']=data;}

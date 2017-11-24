@@ -1,0 +1,7 @@
+var data = {
+"_ring":2141,
+"_params":".sd-2141-en",
+"regions":{"2194832":{"level":4,"name":"R\u00edo San Juan Department","index":0,"property":{"openStreetMapId":2194832,"iso3166":"NI-SJ"}}},
+"paths":{"2194832":[[1]]},"ways":{"1":"9WajABLY6_qCM7UAHmED-1aZxXx-mTt-VpcJgIGSs4DSkN6EiZJJhWWS7oduj-eJ5I_Hi_OL4Ip_iVqMW4N_jU2B7oxBfjyKK3yHiup7ro3qebWO9Hxakuh8A5imedmZkXoKmw55T54fcnOc42x8omleIan4WRKyjFrrs-NYDLkOWzO9BlrrvWpakL8qWbm_bVjHvnFUnL8_UJzCPFOlxwZTFMmvVezKDlTszTlV89DPVujQWler0gJWYtRAWFfWHliY16VV3NjkUFfYgk0Q2tpIv9ogSK3btEvr3_FIUeitNwfyGTP09pgz-fdwQwX82TFJ_toybPqoMZf6mTH8-30sLf55Kfb8fCdW_2YecP59GP__qRLK_f0QdvmxEfv2fQ1K8OcN_-t7DDvq0Ak_6boH5eL1ATjfoAL22QAAENSTACfThgIO01wE7s39BzjNdQrUyQUSKsbHEdTEug4fw4UPrsBrDhG-fwtcvcoLOLqnDWm4og5VtysM4LRLDKqzABFlspgRO7EbEbesAhI3qYEQc6aOE1ymVBSZo2YXG6GyGeujDByZpHgjYKO7J3ae5ig7mYgsApgQL_KU4S3mkz4u8ZJINJiQTzVOjk46yI8qP_aMT0Fxhzk98INAPJ-A9TjDff45pXi5QdN0DUkQZhNNc2SjStNe51NtUtk1hyzOSFsG70wAAKhSKQG4vDIAP83kEQzQXhLs0FUW5tMcGQvX8Bl91kkcEtVBHf_WeR5T1wwgpduvIa3c3iSb3kQm3-KwJRLkeyfU58oorekdLmrrZC9U7IkzGfFZNgL4PUD8-atE8vnkSEP86E0K_EBV___SV3v-RVsS-wBbfvlvXOP5312P9_ZdHvfOYcL5R2Xx9e9m-vSZaIXycmhT6rtqdunMbQ7ZUWpy0CNwJ8aUcUjC7G9Mwflstb69bN-7rmqptn1s8LHtasapLmsho8ptG6Q6cmucOHlymsV4MpgJe5uYQXxWmcV8"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/SJ']=data;}

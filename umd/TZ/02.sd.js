@@ -1,0 +1,7 @@
+var data = {
+"_ring":1275,
+"_params":".sd-1275-en",
+"regions":{"1600803":{"level":4,"name":"Dar es Salaam Region","index":0,"property":{"openStreetMapId":1600803,"iso3166":"TZ-02"}}},
+"paths":{"1600803":[[1],[2],[3],[4]]},"ways":{"1":"7Vea_1DTVgIvgpr_6_pWAlC1msAAAP__zllKRIV0AABAx08n___Qi7PDVLZQtZrA","2":"r5iZ_3YFVwLu5Zn_jk9XAoxww7hgGf__AACt8uce1vN9au2jzs0gE7fiAAD__3U2cYlyqoxww7g=","3":"8ZeW_4BDYQLqtpb_AFhhAgAAK1vjEgAA__-iHBX1__8wRDf1AAArWw==","4":"vDGV_2BHUwLpDpv_4m1bAr5OZzhxfwAApo6TBHGh0g07v6IX4eM8GrLxSSh9_g88__80TJH430-x9SBVp_fWVhr1flib3chj1dS8ZfPKlGa7xEZpgrZka8KlF3CVoMB00Z_UevSh9HyMp1J8VqzCfvCxon7zsJ2Acaxmg0-lH4WlneaB15l9gUmPuIMWi6SAY4dvgemGooOGg1GEC4Cbhwp9iImGeFaKaHcbiel4SIf4d7OE7XPVg3FyUoJ9chWE0298hvBhUYrAX6mIbF3YiA9c_IVWWJCDe1l_hWpWV4aaWHGG9lWniN9Wcoh2VsyJrFgwiNJaF4pxYiWNIWd0jLlphIpPdHKHK3QuikR3IYtYeGqO1HrZkN15W5MRcpWanXEmoJFm2KT4Xxyto2Ecs09k87UUW03ANlxDw5RYxsgaV9nP1Fkq0T9VgddYVAbcdFkO3UZZW94WTdvhtEvw4z9Gg-esKp_rJCbG7EMlGu5OHfnvrxwC8R0SmfSWDb_4oAgH-vQICv_EB___BwC6_wAAse4JDSnBXxUxmhgf93o4KgljJDvUS75OZzg="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TZ/02']=data;}

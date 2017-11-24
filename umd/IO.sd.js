@@ -1,0 +1,7 @@
+var data = {
+"_ring":191334,
+"_params":".sd-191334-en",
+"regions":{"1993867":{"level":2,"name":"British Indian Ocean Territory","index":0,"property":{"openStreetMapId":1993867,"iso3166":"IO"}}},
+"paths":{"1993867":[[1],[2],[3],[4],[5]]},"ways":{"1":"rj6t_zLQRgRwQK3_udJGBAAA_____wAATTz5oQAA__8=","2":"IVeL_xrvTARfxZT_WlZVBGDrXUCY9LNOGv22bP__Wny7_YWRSvjxo-nqmr-K0qDaLMXc5ZukBPd_ev__PGnm_cxDmOFWG5nKEBObvncEUp0AAF-K6wHVcxAKh1hGGhM8oSOaMoY_NyldXn8ZqHpVBymG5gGAlQAAzrTPBGC_Jgqk0fAXu-GXM2DrXUA=","3":"8fGW_1HuOwRvaqX_ZsJGBJ-FAAAJmNYEZLFQFMLD_xl60vgk4-bpOuPtn0jN8AJT8vetf8f9OZX__wepJ_sxvVL13cy55UDqYt6R8vDTuvmCvv__frb__xWwCf73ohbydJdv4XuRrtUcjbXKkYr2tqyM2J1ci2aWI4d7kjBwQ5B6bESTMWVkoIpZZ6lVUnq_8T1FyRwsg8ovGa3CLREUuVEJTa6DBAyk5AGrnJUA6pAAAPZxeQLYWgIQoTvuGm8r4ieSIX8xvRweR-QbmVxGFhR1tgSmf1kAn4UAAA==","4":"r9Kn_3nkTQSt2qr_SvBQBHfhdCz__9iJitN44SR2__-GHovTAAAndnIshx7ViQAAd-F0LA==","5":"K5Cp_yV7QwSIIbP_3ulRBJ7mTMV14kLTv9PS54W_FfNDoF39X43__5Jx1f5uXzP530l07S8_Y-VzM-7WhSn4uaEqUa2tNMCbtzKNlvEC0loAAMNRCwQvMnQIXylFEY8gsCegEVBADwnoU7AFYpoAAB-0aATvww8JtM_0DYTfgBcf84EoQ_nrMv__Y0uG_kV06PF5jrbou5lb4SepF-KetoHmXsKe5kzF"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IO']=data;}

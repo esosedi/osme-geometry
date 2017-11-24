@@ -1,0 +1,7 @@
+var data = {
+"_ring":2519,
+"_params":"-2519-en",
+"regions":{"2804754":{"level":7,"name":"Canillo","index":0,"property":{"openStreetMapId":2804754,"iso3166":"AD-02"}}},
+"paths":{"2804754":[[1]]},"ways":{"1":"ySmJAp_VFwCCfooCEkIbAAAIAACGCc8CAgtmBMYOMwrhGWMKsymBDGMskwzGLysM9jICC0I4tAg6PVcHgUG9BoJGgQbUSDMGaU_rBNhVlAQtWKcEPFsxBUNgtgUhY68FIGhDBdpyygRsePIDt3mdBo97SwiNg_0LLYdHDcqKYA55j0YPBZy7D8OhJhA1o5wQDKUyElOm1xJKqsATuKtwFLmssRk5sHMbMrmcIEa7DSEcv-oi-cOUJE_GzSWuyPArw8ulMVrNsTOC0Ngz2dKHM_3XKDIm2vExdtw4MpLjSDL06MswqPA-LkbxxC-p-qA7YPKvQZL2v0Tn9K1G4POLSQv08kr__6tV6vr_V7D5aFsY93Ffl_NKaFftMmqe54NqeOHpb1zdZHTY4s91JOZceu3nhYRp7IGGUOZ6juTkw5GR6-iY_exumwjrqJwq52meX-AWovndqaP12mymqNGdrG3QHq8p0g-0LtTctb7WYLeM0O6_3NH1wVzVF8VR2rLGlNOjxgLIQsncuxbE-K8Sw_am6L-UqAO9YZxEvPCNP7xmjHK78ocIvIqFCLw2g_28WYLvv06CfsFVg_fCxYTnw9uCPMUEgsTHDYJLzdx5btQ2eLPXx3LG2qdyxNymbQLiW2tc6yhv8fI0cEH4xmd7-9xd6P1AWf__aFig_4dX0_7zVI_-kVLQ-59RPPs5UA37tU_K-hVJWfUfSOr0hkdF9JRHjPO1RiLzhEXo8klDd_GbQqDv4kLJ7ptBs-5IQQbusT7y7CY-busTQEPm2T253748JNr4OnHWPjlk1EYzS9F8Lf7O9yU3ywki2MmcJ12xrCmcoAYsdZ7NLKibQizqlWwlrY78JNyNJybzjIopwouIKfKKIip1issqP4rjLQCKkCQYghYQRXe7B2NtEwvTZlkPCWSED9dgUxh8WykbnlgIFotNHAe0RMoFuT-VAIo7DAGIOQAA6Db6BFQ1zgomMlwLDCO3CNETAAgAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AD/02']=data;}

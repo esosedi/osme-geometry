@@ -1,0 +1,7 @@
+var data = {
+"_ring":2212,
+"_params":".sd-2212-en",
+"regions":{"2279589":{"level":4,"name":"Kunene Region","index":0,"property":{"openStreetMapId":2279589,"iso3166":"NA-KU"}}},
+"paths":{"2279589":[[1]]},"ways":{"1":"n5u8_rEYswBYKP3-NCr_AP9uzjGafEws-ITwJcyJFCV4lEseF6NMD_imqg39qnoNE687C3GxUwv2uO4F5MJtA57HXgNM2gAAIuIfACbnGgFx7q0AOe31Atfyjgo09ZgRCPTBEv3zxxXy8eUWQ-9SGo3wiR-k73cgPvHjITnxOSPN7W0kJu8OJs3uSynH75ksHfHlLFnzEDBj8xwyyvbaNp_4yzfB-T468fpSOi796T7f_gdA__-AScr9eU2k_vtQWf_6Uhn9o1g--KNbhfU0W97uw2Pm5wxvmOPhcZTj7nOx5AR1PeNweSPkIHqi40Z7MeV1f17hxX632u16X9i1fRLUVX0L0rN7csGqgnWoJYRHmpiDpZKfhYqMVIhriYGIDoF8hpB2Y4kvdCGMrnHXjJZrRItka1KS6HCsksRw0Y_WdeKPgXYmo0x4TawXd_SxSHnZt8x1q7didszDdnOYznFzLNOvcNbXfW535JdrNe1faq_5WWf4_oph___ZS9D-UUph_-5IdP5qR2H6MUe09dxD0fUAQDz3nD-A8g08A-x3OrHqDjES690uCuf7MAvmAC814U8vSt3JLenYJCef0w8rXtAnLoPPMC2yytUqvstYJqHJaifLwH8qsL6HKnS7uyeWuX8nc7gBJoy4GSXdtokiHLYgHxSxtBnArZoXqar6F_GpUxSppigUc6XqEiClehKvo7EQwqOmEGih5QwLno4Le5ukCqKVMw1XjxQM-ou_DUCJbwztgsQOen7CDjh8sguScVQKyXCHCjFvAABUYaMDY166CCJduhUZVbEjBVKLLKxNyjQtTW04WUscOwZL1UOtQ0VJf0Imahcz927OMf9uzjE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/KU']=data;}

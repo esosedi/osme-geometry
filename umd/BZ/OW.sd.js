@@ -1,0 +1,7 @@
+var data = {
+"_ring":1083,
+"_params":".sd-1083-en",
+"regions":{"962355":{"level":4,"name":"Orange Walk District","index":0,"property":{"openStreetMapId":962355,"iso3166":"BZ-OW"}}},
+"paths":{"962355":[[1]]},"ways":{"1":"vTkIAValr_rbexYBQgS9-gAAwgBJfsEAmq4AANKv4QMrs4EIwbVhEI-5yhbVvP0h_LwSJRK8KCiQuqkoMbjeK461kix_s5Erc7MfLTOy0izrrBUw1Ky8MLGvfDEcrz40Fa5MNZ6u5zb-rU44Sq9cOaquAzoYsJ88xa2rPISs4D7Gqvo-fauiQBKpyECrqMc_0qcJQjKky0MypHJFrKJmRmukZ0eaocFKJ6L-TfKgnk0NoMNOzp7NTkKePFXtn-9VJ6BFVQSh5lYXojNXjaT_Vt2kWVZnpeZW1qbLVQ-n2VYJqi5ZH6piWsuqIlpVq_5cNq0yXqGsWV9jrWhiqLC4ZeywEWXosbhlJbQ6aBm0IWk0tpVqk7WJa8i2I2wkt2Jr_rcJbMS372qHuGJrh7iValW5e2oUu9Zr-bvkbY68sW0MvfNvt73Lbq-_zXDnwplv78MzcDLHOXhzyJN45cg8e-TLWH_6zst-tc4OgurPQ4TN1mqFs9zUieTe_Isd35eNFOHLjoLiyo2-5D6OiOaZkH7rjZGa7_eV_fAdlobx-Jev8gSXqfY4mHL4R5tc-O-c3PqwnX79ZaBu_lignP5-n___l6Aj_sOim_D2w9LZ2M8OtP__m6NesryZCa4-kgGsJI1PriKHlq7dgTGs6n27qwJ2qq05cuqrhG7Sq35plq4dZpauFGLmnURgDpxNXQ6cLVK1loclP5opJ_iWRCdPk1sil44ZJByMaSM4iWghZIeDIY6DLRsCfiwZZnceGV9uzxrkaugYPGf2GHVjOhqvYDkZnFssGllTcRvPUDsbKU_OGXNNoRS8SiYSBEfvEP9A_BA3O_0RYjgkECor0g5xJXMN9yJzDZog7g-oHp8RhhmVBlkHAADCAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BZ/OW']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2081,
+"_params":".hd-2081-en",
+"regions":{"2060175":{"level":4,"name":"Jabal al Gharbi District","index":0,"property":{"openStreetMapId":2060175,"iso3166":"LY-JG"}}},
+"paths":{"2060175":[[1]]},"ways":{"1":"Nvm5AYacsgCHlu4BNO_gAAAAWBRGlp0TppokE2OaBRAsm28KDp3yCWGicAV1piYCpKjHAmutrgIosXIEH7vkAlHApQGBxc8Ck8mKBN7LSATnzSYFN9HLAvnTCwIZ1-cBItnFAifbawNe30YCG-NnASfoYQBt6wAAWe_4AfXyMwQB9l4GiPakDtT22xfy-AIZoflEGf36EyB49gMkM_VYJpv1_CZf9vEni_ZlKLD2zyla9x4uZ_ggOaj1wDmT79BLpfGiWYz4_Vv__59bS_8JY23_tGkt_Ntp1fr9aUX5aGr59_xquvbGa1P2OGwj9tFs_fURbg_2InCT9Hh3tfTsel71Jn8S9kOCo_Y9hOT294Sm9hmFfvZNhXb2hoUK9q2F_PUShp31vYb39KGHzfQMiHL0XIjs84qI6fK4iOHx_Ih18BmKcvC-igTwpIuA75CM8e5ajY_uRo5I7sOOyO39joDtBY-Q7eGOkO1gjmXtJo5g7beNLe1RjejsBI2i7NmMV-zKjB3sjYwN7E6MDuzkiwHsx4vi6riK4-p2imvqwIkf6mSJGOo7ieDpDol96dWIw-imiHno44iS582IKOcViajmFIk15nWJN-XficnkF4mu5AOJaOQNiQ_kpIip44uHqeNCh5rj84ZO4iiHzty6hw_XDohU02eI_c4niAPNVogYy9iJGMlxjPTFFY5fwIuQ9LxLkY60yZo6saeeFa-ioEqsBaLMm8mk-JFSp06KiKqxhUit4Wkc7OhpCPAHbPLwWmp29OBkD_jUVM79B1L__6pKq_gdQy74xUEp-AQnE_qqHBf1nBN07zcQSOhoDLfhiwXz21gAdt08ABN2CQDoIgAAWBQ="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/JG']=data;}

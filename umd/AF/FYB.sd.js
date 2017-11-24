@@ -1,0 +1,7 @@
+var data = {
+"_ring":1371,
+"_params":".sd-1371-en",
+"regions":{"1674814":{"level":4,"name":"Faryab Province","index":0,"property":{"openStreetMapId":1674814,"iso3166":"AF-FYB"}}},
+"paths":{"1674814":[[1]]},"ways":{"1":"gw0ZAibIzgO5YjgC8qbsA8VfBuZFYDfp-l6L8FRcw_KQWEf0xVUd-vlT-fvQTyL_hkz__y5LmP3uSaX0iErS7QxMY-ffS1jliEpA5LRCD-U1QP3jmziq1M80mdHHL9rPKSv_yJIpZchTJyXKZiU_yl4hGsSZHgLDXxT0wgcS_8M8D-rIfwt6yw8IYc-EA4_GjAAAvwAAxrV5AM2xcASrrAYJFqF9BBCQfQS0hEkGDnvcBbt4_gFHcTIBQlZRA9lPOwdiSloJDElQGMBKrhw1TR8fkEt_HuBHyBnfP8gYszyCGNQ1ZxrXM-ohozFUI-QvFSTTLLsjRCahJN4hZyQ-FKEkZBK0JS8R-Cc4EOAvkxFFOm0QFzxHDsg_jAWSQwAAs0xSA_FYuQJZYOMAnGP8AmxoZwK8aAkE8WhyDaBn4BE7ZJ4XemUEGGZrrBbMb3gXknOvGxR5ayWreYoszXhkMFJ5yTIkdzQ0sniaNhl-azg2gEo7foHKQRaD3EWIgtFJDoQ7TQOKR1RBkkpb95arXtGcEWGYoR5i5KXnYfqp51-erv9e27W0YL26_mIJ2I134dvqd7vp3XR57o51le9_diXy5XpX_42bV_9Ooor9QbA8_1K4__88wk7_hcqv_7XV8Pn1zm7xksml63jEeOJPwe7e-r4G2CS-N9KBv6HN4sEHwzDMnb8Ky0673seEtaTG_a5WyeKmM84GoZfOwZyLzbGYps0HlsbOUJGl0jGQpdK-j23PSpEoxcSPMr73kbu01Iocsz-EGKw8gO6slHlhrHlxiKmqauCpx2aGpiRi954TYHKe-V03ofldWrG2WSPDA1uvzIdcR9JBXD_cs13y4cVfBuY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/FYB']=data;}

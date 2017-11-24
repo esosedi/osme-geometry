@@ -1,0 +1,7 @@
+var data = {
+"_ring":1947,
+"_params":".sd-1947-en",
+"regions":{"1908773":{"level":4,"name":"Chonburi Province","index":0,"property":{"openStreetMapId":1908773,"iso3166":"TH-20"}}},
+"paths":{"1908773":[[1]]},"ways":{"1":"oBXAAHtlAgYzYc8A_xYQBuyU6_9ljx_6TIvI-HyP_u96kErqz4kB3heKadlRiHbYJ4Gs1zB8s9PHeWTObHkRy3p7NMV6e_zCxnnEwNNyTLvocEq4DXGktFJzybHjc8-vnHIwrQBuzqdKbYej2G-Qn4V1LJojecmUaHtmjw179ooAeCGGPHUShL10AoIAeLB5knjvdOl60HBWez9tQH07ah58FWWkeB9hl3VcYaBwl2Zabiplk23HXzRvgVYxccxQe3DLTQdqREYtaYBGamW7SzdjAE10X8tNa1quTHRVvU5pUUROpU47TcxMakvQSg9HeEhIRHNBpUMQO9A-OzfkNok0uTObKkAzXiNwL8EUjytFDvorKAHbKgABFieCARkkAADaHEIDEg9iC0UJKhJAAGMYAACQIg0Bain5AfIrgANVLtQG0i-ACz4wVw7lLTYRZy5PEvkwDBUQOMEX0jvQFydIHBLoUcgIilS_CBNY4wqJVx8OIlnzD8xi9Q-TZKIUrGRRF09ruxtGcS0aKXGYEoB7bwzVf1IML4WjDQuLdRPSjmIUaZqWG8yfnx09qNQb4LY1E6W8KRfDwvAdG8cHKU_M9ir-1zIo7N9NKvDe4y5v33QyM-JmOI3jqjlR5nU6YeenPu_pwz8Y639C-u3aQnLyRUHc9HRCf_VcRH_1r0ye-AFQHfmiVQH_mVn__5xcbv8YYC76Am1X9wV9gfT4hbvyCIi46TqM0Oakj4vkL5Vg3a6bBd2pnV_e0KJN3nWm89ytqMfWKays0ZWyG9FCt6jT3b6fzmjJBsgwz_O9i9OsvLLYi7pI2uu3Ft4ptJ_odKgC9jaiJ_homkn_tpf__-yU6_8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/20']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1426,
+"_params":".sd-1426-en",
+"regions":{"1675859":{"level":8,"name":"Municipality of Komenda","index":0,"property":{"openStreetMapId":1675859,"iso3166":"SI-164"}}},
+"paths":{"1675859":[[1]]},"ways":{"1":"R4fAAs1C3QCzmsECxoPeACsB8HMAAHFvHgFuaqIA-mMjAnldqgMCXNoI7FpZDWNYWw0FUy4MxUxlCmNINA6nRWQWAkN-GnpAYiELR3Qm2kdEK05H1y3BQoU4yjTfQ_8jvUKqGFdH_RdLRx8Va0k6FXdJIhhfTDEY7E4NGCVP7BZuUVkXhFFKFXNa7xRQWaUS6VobEixcMxAQXhgPrWDVDnFhMgsAYx8JL2U0AnRnAADubcgH33cdESF3KxL-f1MUUICOE8-KIRUUi90WjZFXF6GQXR1kkukc1pUJICKWFSHjluogQZr_J4ebLid6nsgpiqBAKsygBjDzo78yW6G2NYegXToVq-hAwKmfQ9ymEUZlp69I0aZwSz2mGU2so_tPlqN_U7ykqVRYpKxV4KRJV6KlI1lUp0dYEahuXGqqfFt6qxZYFa2PWLquA1swsdZjzrPJZCu1J2KuvqFx3cEKdZrH1nhuyg99uMu0fPPQs4HP0uGAGNVjgVzWcX8t16N_QdeCgtHX6IJw20aCt9tXhfneU4qc4gGNJeVEkT7nJ5PN6puSket3lYvux5Y78vuVUPOflhj1PZoe906amfism2D7DpyW_BidZv0uok3_BqTJ_kqm__-Gpun9SKdc-TWrlPg1qsjy6qkf8cKnU_CAqHjraKX86WenC-mOqofp7bN56ie3hekZuejqCrqp6nW8KunhvIHn0rtg5oW69-V3t5bjg7Vd4VW3SN_6tMXeMLb62wG3idbotgfSULzuxJ-7XL-Lvfq7UbsGuyfC4bnjw7O6xsmOtUfJy7YOzlG1etE0ri_Qq6vPzW-lUMv9olfQ7KIt01ufcdOPnMLQu5qx0IqUctIWk0vUQJGn01CPH9SQjifR44rozriHvdBOhFrPrn4n1Dl-vdbzfMDWqXzZ1IF4i9ZbdarZGHDd2lNvT9xLcDXeKWoF4ZBnu-OAZh_jPmJx6QpfEfHLXO3vnlvN8DVYGfltVv__o09U8bY1Gs55MZ7BYSe7q2YjgaXKIxmlQB3fnDYcNp7mGrKdjhpOmhYTZ5aXDtiJtw9ohhkO84JqCFJ7pQVWdikB7nM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/164']=data;}

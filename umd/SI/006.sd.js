@@ -1,0 +1,7 @@
+var data = {
+"_ring":1398,
+"_params":".sd-1398-en",
+"regions":{"1675776":{"level":8,"name":"Municipality of Bovec","index":0,"property":{"openStreetMapId":1675776,"iso3166":"SI-006"}}},
+"paths":{"1675776":[[1]]},"ways":{"1":"hvbBAnF2zAB4uMQCFSHTAKMrhb4LKK-2fiv0riMlKKbZGYqaHx8Ok9op8owoMYqCwyqUf-QkhXgSIQBxFyl0ZJYvi16qLd1bITP1U9swn1GDMh9P2CXoRochDUbuHsdGShqIRkIY5kd2GV5IghvAR1kdrUhGHSdMixOaTH4MDEwAAExGOQaQPHoKNDiJC781hQmsNHcMNCuTC5MpggyyKV8R5yIiEXcfYRcHGaEbMxK7HiIIcSCBBp8lYQfsKgAAQjj9A2o47griPWUJ9kHOCRBFNAn7SdcKE1AnDzxQvhKoTkoVek-_Fg9b8xlGXHocg2EsHS5pSRr2bhcaC3JzGA51Chkbfd8VLYXnFoyGEhsliT8cionPHkuJpiMChqYnn4YSKQyKvyxjkRkwB5S8MveSSjRvlLI5Bp0CQPGcuURQnldFuqW0RPqnlkcMreZKH6lsTsOpRlCnqi5QJqp1UcOxI1MAtDla5bubXVC8CmD3ujBhmsTFZfLJmGYuynJo7tG_Z8Pkrmn85vpq9OkNax_piGyi6kVudfF7cLzynnKe9Q90AvSUdav2SHij9Y952Pide3H18X5j-jmCbPkSgyj7loT3-HKHU_m4id77B4s4_O-N__8ekn3-VZLO-xGVY_i8lLr1Z5WR946b7PVJnwz3IaLp8p-mSO5OphTrtaTb5lKlY9--oq7Z6qT42gmnid5IqcHe3qvj4p6vseI3s__naLjY5pu5w_DCvzb178Zb8Z_HMe5Ry9Tkjc2I4mfPXd-C07fg0dhT3VDaIN7E3ePZbeDT1EPmv9Hw5YvSO-g00Q_qOMwU6yjNuO5Ky5bxB8jF8sbDVPH6vV_yBrv-8XG1J_SDsJ7zH7De8lCsZvOaqGT2aKOk-L2iffpBpTT9ZqOR_9ub__9Hi2r6i4fG9P2Dx_MxhQPvJH8m7OSAPOhVgMTlA38L5Bx74OLJfLLhkHc-4EhzRt1XcR3ZBGxC1dtrP9D5Z_bNsmW0zRhlKMrbYO7Ja17zx_RPlciSTrrJb0ZCy7lA3cqcOZ7G2TcCxLAx6sH1Lu6-HSyAvqMrhb4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/006']=data;}

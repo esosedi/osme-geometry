@@ -1,0 +1,7 @@
+var data = {
+"_ring":1496,
+"_params":".sd-1496-en",
+"regions":{"1676352":{"level":8,"name":"Municipality of Hajdina","index":0,"property":{"openStreetMapId":1676352,"iso3166":"SI-159"}}},
+"paths":{"1676352":[[1]]},"ways":{"1":"sr7DAnf28AAC4cQCRyHyANkJUO56CTjq8QkI0hIBxtqoAELa0gEtyUsHY8oyB2vLGAriy5AKgc_nC-HPSg4awjMLLsD7C1G8WggXuhMK-7VJBjmziwY4shEEdrGlBKiuGAdmrvMCP6sAAGqn1gjZokkNLJzAEuaW9BwWidggAoP6H7yCGyZWdwEpMm18LsFpczIRZjw2-1x3NQRctzhoWGo4flcDPuBUFz6SVqZEGVQrRTFV1EgGUc5JxlKiS-ZSMk3ZWPBOSVhKUc1Yu1KjTmBYG078VqZJN1w-RnJYZkBmXSg5elfwNBtYdzPiXIgyImixMnlxKzFwfO4xy35BJRmA1ySNgJ0Zo4WDGXKKJx2djToTRJPrFcqSWRc9lqoaDpdfGeCXKRcrl8wRnpirBX-Y1gBPpAAAhaqNBtOmqwyWqX8Q1qp5EzGuJh9frjIgn63iIJiyTCRitnsdjbhoFSi6uxFPvw4MucEKCLbG7gPAymAC2dDqCwfV8RCN1wUTodjFDyXcrgko4vgDc-J2B7bk4gfB6EsKC-1TEKztayQa7YsmKe_WKK_uuDIa7x818_DbOoj0T0H__2RSaPfmX6PuLmgv6QVsK9z8eGnUcn4y1hWAQ9LGgwnN64V9yPyIW7xNk925tZj-sg2grLE1nsKnEqq8oySp4aB0rVOgGK3DnRqwjZ1yr-CalbC3mPCvmo16tieI5aW5hWGjdYVLpkODWakFguapr4JZrNqABrHgftOzBXpyshl5ebEddoWyLHKVr_9ulbGYbz-0sm9Ew7FwWskKYSDQgV4tyYJd7cOTWve_JVo_wJBZir5PWJq1SFcYtkpX_LTBUvKyrlIatOlPaLSnUM-76k7mvHtPur5tTUfAAE7WwaBOV8HdTvLB7kopxepLBsgwSBnLkUgpzHFEPtBGQK3E4j3uuC0yw8PnJJ7Rjipn1_knD9kRMzTtVBz__5QTdOnBD7_q1glP7g=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/159']=data;}

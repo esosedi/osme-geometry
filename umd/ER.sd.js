@@ -1,0 +1,7 @@
+var data = {
+"_ring":191241,
+"_params":".sd-191241-en",
+"regions":{"296961":{"level":2,"name":"Eritrea","index":0,"property":{"openStreetMapId":296961,"iso3166":"ER"}}},
+"paths":{"296961":[[1]]},"ways":{"1":"h5e8AMUULAKu4RMBL5yUAmphd3KaX71zC19PcgRg1XGNYXxtCl__bINf02tGXn1scF7NasZb5WiPXQ5oHV-DaXxgT2mdYoxotWI2Z6JkbGV2ZtdlpGZJZf1lv2DMYb1eTl76V3tehFSjW6NNaFxNTOdbMEtrXglKVmAlR81j3UUUZT1E2GfJQ4FoUEGjZ4c_e2mbPaNp1ztwceo2SGToL-hh6C-mUYgoqFFiJzVTQSbXVEwm4laMI8BZfSNcXXkgSF0dHQFceBrrWLoYgVU3GKhUURWEVr4Tj1fsENdXOgvcVj8JcFcbBxJWNwRPVZoE1lS3A9x8AACqgLcDuolABkmKpAcQjNUG3JeCCVKa-AuIrKgR967ME_Ky2hLxtTITFLruEJm_hhGCwhMU-cinFRzNUBQi0H0Vi9J7FB3TxxVb0Hsax9A6HmXSRiBT0ackCdgcKLbanCgh3vQnhOBNMHvkOzIz5WczkuNONa_jFDdc6EI8_-e-PeLlnD0w5VY-_OU9PzXoKj_R6B5BVOd9Qn3nzkPS6oNEeO0CSKT2T0v__2VU-fQpXNDpVGK43J1mS8wNamzIo2suxz5v7cL5ca_BrnQbwhF4JsRafOTE04ytwxiPELGJlzStiZeWqpuWh6gEl5mmxZs0ptyhrJbGwJ-B18IEdgHLEGvgz11jqNeNTwnk6ksR4kk1mujgMMjqdzDM7Y0uqPBFHab7Aw___3sPSfmBC_nx2gvT8IoIu-9rBmXtRAM57gAArelPB7Th4QTB3lkMENoGEtjXwhPK0f4fkMskK0PD4y1IwhMzVbn5N6azKEoZqnBPi6UkV8uVzlubjrta4YzfYeCJmGGAh3hdPIXDXX2E8VvGgi9ki3iqZHh1kmNzc21heXJqYXdy"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ER']=data;}

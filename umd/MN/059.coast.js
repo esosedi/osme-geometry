@@ -1,0 +1,7 @@
+var data = {
+"_ring":653,
+"_params":"-653-en",
+"regions":{"270094":{"level":4,"name":"Dundgovi Province","index":0,"property":{"openStreetMapId":270094,"iso3166":"MN-059"}}},
+"paths":{"270094":[[1]]},"ways":{"1":"FBiiAusKLQbIuMkCx-l5Bt6tPPu8qBj6M5vQ952UFPdIjxr3P4uP9uqCq_dkex35-3P8-bJf1_6vW___FFuY_Bpa9PnMWLn3UVdr9rpTLfX8TVH0NksX9LpFDvSoRfjw9kR868hE1t8QRGXa90PI1hM6ntRXL-7SUisA0v0mZNAgJe3OXyG7yPQe6cMCH2TB-yBOvVYh8LtKIbi6nSCTuMoe9rRoGzKo-BiCoQARqJbgDNWSGAspjx4JX4zeBWeJ7QMViAsCAYVqAOV_AABSfFYAd3lGAXh30wLEdQkLT2_9DGdtYhAUbA8VRGv2F2hq8x90ZqYi2WQ-JkZjRDEaYDgyolyVMmpZoTLNUi8yvkyBMPZGWjC_QwEyYj1LM3Q6DTXpNzY2PzQzN8Av1DmHKME8_SNnP9Ihq0JZIAFFmx-eT5odXVoPHEtf9BoFZQ0ZlmNEFuJi6RPCYYEIVmWXCOZrWwiebpgInnEnCQ5zHAlQdMUIWXUqCPF1TQc3dgEGu3xvAoV_WQFIhU0AbooAANmNLgBFkKgAW5JeAdSVowPumF4GDZvCCT-acg5AmuwURJubF4icDxnBncAZ8J99GjmnZxt8sGMd8rIEH4e0wh_6vz8jUr-0J1S_MCsSwMItsMG9L-3CYTDJyEgyysxJM0TUcjQo2cA0CuGEO9LjYz4l5jRA3O2uRITn2lEi5e9U4-EeWOveh1rq6I5eIfFiY5756GfW-0Nt9_sgb2T73XCB-tZxXvbzdFz0aXdH8yV5GfGHfkXwnn9k7t6ATOyEgRbsupzH6tqhBuqQo5fnwaYy3gCucNspsRLcN7Vx3FO9s90gwXzgTcZC4UPHjeeYyhHpDMw06mXO--q60u_rfdQi7XPVae9C1q7-gNf__57c-vZk4ifz2-hD6QblMOMG5WTea-fe2p3oyNRV6QLP8Oaoxovk-L045qizkunRrpnuM61Y9N6tPPs="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/059']=data;}

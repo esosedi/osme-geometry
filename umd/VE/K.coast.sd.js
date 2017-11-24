@@ -1,0 +1,7 @@
+var data = {
+"_ring":676,
+"_params":".sd-676-en",
+"regions":{"272744":{"level":4,"name":"Lara, Venezuela","index":0,"property":{"openStreetMapId":272744,"iso3166":"VE-K"}}},
+"paths":{"272744":[[1]]},"ways":{"1":"PnqQAKe-xvvAh6QA9j_l-wm9Ui-kwmgzPsUzPK_HzT3A0e5AVtbLRgXdJVNq4TlYJOlhXVDqLWK56P5oO-1-cJPveHcN-daDY_mqhbX2jIu4-wuUhf_1nP__26CX_lmpAPcVrhr1kbIi-La-afbvySv3ltBU89fiv_By54n1J_S69aH8kPFL__vt7f5l59T4jt2i9TbYS_B6y6Xq0MJ86pLBXusWw3fwMbd4716yxu86q7HxdKgV8c6h-Oxqob7qSqSG6bSkNei-o_Pm0JwG5JKVstihk53XVo4y12CGOtimft7aCXiF4ZlqReGgW17mDVsv50Vc8ucuaEvooGtl6dx00_VwdOj4OW5h-yBqAf_8Z___Nma0_9Vh7foJW9b3GVZF979RUPizQon14T6I8bdA-u_pQA7uazk56p03aeJnOanZ_TsP1co9RtO_QrzR1Ulc1GRNtdOhUWTS-VlN0z9bVtIgW7DQdU9EzKFIS8V4RIHE6zlwxYI1MMQxLv3DmCb5wS0jO70LIO-68x5muCIeVqbMGzai7BIooZ8QN54ID8GdKwkgoFYFYKBgA1yfAAA2lt8E6ZERBhSPDQEihocB8XulBbZ81w54gtgUmYQUFhOEbxZagVUUC3oRF-10IxWlcskGYG5vAc5rthAOYt4Tc2B9F-5fQiYbYTcpH2KuKzZkWS3obXYvzm8PNDBvTznga748tmUaQYJiLkSBWoRNI1QYTb9RpkVXUBtFG04cTxJK-k8_SDRPjkSDWBhBFFewOZxTfzZkUpUzgVc4L_1aayqjZRwm92oGJtZtHCOgbjEgbWqOHQlfDRoxVAoZ-FUvFWFcZRCrYB8J8W7JAJByAAB4ed4AlHz2AiiLmhJHjjsU2phkFrOhxRn0qIkfzKv0JH6sLylZujAuCb1SLw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VE/K']=data;}

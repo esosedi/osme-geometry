@@ -1,0 +1,7 @@
+var data = {
+"_ring":2235,
+"_params":".sd-2235-en",
+"regions":{"2316598":{"level":4,"name":"Western Australia","index":0,"property":{"openStreetMapId":2316598,"iso3166":"AU-WA"}}},
+"paths":{"2316598":[[1],[2]]},"ways":{"1":"8qxC_tTFwQaKGFP-RqfPBojKegAI6QoG__8KJG39wWTryV-yoF3__xQPa9kAAGq3KAKfkEZBATZcxAAAiMp6AA==","2":"4Q7k_V2utwav6jH_TGKwBzbE___BKP__tyXd9lIiseakIe7bZiJM1Agir9ExH5bLER7Qxj4b1r8fGj-4_RiWtrQUuLSvE2C3dRG4t50PDLWRD2eyoxA5sIAP261FDUGv6gsnrikLTayAC-ao_wxwp_ALjqRLDIWfSwutlTgJBZVdCC-Rjwl7jtwKBo44DMCOaw9NhmcPIISzDQ6D-Aw4gHMN-33ZDpJ8Mw7eeWgOjHM5DaFv_wpKcLsJpm6qB8JnNggAY7cFo15XBEteRQPMXMcCSlkAAEtSrwAmTKwBsUhcASw_5AFCOs0DLza-A8AzXAR-MU0Hiy7lCVMpOwnwJokJ0yRGDAUhtBH4H-AW4yDRF3kiEhhdJLYWbSiqGRErgR_lKW0imCtKJCUr_CTjKgQmDyhuJ3In2ShFKFwqnytgNLAjYjiGIUE-wB_UREcgVkjDHopMCxoFT_AZh1SoE2RYexIsWjIT8Vy1EfJhvg0ZaC4Gsm_PAP1yAADOdlgCHH3PA0-AhgfugmYHO4fcCACLnQsWjIENvI8zDUGRKQ5pkwIM7ZWNC-udRRDJn_kR4KJOGD2kcR55qaQlqKsqJjetzSeUsQQqKLKnLJexqC7YsJU7PbJwQbWwSkfVrSxKGq_TTl-yNFXlsgleIrVNYMS2q2PjttJmALbqa9S2NW5vt3t167pVgXe_NIdGwtyIC8T_iG7HZIwgym2SQsuXkffMFpIT0yGRsdcAlJfb7Zgz3Pua9N82nt_jkaOF5mWq_evBsWjvC7S88Sa6gPeuvp76R8eW_HrIqP5ZzIv_j9L__37gXf4t46r-OOUt_u7mI_SH9FHzVvcd9MX6sPIO_6Lz___-xP__NsT__w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AU/WA']=data;}

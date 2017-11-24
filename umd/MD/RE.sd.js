@@ -1,0 +1,7 @@
+var data = {
+"_ring":1243,
+"_params":".sd-1243-en",
+"regions":{"1435790":{"level":6,"name":"Rezina District","index":0,"property":{"openStreetMapId":1435790,"iso3166":"MD-RE"}}},
+"paths":{"1435790":[[1]]},"ways":{"1":"ZyzVAoBWtAHjqNoCSvK6AVcEd_kAAHLp-AQT5UADWN_KDujZ0g_p3DwRC9yHEqDfgBXa3dMUyttiGI_aPBfn1vgmQc-4IrjE5iYQwCIqm74TLNC-2StQvGEqzrpRLEi4USxWtgAr7LSkKwmwlzBNs6gzFbA6KzynwCWipsEjO5zeHkefZSJKkZwfUY2zJ5qHaCQzgwIekIZkHMqIARlwiZoWa4FkHPl9TB6XdAEhKHRBIvZtHyENbLAjU17lK4NgAy5jXDVFKzuqSVI850qnNt1Z9T8kXNYot1edKSNZdiYuXYAhzVkQHhNfAhDSYwAAnmkNAih8LAsGgI8O64NcGJOFlRoOke4fyZb2I-mbASlknCEospv1Jpug2SnlnFkxSZtnMmmaxzGAjgdNpoSLURWEfl7fiBNb2oeEVguMm1OmjSZcwIyhXKqO0WnxnuhiiKEnYNWpY2Bzqa9bI7eQX964emZStUJmy7T9dBu4nHgZupF9DLhVgZa1poNryJKRgMhclTXKyJTfy-iXPM7SlgTQO5i10ASat8_LnCXQXp9szsegl877otfNw6QBzyenh81drA7MoK6vzIyxpMnvtLLK3bVs1WK0EuWetffijrly7ALEz-dLyjfuZtIC6M3YsuYP28XjJN2K5Y7gfvQr0an4V8or-vvDIP0KxWL9hsP__3fDi_zU2Tj5-OVa9gTtGvN58ijswvnu5ur8QONz_U7ebvtgwJzpRrNw5mWgFOQqllHgT44M3OGJX9sLelniPWVo55Jb7-uyVR_t504u6n5ICOY4RAnl5T5W5Zo6j-eSMOTyAigU-zwiof6yHP__Tgtc-1cEd_k="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/RE']=data;}

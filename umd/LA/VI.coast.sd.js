@@ -1,0 +1,7 @@
+var data = {
+"_ring":560,
+"_params":".sd-560-en",
+"regions":{"226205":{"level":4,"name":"Vientiane Province","index":0,"property":{"openStreetMapId":226205,"iso3166":"LA-VI"}}},
+"paths":{"226205":[[1]]},"ways":{"1":"2NIPAZ8cCwZTJSgB5ZgrBnXiZ45g48KRbufulELqcp2L8BCjKesyqPHp6ayy5_-tU-XnreLdVLfq3x67_9p2yAPWFM2g1XTTv9Gz4UPSSOORybjl_cNJ6Xe8IfQkukH1QLSa-8-stfscqP78-aXi_R2l__99o8X-qKJa-xea2vsolXT9DIQF_Yh2Z-8rc4HiiHKx1UtwA9DIcRW2_XA1rdtv-asUY4ew7l-EsqhdkbX0V9G2M1CytvtM3bUWUEyyO0-lreBN06z_TV6na0g4nwNIw5hlQ1KWBkH4kYZBtpB_RJyPEkbujXlEhItkRRaIOkrghq5Ni4SKTb9-Y0-sfZNOLHc6UhNyFVTeaXNhHWR1YwNiW2L2WTJdB1fNXVJUb2GCUDphmE8wYDBOvV4CTsNXfFAjQmdN8z0_TyU3QE2DMYFIEi-eRBsjIT0rI6U5OSebNGwnJzJFKR8wfShILnAVkijdEMgoPg6lJtQPKyQvDfkeuwwRG4UGQhmUBeMXawjCFnoIrhU6BOMUAADUETIBphAQA20QlwhhEgAKKxIYCpIQogbhDEUIAwy_C_ELyQvYCh8JfAjRCbIG-BErAjsc9wOGJDMDXymiA2cuPgHeOAAAWEbdBNtILQfPTuIJj1AgDY9PaQ-6WFUUQltqFFVdgRWMYH0ZHmonHh5p8CLManElDXl9LPh8UC3Wg7gwvom8MHeO1TEdlecz45Y-NUedqTavoaM2HaSONf6pQzCrtRsxJMCCMJ3FQTH6xfsyHMnRNCzK8jZDz9o52dApP4DYI0XA6TpJ5urNTeTvTlCj8dFSUv1-Vf__Il3-_7thlfrXZgj8dWqn-FxumvmicU3-2HOp-TB5kPlvgDr0137s8k6AV_K6g9vpGYe24hGOdeJnjg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LA/VI']=data;}

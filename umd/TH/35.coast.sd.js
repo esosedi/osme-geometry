@@ -1,0 +1,7 @@
+var data = {
+"_ring":2004,
+"_params":".sd-2004-en",
+"regions":{"1908873":{"level":4,"name":"Yasothon Province","index":0,"property":{"openStreetMapId":1908873,"iso3166":"TH-35"}}},
+"paths":{"1908873":[[1]]},"ways":{"1":"2jnpAALqMgaOZvkAK1E_BpJDuigdR4YsvErkN99MZUErUBVBlFEiOyBUnDoVWBI4HFzcOLhdVTi7X30052VzLk5mWiyQZHYp5mSfJ5FlLydkaf4ptnGGLDN1SSlceUEqg3wzKet93yUng1oeToYlGG-FvxasgDoYiH8XF8t-LhDGe8sJT3zJAHZ_AAA4hN0Dg4fCA0KJpQZ6jLwGNYzLCb-MoQs_kqIEZ5bRAsecqAhEoE8IbaS5BPiluQQpqFQI_aggD4Wohxdyp0EclKcwIGKoNCLNtYYlJriPJOu9yh7Mv8oev8LkIAnGnSVAyH8vKM9VOIDQwj0v07JBp9PcRiHVTkk826VOZuC-UOblpFX-6TRcdelcYWXq62VL79tpPfEsbaXyUW6e-KpukfvCcMr--Xb__3x8qf8vi0H-4ZJk_-CZMf8UnkH-L6B8-B6knPcZsIbp2bil5wm7CeaiwM_hRcXM35jIdt8iy1Xgrc8a5nvSLefx1tLjKtgE47_bAeE93anfN-Au3Sr06dx5_L_a__9-2Rj_htMY_3PSsv0r0H7wBs4U2O7J8cGVx0K8SsOntO-_abGctrmrxK-pqMqoRKBrom6eyJyxlxGV9ZC1kN-Q0Yxhj0GIIpHPgDiKY33UitV5Kontc1iJU3OChw1yi4bkbYKHVmrBhclnlYVxZl6GxmVYiV1kTooTYRiLqV6oiqZc4IuhWb6Kl1OIix9TOoxmVHiPEFROkXBQiJJZTNSRQ0kvoPVDk6M4QsSjzT90oqs_1J92PsOclTw9nII715o_PICV2DvUigg67oU-O_t_Cjvwfn85n32hLg9-qCXoeIce8nlgG_14KxoJem4ZO37eFJuCMxRFhIwWXoZrF9uHJhe6iOAVsImCEP6Ifw6Ii_QMsImKCliJ7wlrh3UISIZQBjGGAACsg4sAuX8FAhl9OwSce8gGDXypCDZ6ywjmeIUH63W9Cq9yjQwabycN017rESxWzRTxTQYYy0rRIQRFLyd5QM004y56NkcuGjoPL61AgyqSQ7oo"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/35']=data;}

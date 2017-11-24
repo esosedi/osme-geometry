@@ -1,0 +1,7 @@
+var data = {
+"_ring":2367,
+"_params":"-2367-en",
+"regions":{"2537750":{"level":4,"name":"Wadi Fira Region","index":0,"property":{"openStreetMapId":2537750,"iso3166":"TD-WF"}}},
+"paths":{"2537750":[[1]]},"ways":{"1":"WDjUAPjUMQEwn_MAO6RgAWv2Wb5K9y_CJvrbxYv2Cc9O9J_Q1-wf0fnqi9WW7Y_gkvDn5bPv_ecY7JPqOetq7jjsa_P17Rf2OetY-sDlL_7C4P__at6q_t3aEv1T2iH8rtiV-l_WFfpU1ZD5iNT4-APU9vcZ0g_3ZNCy9QfOgPHby4LwoMmD8IzHzPDcxVfwU8X079zDCPBfwnTwUsH48LW_1_IPvgn0Fr1z9HO7xfXXuTP2D7fF9We0Gfa1sQr26K8H95muKPdHrdj2GqwO9huog_XHpRL3m6Qw992j5vaDo7L13aJh9UKgDfVFnz70h54J9OGcWPGOnDfxjptI8Xiaw_BDls3xlJSH8VWTL_Bwkzju3JLu7DuRg-uHjnvqJo0J6R2MIefgiuDmA4oJ5mKIkeXZhoDkLoaM4xqFP-MHhdjiGoQE4n2C6eGegZvh9oC44Ux_P-E5fDnhvXv44Id6BOC7dyDcWXZE2-50CdvScSDbtGrY22Fjud1xYe7dvVmIysRXYMgcVgjGG1X3xHtSw8MyTQvDDkxqw6NKgMUnSZDHUkgwyKBFlcg6O6fIiDk1yRQ3fMq7NUzKGzR9yJ8ytMcaMYTHTS1ayNAqa8kxKjrKSiil0dwfn9IOG5_ReBpq0W4ZAs2sGM7LShbnyd0RkMdHElDF7xFpxAgPQcI8DZDApgyMvTILybxDCqy7tglUujAH1LYAAO-yIAM0sCwHqasyCfSnfREdkykY8Yb2F7F-yBlJev4aVHgyG3RySRqicKsYZW5sFCFqrhDiZC8RhV4HFUhc-RgGW80bt1i2HFFXOB3wVFEdg1GqIatNZyUhTK4sTUdWMihEYzf7Ph06wztrOkQ4IjynM0E-IjFDPxsvQz9bLdI6CSWhO-4fuzvNGzk7kRnxMlcT7DAyEKAnKQv1IFwINRw3BaMVlgEi5AAAReHCBTPWWxGV1AgXcte1HU_Z4yXz1ToqtdSmLlLXUjNM3JQ3ouOBPmHkAkIf5thEWupaSXXuW0wQ8lxOzfScUCz13VJJ-J9WBfv1WCT8C1uG-iFeh_l4YY305GaQ8tFtLvQTc4r3AHmk-_CHgP8djmX7t5oG-uOggf58qf__va2h_r6wBPyUssL9FbUp-G26a_ZZvg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TD/WF']=data;}

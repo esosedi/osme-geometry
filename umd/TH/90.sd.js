@@ -1,0 +1,7 @@
+var data = {
+"_ring":1992,
+"_params":".sd-1992-en",
+"regions":{"1908822":{"level":4,"name":"Songkhla Province","index":0,"property":{"openStreetMapId":1908822,"iso3166":"TH-90"}}},
+"paths":{"1908822":[[1]]},"ways":{"1":"IfhfAFRY9gXjHnkAis0GBv__EEnx42dS_7u5YYSoR2zGmNl4dJEUgUKPmYVFj_OHWIotjTKJ9Y_hg0KU_XYpoaF0s6RNbc-sl2nNsqZm_7n4ZYm9yWeKwH9np8MXXo7TElj-5BBXgOo2V9v2xlSM8utSO_GYT9jv2EWp7uQ_ePOEOOz0zDW-_lQ0mv-3L___Vy0n_jgshfsqKCX56Cfs9Fgnm_O_IMTwHx1H7RYcEuilHJvh0xuQ31MZ_dyDF3PXBBSM1FEPbtO_BErUigMJ07EAyMsAANzENwBYw6sBRsHMA0nDnAV7w0MLEb8xFJq-xxYIvIwYJLheGWK0PRlzrhYcNawBIb-rQyFuqtUgcal0GXmajBj7lq0YNpQoHqd-tR9Kddwi7XFIJClvriOIaxwkHWceI3VgyyWXWqgmiVNfKYNPSyqxTAgsLkzCK65KKS3TSectN0gHLvFF4TC1QwsxL0H1MVhBEjJ5Qo4zIka4NQ1F7zXZQ8M2I0WeOJNELzp7RtQ6a0GXP51AXkCBPs4_OjnMQHY2LT2xM049gTIEQVouYUEuKcJFmSmSR_sqGE1uJvNOPCYxUQMovVOtKClVpyouWIMrblnlLK1bTSz9X-clJ2EMHztiWRyJYocXZmOvFddnrRBuav8LtW2PCaJx9Al7dNQIMXjAA7N5nwOWfAAAG4OACL-EfQ8CirAbqIorIOyJliSijQ8wMY7-O5iSBj9SlBxJwZnAS_aaME4fnT5PQZ4mUmqewFN_mIxVo5e9VvKWhFnhlwNdu5nJYFWdvmCenyhfA6JrW5io-VjLq7BYPrJwVvu6cFaGvKdVx7-DUibBUk7zv5tJS7ouQCC6azp3usw3U7t9Nhi_IjSixkwyWM6DMR7mPCmM5qQlhudRI9Pp5CBB6h4Z1-pxF_Pv-Rm_86IasPUmHDr54if--gM0zP1sOcr-gT29_4tG__8QSQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/90']=data;}

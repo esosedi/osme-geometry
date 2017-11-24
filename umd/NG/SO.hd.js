@@ -1,0 +1,7 @@
+var data = {
+"_ring":2508,
+"_params":".hd-2508-en",
+"regions":{"2762752":{"level":4,"name":"Sokoto State","index":0,"property":{"openStreetMapId":2762752,"iso3166":"NG-SO"}}},
+"paths":{"2762752":[[1]]},"ways":{"1":"IGm3ANUuPwDN4NMAblZmANSy__-jr1P9o69U-uSsWPQmqlnyx6ha8GenXO1Jo1_p6qFg5-qhYuRJo2PiCKZl34WrbNNErnHLo69zyKOvdcVErnbCo694wKOveL9Ernm9hat7u2enfLmppHy5i6B7usyde7uvmXu7T5h6vJGVerwxlHm-c5F4wLSOd8H2i3bDN4l1xBmFc8cZhXPIW4Jzx958dcRhd3bDQ3N2wpBac8gxWXPHMVl0xnJWdcXRV3XFE1V2w7RTd8E3Tnm9eEt6vFpHe7pgPHy44zZ-tsUyfrWnLn61iSp_tIkqjJ4qKY-aKimSlcsnlJLLJ5iLDCWZia0jmoetI59_TiKiek4iqHDvIKts7yCyX48ftF3RHLVaEhq5VRIavkyzGMBINhPEQhgPxj_6Csc9fQXLNx4EzDUeBM4yAADQLwAA0yrcBtMqWQzTKdcR0ymPH9MpDCXTKokq0ymnLtMqBzDSK8Uy0SyENdAv4zbOMaE5yzdCOMk6JDTHPSQ0xj6ENcY_oTnGPx8_xUAZSsVAlk_GP7RTxz2QWsc9DWDGPytkxj9JaMVAZ2zGP-Rxxj8Cdsc9H3rJOpx_yTr8gMg7W4LIO7qDyDx5hsc9tI7HPXORxj8xlMVAT5jFQK-Zxj8Om8Y_DpvGPq-Zxz2vmcg8T5jJOvCWyTmRlck5kZXKODGUyjjSkss3c5HLN3ORyzYUkMw1FJDPMDKU0S0ylNEskZXSK5GV0yqRldMp8JbTKfCW1SZPmNYlT5jYIa-Z2SCvmdoebZzbHMyd2xzMndwbi6DcGuqh3Rnqod4YSaPeGEmj3xWppN8VqaTgFAim4RNnp-ETZ6fhEsao4RLGqOIRJqriEMao4hDGqOQOZ6fkDmen6QXypnYAmK6sAHyxiABAslIAYrMbAKq1AAActwMAFLgbANC6CgASyBYADshfCfnjbCC95vkn2--7RaPxIkm_7LBMQeuwUGvrKVaN7WFd0uwIYkrskmd66z5qduyGbinuw3HM9GZ2hvUFd_z4tXgA_smC__-Uipj-P41C-bCU0fXtm4rxkaPt7rSoZOORwvHeAMk44KrL3-Ku0E3jJ9Xa2C3kB7X9_tSy__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/SO']=data;}

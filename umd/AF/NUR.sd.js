@@ -1,0 +1,7 @@
+var data = {
+"_ring":1356,
+"_params":".sd-1356-en",
+"regions":{"1674544":{"level":4,"name":"Nuristan Province","index":0,"property":{"openStreetMapId":1674544,"iso3166":"AF-NUR"}}},
+"paths":{"1674544":[[1]]},"ways":{"1":"82kUAqXgKgTvwiUCxspEBImsEzIiq3k2Taz7OS2wMT44taJB8LYxRIm13UhAsglLpK8TT4qxHVNDsYhUn63dVZupBVXBo8JXaqBNXq-bXF-ilzFitJTrYUuQ_11VjI1cB4boXbh_s1zAfL9faX4KZ6CAo2lKh_luW47AcamPE3Owhy57q4Wuf3OFDo0Eh9uQuYkgkryNVpK9lgGSWqLjj3WlOJBQp--Si6Z6mVqnxpofrJ2cQK3QnxWxJqTotKGlYbympkjHsqM1ymWkPsz0pqLSPapE2M6sZ9yurVXfCbCE6U2wae9KsvjyGrTr92i4b_vLucD_y7____LBrvy4xlzy18787zLTPO8E2UvtU9xb7P7cOeJU3Xngy96o3ibjKNp15nbQpOqVzFDr5MlI7aPC8uySvQDwYbgn9ZC0PPWNpqvvDaSr79ygefJbmub8ypZ-__qT__-Ii4f9VYSu_kyBy_qveQL1M3i07ktz2el4bmnnW2ja6A9mGegEZQ_kP2kK3RFpXtjQZnHVAWbM0fteF8fPWGXBfk_mvdlGiL66P0m4IDenuIMrRbYPK4-zEDBksMQxpqwlMDaqsyrbp1MsbZ4yK0Ob9ibElckmzoitJzWIFyjEhOAlwoGQIeN-4h_ZerAiNnYkJ0Fy5ijLbZYowGvWJfJopSEyZ0sb_mUFDiRm1gOUXCwCoFkAABtQTwKcRWUHujtVDcUz3A8MMk0VxzAzF4YtqhqnKwwoLiloLIEkmCvkIHMtuB6LLEIaWi2dFvQsOxRKKgARBTDsDpI9cg5rSZ8IF0pJCgdMdAtbVE8LQ1lXCuZeXgZ1Yt4B9GYAACVrPgFgb1EEF3ArCPhziw0zdN4UTHzWE7OCWxkPg-saXH9MH7iASSFAhy0kIoltKG6MFyo4k7kp7ZWLKi6cRS_hpFYvO6vWMYmsEzI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/NUR']=data;}

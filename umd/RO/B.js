@@ -1,0 +1,7 @@
+var data = {
+"_ring":869,
+"_params":"-869-en",
+"regions":{"377733":{"level":4,"name":"Bucharest","index":0,"property":{"openStreetMapId":377733,"iso3166":"RO-B"}}},
+"paths":{"377733":[[1]]},"ways":{"1":"YbikAqsxjAH1pqcC5TCQAVv70YCC_R6A2_5MgN7_soH__9CDvf9GhVf70Ycm71iGW--KiGfp3Yi24a2IodMKhjHSwIbJ0WWH5M0SiLfP342KzUeQncyPjtzKfokTysCIL8YFiWzEdoqev7mNtL2DjtC7l42lt4OSo7DPvPmsONULrMrSu6cozhqi0slxk8q9TY2cuheMDrxvi6u9bIt7vuiMSsDjjJfB74upwSGKK8C8iVPABIqvwnqKlsNOinrE0okKxd6IRMX8h9PF0Yeixs6HcsfkiAHJf4kgy22Kw8x9itLNzYr9zd2KIM9QiBDQ_IbTzq-Eys6_g-LNY4F4zCt_b8w0fjvN8n2czit-ls8xgEzSLIDC08J_-NQ4fg_XuH3C2MN9Mtu0ftvblH_f22OB39yxgbHdmoFr3rKAruCmeqDji3iE5hh4FeqBd6zsiXai7fB0le7VcnnxYHIh-xFy___iZPn7IGTO_mRiNv75Ylr8KWGD-4Fh0PmnXl356V1N-_5aSPpuW173gVjB9vJNUvcOTKT2ZErv8NtGse4gRqfvxESG8AZBXPEbPLHxFDrM04k6ls9ZQN6_zDU0ujEj-7FKGqKtbQnMtsgCuq9aBUCtyAe3qQAAaqRDBzKhkAjxmDoQZ48MFa-Qbhe3hHoakHCiHEpp5CSGT-EufUPyMhZIQDb-Q74y_z6XSngshUWOJb5JPyViSq8k4UflIU5FXx5OTYwYfEvkCqddugM3YKYBvngAANJ6BiAUfH8uOoDvMqGGpDTThs0xjoeDMP2IHzDAjccvMI_SLo-Q4yyJktImJJYeHe2aUxTom-YR15vCEDybUA7VmRsMEJklCtGXQwhbl8sGs59XDNeiDw_8rIMP1bsPFdPBZRFixVUSEcbIFInHNxjKwhoezMbSILrFJCTGxb4mjcYiKI_MrCnV2GArWtsyLc7iDzpd5zE38-hLNzvroDhn7C865OvIPPDp50B0575Cle9NUmj2BWWj-cZmgPvPaZ37Y22q-QZxLPs5d7f623tc-9SA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['RO/B']=data;}

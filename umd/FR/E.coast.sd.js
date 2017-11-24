@@ -1,0 +1,7 @@
+var data = {
+"_ring":236,
+"_params":".sd-236-en",
+"regions":{"7398":{"level":6,"name":"C\u00f4tes-d'Armor","index":3,"property":{"openStreetMapId":7398,"iso3166":""}},"7447":{"level":6,"name":"Morbihan","index":2,"property":{"openStreetMapId":7447,"iso3166":""}},"7465":{"level":6,"name":"Ille-et-Vilaine","index":4,"property":{"openStreetMapId":7465,"iso3166":""}},"102430":{"level":6,"name":"Finist\u00e8re","index":1,"property":{"openStreetMapId":102430,"iso3166":""}},"102740":{"level":4,"name":"Brittany","index":0,"property":{"openStreetMapId":102740,"iso3166":"FR-E"}}},
+"paths":{"7447":[[1]],"7465":[[2]],"102740":[[3]]},"ways":{"1":"4WbRAj4zzv_hG9MChlzR_zZqOq-1SP__AAC_0gIcArJDEq-URTbkbk4ktzJbUcQSo2lIINOpAABB1tIADNjlFP__HA546V85fcPgN5PbHjvXvYZxrsargxCB_JBXcW2rNmo6rw==","2":"dLDkAk4x3_-tQeYClZTh_5IqJ9YAAHSsmR6UneM3T6z-R8la-XXVKayiLivr5wAAdemHK___vDxn5zxZKPPgp_7TdZyl1DS_dZd3wFyd7NeUiqTIFln__38qRdaSKifW","3":"4WbRAj4zzv_hG9MChlzR_zZqOq-1SP__AAC_0gIcArJDEq-URTbkbk4ktzJbUcQSo2lIINOpAABB1tIADNjlFP__HA546V85fcPgN5PbHjvXvYZxrsargxCB_JBXcW2rNmo6rw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['FR/E']=data;}

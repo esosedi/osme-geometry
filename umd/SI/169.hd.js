@@ -1,0 +1,7 @@
+var data = {
+"_ring":1477,
+"_params":".hd-1477-en",
+"regions":{"1676322":{"level":8,"name":"Municipality of Miklav\u017e na Dravskem Polju","index":0,"property":{"openStreetMapId":1676322,"iso3166":"SI-169"}}},
+"paths":{"1676322":[[1]]},"ways":{"1":"_uvEApVE7wB7y8UCOBHwACgAkZJQBnuMXAbIixoMB4ciD0qFBxi8frcbx3r9Hhd40CjpcPkwv2tcNtZl0z_jXd1CwFqnRb1XyUXYVrZQwUw9UZ5LjVSgSUdVv0iSV8xJtFeTR8ZYQkPhZs4pr2n2Jblr9iDLbX4dRHZ9E3J3VhHFfpEKNYIiCDOD0gonidoE7IwAAG6Sqwhjk-QJHpSxCBGZlxCJm1YVT56VHZKe2yEQnk4mppn8QDqeSFG_oi5PmaplTlqvQU0asrNLbLdwSom-ckVdv6NBTL8XP2_Acz1nwUE8OMNTOwfLrzR91SMnVtbEJrbUKCJP2f4fItsbHr3sgwV477oVbfOGIunxuSeZ7wErv_MxMoLxPTZe8vY61fWHSSr6slLY-zRVjP0MWPj_FmD__4Fi2ve_ZPfx9WaK73RoiO5gaFzuHGs77fhqauuUa5TjvW8j4y1w1-KHcgDXgXPK1l6RVtQlkRfNup6CyCSrIcgArhDIhbLvyAXD-MbqyIvF88vSxI_LSMI5zLLAvs5lu4HTqLl_1Ii2CNJ4tcDNOrXwzUCyJtX0sXDXgLJw2lGyAN6Vsivgp7Gb58OwK-gCsXDpmbBv6eawdO1Yr3DxZquB6t6nvOFrpgjiN6Wt4JCj-NnJn3PY4ZZq096Ta9IDkQ_SZo_L0jOKzdNMiiHRH4vUzb-PmMDHkz-46Zf1sk2UraJeiTy1IIRfvax9Ysa9dgHP_2dB3ppI2PiYQf__9D_E_kc_Wv3_OY3wvzS45SkzLuHQL8ThsC2H4CgrqtjUJlzO6xrfuEgYVbX1Fzi26hZAtTwRbK7eEA6vmA2eqnUEHJxYA-6ZbwINlwAAM5MqAJGS"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/169']=data;}

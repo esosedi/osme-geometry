@@ -1,0 +1,7 @@
+var data = {
+"_ring":1407,
+"_params":".sd-1407-en",
+"regions":{"1675826":{"level":8,"name":"Municipality of Miren","index":0,"property":{"openStreetMapId":1675826,"iso3166":"SI-075"}}},
+"paths":{"1675826":[[1]]},"ways":{"1":"ORi7AhohzwAMcLwCb1fRAOaKjfeVirn5JoIp_D9-oP5Id___U3J5_x1sOPwQYtD6YVzZ-IFVPfnlUlL4ak_q-UVQp_YPRjnrRD5-5EE4QuKxNzLdwzij20M72c8oNzzLvADBvmUAmq8GA3SttgI1rEsAxKsAAJKRNAPkhV4LmnhiCVVjwAkgWsUIgVV6CoZQdQkuQswKrzrnCiko0hW9H6049RicS38EO0uuA_BMDwMCTUwAxU8AADJPCwPqT_ID3lUkASFmEATGaeIB-GtvAnRtTAFDcm4E23H-BPp1lQlteBcJAoDVDLiTaRH5lRgRR5ZNEjWhoxYOqz8hVLa6Gpu8mhUWwE0Vucj4GHDXPiCT2MMhydnRILXb4CD33NIi4Nt4JSHfoSWC4OImM-ZCJqbouC5o7bE0fu6hNzDwvzdH8Lc53_GPOsTxUjxa-Ns-V_jFP6j_TUH__45HfP7dTXT_hE6__IFT_vmEUWL4Gk6A9hBOI_Y2T4f0ak4v8zFPtvOBUHX0aU9q9tZPHfTQU5vt6VKZ6phZcezzWFzrQV5M7FlhgOyNabXqpGlB6sBqiOuxah3sUmyc7GF0i-0EdS3vPXTT7y13ZfHSdUHyE3fa71N3M_BkehLyUntK8QJ8lvFbgHTyGoGT8NyD3u98g1vvg4Vx7f-FuOu1hJ7p2olO6BmKzufzjPfmq4sD4seKy99XiHjdPYgm2vGEA9ZYhRDVlIT01dqBoNnFf7za_n3-0up6p9YScBHXnWl_2CFlD9jYWdPTbVUBzjRUs81HVmnLtFblx8VbtcSFZMfH0nBMwn5uGcGDbHe7yW0FsvdsR6_2bbGuHWwDo0JpPJxUgYaMop-HhXG3HITTySeXy8rAkrfN7ZK40XSRgNFcj73WrIxv7-mKj_c="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/075']=data;}

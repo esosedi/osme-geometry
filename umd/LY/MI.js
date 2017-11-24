@@ -1,0 +1,7 @@
+var data = {
+"_ring":2086,
+"_params":"-2086-en",
+"regions":{"2060180":{"level":4,"name":"Misrata District","index":0,"property":{"openStreetMapId":2060180,"iso3166":"LY-MI"}}},
+"paths":{"2060180":[[1]]},"ways":{"1":"-7vPASSTygDoUvYBmGzxAOr_Cib__9o7Cfo4Szj2zGNd8lltCeVlgDzdsZuA1n7EHtKOzCnLPtUpvC3dVbT24U6kBuI9lPboOX1f9wd1___EabTxwGa36c5jp-NEYuHZnGJmzc5ecMgNXZy15FmFtoVWoLXMU1GzIVIxrjROsKt8R3WqwD_sp7I6pqExOCCabDQKkVgvhIpeKSeFfiGThMEX8IQUEY6E7gJkgQoATYAAAKB77CW2MDcsbi2qNpspEESUJo1aSCNcXqIhSGFFH0VxVg_udXIOin2DC9KBjQmNhHQGKoepBNyJcQTHj70EspzvA_elAQMLprYDlqYGBRCngwWTp48FKqh9BoOp_gUhqosFz6qMBV-rNgWarFEFAK0HBf2tPwXRrroF5q8wB-SvgAdwsckIkrGvCQSzmQqMs9wLdrOgDIe0Ugx5t4cHfrfCBm65bwXtvLAEar1RBIW-wQIHv_UBG798Aa2_TgHvv8wA-cIAAMzEJACjxqUAZcpzAtHLCQJ6zDUCXc12BIPNMQVkzUEGvczUB2vLdwk8zH0JIs31CFfNkQjPzXcImM6YCKrPQwkd0CcIlNS1CRHW0Akf16IJYtgaCdHZiAnt2owJq90SCX_f-gjE4jQJgOTvCNblTwjZ5Y8IpORLCcDkjglr5NIJ4eOACY7jLwoa4zcKOuNZChvjtAqN4h8LeOKOCyXi4Qvf4sEN4-J1DkjlbhNZ5nUUS-iWFyjqkBkT688Ztut8Gg7sNBpd7PQasewKG3_tLRzu7SgcL-7BHHXu0hyU7gker-5HHvvuVh757rsee--QHr7v3x2Y8KcdDPFFHl7xPR4N8dMeafHIHgTyTB8V8gggg_JbILTyAyAV82kg6v8KJg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/MI']=data;}

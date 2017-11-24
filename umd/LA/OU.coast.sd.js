@@ -1,0 +1,7 @@
+var data = {
+"_ring":557,
+"_params":".sd-557-en",
+"regions":{"225544":{"level":4,"name":"Oudomxay Province","index":0,"property":{"openStreetMapId":225544,"iso3166":"LA-OU"}}},
+"paths":{"225544":[[1]]},"ways":{"1":"jGAuAZ0CAQZFy0MB4dIZBiPwjMrR7eHNNt_b1-DbaN542QDhktn348vbiOY_2w_sidPP9wPRufglyvz4EMid-zfBSf8su1__BraF_P-w5P26rrn8TKn__8-dK_5qmUr885Tw9VSUHO0kkQftiIPd5oRz4eKYberermYO3v5ff-MDXI_jS1FH34FGy-YSPyvoaTqw5a82H-GoMQjgjjD12EIuSNSMKinRHSoZzsIr18a6JQ6_Nx_5unIc2beVGxi1xxfwr78XkKp4FRem4RWpnOwUZZqYCpaPHgpQjI8IhIlnB2SJ2wY4jIgF2owLBG-MjgNVi9gDQogwAquDMQOdfH4BJXntAu5zyAL7b28AmmMYA7NaAAA4U_cGOEWnDTg_pAyNPH8EuzRFBO0w0gWjL_sFAC61A8AsRAS8KZEHmSj0B84l3QoiIe8MexfqC_ESNxBXDYcPvQohCvcEVA6hBM8QOgONExYAhBYAAKIdIAU5HqYbFCPuI3InoSaJKo8quzKeLPM10DE2NzM2gjbiOOoy2TtJLsxDhTHfSlM4fFB-PFhRtk26UX9T31BJV71OmltkTg1cR1OhWlJaulsLZfVfv20CYVtytHCdeUJ3RH9kfzGDaoTdgq-LSYX6j5CEuZHlgqCVAoNwmHKB6ZuFe1Six3knot1zmqR6cYmkOG_vpudqWKi9buusDHOdtTt1xrj4eMC9sHw9vvCBh8CBhpu_w4u-wLeNnMOvjbTFsYvGy6WKZs6MjovVUpWb16Sduth_ntDkO6T88KekcfP1oiv2tKXN-UanuvpZpq385qbZ_LukZP-eo___j6Wd_U-o2f5Vq1D9V62Z_eCuov7LrvX7BrKR-SyzwPcSuQHzLb4Z8ybAGfAFx0nw8Mkj8IzK"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LA/OU']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2438,
+"_params":"-2438-en",
+"regions":{"2615675":{"level":7,"name":"Municipality of Mavrovo and Rostu\u0161a","index":0,"property":{"openStreetMapId":2615675,"iso3166":"MK-50"}}},
+"paths":{"2615675":[[1]]},"ways":{"1":"ZwJ5AmgFOQERyn0Ck9E-AQ4FPJA7CYOPdhJVjQ0X5YJnGzZ1WCVRbIcwKWZlO71VtDuVT88-WTnlSnAnc1a2HLFWxRsvV1IbTFljGopb-xlRXbsaYV58G0dfbRthYf8ZomP8FlVkVBbvZCoWdmg6FuZp1hVLbLgTEm7IEZBu1RGGb68Ta3DXExZy8hHZeF8MPHp1CO56sQdJfGMHU32xB45-tgfafx8ImIE8CKGDxAjbhhEILYhwCJ6IYQj2iEEILYoHB--KdgXEi4UEBY30A5-OmgMzkMYBvpC-AQSSPQIilEYEP5XnBB2WxwT8lxwGeZmGBjWc2gd6ntsHSJ-ICFGgkwifomEJvKNPCmakmAqmpbUK26aMCnuoOgmkqjsJKK25CY-ttAnqrgAJMLDkCFWxDgn_s7sIwLRNCAq3Fwa3t9AFgbjcBee55gS4ugYECbv8Aku7uQJcvekBNb_MAefBpACQwhcAF8StAGvGAAASx48A58h2AJrJsgDTyjsBwctBAzDMWwMj0F0DSdLYAxDUkAPt1cED3taLA7TX6gOS2TgExNlOBHbaIgZT3YUHwN0xCTDfNgk54cAJNeKICbni3wnV43gLSOZ7DWzofg5K6tsNzOwqDO_tCgzO740O4PBcEKHwoRTq8JMVuvQAF973-RWH-SEWsPjOGnT33h1L9kojuPYlJdv3tyfl-Jwo-vplJ___Fyj7_X46lvIGRovzV1ML68Zd3-QFZyXp4XaS6kJ-6PEUhPT4qo4E9t-YxfcXqZ70aqxC86uyx_AJuBPvR7rH7QfCXOPdyQbSjMpizRTRbc953KPNvt8q0AvrKtBB8zbLQfN4w63parsg7hiuXPdrrBv7XKz__86iXPzCm_f8n5vM9v6Yp_P-mHLjLJRu3B2I0tDyg77LgoNDvNV7w7QhdgG1vnHXuWB0AMTwcyXHrG7fxxNYOcx9SDnMJkAEy_M0OczTLI3CIyWEw9AaCMMUF5G6dAlYsmsC2KoAACOiawK8lw4FPZA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/50']=data;}

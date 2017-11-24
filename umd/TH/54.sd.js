@@ -1,0 +1,7 @@
+var data = {
+"_ring":1977,
+"_params":".sd-1977-en",
+"regions":{"1908807":{"level":4,"name":"Phrae Province","index":0,"property":{"openStreetMapId":1908807,"iso3166":"TH-54"}}},
+"paths":{"1908807":[[1]]},"ways":{"1":"abkNAfVd6wVdWx8BCSf-BZELuyEYCkAf9AZEHnoFphwIBnMXfgDyDwAAvgr8AIwIPwzPAHIPAACtFEoAehWeARwVFQX4FTQIWhV_C6UWSQ25GS0QJx7KETsh2hQ7Je4W5CZcGSstGB4fOGAoJzpcKTdCVTTQR6U51ErNOktNVzoET6o70E-6PnZOTkKtTIZDbkxBRZ1QPUm1UvVOuVUoUVZWXlUnXrhYwV8qWlphol3wZ5NdQnO3ZY14jGjcfCZuPoQPc_eFHHqNiHV9LpRYg7SW1YXAm-mHWqFJkLSmAZNKqcWSgauLlaWuhpYetCma3Libmya-FpsXwiCcccPcne_DRKFaxeOiXsS2pdzEN6c2xvinsMt8qJnNs6nz0hCmtN4kqCLrmaVa8ZWpE_cIq3D7YqjI_RarRv6Nrv__rLGF_mK0Mv-Utqz8ILld_Nu6F_4dwyr9CM4P_AnRJvyM2A_4KdcH9jLYG_UC3KTuuNv77DndLux_4TLrmOJO6Kzh--T53RPfjNuF2lDb99XN3evU4uIy0_zjbdC_4GrFXd96wZjiar1n4xe6mOL7tGLkwLMj5UKzweZKtczqnbQX7kq1O_ONtJn1G7FB-Auxr_1erPD_L6hO__Cj___MmLn7Q5Mt9i-Q3_ZejJn1W4V9-Hp9LfNeeCfx2HWT8GZyGPFTa-buK2kr7SBoH-k7ZQrkcmPF4jtdAOPlVsXlJFPy5dlNn-cdS_vmY0tA5YpJI-JTQ0LbyT2g2kc6INyiNy7cyTUb2jsxbdgAMLLWMDAU1RQz3dMMOdLPxTqSzbk9TMz0Pp_KBD_VyM08NcE3NsO8-DG8t7YuE7IMKZesQyOSnTQjx5u9JEyZpiKBlEciq47pHUOOXxy0jDQb5YhTF9CGQxfphLIbTX_9HIx79Ro2ceUaB2i-GPdkTxiKYrYWCmFMEWZd-Q2mXIoJB1gFC19VbxDUUgkSWFC2GhJJKB5YQAUfdDr9HLsxDBm6KygOSyORC7sh"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/54']=data;}

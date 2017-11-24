@@ -1,0 +1,7 @@
+var data = {
+"_ring":1766,
+"_params":".sd-1766-en",
+"regions":{"1781276":{"level":6,"name":"Ropa\u017ei Municipality","index":0,"property":{"openStreetMapId":1781276,"iso3166":"LV-080"}}},
+"paths":{"1781276":[[1]]},"ways":{"1":"3g5kA6nOcwFTymYDhLx6ASQ_iPUXOjLxQjg27cQ1Ze12KbniHSDG3Rkj79m_HinQHCHvz3Afo8vsD0bNAAAWibgCiHZ0GXZvvhViZ4IXSmT0EsFi9xGfYOoTs16SElxcZBYgWy4WjlovEgtW1g-oVaoOJ1SFFiNSDxULSl8TTEoPE-1H1hFDR1UU9T4NEBE8mQ-YOoESNzhMFyM33xc8MyoZ4jFSGtMygRlsNRobRzVZGkg0FRtvMm0YBDEEGkwwfyVQN60uiC8FM10yhS93I2o3SCgFP_omkkcGI4VJRRSHPE8M9jTXDbwzGAyUNboJmjiPCaM6rAoeP4AIOkHkBXpEyAb3RoYEuVlbBD5eVwIBZU4CTGclAXhnDwBeayUBL20AAIl0SgR-efcNj3xIDWt_kA_lgDEO-X4lDgx_Rg0Eg9QMWoN5CxqGvgq7iEULeYtuCYaKbAhki3AE0Y-0A0uRUARzkA4Kg5rEC4ycMxk3n9QZWZ_DGyyd5BzRnv0l4aOZJ8KkyyaDpzgnyKryKAGpCirTpTAoI6P6KGWiGiggoQMpCqSjOJGiYDkBo688TqGvPlmhI0MJo0RGp6EeRkKjuUihpGtIgqW4TLGnrE6ipxFQsak_UfKnKFJDqDZURKxRWiDoslMZ67NYv-3RWTf1R1me_zBh___mYvv9PmPX_V9kHfg6Zb_1ZGbG9upqGe89bv_3F3cf9K971fQgiCX4go2p-HiU1d7wnirC_Ka0wXajer_ZokC_4aMHvr6i4bpFo2q2t6e1ttmoSLTKqmS07Ks6sr2te7CHrRyvtK7erm6yY6qetJSqzrVXp_i5nJ_eu9KaTcDclnDEyZY5yAKa9c2CmVfQ1JtT1omaW91rncHfZZ7c466U7-rzjkT-Wmw1_nxo__9gT133hUbZ7DpDr-0kP4j1"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/080']=data;}

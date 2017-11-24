@@ -1,0 +1,7 @@
+var data = {
+"_ring":1381,
+"_params":".sd-1381-en",
+"regions":{"1675048":{"level":4,"name":"Ghazni Province","index":0,"property":{"openStreetMapId":1675048,"iso3166":"AF-GHA"}}},
+"paths":{"1675048":[[1]]},"ways":{"1":"d1TpAXxm-gPHdAoCZrUZBG_G-PEqv_v577uO_Ky5Af1asDv7Ta5t_Ben8_zaof__FpvG_LCVXfN7kyjwSpF57jCP7O18iwXvXYmF7gqHfez3f9ngN3wV3PR189hzcHrYtm1N16BrxdSMaGXOrV2mxJ5ZcL1NVVC97FLhu3NNU7C1TBar5UyvpU9O8aG8TiCd8lLDlolUxZKjUr2Pt0-djslLe4u8SSGM-UVaj_s-CJKeOsuYcDnDnT8465_sLyKlSitCpuAlzajtF8KkYBNPpf0PLqe5C96n6gD9pAAABJfqAJOStQJuj4YJuYhdBv5w9wDtXUgC4ljQAQ1QvAJBTkcKn0ZTEpFTThaKVsQa3VcqHvtZzyd-YzotyWStMtRojzztdao9dHbpPxt1CkEccx1DgWo5RFpetkV2WnRHolglSnZXSU9uWl9SyFqtUy9aUVi-U75fa1WGYzFUe2V3VIFqQljNbR1YA3E4U1dx3kgBchNDKnf_Of53YDckd9Evu3cGKz52iiT6drYi_Hp3Hw18kh2SfMcZkn5tGl2AUhxRgFEhi4H1JM-FjCpEiHkszIvYLA-R2iowklQpvpElID-PyRaijoILm4zLA5eNZwFpkSwC4JUAAI-YWQEWoHIR7ajtGyyr3xvHroEYKrBJGHa2bR1Vt-ofGrcVI9G7Xi5UvdozEMCyOPzCgzvkwiVFq8OFSE7MZFQDz_hUZdFLVFzVq1Kf13pQ8t1NQ0LiyzxT5VA7NueLOz7uukGJ735HC_QLUzf4d1XA-5xlZP6Ua___IG3n_YNwE_1GeFP71n5c9fGIMfUliyr4BZX__ayjxfeWp_Typ60p7_2zeutRtbfp97St4_-tcOGgraHey7AO3JS599bZvCPW8b5r1gvB59xByDrgaNEQ4IDWsNpW3tTVfN39xwXXEMJf1-rAcdllwFzf672C3Xe95-AjwETp9cWn8G_G-PE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/GHA']=data;}

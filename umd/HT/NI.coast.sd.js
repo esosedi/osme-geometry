@@ -1,0 +1,7 @@
+var data = {
+"_ring":924,
+"_params":".sd-924-en",
+"regions":{"391834":{"level":4,"name":"Nippes Department","index":0,"property":{"openStreetMapId":391834,"iso3166":"HT-NI"}},"393320":{"level":5,"name":"Arrondissement Mirago\u00e2ne","index":1,"property":{"openStreetMapId":393320,"iso3166":""}},"393324":{"level":5,"name":"Anse-\u00e0-Veau Arrondissement","index":2,"property":{"openStreetMapId":393324,"iso3166":""}},"407263":{"level":5,"name":"Arrondissement Barad\u00e8res","index":3,"property":{"openStreetMapId":407263,"iso3166":""}}},
+"paths":{"393324":[[1]]},"ways":{"1":"IckXAUvZm_t2uxoBVyyi-5CL4RA5iOoSBZRtGXGcDCH6nLcsgKLnNBSsgTSlsKswWLWOLym98y_Ww6wyfcovOTbbQTxn5cdA9OPhQmzq7kIF6FZEM-W0Q1DmAkYX7wFJKvCXS-j1U07Z9pFQk_NUUt71JlQH9yNSGflzUq332Fen9MhWhPAbWVzyoVpY-4Za___NXen7yGII_7xlsPaxfE7_xoRv8wacc_Lppknsiqxa5R7E-dw3yY_ghMp-3d3SssWx6ffCJfbnuO72vKh_9VGjWfZHn_H1t5pe81GWwPQtk9j8y4v__9xnLP1_X5T_i1s6_TJWX_xIWr354Fn69axnSN9TaeHd622K3TNvR9lLZuDV-1Ig1ulCrc05N5LSBiwM02MqPNAbLIHPihAhyHYI5sMYDBm_iw77sBYNiqcjD3KlzweqoCsH25wcCzCWTQLvg_gBwnwFBuF7JwiAdZsCq25_ALZnAADDSNoOgUQPC7pC0A29QiQStEd4HRxH3iyNSBU08k2gNOxPvTGtUElAn1JxQmdPe0bcTRtEb0wOSPxJDkkPRulTw0WNVgpEP1bZPDdevznkb086YXDZNalt8DHDb7EronjBJrJ2mRzZcTwZw3WxFLh8zxE1fBYP7na8C0J6-AfegJ4C7ZUzBC6lAAAAp-sDB5KAD5CL4RA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['HT/NI']=data;}

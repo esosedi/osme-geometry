@@ -1,0 +1,7 @@
+var data = {
+"_ring":1246,
+"_params":"-1246-en",
+"regions":{"1435826":{"level":4,"name":"Tozeur Governorate","index":0,"property":{"openStreetMapId":1435826,"iso3166":"TN-72"}}},
+"paths":{"1435826":[[1]]},"ways":{"1":"EwX-ARHncgD48w4CqheEAAAA4i4EIooXizMND888Yg2cRNEIy0XZB6pXXwCwWL0AGFrSAQ9bQAJ6YNAFxGkOA8VwBQDHd0YFl4BSBOyEhgUCipMHmI-eAdCSAAAJlAAA7pRpAM2VmQGUltcEs5aJBkuXvwYGmKYHpJiGC4iZlQzimXANzZrEDTqbGA17mr0L1ZoGC4SbNwtknLsM8JwLDcyc4g1KnVAOfp05D02dzQ8HngkQRJ56EPGeCxP6pD8UN7LNHWerQy_7tfFA2rxUQGTDNjt7xPg7w8VZPAfJDj5my9A-88_1QArRt0Gg1NpCLdl5Qv_biUKP3hpDjOA9ROHjU0ZI4-BHzuJgSHLiLUk44hNLi-N3UMLkw1G-5G5SFuSyU67kbVYL5QJXceX7VtblXVhf5XRajeV3WzDmW1xn56lcv-c8XCHoKVwX6RRdqOlcXdrpCV8Z6oRfg-rrX-PrSWBB7IthBeyEYujrU2QG7P5kYe38ZwzuJGpO7qhrHu64awzuFWxP7hptr_H-bs_zdnF39vRzzPYcdrz2OXdP9yB7B_e_e3n3E33P91p92vfSfFn5yXuw-i59nvoRfqj7wn2L_Cx9aP50fdn_CH7__3V-0__2f_v9j4hj_S2J4vrwiiL3Qokq9COHbvGhhELv5YO87HODeerLg_fmKYtC5VmO5uJyj8PgnYuL31qGZd9TgpreoX8Q21N-bNQseYPRHnadzzB1zc2hdHPJGHqHwiGGBb1BjU25vo9LteiRR7JnlWuxJp_Irwqlzqs4sEOqxLM7qGi1EaVIttGj1ri7oaW75p57u2qaErl5mHK5RJhNvMmYGMGbmTvFs5pFyXuayNOkmrndrps-5mqb2-uym8_yuZqh9aWZ1vp_mJn-5Zf__xWVF_9lkAf-UozU-zaI6flCgzD0SX0978N2leohc_vm7W4d4aJpOdmPZFrQ_lxFxTtPXrM_TrKwb0LFoPE8_ZcXOfuQZzOiiPstxX92Ij1xVx1-adQPCVZfBw5IPgM1OwAA4i4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/72']=data;}

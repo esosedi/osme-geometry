@@ -1,0 +1,7 @@
+var data = {
+"_ring":395,
+"_params":"-395-en",
+"regions":{"184878":{"level":4,"name":"Ar-Raqqah Governorate","index":0,"property":{"openStreetMapId":184878,"iso3166":"SY-RA"}}},
+"paths":{"184878":[[1]]},"ways":{"1":"i9wZAqwkRAKyQTECsV1fAjAWXijEGQYmTBtQJOUdXiC5ILMcDibWF_IrJBHiMTMLyzizBRE7JgOePRQBJj89AE5AAAAjQykA8Ea4AHhRBwPZVncEyFzlBiBgiAgMY3wKQGSkC-5qYhB0bgIUSHFTFVNz4hVpdSgXY3ZRFw54KBfhfNwQ5n37D3-Aqw7RgqwMhoZzCJaJQgbuiuYFzY9NBT2RTQXblNIFBJZrBo-azgmknnAL9qC3DACjTw46pb0Q2qbQEwOo1xZ2qTgYrqk6Gkiqnhxsqngk-6o_KxisTTKTrQk5frIWQri0ykbAurhP573TUpfA-lRqxV5YNc3hWiXT1Vuy1aJcqtgIXWjgeF1k5k9dgef9XOznolxL6DFckujWWtTnNFmO5btW7-NrVITjRFN4499REuT0UF_l6k8b6ABPtOrNTtHrPU8N7MJPs-yWUyrtSVig7V1ZI-6uWWPvH1rU8EhauPYBWaj641f__51XB_hGYBX0_WWU8ytnWvNdaFfy5Hzl8oaBAPPxhQL0Uo9I8_uUA_AJn2HvK6IP7emqD-55suTwacAn8dbDAPFwxDzx4sS58ZLLHe8dzDHqtc685xDPmuXnz9nhK9PW3K7WnNpE2cbZ8dpQ2Q3ef9kL4OrZ4eET20TlB9sG5mHaDugP2KTsstX582zTeflh0Vj8e891_gbNxv-9yv__KmJf1gAATa--AUaqGwQEpUkGhJ4MCHeW7ghfj4cLzYapDU2Brg7gfb8PLXdAEmps5xKraC4TpGWeFBBfXBXtWCYWCk8rFxtIohd1PooXTTLMFikttBZJKyYW0SgwFl4o"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SY/RA']=data;}

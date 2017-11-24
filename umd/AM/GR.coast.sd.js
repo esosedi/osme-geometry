@@ -1,0 +1,7 @@
+var data = {
+"_ring":859,
+"_params":".sd-859-en",
+"regions":{"364080":{"level":4,"name":"Gegharkunik Province","index":0,"property":{"openStreetMapId":364080,"iso3166":"AM-GR"}}},
+"paths":{"364080":[[1]]},"ways":{"1":"BURgAq2_qwKVpW0CgJu9AgAAikO-A9xBJA8nQ1wVJ0MoGdxBoCYeQktDvy9FTL8vRF_ZMuVfpjE0YqYw92RALJ9k4yhZZsgl32vmIZR2WSDMfPwcY5fqGoOkQRZHp0EWfq1uG0Kw6hqsstsRyLUCD9XAMw2Zw2MLb8jWCYrL4gOTzAAAFdsAAIDl-gD45cYKA-lDDfDvDRgf6kYp9OqmM3Ltazjo-ehFOv0XSyr_UVH__4pX8_ycZKH5dWvU7nR2ku2Zexzs5Xuz6dB5WOYvebzjG3yE4mV8zN9zgLbbb34F2fd_j9aCgn7XTYYr0W6OXMwziR7JMoymx7yLeMfRiJbFvIeIxPqIpL83iay8iozMufeLnLb0j3e2iZJstRSUDrM4lcCxSJdwsaOZsa_dl8-sS5lzrQebOqpLnDulaaN-pFWlsaUWqvmkGasmo9usDaD-rYqbwLSRl8u0tJUgtwyTmrfjkuzBo5EmwvuPoMSfjhjIJ4-3ygaOg83Si1jPA4oZ0raJztSDh5TVXYcU2iKGwtr3hfzcIYER6Zp-CeqTfanrPH3M8Kx-Q_J6fiH1bnvT9XZ5S_iJeFj7wXSK-y9xhvrRcQj4YnPx9j1ymfV2cLX2SG4I-_doeP-JZf__KWS3_qhiw_-LX4L_ZV5__sRcqP5pWyH9i1h1_ppSAfuST2n6Lkvp-1dJPfNGRnbxHEYj7_I9__B2OR7uvjdH7hsuqOqPLvHn0yw85m0s6eNlKnjjiCie4egkq-DdJ3PdlSuc22MrnNlWLUTZfTD21XwuZtTqMBXLBC-wx_4uacKNMUvAwTGhvksuo7nQLSWx8io8raYpqKxkKQqnHiuto3YrsJxIJiObIyL2lWAfGIv-Hf5xZRZKXWoN51EOA9lIowD3RAAAikM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AM/GR']=data;}

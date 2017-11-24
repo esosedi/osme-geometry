@@ -1,0 +1,7 @@
+var data = {
+"_ring":727,
+"_params":".sd-727-en",
+"regions":{"254170":{"level":8,"name":"Vieques","index":2,"property":{"openStreetMapId":254170,"iso3166":""}},"254171":{"level":8,"name":"Esperanza","index":1,"property":{"openStreetMapId":254171,"iso3166":""}},"309825":{"level":6,"name":"Vieques","index":0,"property":{"openStreetMapId":309825,"iso3166":"PR-147"}}},
+"paths":{"254170":[[1]],"254171":[[2]],"309825":[[4]]},"ways":{"1":"_MUUAStHGfy_GBUB_IMZ_PYtjBGxOAAADlMAAMBikU79kwcZ3-AZVf__3LKSv5OxSacUv3-gQtU3lxTb3ZYjvZJrPvsEQAj8rywy4QAA__8NDpvV40nhqdco3Yn-K9ZPfxl2NjMcjBL5LPES9i2MEQ==","2":"CxgUAeOuGPxeWRQBPAQZ_BAS40M_A4IWJxkAANI_ShJcSKEH25q5BO7VEihD48pe___3fTf8dJzY9hrj7szm7LHBYf65Rv__fRDH8AAAiOTvJXmGtBMmRhAS40M=","4":"eBQTASuOFvyGDBYBj-Uc_LrO1i7t3oc4eeTFOvntkUES9fNJXviDVZL70lj__2lm9_sPcFb1oHYu7rB6OPJVkZDqNq6t4va5FOGhwXXiAsYO4LTNCOAN2fXZn-Hi0cXo48Uq72m8kvWmri77M6TH_eiO__-rhcz_zXRE_hNm-forVfPyjUq96j9Go-JpRbTcfz001Bg6Hc6yOPPIPDkpxAI0VsC2MHq8DCx3sUEtlqxZKMqlxSS9ndMlpJMMHByNgBRDggsUq374Dj16iwxFdeUKjXD6CpZrwQzqZyYM6F24Ev5Rpg0TT18Gf0e3AoJBAAC8NxAB4jFjA98trxHoGXscnxIMKGkM2DdsBmFJ9gFzXQAAT4UtACCaWAR-n1UGfKbHByC90yWiyzUuus7WLg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/147']=data;}

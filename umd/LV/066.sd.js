@@ -1,0 +1,7 @@
+var data = {
+"_ring":1745,
+"_params":".sd-1745-en",
+"regions":{"1781255":{"level":6,"name":"N\u012bca Municipality","index":0,"property":{"openStreetMapId":1781255,"iso3166":"LV-066"}}},
+"paths":{"1781255":[[1]]},"ways":{"1":"3etYA6z8PwFlB14D_B1EAcCWYvoQl6_26JhQ9Iuaqu7EnHPr35yU6ribOedJmg3g7Zm71O2XvMw1mKfIpH701S9988f_cFXOpHDaym1vNc3dbbXNsWyCz9hqXdDpav3Qz2QD1Iljd8dKXZ_K4VvMvN9VFsCYVunGgE-fyulN7ckmTh3H_0tnxuBKQ8NfSr_EdEn0wy5IeLgrRdu1IzWroacu2ZtZKR-a0Ct7l6I1xYUUMnp-oTDmfW4vHX8ML8CBxiv0gq0rBH5UK9t9IyvLezwom33zJ0R7yiFFfWcbLn6bEoyC5RETeugBzYGOASqAbQAfgAAAb32yA-JyYQNEadYD-GbwCaxlmgxRZNYO0WGqD6JiBBDiYZgUoGByFVJfIRpiXpEbAVtUG-dcvht4XpMdH18hHlNeyx1_XEAeDlwBHihbDh83Wgof81zsH2BdbiAGXOghtlxnIh9biiNhW9Il81jXJnRZ0ig0V3wp-VhPKrFXfitNWMErhVcKLKZY1SxmWHctwllWL41Ybi-kVxkwxVfgNSFLITXiQ4c2wznXOHY3SzlTNzs6ITqpOi08_jmMPFE6fz72Ogw-0DyESTk-Xk2nP9JNgkqHTKlPz0nWSAMKZFcGDUFk5A1YddEKTI49APuTAAB6orsBh6sIB6Kx8AiyvbcPXc0qFgjdxhoh6pMbmOrLJBftWiOZ7TknMPJJJJbyoSVd9AAm1PPYMMfyQTMn8vE21vIIOgL0YDjM9H04UfokYMj6nmr5-2Fvm_u5b6_8T3ER_IZ5ZP5vfP__BI9QzZalw8w0qErLl6hFzJGrX8uqqw_MQq1HyzKuP8s4sZXK9rHVyhy3lMo3uirLFbwPy5u-f8qSwHTMqMa6y3nKc8yqzULMCc_gzOnO-sxi0v_LZtPBy7TVh82h16DMbthjzfnZNM143I3MGdzMzHjhBMtL4lPMkeRCzAnmUMuT5m_LLeqOwQTvW8GI7TOX___BlmP6"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/066']=data;}

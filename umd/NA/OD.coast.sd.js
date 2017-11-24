@@ -1,0 +1,7 @@
+var data = {
+"_ring":2217,
+"_params":".sd-2217-en",
+"regions":{"2279628":{"level":4,"name":"Otjozondjupa Region","index":0,"property":{"openStreetMapId":2279628,"iso3166":"NA-OD"}}},
+"paths":{"2279628":[[1]]},"ways":{"1":"7Yaq_uyd7QCN8uH-ampAAWbi___2i___rY4G-0eOevhIjJL27otq84-MVvD2jQ7vmo7h4r6Q7t3tkhDS65JSzS6VPcQnlOK_FJYbvDiVabu0luS0VpXgshOTc7Kfi7Wk1YeAoiyEnpoOgEWXrX3xltx3mpFAbWSNtGiGjENnWY3xWoGLAWIqiVNf8IIMVx-Cq1hHhcNVNoXzUwmCeE2nhCNQJH5CT4V77kiZeyJJFn6aRcl-AEane_A7g30ZNpp9DTM3e8Ax83snLDJyqC3Fcb4r4G1LJi9pMiRXZNcmkmJsJWdeHCPeXVUgFFv_HnJbUx3aWSMdA1idGAtZdBOdWBwV1FU_EoZVwhBYUZMTj1DAEEBPmQxzT9wHUEjMCx1HAAfjQqsKpEHvBjs_DARwOhYH1zk-CSg4WAj8NbkJTDXRBSQzdASiM54FYDZUAtU21AICM1QBGzKWApwvAABcLfgBYSwEAM0nNgyfI_8OkCeaEPonbRAkKXQVfifPFdMpxRhtKccaJCpUHDwpBCA3KkMimCkdIqMoDSW1KPoshiYbNRsoCzxsKNNEgi5sTgksjFD4LPxUkixPVEYpclWZJqRXUCY7WroklFofI-lgwx8zXtAczWCqGdRfPBlqYFAYrWS-FVtu6wmzcUkHpXamBh92KQRqeAUAVYAAAC2ATwRnhUAGJohKBUaJtwmshX8KG4F9DdiIWBKfil4WQ4r4GZGMaR4ailMfqIwII56XriJ2meUjm53bKRCeNS6Ooucsb6bNLLKmGDF2qNY0FKqwNdyrKzUfxUE25MtQNcfV4EKr39BIquIzSXbkeUzi4IRN1uLKUFXfN1Ip2xJSZts2VN3d_1Nz3itXNNsOV_LaLVVx1Q5VdNJNV37U51dMzaZeAM-HX1fKq2NiytdmXszGapvIuWsrzBNwAdGGbQ_VdW3l1hVuPtchcD7aI3Ct2lFzauOBcz_jgnT166NzkuvodkrwgHd08Dx7__8PfOb7Wath4larZuJ4_2bi__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/OD']=data;}

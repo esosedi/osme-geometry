@@ -1,0 +1,7 @@
+var data = {
+"_ring":1963,
+"_params":".sd-1963-en",
+"regions":{"1908791":{"level":4,"name":"Nakhon Sawan Province","index":0,"property":{"openStreetMapId":1908791,"iso3166":"TH-60"}}},
+"paths":{"1908791":[[1]]},"ways":{"1":"L83lAMPR5wWHTPkAr54CBphXEvLqT9rzBUui8qY0_OB4LabcISpb2GUkS9bWIRvUUxuK06cWKM7ODrXNywjuy5ADjscAANTGDwF4w1gGsrsGDTm5pA8TuvoSL7nfFfOynB5psawjBq8-LFKtGjrVpbg-3p5JRA2avEdumP9HvY5NTu-Mak5Qi89RAonsUt2GmFZIheFZP4IMW3R_NlkkfbZalXkfZWNzT3OlcbNyFW7AcA9sJHFmaiV00GRgeYtiqHsdYPB74VngeJ5Uz3J5TzJw40nnaK1Fu2SJQElksTlMbIcy63B7K_x3TClFe84kOH7rHR6D-BdbjLwR-I7BDCKOPAZdk3AG75naAACiAADKqAUFyqhNCDCu3QshrX4OBq8QD1uvdhKRqCsbc6XoHFelox3mp30e9KdZINmqpCFZqTkjhKvJJnWpAS9nqjExH6caN_SnNTnoqqc56Kv9Or2rK0NYqNlGc6QETimfM1B7lshRFZIsVLGQelYIlCNYfJkGX9aisWGQpsJjWqyEY_q0F2hwvc1qvcvedhfWrncP4897reiPfpXwoX1Q9Ud-8P5PhP__AoaL-n6JF_WIifjvRovn6rKJHOH2i43egI182A-U7NMrkwXMgJfIwuCY07s5m8K2Q57Ps2yeI7GsojCt_qWirkWpS6pFrC6q368hqwyxhq9psUCxP7QUr6u5sa8nvdqss8KxrjDKW634yzCtD9BNr6fSTa4U1WqwrNfAshvea7EJ4uuxJuhqrznrW65W9Gann_TzpP74gKKS-kKVUPmdgZz9m31k_2B4Z_2mdZf_s3L__8tp5frKZgT7x2BQ-f9dK_eaW9by_Vny8W5YO_KYVxLy"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/60']=data;}

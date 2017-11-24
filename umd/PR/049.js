@@ -1,0 +1,7 @@
+var data = {
+"_ring":728,
+"_params":"-728-en",
+"regions":{"254221":{"level":8,"name":"Culebra, Puerto Rico","index":1,"property":{"openStreetMapId":254221,"iso3166":""}},"309826":{"level":6,"name":"Culebra, Puerto Rico","index":0,"property":{"openStreetMapId":309826,"iso3166":"PR-049"}}},
+"paths":{"254221":[[1]],"309826":[[2]]},"ways":{"1":"UkEXAYhnG_wWixcBZ7Yb_IgFL4KbBy-ANBGmhiUhtGH-LDZiyTc0T0RHtFGaSvFZfk7BWslIKFB5TVFNVFLKUQNmoj62bSU7cm--Qll7S1CKex9a2ILRaWV5Njtnf1AsLIw_G9eetAwEvS8E0fEAACX8WAL___0XZN7baWzS7JJ51mi0GtT3tkaSrrilkA72lo4X80iM1_ROi5T4K4L__-WAae3ubvTVCHHxxsZ9Z6kMfpWbtISbggGCXn7We_N8dDFLzK8L8KRzDWyWAACWhh8EbYOIBS-C","2":"RhsWAdGzGfzrFhkBiZsd_OzXAABz5dMFVexICp3yMRBK-NoXrfyJH2f_2Sf__8kv5f5EN1394j3E-hBEGPjUSJvv2FRO7vBZq-upXy7o1WUV4z5s9d07cc_X0nWA04t5SdMYim3VOY5_19-U1tm1oxzf4K6W4Ee05eCmvP7fBMOs3YvLUtrj0fLVAdgJzaXgosZa5YXAG-gRvenpOrXg7oKsvPJEo2L1kJ_69eiV1fm0jN78ZXL__4Vlrf9WWdP8ek8Y-aNFEPRPPKTv8DS87BMrXOl4JJHl1xzZ39ccxt6BGA_bBhQA1c8M6cT5C4W8eAxztUMO4K7BD42rhwv8p5UGfaHlAhSXAADKidkBPn9bBc91IgvibMAQgGdfGIVikBezWhEZPVPXHHpL8SMNQF8p5jnfMtgxEDZkLsY3uijdPSMdDkKHFIVKPgvlT9wHxlS6AYXAuABY1gwA7NcAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/049']=data;}

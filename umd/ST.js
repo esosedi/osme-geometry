@@ -1,0 +1,7 @@
+var data = {
+"_ring":191279,
+"_params":"-191279-en",
+"regions":{"535880":{"level":2,"name":"S\u00e3o Tom\u00e9 and Pr\u00edncipe","index":0,"property":{"openStreetMapId":535880,"iso3166":"ST"}}},
+"paths":{"535880":[[1],[2]]},"ways":{"1":"UFj9_0eIXwCIWgkA3jRqAN4SQJwDDT6TdQhgie0CFHmnALdtAABHZAAAqVynADhT7QLcR4EGqz22C68zPRHzK2UYciSNH9ceQyvUF8swFxXmOfoRAkNrECpKeQz5UXMJeljWB1VeCgfKZnoD5m8pAQ53YwAEhgAALI0-APuUiAFXoWsFMqfOB5qx4A1vuMYQ8b5LFHLF0Rjzy7Iee9EhJfDZDTLL3z85rOTZQOfofUkb7n9Pr_GSVDf3117R-Ydlcfv8al_-DHus__mK__-VkwX_Up9Y_zqosv6rsWv8B73X-DjHSfQi0Bvu8Njz5nHgHuDT5VzWTuuB0JLtDMi87zjBUvNpuTn2R7Gw-saqNf1EpOb-dpzs__SV__9zj1X_S4jb_8mBmf-ienX-IHSb_J9t6fnEZ6726WGO8rtbAu2GVhbnTFIw4SRLmdmpQ2LTgTx8z0w30ct-L6nElismwK8nv7ooIsKwQB4VqwAbR6XYE4Gd3hJAnA==","2":"IGURAGcQbACHXx0AIQV1AO8CFEGGBu80EQxpKOoShx1qGtgUkSL1DbMrjwg5MvYFszoABC5DNwEBSwAALlIAAFBbfwEjYyYEUGrcB3xx-wwCeCETjX2xGZ6JuhUOlCEUfZ6wFO2oeRdyr3oaUbUdHoO7DSMPwXIolMdRKwTSZy6V1oowx9xMNEzjfDmE6Ls-wezkQ6bxLEvd9j9VdPqRXmP9VmlY_291__-xgKz_64oK_mGXbvs7otj3Zqym8RO5Cu9KxXTriNDY6LbW7uQ-3g_fD-eP14PvYtCH9ZTHzfoPwXP9lLh5_w6y___iqpD_y5_g_J-YlvxykTr7k4tI-VuG4fYkgcnzP3wt8NVwf-9mZpDsOV8W6WZXuOOHUWferkp01iNFEs45QYrGTz3BvGA6C7OBNMSxVC0ur88mwKtDIe6nERt_ooAWiJ1DEgmYBg55kSIJ84ffBZp_7wJQdU4Bz2xTADJkAADgWacAn06cAoZC7wIUQQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ST']=data;}

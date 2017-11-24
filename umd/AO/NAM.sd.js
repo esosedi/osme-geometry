@@ -1,0 +1,7 @@
+var data = {
+"_ring":1804,
+"_params":".sd-1804-en",
+"regions":{"1802550":{"level":4,"name":"Namibe Province","index":0,"property":{"openStreetMapId":1802550,"iso3166":"AO-NAM"}}},
+"paths":{"1802550":[[1]]},"ways":{"1":"cmz4_sl_rwDQ0DH_18HQAAcCHglmGYoKTSH7CCAwAABhNv0FLTojC9RPvgiyVGALK11FBVVuohbeb0kkbXiiKuyBqywqjIAwa5ddORWtxkaIxSdSP8v9UhnR_0_N209U7Of5W9fs12FT7mJplf46auv-EIK__XqHS_3dj8z7P5W5-1GbMflOoJb42qJA-xCtofzGtbv_zLf__7O6iv4FwCX-9cj9-5DTYvpQ1J71HdF68rHTre1Q2o_qNdyJ6QzfQutM5OrqROck6Wzs0ej37jzpVPKM5XL0leOS-fnha_px4Kv5n9t79HzZb_NP1kb2DtPo957P-_X4zR_35czl-bDNivz9zFD_pMld_qzGiv8Awf__-bt5-Ya12vi8rfvyA6v_69KoMOMPpaTaW6Nk2N2iv9L0n_vNFZ77zUOZ89AHlhfMXZQ-y8CPOdIljk_RT4uJyLiJw8hciHDLO4kd0dqIgtSjhvfU2IQe1CmDmNZLg17ZaIRG3NiFg91phcbgSoKa4gB_EeF4fdTi_npx6Bp5YfHTaLLwVWdI8XRi9vY_WcvtBlNr6fZPmOoWS1zvoUky7ztIluzBRpPr1EWB6PpDDOW-PwPfpT_D3No9TdnMPv_XvDwj1p88a9JVOsfPEjpBzEI5XMruNq_HYTR7zFExu87uLYbK0SyWx6Es6cQnKzTCHCjbv3cmxcDIJC_DTxtH1PsXgtdQFP7YtxL3zyITPc6iEuPMkRNSy2UTosdjFGHHeRTKxB0V5sPZFAq__xMJu3cUjrfxE8i12hMhriQTEKzzEZOr8RHGqUgRb6kjEf2ljA8no24PFaEODtOguQzKnNIMTZvDCieZmwjhkC0Is5DFB5KO7wZNjt0Gg4k1BUSGYQRfgg0D84GnAr6AGQOLfhQCyHxaApl6xgEPehgCXXnAAZl0KwK6cloBLHJMAXlvqQDsbgsBxG17A8ZtfARPbCcEj2uUBDlqgQQlaZADrmiyA8xnuALyZb8D0WMsAtxb2gJ_WUsC5FeNAjNWXwOEVdgDKlMwBWJRUAUPUJwGR0-cB4BNTwc9SuAH_0eoB5VG-gjuQxgI10FZCKE-AAcTOlEG1DNnBAwuRgPgLK4CHCo3As4plgJ6J7oATCUAAHQiAQEkIGABPR0HAh4J"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/NAM']=data;}

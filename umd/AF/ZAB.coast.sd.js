@@ -1,0 +1,7 @@
+var data = {
+"_ring":1374,
+"_params":".sd-1374-en",
+"regions":{"1674841":{"level":4,"name":"Zabul Province","index":0,"property":{"openStreetMapId":1674841,"iso3166":"AF-ZAB"}}},
+"paths":{"1674841":[[1]]},"ways":{"1":"S9_gAWXI8QMEc_kBxkcPBFRZ5_kDVWf8B00m_jdJZ_yPReT7-Tx49lE3PfRcMhb0Qi5a9Z4rT_e1J0r8Ayb__ywiIvy-HOL6axs098wXR_JLE9HurRKA7IgUo-iWEj_m6RMd5KUTwuHlD9Tcdwr22ZsCtM6XAcXKzwF7xGYDwMJEA5S7yAIwuQAAJLpRB_SuHQh8pkwL8J9sCd2Y2Qrpl9oVQJcLI7aULSeYkusqoYyIKymJ7SNyfPUhY3eXIO5xECGObJIqqlvONJpSXjapTqQ1REeYMXQ3zS4GMp4rAzCSKAss8x3uFmsdKAmoIPoATiIAAEw22gGCOWwEq0A3ERZLrBZiT4AVqFBqE7FSfBL7VmsUPGJ8FrBumBd9gKcgoIKtII2HVx1Ukt8RBppJEN2dKRIQogYZ1KQDFz6n9hY7qv0Xea0JG6WubxsQsWgaULT4HLC2vB0EuQAhOLoTJFG6fCftvGcrMcVuLx3GBTGvxs0368UGOn_BjzoTub83fLfjOGi4qjqFxv5EUssOS7XPblME0-NVpNiqV8nbPFti34RdruJjXXfmclso7hxc4fPRXiP4hWIC_XNj__8mZkz_LGrd_S9sdfihb3j3kXGR9-tzevl0eK_4in3U-ZCFtvhYiMHx-5HE8DCV_fBanr_voKQX7FCorenBqKbnd6jg4HCkPd4mpCXZc6Uiz6yj4MiCqh_HJKv2wsWqsb-vqAi8nqdouNyo6rSGrGmxx8DDr_fEnqxTyLip9MdmnA26DpXDtcCNY7TAgEqqLHwLqCl2o6bLcHyj82W_lbJazJ4sWyGpZVl6rqxgt8LuZOfb02N23b5bBuNUWVzmGVgT601ZgvlUWef5"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/ZAB']=data;}

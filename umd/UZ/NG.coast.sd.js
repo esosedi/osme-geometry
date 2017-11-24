@@ -1,0 +1,7 @@
+var data = {
+"_ring":383,
+"_params":".sd-383-en",
+"regions":{"178017":{"level":4,"name":"Namangan Province","index":0,"property":{"openStreetMapId":178017,"iso3166":"UZ-NG"}}},
+"paths":{"178017":[[1]]},"ways":{"1":"l7VrAlc5MgQwD3oCpBNOBCGvAABesO4A3bcBAYu7-QG3vQEERcBuCe_CmwvpyuIOztUjEGTYHRX_3H4WEt3sF3fgmxcQ4lwYseHNGUDl8RpC5DEdEebLHsvlWiKc6OYkeem5J8HmQyyO4YUtdM9CNVjGvDYWvbo0ILXuNEGs4zdfpR01gaAINYGcsDXGmTE3NZjLOeiYyjoDpDg-DaekP3aozkEQnFxLlJYDTauVuk64nc5W3p2ZWE6aVFxzmcJeRJPaYX-RwWa1lslqTJcEbdWbgW_Hm3xwEpfIcdGWpHLSl5ZzA5zgcySdpHZ4mFF6G5IdeyGG3HowhpN9iIkDgDST6oFgloeEaJYmhtmRu4mChpyL7IUBjteLwpG7k1qT4JaTk7KZypHOnnCRr6F3lIyk-ZTwq_WSGLK_k1q3KZOpuTKUTL9_mAi9_ZryvD2dPL9Jnii_-aAduweka7rWpSvIkKtHyVesNMgerqzPCbDZ0giyxNXtsjrbgrAJ5gSzEOmhsobsH7EC7uqr7vDOqnjyh6tk9Fuvyf9atf__67lR_fq6UfmuuWDsALrn4ce1tNxVt4jbmrh03G659d6dueDhYbig5aq6UeS_vHTfsr3C36C-aOh-v3_oBsG33jLEvNh0yAzUVMppzb7Jac3wzPjQOs8SzszQbcpM0HDFPtHawNXTyL7p1i-9QNeJsxrU-a-70dao8s7xn_7MJ55YzuCdDNDzmfzPI5j30AyU-diMl37c8ZYz4JSVrONBjwLrqZXE8fWTlPowiGv6ZYBN-w543v13df__wXEY_tVvhvlgbg35omqy-3RQ3_c0TRH1PUtD5j5Pu9ffUsLTBlOeyDhJjq4sPcekOTFwq8orr6UrJzybohkHi6sOd4bkAVB9AAAEe6EM3GjyFCxjyh2kYIco5mUUKGlRWiUqR7ceizeSJnMzXS7CJYU6hCbrMkgqaDMDLYU1xC3uO-opDT2WJ7hAtCUCQxIjrkmHIa1MUSA1UBcdAFdvGzJhBRflYwQV6mRzEb5r3g_hdIoJlYvpCI-R7AY1nR8BIa8AAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/NG']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":191346,
+"_params":"-191346-en",
+"regions":{"2185366":{"level":2,"name":"Cayman Islands","index":0,"property":{"openStreetMapId":2185366,"iso3166":"KY"}}},
+"paths":{"2185366":[[1],[2],[3]]},"ways":{"1":"1O0lAeagJfvz-CcByL0q-5dCxT5tPPZAlj8wSPE6qEtwTpdWt0ZIWCpIyFrgRE5YwENWWx1J8VtGSthYfk65XKI_LVxeQc9ZmTxMW4hO8FzrThFgn1kLY_5d_2BoWWVeHXiBYCBwtGUrbytr3ndacKt_ynA3eHty93c1d4JwvndAcsV5J3qDfEORXXplnAl8-Z9feQeXqnfcoTh1mJxEceuoznTKtc9z-64Mdw20LHlQuo12Fbd-c7O9lnLqrsxukbFtaLq1im5QvQRwYMDEbaO_xHAhzcFxZsMgcPHGym5v0hJylLIGgtujp497q4Oh359ltmiwxt3PrNf2GZdN_6R0__-wWOP7PEeE9Lw8Guv2N2zVnzsLyWdIx8I0Shm9GTwSqjc_MZ6aM-WPbwnJekoAZW8AAAll4Qe6YNoEXlvcEXFSbxQEQ7oQgT7EHhw8lR_3OQsXYCxJBBgegwnJF0EOoxV-I5AU8zteHIE98xpjTWIcsF1LGZ6GCR3enXMcYrTEGDXE3xLPzI8Mrs1pA6XSAABi6vAD___EGKjvzyh94hstpOSkH2XdqR0Dxu4gzsIAJPaayyxOipErC3dFJmNw3iZFc6Eo9W2dKhFnrSrTYiAoUV1iKoNfBiyaUn4vUk2MLkBB0zaRNFw3mkLJPg==","2":"8PMrARecOftUzSwBGuE7-97e___0xuv-D7t794e7VteGri_B1m5liaFHIHI4Wvxg7lRAV7c6zkusJRxKsAZJMwAA7gewEQAA6UR4EsV5jj8zrrVU7MXEeV3GEJZ92MS4__9e5t7e__8=","3":"-FcsAUTtPPu0dy0BHYY_-wAAAACoEc8D7zm7IMhW-0ofnVJ33L3-q-jvAsn__8LmNu___x_SH_uzha_RR121ihsSIjoAAAAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KY']=data;}

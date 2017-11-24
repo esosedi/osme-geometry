@@ -1,0 +1,7 @@
+var data = {
+"_ring":1111,
+"_params":"-1111-en",
+"regions":{"1243588":{"level":4,"name":"Ogoou\u00e9-Lolo Province","index":0,"property":{"openStreetMapId":1243588,"iso3166":"GA-7"}}},
+"paths":{"1243588":[[1]]},"ways":{"1":"0KTi_6arrwBUjwQAWQvPAK0LmI2XCo2KdAs8iJ0LtoZ0CwWGFgl2g7QILoKfBkd_6wV6fWAFPH0IBFh-VANpfiUC_31CAMh7AABVelIA0HlYATl5DAJtd7ACY3YOBY91NgY0diYJLHSuCyBwMgpxZ3cMLmMZDNle1Q14WxoQvFdBD-ZTsBJyUSYXaUzLGy9IOSH4Q1Ig5UDUI8c4LSedNrsoozYJLV83-zD1OCs3EDl5Pqs5m0HdNudJEywpTawozk8QJR9T-x_pVi8ddly4HSRgnh2PZGUepGS_HeFjpxrlYZIWwF5gEfpeBw57XHQKO13RBq1cDARfYOcF1GH5BXdiIQVkZNQFWGq9BVNsVAQDcigBwngAAPJ_uwBPic0Hh4pbDXyL4BKvjHIXlo17GYaQNCMsmXc98Z0TTiugU1TVoa1WuaFEWW2jRVuSop5cgKh0a1-q4HLIrM93qq3ceIe0ZHpavHN7J8P7fAfNeH7s1s6AL-RYg_HwMYYu_syJVP1Sjkj5l5Qw_AeV__9dl9_9V5vs-RigUfe1oNz5TKVp9n2msverqLz2sKrk94Ku1vk6sdH9jbD0_AK0N_vFswn6L7b49yu2ZPmNuPT2brjc9hW61PfwvaH5jb-g9mzA7_Qrwu70vsNm8TLEWe2SxivnOchp53PLZeX4zCTlPM_o4x_SXOV51Nfi1tj14xHcF-OW3sve3N4j27Lawtjx2m7Yw9iU1X_Y5dTI1anS-ddJ0DzYAM2s2UjJgNlvxkHboMX73EDG8N6UwzbgWsFp37e7YOXVuNLnva6Y7IOl5vHjkMD7dIj__6J0MPGnVsDcKFjk2Fdb2tVOW9TSKl5i0HBd1c2tVUbNB1SNztRMq80JSojHQkcXxmpFkcThRGPCZkP9wPBEab5mQdS6Sj4rtx46YbUfOkOy2jU2r3EzJqtWLhusrirwqWIpeqnMJ2imyCVGpbIjVKYDJNqjYhxnn28Xep-rE1ycyRAFn4oPCZwVBm6apgM4mtUE8JiuB-aWSQjllbQIwJMcCieQdAs3jq0LmI0="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/7']=data;}

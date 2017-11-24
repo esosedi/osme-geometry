@@ -1,0 +1,7 @@
+var data = {
+"_ring":2283,
+"_params":".sd-2283-en",
+"regions":{"2366970":{"level":4,"name":"Dolj County","index":0,"property":{"openStreetMapId":2366970,"iso3166":"RO-DJ"}}},
+"paths":{"2366970":[[1]]},"ways":{"1":"YrGaAu52XAFIWqoC_NBxAe4PHLvwE5uyjRgyrzUb5apKHMKeeRg7kP0d64JDJFt72iTJclwo42q8JjRi4SbMTqok3kq9I4xGMCAsPjwchjf9GU0m1xvOIjMdNxnrIGsRKCNgB0AkhgWgJ_kC-i0AAE0ytwAwOJsDIUmKCMpMhRCAT_MefFYKJD5cKCYPYAclZmNYIUdlDBs6ZaIXM2tqGuN2xSQzcZcvlHF9MA-HajNBinIsn43wLGqOgzFHmJkzbpvINW6dMTbOnn0-KaPJQGOovkBbqIVDPqqARbepS0lXqv5J4awSSgquwUiZtb05W7jvOpK34jw6uU09CLi7P3O9iUH9wf9BfMUgSXnIUUneyWlQWMw4UH_NU0zlzwBMAtGEVLvPw1vi0lRe3dLvYG7R4mKT0xlmutFEaILRi2uH1hdwvtu_ccbcnnNA3Np1P91ReITef3kc4nN6_OFsfT7k6X9S5DuFCuYuiSLkl4tl4fKLHOBJjtXfSZBm4T2U2-J6lTDiz5rN4had295Nn2bhiqBA5c6fSel-oTrrYqEU7QegGPAZoD7xbZ_f96yiO_7ioc_9fqP__8KkCv8tpur-8Kli-1upevjfqwP2rao08j-qnPKlq8Lxd6yU6vCt0Osfrwnv6a9b7K-ya-t9tfTr6LfL6Bi78Ol3vpLo2MKB5-LBOeQRwlnj8MCJ3yTBZtw1wkfdg8Th2KHG_tCqx_DMTMTAy8zAWss8wgjJEsPhweu7T77ywaq57b_4tiLFX7ajxA22VMXZtOTKrLIK0Biucc2UrEPNu6tizrmpQdQXqhrVkqu71FqraNYGqIHc7KP62vGjb9zqoqXdiqHr3fGf7d9onDbhP5zx4ieXeeWilbXnYZDT54COwu-XjEvwI4wt8vWIxvDkhnb2eIeP-kKDnfsJg-v8iIGm_NGBlf4GeOz7hnfG_w9yQP4ocnv9x2Fo-mdg5_pSVdv4C1Vn-SdRDfieUAT7VU1i-l5NZf5GSx3-Hksk_0tGk_1sRf__lENh_55ENPzsQNP6QD6d_-E72v4gPNf9LzuI_Zw6d_82KVj7Ximf-mwlP_nCJWz3oSOd9uwjBPXSH0HzIBoy7w8W7u1MFp_sqwSs6bwBPe4AAL3usAKo5IQHqt2SDBDQSw7mv7MP4LvuDxy7"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['RO/DJ']=data;}

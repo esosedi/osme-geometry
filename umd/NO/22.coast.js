@@ -1,0 +1,7 @@
+var data = {
+"_ring":2531,
+"_params":"-2531-en",
+"regions":{"1337126":{"level":4,"name":"Jan Mayen","index":0,"property":{"openStreetMapId":1337126,"iso3166":"NO-22"}}},
+"paths":{"1337126":[[1]]},"ways":{"1":"aro4BLZndf-B2D0ElueG_3hJq1NSSLJSxEf-UphHR1K-RsRSiEcOUpBFu1EHRidRgEV1UCdC21AuQFZNdjwnTck8BEocO_xH8jfBRnE2FkVxNSRGCjVTRBszXUQsMkZFczIURBIx0ENLLjBAzycuPgElVzyYHUw98x2LOy4g6zr9Hww6IyF0OAQeVzOxHZEwnRUHJ2YTPyfAEmYmpBDkJr4RmyScELYiSwu9H5AJVyCQCRwfVQiKHxIInR7NBkYf1gYPHnIEMhvHBAUavwBYFQAA0hLPAOgRnAE_C70D0whUDsMIEx0AAI0mdgOTKGoGRCcXB30ntQm1JZoMziZgDbIo2RFvLvsT1S-4Ex0z2RVpN_8VTjqRGOA5bxkfPgkf7kEtHhxG6yAsRp8iQUdJI4ZINyepSh8nI1XVMBlWXjs9V9A84FjKRKNeq0d3Z49XeGt1WWZuBFktb1FWEnFdVotxvle_cu1XcXI3WdNzZVl0djhrU3hvcGR4bHMcfOp35IE6gliHaoOWjamJ0JQejKKf5osPotaM46NwjOCpUZEquhmVWcGBmgXHy5uHy26gS89hoizVZagq3easyOJ1sjvou70Y8wrMx_P-zY_zSNoP9mfelPu53VH-ZN9C_y7hcf5l6Lj_Lu09_qfy__8g-j3-t_vd9P__tezl_DDsifth5UH219_29O3aC_LBu5Pxzbbu8Eyv6_LjpEn0qZTM8oKPCe7JiFnlSIlk4-aFvNeXhJ_Wp4Vd1UiFetO3fd3Eq3ittER1ebHAdfKw53R_sDV19K8idI6vOnXwrt90nq20c2etR3MNqHRyoae6c0Cma3ARn6ttbJ-abladmG3wm95re5xta2Sb_24emYdwWpmVcXqWfG3QgnpnonYkXUhm4kzWVPtKVlSBSvpUeEmrUw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NO/22']=data;}

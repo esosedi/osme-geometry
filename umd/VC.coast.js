@@ -1,0 +1,7 @@
+var data = {
+"_ring":191290,
+"_params":"-191290-en",
+"regions":{"550725":{"level":2,"name":"Saint Vincent and the Grenadines","index":0,"property":{"openStreetMapId":550725,"iso3166":"VC"}}},
+"paths":{"550725":[[1],[2]]},"ways":{"1":"eDvIAGvzWPxXNswAN3Zb_CIMCXaUDmxsHxJJaP0RSGBXDgZV7xCrTpYUIVPrG5BW2yHnSXwg8DPKJAk1DyfpL2MqOjVkMHsuCS_KJfcx7SedNNohoDcvIBY5YBUpPP4UhTuxD9VEbBUgRn8KYEzLDRdPJgpFTjoBs1JPAwFTAACWXYYGlWJwAoNoxQcyaxEGsGzaBwt2tQQpes8I93sxDp59pwpMguEJVIY6FEqLLhhbjLogaJEsF5Ca6h51nZkao6GuHPeiqi9ppOo0FqnZNHKlMDsnqP1Dr6y5Rzu3oUWPu6lH3sBiU0bO0VhT1k1lL9yjY8PegmhE7l1zdPQYeS3zWYOk_PiQov0LmVT7n5s9_S-e__-_scn8GsN-93XJs_vj1Zv4zdi99rvUcPMA2O3yOeWm75_mDew64WTRHPWqy1H6jq_-_p6aN_7Klqf6q4jW__-HnvskhNv6hHP__1lrfPKWWjLuE1Zj6C5O5eYNSiDgUzyA1k4i2NM2GznPaRbdxmsYH8GuFke9WgCxqWQDSp6RAfOZUgMClGsAFpORAl2RAADshesCaIipBIWLugVFhksIFII4CJt8tAp-eSIMCXY=","2":"syDGAG7aWPzbGMcA_Bla_I4x8HwQPgGEAkImixhNE478ZNOboW3ShrZtg4CQZ9Z69GgPebRsdnlxb0p0E4cxc2upHaVQznPDFtku5RH12uv__zP5ye3__8fNDfYRtn391rlx7_Srw-w6kBDFIYHy28peoNY8WpvM6D4v03MnlK6TEWCxdwrWomIW_6agH46fxxrCkEkP244AAH2ELRvFKxQWlQ_TGQAAix7hHtMrVCXxLEZ3jjHwfA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VC']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1799,
+"_params":".sd-1799-en",
+"regions":{"1802545":{"level":4,"name":"Hu\u00edla Province","index":0,"property":{"openStreetMapId":1802545,"iso3166":"AO-HUI"}}},
+"paths":{"1802545":[[1]]},"ways":{"1":"Fy8G_zuNyQD-kDT_ZIn_AL_9FvCb-D3vGvKM8E7lzu-T1wvs_dL97LbHAeyOxDvtHcFJ7CC7BO4WtPPsL7Fc64eooewIo8fuRaAt7pqd1-76kWXu1o1G8qCN7PPHi2zzeIqA946FtvVrgqX44n2x-SN2ZPkWcRf9L26D_TFrXfztZf__4WW-905n1PCoYwHosGCm5Mpe8uOlUWTZ1lLd06lQjcxjUR7CPFPHvR1S0LjQUom1sk5AsNBO-q2lSoOorEZbpexFh6PjN4md0DIOmUQl85PPH5uPGxojjc4ZeIu_G3SEYiEHg-wlL36DK3FplCpBZBMsMF_JHkdUChrvSxIYY0rZFchAMBBTPS0OtDkLDyM4zxKLNdYT4DNrE6UxwQW-KPQDuyYAABweaQLQGnUKshOaC5YVKQ_RF_YQ6xf_FvwUyRpDFHsi9BbgLZocwjW-GOdJKhk9TKgTTk8zEDNRHQ9FVQ8QIVnvDqtZ7AzkVykMWVaqCG5YIwdjXWAH211JBcdcygF3XiQAbmAAAPBjaAXtZfgFomurAbFtMQKxcS8F-XlbA5R9SgYvfsUJ8oRsEAeLJhqrlMQdpZwmHt6iKyKPrSohs7G_IZCyCiCVsWke6rK0HPO0_xs1uS8dKcFuGqrLux6nzTUeFtAOG6bUvxmU2EAiZNjwI1TVPCcK1BEuCtS3L_HW9jT40xk8EtWnP83Sx0iv0oZRRdMhU1TVQVTh40RaiOTqWzrosVtm6Xtd8-NWaF7kC2r55xdzVPFAeyfvDYCv8kyFnfI2iAj6nomb-MuMq_s1l_r4M5r69M-bu-pAnN_mcJ0f5jWfc-brpbzb8KVp24enRd-frgbhF7Cy5EGxheaAtvnnK7jZ-gvHpPprys32g80O9ljPCfde1Fr93dex_7Tb__9-3dj9R96__CXgsP6n5cX8nuq__eXvv_0W8A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/HUI']=data;}

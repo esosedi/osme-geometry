@@ -1,0 +1,7 @@
+var data = {
+"_ring":2436,
+"_params":".hd-2436-en",
+"regions":{"2615530":{"level":7,"name":"Gostivar Municipality","index":0,"property":{"openStreetMapId":2615530,"iso3166":"MK-19"}}},
+"paths":{"2615530":[[1]]},"ways":{"1":"xl17AuGzOQGF_n4CQ59BAbj1ur8r9t3DtvS8xY7xdsZT6pHQT-he2yzpRuIs6UnliODh5pvX0eX60BHqV8Qx8zy4rvjgr5T8rKgO_0Ch__87oC796J4p85yUePCDeqjwnnVY74N1NutAcpXoVmwV6O5hTOrpW_7ubVJv78BJj-8JRN_w1T5w88o3AfXnJNH11hVp8woWR_AeEBXs5A7D5qgP6d8WDCDYsgf603MDztEAAKPQKANtzWgKq8mfFPnEmx2WvfAj47VUKRmsBScUpugmKKMxMLeixzxgpdw8y6ERPw2fnlBKmDpbCZVuZQyc9WsMnPVrCZagaMON_Gpei0poB4Nnbj9-P4W_ffmSAniulFZy7JaycDGaxGz8mzBoI6DBZdOd4lmyoWhSaZipSr-OZkbejP9APIdjNV6Pni6SmvomTpk7HVKoyhT6qlEHSKtJB4erKgdkruME27QbBLq8AQP1vuYCJcMsAtHFlwEnxmQBlsaJAMXGdAAjx3gA3ckOAbHKJQGKzDABts4ZAVLQKAFU0hYB7NM-AefUyQGd1ggCgdg6AuXaRgJY3RYC0uCkARnmVQHX6b4AhuypAGDteQCN7gAApe8IAEHzAAEl9TsBLfcGAXj3CgFU96gBTvdUAmX3ugLR93wDP_kOBX79pgak_TEHiP0CCDf9-AiY_uYLs_4uDgL_lg9H_1QQ__-FEfPtNBm05uAfr-jVIQbrsSMf_7Y0mPKWPKD1OEqH61taFem8XHno_2Kt6MJpqeckcJPgsHO-03F2zMvzedrDF4KcwTqLlsNAksPEU5z4xSCdl8fanU7IVJ_5yCOhMMsPpErKvqe5xzWqT8YmrPbGYa3Zx064_tOXuqXc0LlU5pa5POyHu8zv6L249bq_"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/19']=data;}

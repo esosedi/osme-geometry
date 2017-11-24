@@ -1,0 +1,7 @@
+var data = {
+"_ring":191270,
+"_params":".sd-191270-en",
+"regions":{"367988":{"level":2,"name":"Jersey","index":0,"property":{"openStreetMapId":367988,"iso3166":"JE"}},"1711283":{"level":4,"name":"Jersey","index":1,"property":{"openStreetMapId":1711283,"iso3166":""}}},
+"paths":{"367988":[[1]]},"ways":{"1":"KSnuAlaZ3f9Gru8C11Lh_0cGveRWEd_UjAupw88Bz8CJARG5YCCYqpoktaTjInKbPhJXmqUNzZX7GsSPtxmckqohcJHwHXeRTR7KlAojhZL4IXWWEyj_lCYnrJf5LwSZ7SnqlE80T5aGJD2T5Crzkqop144lJCiQzSvQjQkvGJLMNrWPJi7WjVw_MpDPUKGDgVYHexxXmWg6SiJbLEJ9WcE-vVv3P49Y_joSWjg-L1zQNbRYlTHCWtkn-ViMIGhe9BdeX1kGbFpLC2ZVag-AV_IQx1OJF0tSLRhkTVcR6UtUDr5FqRfjRxEi6UQVKAFJlDnSPQs4hjZtM2c4HDBWNMwoTjSRK7kwiCX4LxsnZyoXHqQfCiakFGktORP9KNYP_zExCT83txQgP5gTb0JvGXBsqSC6ncMZqMGCDZvJ5Ac-xpwEmM3JBW_fAADr7q4DJ_drCsLvDBVn8UUbnfntGaX92Rw394AcB_QqIgDukyPV6zstLeTaLv_lojEY2ZQ3pt02PILZcDxC2kI_guBcP_Lb1kS84MZGt9iFS6riSU5s4fhTxPZcXVH1q2Nm_oZiLPngaP__DGu26fB44eq7i3HjK4w74IiQk-WglRzgXph54cyd4e2qoHDqT6lf3mKsE9pcrybcAbI4zwOz_ci7tlHDc7VPvoy8KsUAz3_QzdQ8yKnVZcdT3XW86NsLtcXwJ6Lt8k6Z__8kn4b29Y_c65KGfuzYf_zyO3vX8Bh2-_SfasrznmQb-dhXifOFXzX1rVp47Q5PS-nyNr7nkgtd7aoF-ecAALLpRwa95A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['JE']=data;}

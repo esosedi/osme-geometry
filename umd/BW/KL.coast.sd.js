@@ -1,0 +1,7 @@
+var data = {
+"_ring":658,
+"_params":".sd-658-en",
+"regions":{"270333":{"level":4,"name":"Kgatleng District","index":0,"property":{"openStreetMapId":270333,"iso3166":"BW-KL"}}},
+"paths":{"270333":[[1]]},"ways":{"1":"dU2H_i3KigHthZj-mHWbAQAAa0meDuE-3i2BCbws5ga9NAAAokY2AvhYtBFd7iEh5_pNIv__yCFk_qEkS_wrJgunzcQfqbvHHrAozHa0tdNTupzXRLsV2vS6ROBnvCji3ca16fHIs-xszmvtHc917kzOXu8VyxDxKc2r8-XSxPcI1Pv5tdRc_5HT__9wzqr_nsrT_APIL_0bxiv878MZ_EXCbP7Zv5n8TL__-am9PfhhvJz4CLuh_JG4n_2YtbP6zbGf-n6tL_cDpjf4X6IZ9HWV2vJzjyHu-IoQ7huH4uxFhQzouINY58l_Eul5fLPnjHqv6pJ3yOuJdQTr4HSU6EJzWei1cFTpeHDy61NxROzfcMDsE2vg6dNqzedGaSPnvmdo55VnOejoZenncGRv6SlkiujyYq7oEmKz5h9gTeY7YEHlOF9J5dFe8eOoXUDjbl5Z4t5dl-GdXjPhs13q4Hle7t9zXLLejFyi3d9a5NyMWo7Z11dh2Y1X1NZWVt_VCVgL1dJXV9TaVPrNPlWfzFxW18zmVp_Jb1RWyAxUgcZbU4PGF1N0xLVTIcTwUuvD5FK9wltQ7cH4T2zCvk8TwfJOG8GBTz2_UU4XvtlNG7w6TBy8q0tzuiZL1LpWS0C6xUlnuYhIy7paR4S6HUeouW1FTrlURd-3jEQhuEtFSbX8Q7SyY0McsyhCCLKVQmGwhEFgrqY_b625Pm-nXz77p3M8IKf2OwymKjujpiI6kKRNOW2k-ThPooY47KL_NOugZjVHn1Iy5J3GMnicITLbmx0wc5vZL42ZPS_JmTAtWpXZKVWVkChLk04l_pK5IYiQ3x4MkIgdio5MG7yOSxYojKQU8YllEaeHFBE8hZcPRYPCD6uBFgyEgHAJi312C_Z5BwC2SQAAa0k="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BW/KL']=data;}

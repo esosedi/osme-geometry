@@ -1,0 +1,7 @@
+var data = {
+"_ring":2209,
+"_params":".sd-2209-en",
+"regions":{"2279585":{"level":4,"name":"Khomas Region","index":0,"property":{"openStreetMapId":2279585,"iso3166":"NA-KH"}}},
+"paths":{"2279585":[[1]]},"ways":{"1":"eRiR_vbt7wBTwbT-YlQaAZm2wj-gubNIkraeSpe6Ak-iuOJT97qlVTC6HV1Mvzlcfr3eVp2_51WvwS1YrsUeWmfFZluJw3Vb8MSzX5XB_WLbvChkWcGDbSfHOHJzwad06MjnfMnCP3_jxxOHJsowjZrQy4z-1FqPndDikDTT6Zbt0gyZjdelmdfYJJjN1BWf0tzsn9rj550l5H-hv-acpNLo5aMj7VepuvBiqu_yh7LS7vu1FvJwv8n0ZsOO-prIhv020DD7CdH__3jcm_Zh3-Huwdc-7KjYDOwz2hzqz9sK4u7akeGK2DjeVNiI3uvWvNjk1YnYKtcv0k_Yj9B3zq7Ips35yJXLPMFozhq3Pc3WulnaeLKy3nKwe-HurJLb0Kfk4HKrOOUGoajn4o6R6TGG1-zYdn_so3jX9b5z8fUVcmPtUm027l1r8e6abOLyQGni879oa_nNYNX7pGCv8khb9_D7TP__mzvF-eM-0PZUONPs5TWj5tsvSuhOLo7f9CqZ2Z8qVtVPLDHUmSlOzy4wtMjHMQPDNzFHscAtX7FbLl2evjjhnmE68JoYRF6YS0XSnelKdZ1wTXycOlCYoRBTy6LRUGWcolLelXhOlIchU5aGmlNMh5BYpoefXBuHdlx8hRNgdn_iX0Z1xFXkbzVSeWIvV4tfClcyXSpWRl0yVcxb9FWbWCVV0lcrWLdWiVppVHFa_lIFVLxPXEv8TAQ_zUb7OkBGbDjwTm8xC0_DMeZN0irDSBQoqURHKLk-4y6QPuMvKTwpLXE54SpBOeEpAzgMGp015RclPvgYSD-CF-lHBxFLSUERv0XjD_dFaRCwQdoRmkEQEdU-0RMaPU4QtTszCmY1AABUOKUAyDJ4Bcsw-wmUKOgM_yw5DCwxcREcMMsVrTExEaUqBBK_JtEQuSGSDPkY9AtME0IIsRKEB_4GTAkAALwbxgE6GrEDARvUCvEhfAuOLAoKrzPbCr86jQEuSFcHW0jLCT5MoAm8VgsHFVjFCJBY_QuLWQ8M5FgaDnxasQ66WnITCFxwExpcLxRkYO4OymMnDYCAxQ-CgdoQoYEcGIqEkxmuhK8fgpS-H_KT9hQxoSEgrZ07KPyh6i3HpOotjajOMlWpezKxqMA4vrGLOJm2wj8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/KH']=data;}

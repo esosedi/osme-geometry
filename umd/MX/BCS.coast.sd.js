@@ -1,0 +1,7 @@
+var data = {
+"_ring":2403,
+"_params":".sd-2403-en",
+"regions":{"2589611":{"level":4,"name":"Baja California Sur","index":0,"property":{"openStreetMapId":2589611,"iso3166":"MX-BCS"}}},
+"paths":{"2589611":[[1],[2],[3],[4],[5],[6],[9],[10],[11]]},"ways":{"1":"J6N2ATlmTvnmgoEB9SNS-X-W24yckRtwIXKZgKts0lzicgVDjGmWQ_lqSTFtQOWwbTAHwkAotZ6jHGWsAAD__10AJtedEofBNSSthcswxq0ZRoaa11RAVSJUODIYWEVKMVsrO6pTQi2bWs8fRkfjLDZWAAAKsdFvd_05qv__C7j_7gq8xa9meBiqNI3Il-CJf5bbjA==","2":"RsWJAVzJXvk61Y0BUF5h-YQ4DQ8Fdy4dva9ZXLXimFD_____wM362kO1z-uMmeL0W7Vypg5fz0kAALAlzQ8AADs4pgaEOA0P","3":"aFV0ATVwa_loWnYBehdt-Z-R___PAVmrAAA0eP0873e4MbhEGVy1McSAFWUyjWUfreMAAP__6FmExyTfLpXA7J-R__8=","4":"69KWAb-pP_nE7JcBNZJB-Rqg7JUxt8rCAAD__62PAAD__xdFDqh0jBqg7JU=","5":"5oZ7AYGbZvkQAn8Bn4Jp-WGj7LNBCv__AAAAxzsChubsM0hkWKLeMme6AAD__9gGm8n3Ptun8LNho-yz","6":"1dtyAQnsUvlCJ3YB0a1X-VvEf0D3-QAA___IcmHAHJqtmBPTjzX__wAAQ_K9wm5HW8R_QA==","9":"akpwATF7cvkG0HMBNYt0-f__AAqVMgz0AAD__ygS43nLzwAA__8ACg==","10":"wLqeAUxcUflJ7p8BIVtS-eQd5mGhvwAA__8PPmDeRHtLXf__AACBwPQSjl3kHeZh","11":"z6GGAc0_ZflAW4gBbQBm-b7TTUH__1Ghwswk2QAA__9kAhSpxWYAABW-5x6-001B"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MX/BCS']=data;}

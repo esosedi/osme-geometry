@@ -1,0 +1,7 @@
+var data = {
+"_ring":1024,
+"_params":".sd-1024-en",
+"regions":{"568485":{"level":4,"name":"Cuando Cubango Province","index":0,"property":{"openStreetMapId":568485,"iso3166":"AO-CCU"}}},
+"paths":{"568485":[[1]]},"ways":{"1":"Z7_s_mEv-wCZADH_jzdmASolLjgkJacdZC2yHvg7sBtwQrIbtEkiHJBVNB9gWbohGV_VIs95yiHJf3Qe742eGfOOCBf5lNIU5ZRFErmWDxKHl7YQLJhFEUeaZBCfm_MN4J14DuWf2AuaoRcL06L5C96jqQu_o-cKPqiUCECs8QivrxMHB7izBii6OQV_vSAGY74RBKW_UgSawogBMM65Ac_XAACQ3lcBouJ3AIfmdwAq50cBtOarBQrpKgk95W8NHughEOHnPBE84yUUi93tFJbZixhB2TIa0tZiGy_V6R6x3nMgp-XAJI_nGCuV7AMwzfQ4MRT5RDDo-aM0__9oNg_3gUDX99BDnPL7SCLziUuO7itQKeTNVG7adlU20apYLdB9WmfS_V4kziZkSNfaYufYz2Ty1cNrSNf-b4TTPXEN0TRz0MfpdX-8WH2PvCp-Jbsvfgy6iYBvsyWE6LAqh6qu44rfrQWRXrCYmaauAZuNrYGey64YoOasb6FkrQOjpaowphCkpakgpGGrVKGSq1Ogmq7jmPGwT5XCtUiOU7aUidi5JYehucB_Cb0-fqq_03rBv655csHPcPHDlGzhyHpngsxLYL_OgVgyz2JI7dsXOcnkdij-8AEg-_WkF___mwFHtDoGi60xBmmrowTKpAAAR58eAWmcMAJSnKwBk5qPA7GYRQPYlAkFfpIaB8uRIAiLjhoK0IyzCa-KXQgWiksJbodXBw2FyQhBg6AHJoIiClJ-5AgyfMkJPXpRB0J42Ao7dWcJnnCLCphosQu6aFINC2MpDZFhkgvHYJAML1mkD-xUTBF8VDsRU1NrF7pOGBm6TiwasUwoJYdHKyUXOSolLjg="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/CCU']=data;}

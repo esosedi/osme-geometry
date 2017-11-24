@@ -1,0 +1,7 @@
+var data = {
+"_ring":847,
+"_params":".sd-847-en",
+"regions":{"356532":{"level":6,"name":"Kumgang-gun\/Kumgangsan Tourist Region","index":1,"property":{"openStreetMapId":356532,"iso3166":""}},"356535":{"level":4,"name":"Kangwon Province","index":0,"property":{"openStreetMapId":356535,"iso3166":"KP-07"}}},
+"paths":{"356532":[[1,2]],"356535":[[3,4]]},"ways":{"1":"a4NIAi37nQeX108CvVWkBwAAyJ5kEZ2ZpCUVr34tq60KMEmoDzEPk5Y-AIf2OcN23jmUXvE8YFqeWwRVv4iMe3aY7XUBnTduAJ6uSLuv0TIUuLUYx853BcziAAAr7w4Oh_W2HHP51iT__-0mp_GbRNb1k1IS8WpghvTOd77vsIOd4WKORd1fmP3ioqiu8CO2VvFdvrvuJMTv2ObWLbMn6XxyA-k8aMriLWJO2dVYV9hpUzHexFGS7xlKufg-PP__8SLx_w==","2":"a4NIAg3soQd9g0kCZlWkB_____-bVLaEAAAAAA==","3":"a4NIAg3soQd9g0kCZlWkB_____-bVLaEAAAAAA==","4":"6EpGAobjjAcakVkCbSKrB38dBrJiHbypzh_xnzMcJ5f6G2SUVx5OkTkiQ5DmImaOByCef3sg9XNfHGxrqSHcXQQftVOxH_hF3RtTPpUboTrNEqAxrQ20KssJ5ycAAMkkvQQCIc0HTSClCKMbtg2DGV8RsRk-FZAbJBupGIEesRv2I7IbNSTCGeYgNxeRIGAVoSWLEq0nKg_4NsMH1kIBBENM6wNRUAMFO1UZBUdbkQCbXgAAAmKcAhtkjQaNZD4MnmrgD0NwkxGsdHgVyX5YGVOGwRqJjYEZepIiGgCXZR2Vl6clr5kjKLGglywFqJcsW7H7Ji23vibJt8onCbv5KGjDxCnQxzwvgcirMQ_LuDIl0RgwjNJULtTWBi9c3tcsNOJtMK3itDO_5Bs2buzfNRzwcjdV9qw3c_wJO_H8r0f___5L9vz8Tc38yVQF-_9aSP2PXyz9mGOQ-lJlCO7eaTXcV2dl05p8wempnD3ZHKj9yASvpb0Hu_y1QMH8sVXIu6zbzoWoINBQosbViJsC4_2NTe0PheXwRnxe-NBpr_uJXP__s12e28ZYydSNVEbS2EjI06g6KdF0L73KyCpvxg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KP/07']=data;}

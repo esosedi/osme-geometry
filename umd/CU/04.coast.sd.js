@@ -1,0 +1,7 @@
+var data = {
+"_ring":1862,
+"_params":".sd-1862-en",
+"regions":{"1854616":{"level":4,"name":"Matanzas Province","index":0,"property":{"openStreetMapId":1854616,"iso3166":"CU-04"}}},
+"paths":{"1854616":[[1],[2],[3],[4],[5],[6]]},"ways":{"1":"CDBhAeZoLvuIYGIBGSg0-_u3UzzKzjVK4bS_ZZnX-3Of5tWTWPs0mUjrxaJz_vim3Pssq2PDkqyyr3WzLa8xzBxm3OWTgTb0YcNp8dzCrvvumUf6Fkn__-wZC-xsRHXIsS95v6xZrK5FTriaAADEhjgG7oAoSziXCGTVk7Joa41jNe6AaGAqiMZqHYCkShBxHpHqbWhgVG0dWF1pWIkpZZhXMmHKQCVS41_6UJ50JVk6lLZNzmt1SPG2JwrQz94BX_wAAP__vANV0EEhosrwMfu3Uzw=","2":"zVhgAQtDLPulr2EBGzov-_ouAAA1LM4U003qNEtr1TzPU3ZHv46cafWXZINou5yWodvZip3-Cpyu5sOlZN6PoCzb9qoc83OtmufLuv__WsHf9YXETeVFycLl-NeRuVzbc4z__892TvhsWKq5jWIdoPNdfa-Gbpm1e4DgmF1wKoNoXj-O_G6NbM422TAAAIsS-i4AAA==","3":"hvpPAbccJfuv3FABHXgn-0-SaSTQr2gmpszAGIrK-wP__wAAisoSMmXB0im-oaguxZEfRchJyFtScp5mICqDbPA8_YMnKcaG2GTGnXOrFpFPt-yxE5pou3yS8KvKd7-4rlemtRUxf8zWKmHXp1HF4mY5UPMDRf__AADcvKAwWZqoCzd3t5MwN0-SaSQ=","4":"lPNgATpKJ_s4DmIBBzQq-2zzVPRqwP__791i55fRAdEcp_K5BIfDu-yB36djmGqnCZmpkq0mMzrmDYkpUxapMgAAMS1ABAAAZh1_J-H75c7__2jpbPNU9A==","5":"JmFiAUk0LPvDIGMByx0u-yvxCpX__3-yTYqTwRV0ms8VdLzfEJ7D7WyO5P1lTf__XAwd7gAOfeGGJwzm_SmXyCdTNrq9WWWwLQ2zm55VT4Y4MtGJhwvhdgAAABsFXQAAXHdKE3GzfBCDoEtJyM0PUlDLtmwr8QqV","6":"vzpQAQgCI_uE51ABTNsj-_roAAD__8AEWPCgLrh30d7qRv__AADd2pQQsYiuJs6PaxK-xF0qKsNHcVB3Di6jPdxeai9QQvshJIrIMR7Q9hL66AAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CU/04']=data;}

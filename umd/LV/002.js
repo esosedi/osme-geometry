@@ -1,0 +1,7 @@
+var data = {
+"_ring":1836,
+"_params":"-1836-en",
+"regions":{"1811620":{"level":6,"name":"Aizkraukle Municipality","index":0,"property":{"openStreetMapId":1811620,"iso3166":"LV-002"}}},
+"paths":{"1811620":[[1]]},"ways":{"1":"ii9fA811fwGVXGEDLD6CAW_hKdVS4M_VNeBk1YnaLdVnyHDauL7C7gGXVep0gH3nunnu5uhy4ecmblHp31_a7JNQhfEeS4Hzhzno-Dck___oIWr74SB4-LEffPObH3nw_R8y6EMg7eXUIF7jUimVy_MOpbKfDsCxJA4xsRgOsLB6DaewrQyVsYAMVLHgCxWxlQl3sbQHw7CTB6yxTgfTsdEFQrFcBZOxEgU1sUQEh7HaAxWxugNhsQACaLEXAMiwAADur0sAKKwKAGWoYgNanKoE4pnlEAiNiRAVi_cOJIlADeOHhQ0Bh0sOpYWPDy2EeQ16e-kLenecDLh2TAw2dvsLmXZBDOB1xgy7dpYNy3bCDhJ5DBIPeNMSaHVkGlB4uxoveMkbYXXVG7t0rBu3dKob6G_eG85v8xsQcE4c1287HKJvmRxyb6kcn2-oHQJvEx58bhUevm4AIURtxSFEbX0ig2xaIglslSKca3kjAWvgI0Br-SOvbDAk5Gy8JJdsKCWya1knLGyhJ0NqEifWWx8nY1fBJ1RUnSjGUXwq1E1CMYtBuzVnOsY4MjcuOig2RzqhNrpA2zFmSSMkkU2GHktQLRpjUjYVvFgAANlaEgGQXEQBHV0lAnRdTwNdXYAEVF2ZBXJdFgZEXoQHJ17UCHRekwllYpcCymIJAzJjUQIbZUcFsXSdELZ3UxJTd5AUL3aLFmJ2sRhFdTEdV3baIU12eiRgd1ollnjXJY14ByYWeYQmGoVtTiyGaE2vi1hJG45ESQaPAEqEj3xJJZCtSS2Tl0lfloBI_Jo5RrubwUbsnmJH0qNeSe-pUFLar8tUjLWrVHm1B0gcuHA8E71xNMvIXDO20DIyd9eEMYXZ-TCB2vAw39qyNxfeKECp3S1GWOBpR2jfbFEv3b1kMuokaOPzHmv__2Ziuv3vceXyDIRH5HCdqeNarArin8Vw4SrV"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/002']=data;}

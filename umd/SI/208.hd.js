@@ -1,0 +1,7 @@
+var data = {
+"_ring":1423,
+"_params":".hd-1423-en",
+"regions":{"1675856":{"level":8,"name":"Municipality of Log","index":0,"property":{"openStreetMapId":1675856,"iso3166":"SI-208"}}},
+"paths":{"1675856":[[1]]},"ways":{"1":"A9a9AnjD2gCdYL4Ce9rbABj_q7Kg_K6yS_RqsOvupbHj8Fmzn-5VtG7vsbZv8mO4Uuw9vWLoe7_I5kvBm-PqwaXf9Md03e_IXNhMzATULNOH1KHYQ9WR2tDTvt6a0mvgOczO5PvFxuNawnDk8L2D5ICxneYVo2rmDpRM40OR5uJKkBbjk4X66Ol6P-0SeL7uzHDk9OtqsvfFZ1776WNm_v9e____Waf_fVNw_sFSBfbvV5DJ71k9sNhRuKztT6ujw0v9ogRJPqHNS7igLk58nolOVpufT8GZhUfGmrpIaJiVSdKTkUjMjzFGwYzjRBGM9DqGiwoqmIKZJQ96Ehshc3YPw3mdCLR2AACpdqIn4G2WH8FcYBbXUfANyUZXKG4zRCZCLnslhi1ZJ5csKyuBK_cvGyuXN2Eo1DeGJoMyJCH_M3wgBDZCISk4VyFwOXof6DuiGbE-SxnLP4UZEkGSF15H2xcXSMcYPUmwFklKJBcvUDsRkFDXD3VR3Q59Uk0OmVW6DX9Y3Av2WVoJzFxYB0NhKQbXY3sECmYxBOVs-gG2bgMC13AeAQ9yAACidosDp3c8ByR6ZglMfJYKQ3wLDMN_yhESgEYWUn3_GQh9xhwJgXQgmoILIfeD8iCNgQgln4HdJWqC-CZ6idUrVY6GMJ6M0jPHjEY2CpF2Op2QhEKIj0hEYZGuRoOSaElDlYVLApVyTDmSHE26jwtQbJH1UCmfuFRxpZNTIqeoU9OnFVX3qOVUDKoWU-mqGU9TrPtNzbC5Tey3vUv8vKpLMcGHSpjDp0oxyEhJw8sUScnOKUxz0vdOldPUUX3VzlO21XFW_9dyVyLd-VeI4NpZ6-GnW5HlyVz45ilgvugwYgnrK2TR7lllQfAsZqL2OG1h-WFvwPlFc776QXVv_cl3Bvr0f9v5x4Jo-KCGovcBh7H0uYoQ9OeMA_YBk3T5R5nM-USbPvnRnV_7Y6Jj-9KjGf58qF7_86v__6av2f6lsR7_qrI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/208']=data;}

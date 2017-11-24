@@ -1,0 +1,7 @@
+var data = {
+"_ring":191260,
+"_params":".sd-191260-en",
+"regions":{"307787":{"level":2,"name":"Cyprus","index":0,"property":{"openStreetMapId":307787,"iso3166":"CY"}},"2628521":{"level":7,"name":"Nicosia","index":1,"property":{"openStreetMapId":2628521,"iso3166":""}}},
+"paths":{"307787":[[1]],"2628521":[[2]]},"ways":{"1":"vGAPAv1j7AEhrSACZMQPApiNpCd3jk4sfIvQM6CCfD12h5pDyo7KRgOgqElNqP9JaLFQSf2yN0gSvuJHTLoiTfu1AVDdtTFUELO5V7-ya1sVtiZdLLKFY82zR2evsGZrA7LpcAuwZHLFsHB1Oa-idVSuL3njreSFHrGvixWxY49YtN6TAbNrlHWzF5hZwOalGsCirkHHxLmHx5y8881rxMrS9Mff1AjN4Nw20PLdyNHC4ZLSm-Bq2MzjpNrC5fXdzuQh33LobOJF6yTjVOrL44DsM-V170vl_vLb6jTyGOy19lXvkfdB9Xv72fZI-uz4Q_5l-_____-q8zr9TO6h8rLoA-6X4EfsrNug5lfRQ-Ayx2PTx8DrzTa2Hcibr2XHlqz5xSarZMDFrOC-O6xhvHKnprhAnKC0YI8btAmJHLVldTG9I2q-w8llJMYJWYbIGF_SwCdg6LtkXPyzilg2s9ZVea8HXJOqbV5cpkRdgZxwV1uYylJml0dSR5gAUEeXk0RPl3s92JNEOUmTKTrajecyBIidMIeHgi38fxgmhnkEJs92bSNic48i5HONJHJw0CB-biwgoGv6ISFh-Ru_V2MXf1UXGH1UzxUtUwMUXlMTFQBTaBNwUecS_lLbEeBR1Q1iUW4Hl1EiAbdUAACNU38CxE3VAExJagbKSTgOx0ehF9lCCxeeOZgR4S_YF-Elox6JH48eyRzfIAcbvx_dGDEnYhMHJy0SoisyEIIraQ7xLSkPT0BqDItCpAhTS4QFI1IpBiRXvwSLV6YDvlrlBOhh7QQpa7QA5nIAAHN5ugCuessBrHXsA6pt2QnQa-YOKW3NEYNyehbud_sYioomHxGJziDeitskY44YJ5iNpCc=","2":"g3EYAqmr_AH8RBkCwr79AZ0cFiIOZgAAn3fRNQjZwFj__x6rj9____Qm5f8AAG4inRwWIg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CY']=data;}

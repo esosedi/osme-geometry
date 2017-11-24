@@ -1,0 +1,7 @@
+var data = {
+"_ring":1476,
+"_params":".sd-1476-en",
+"regions":{"1676321":{"level":8,"name":"Municipality of Ho\u010de","index":0,"property":{"openStreetMapId":1676321,"iso3166":"SI-160"}}},
+"paths":{"1676321":[[1]]},"ways":{"1":"GufEAl8P7QAx3cUCvbnvANAD-P8zA4L_EwpK_WYIWvqQGYr1Qxb074wRleu_F7_jTBJH3_UetNyvFoDUohih028SW85aCrTQzgPhx44KP8TdDzu_mg3rvkoLk7-pCu69nAwZvWML27u5CFi7rAdEtiMMOa_gCZqsnwZuqmoFiqoSBEqlAADIozwA2aJ0A92iGgiUnY8KMJ13Ci2cEA32m5QO5proEOyW-xZBlFweDZKNI8-RaCi_j7YwjINHL16BjjFOdII5-22TQQxxK0Zob9lSCHCBU1NtQFKaayhVbmooVelnD1iWZn5RUVs9U5ZZC1FOVwJSR1asTxRWc06qVKVG81CdPxxPKTVXUcQ0ulDDOARLvUE8R1NI_z5OTc4-PFK1PFdXQjiKVmQ1Z1prMFRhMC1cYnErSWhiKBhpoxtkalEZP25aF6pwMhT2aWAN4mahCABlDAhJanwGl3S7Blt8dQVehRAB_IwAAJKUegSJnHsBz6elBgqxSAj3ts4KrrvSCn-9jgtcv7YOxcArGA_D0xuLzW4ljdc0KvzafS9P288y8d__Nazg1Diy5M89nOT1Qznsn1ef8ShbG_boYLT3xmb__1puC_wucb30inCF8Mhxzejcb2zk8GwZ4L5tx-K4b93eMHJF33Z0A90AdgLh6HcL39l53NhEfAbYI4PX1O6ATdIagmjUSYqT0taMptOQkAPPg5LVz9WTG85XlKvRlJVfz_GZ6coAmnjUkquO5_Gp0-jaq3Ll8axG5UiubucGs1no1rJw6ni0NOzdttjmkbf86WC8R-YlvUbiTbmg11G6CuA9wxnmzMea6PLOCe1r05TvKdi56EzaJuJl3o_ej9oU3LLVF8wS3ULGSd68x6vfd73X49izeeYfst7oqate6seUa-yfkIjn25Tq3BeQBdkQhQvUPHxK11V7e9aPcT7Zy2jj3LRVN-icVC3qiFLc6dxOuOqPMVv0ExCJ_DoF__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/160']=data;}

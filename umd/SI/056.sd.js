@@ -1,0 +1,7 @@
+var data = {
+"_ring":1517,
+"_params":".sd-1517-en",
+"regions":{"1676392":{"level":8,"name":"Kuzma","index":0,"property":{"openStreetMapId":1676392,"iso3166":"SI-056"}}},
+"paths":{"1676392":[[1]]},"ways":{"1":"4UXKAkj49AA7K8sCjDz2AGJ6cgzzfxIR44QGEl6LqhVwkBsbS5QYHZ6UWR_VlY4fpZrOI_eddSPRoqAkVKvjIlesfyn8ryovDLg9Mz-5xDTquCM717f7Pui5U0M3t-9L1Lf2TAC-vlFPw11TU8XXVNDGGVtqzKtgoNKgZL7UNmed2TxoR-HDa_vkgWyC52Fubevdc4zrEns96YWACdsGhgjZLYgP2QSKJ9sgjSjiSY-x44OQxehLl-zp2poP7m-hdPLtohH1mqTj9mOn5P15rP__YrIe_7S3RPm2uxv38r9f9VDBx-o_wDrnX8Ga5Q_Hh-hWz57mV9Hv4jXRL-Xs1vbjpdk74ObXqd4e2cjXe9rU1Frc7sm43ufINemXye_sSctx74DJDvHPyH_zkcZE9oHGEvi_u0Py1rfS9LS1hfeFtRf54rHs-5Wuvfmyq8L8dqnY_C2pqf1lo8H9QaM9_0iZ__8plVP9TY1p-2eN1vqKhRL7rYOz-Z-BO_VZgt3yboY37qiKD-cMixHl0oit4LKEud-6gfzc0H_Z2fR7bdw3dk3lY3ON5yJwyeixZsTfUmMq3ttei9l9XRvZLVu42wFZbePhUlLorE1j6bdMQ-KcSs3eE0vG2oZJStWPQ8zLcz-kxwY-BsVwPTvDTD4zvwU-mrqtQHO2fUVWtEZJVau_RzyjxEUOntVHx5HIRZCHVUsphe1P3IS-UpuBiFiefnZYvnsIVcB4HFN4dAJNJnEURcNqFTdjZ8Qt2WKcKtxdjipaWdQlF1VdJWZQYSEATaUeTUkHGmxGLBguRrwUiEI1Cs0-awBmNwAA3TR2AaEzeQFaK9MCFCjSAs4bjATzGNIEmxR7ByUSMQhfDl0K2QsqDCoKjxFICH8UbQXNHRUCCB8AAAwiRQAEJfACVyrsBBAqGQEeLTsAjTN1ASlBgAuvTH4Op1h9DbVn_glud38LYnpyDA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/056']=data;}

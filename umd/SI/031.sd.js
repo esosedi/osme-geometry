@@ -1,0 +1,7 @@
+var data = {
+"_ring":1515,
+"_params":".sd-1515-en",
+"regions":{"1676390":{"level":8,"name":"Municipality of Gornji Petrovci","index":0,"property":{"openStreetMapId":1676390,"iso3166":"SI-031"}}},
+"paths":{"1676390":[[1]]},"ways":{"1":"CizJAkkL9gAKB8sCJkj4AG643RlpuOAVVL3gDGe9Nwnqv5wI38LYBevDegEJxQAACs7gCPrQ5wa_0-EBnNVsAPjXvwP12UkE5NrLBdja5gd81usPYNg6EyzcGBPo4QMWueaWFcrmvxTM6i4UMex5EsnttROM8j0OvfeFEaP4KxUQ9cEadvUJIJb00Sel9H8p0faaKp_2_CuX9-Qs7fVMLqjytjav-XE-V_57Qdb-SEX__1FHavymVI34fFnO9ZhgZe-qaUjufW_26oJ1w-omeL7s6nsS7Nd-i-rSgCXiCIZd3xeKXdsSjvvY4pN-1sKVNtMZml_Pd6Zczt-lrM2jpzLMd6cHyg-wv8cisY3HMLP6vk65GLv-vXS5YcMguQnJFreLzEW2QNCKt_fWx7FC5sewCeacsDvnB6qr59OoPubKpD_nLJ3B5dufPfACj9b8xIdK_rSFqv-LhJT7s4LV_puA__9hf1z9Wnrv-uVuovcJarn0GmeC9ExiUvJ1YqzwT12v7thdKepDW57qQVaT7uhUfO4mUdDo6k836EpNEuFYSwngxEWr2XA_dNBRPQnP-Tn0z7Q5ys4ZNkPNiTJizmYtVs0oK4jLiSrVyKMsdsTCKtzD6ymnvlUpqb7HKMm7gSa3uN4mSbcfGrG77RLzspQP5LATDm2xkQzMsAAA7amSAKyoZQPUp2cEJpzOBaKZ6Ak5ldQMApgxECKTiRMokhAU2I_HFVmQGhZRjzMVho1SFiqLcBUpinwWr4mOFByGJRgtgWkXrH8AGCh_fRnXgJkcIIEDIQ2EDiIDgcYc6ntJHcp5bB_KdzQg_HVNIahvViDSbooinWlNM5t0NDZOeBw_b4D4QW-JdEbyjHdIOpUGTHyaxFL9mJ9X3JZTYauMembKimRoAYulbYaJV3C6g_pt0n8qcZx5YnFxdvVuG3Sya0RuK26YbKpvPGh7daxizHrjWi2BEFcphL1Wk4ZGVUWJl0-uiOZLdYmGRSSKa0SpjQBDdZBaPxaRLD_ck8lBOZPJQiWVJEVxlTZHIZanRtSYDEidnLdLC6DCSm-hpUewo5RH7KsnOIeuUDZWsqEw-raPL2y4oCLZt5ceVrgAHG643Rk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/031']=data;}

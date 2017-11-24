@@ -1,0 +1,7 @@
+var data = {
+"_ring":1097,
+"_params":".sd-1097-en",
+"regions":{"1154757":{"level":4,"name":"Melilla","index":0,"property":{"openStreetMapId":1154757,"iso3166":"ES-ML"}}},
+"paths":{"1154757":[[1],[2],[4],[5],[6],[7],[8]]},"ways":{"1":"KscYAiwA2_9u3xgCIhbb_wAAaOYHJ31G84sAAMf1Eg___61kG7YTK9igTECFdtQ40oAugP5LRGNmNtrGVUv__0sLWPYAAGjm","2":"tssYAtni2v-Y3RgCF_na_wAAXZQcKcGFQy-ZRT24AAD__4YORNX_2uOc__8cKfiOAABdlA==","4":"-lMZArRvxP-WWhkCmHfE_wAAfFrhVAAA__90ahiR___-RI-NAAB8Wg==","5":"hV4ZArJ1xP8zYhkCGn_E_wAAZ_7pZQAA___OoaIa__8AAGf-","6":"wLoYAtGx2v-_2RgCRs3a_wAAVeNkMMrMr0HyIcFi_zj7YgAA2nsvAEVzgkQljLBEPpRccv__j35J76agxf-Yt1ecv6XiWbjBqFm3-ugn__-_H3HjAABV4w==","7":"jBwaAqqt0v_r8RoCiWXT_8QcEt2dCP-pAADkapMh-1bANHAwrEtTE5dMigroXmcNJmQ-HT5reBv_awAAVZoVCd3P4iRJ6-Q2__-hX0bsK3Ln65eEh-fKit7P9nsux3B-q64tmwOx6KmOq6uwIqA2uRuZIbUHk3u-j4pkvnaI-LtAh_vCRostwUaOZcf9gg_P4oCZ9htzDv9MbP__LGuF-r14YvTMdJziMH8T3QWAUdGAdvnUx3UGwLB4NsZNf6DB43juuWpxfryNcIjLdWmgyYNv3cfsb4i9-GcTvc1kWcpgbSfRM2KnypNmG7l3XEixOlExspdSscAyUQy1v0w7tFU4NcCQM5zI2zkw0ecxK8cDL_jK-ij95yM7U_VqIivlTh0d3cQcEt0=","8":"EKsYAnRdvv98shgCcXG-_wAAot4zc0IQrdoAAP__r12dVE-dVmD__18wFNUAAKLe"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ES/ML']=data;}

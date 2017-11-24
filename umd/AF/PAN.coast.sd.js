@@ -1,0 +1,7 @@
+var data = {
+"_ring":1379,
+"_params":".sd-1379-en",
+"regions":{"1675032":{"level":4,"name":"Panjshir Province","index":0,"property":{"openStreetMapId":1675032,"iso3166":"AF-PAN"}}},
+"paths":{"1675032":[[1]]},"ways":{"1":"R2wXAmvnHAT31CMCUFowBEMDzp1mFimSzRi0ji8ZvItIF-iG7xlIf6cUNHeYFSFw0RpgZ80Y-FxJFmVY_hg-UiUcHU7lG31Jxx5fQGkeWzvWGV801Bi6LtcRViedEFEjDhFhHu4ZthOyJK8MUi3DAk80eQAuOQAAu0B3B9JF9AnVTWgMcVaSDblaBxFRX3YZ8mbzIqNoiipjaO4xz2byNCdpXTpjaEs9HmWOQPxk9kMeZg9GHWxIS91s2E0sbC1RgGcLVvFnuVeFabpYyWtIV7RwcVe9dotad3riXtR6kWE4dCdwjHR8cl92GHVsft978IDuf_WBKIZbh8aJFYxvjjyPVZIAkTOXopMpmXqXU5ruoVOa7KeonUq6-57ivWeiksQLpKXGVaXWx6OsOMqutJ_LKrbF0Jy3ZtleuKraTbn02H3BKtzbwznaBsbV4EPOj-YT0t7mxNNe5RHXYucq3A_nEOCr7dXipfEi6Wf9HOtr_ybs__-Q7pD3H_dt90D76fM4_NbxrP6-74X_2Or__xvbMP-K0dz82sqN_qvBjf4Avav9d7iS-02xVfpsqAD3aZ-D90Oc6vaFk53wvI-F7xGKLPBmhJvvooHL7QB_IejMdG_jeHTn31V56trMdHjX13Er0yttCtJPZs7TvGML0_xkg898Y9HMC2T5yXhhbcWgXtDCoF2tvbVXlbnsUxa41U5-uJFLa7qXRmnAtj61xSswmMfUKq3Gjyhqwy0pk8E8KIe_NyYevrAYJLvyEGmtKQ21qSIBpaQAAK-iUwExn0MDzp0="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/PAN']=data;}

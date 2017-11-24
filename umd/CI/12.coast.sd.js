@@ -1,0 +1,7 @@
+var data = {
+"_ring":1291,
+"_params":".sd-1291-en",
+"regions":{"1609806":{"level":4,"name":"Marahou\u00e9","index":0,"property":{"openStreetMapId":1609806,"iso3166":"CI-12"}}},
+"paths":{"1609806":[[1]]},"ways":{"1":"aS9jABNJnv-IrnYA8qCt_4UeXv7UHg7mAAB2qJ0FM3gTBmdc1Q5OSwgXYUvbGkREqCPVPk0p00B7MGI7eD9dOsFOXjJyZ9U0MIUnZ_2GyXiqit1pq4xEZU6YLziwkIImPIoEHQqG8RmSi5EQR49cD2WStAyflg8GJZgMATqZAACgnD4B6556AEGiGwJWqR0AnKxJAOau4AEWsdsA5rVXBF2_sxNHzOoSCeU2StnjRkud4xpPt-S1Us3n-VJb69RVyus3V1zt-FeX7uVXie_zVXDzo1dH83JZl_KgWUj5j10T-_pcC_z7Xdr7rWQs-W9sy_z4hf__KI-x_Z6Sr_vtkmT7WJy4-VOi1PmUp8z3cbOe9bO37_MhucHy4LZ08Wm2Ee8Uum7tv7gR7Hu0KepmtOvojLfG6LS6nOdfvHXmdLtY5Cy2GuG1vETgLsP23mvEAN6Cw8zcnr152Rm0y9jTs2vVPLeJ02C8ydFivNbQ1Lf5zc2xFM1VsHjKLrCvyHerqceGqnnFp6qfwlysgcB4sPO8dbCZtVisbrBnrQKugK9hrRmxpa16tC2rdbdSqaC26aW0r-qkZK-OoUO0PJ9Ku2WbpcC6k17A9pIMv6uTzbtZkR-7LI0vwJmJIc3bhpvNIoTKyuSAfdDMgLfT7YBE2cCDYNwMhJfgLIAn63p_cutaecPniG9b6VJtYO5NbAzzQ2t18-hpTPHEavftJ2la64tlL-rrYQPnTFbD5ZlSaN-JUfHefVAo3wlPC-EaTbvge0lj47hI6OeiR63pmD7N6vs8ju_eN3T28zI49_4oSP5zJkj-TCL__x8f6_6FHl7-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CI/12']=data;}

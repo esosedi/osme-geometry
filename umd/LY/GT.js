@@ -1,0 +1,7 @@
+var data = {
+"_ring":2079,
+"_params":"-2079-en",
+"regions":{"2060173":{"level":4,"name":"Ghat District","index":0,"property":{"openStreetMapId":2060173,"iso3166":"LY-GT"}}},
+"paths":{"2060173":[[1]]},"ways":{"1":"NUVxAcZqjwAWYagBnC-vAE8AwPkAAM_4vw071a8OuNDrDmnOwA_tzOQPSsuSEMDJwxGpyLMSCMdDFCXDbRf_viMZcbglGTC2HRoTsjwaXLAtGpKvxBkwrl4YaauGF5irMxdArNwWTaujFhiq9xUqqOkWT6fhFwKlmBgRpKsZRqPnGYejURoSomgat6BHGgSdVRrFmy8aTZsiGkSaPxrHmPAZ0ZdlGi-Wchp8lYoZ4pM4GZKS5RgXkigYM5IBGIKRRRjbkEUYaZChF_mM9Be4iv0XcohSGJSFQBjRhJ0XAoKVFzOBfReXfN8X7nrZF8F1KRlNdCgaFnJAHBpvURx7bTgdQWy3HRFrOh5Pamwe4mj8HiZnmB_IZegfgWRAIWNjKSIsYoYiA2J8IzxifSToYM0kIWBFJa9fmCb_Xj0nUV5eKbpc-SonW78t6FapLzlWyjB6VdsxOVQyM0RSSzRbUSc2Tk7yNvpNdTjOTQg5K06bQ0xOKFLYTb5_DBFrjQAATpHGBs2RNQcIlBMIDpVGCcmWxgrZmvENZ6QXOWetPj86tN09pry5QLG8W0ABveE_lL1nPrC-JT0_vwA9f79kPJbBzDlYwvg4JcNzOOfEEzjAxXI3tMZLN6_J9DWLyug1t8siNYPMdzUszUQ1Cs8hNKrPGDRG0GEzCdGBM4LRkDLN0gkxW9MZMb_UpjDS1lswntgoLyjcfy9l3SUwkt-nMH_fVS-n4K0vXOE0MHHioTAh4y4xNOSVMnblgDJP5moz6eb3Mj7n9jIV6B80HukBNcPp8zYw6gc5LeuxOajsZTn37Ic5TO7mOkDuQzSG7mYzK-9uM3_vBTT-72g5hPDBOZzxNTyR8689mfaPQPD3s0BZ-tBCYP12Qh3_OUP__yJDIvuSU7f1bGvQ7sKaHOyMtx_pWcdb5QDSid0G2QPNvdyYtNjkIqKG7OmY__D4ju7ysnyT6IFv2erCX_z1RVTB7UpGqu5FKuzt5Bvd_JwS___lByD-TwDA-Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/GT']=data;}

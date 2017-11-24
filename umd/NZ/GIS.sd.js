@@ -1,0 +1,7 @@
+var data = {
+"_ring":2445,
+"_params":".sd-2445-en",
+"regions":{"2643819":{"level":4,"name":"Gisborne region","index":0,"property":{"openStreetMapId":2643819,"iso3166":"NZ-GIS"}}},
+"paths":{"2643819":[[1]]},"ways":{"1":"J0qt_ay2jgqtW8b9SNCoCjmB09_Aejvg7HQu3wltauGDZTbheVpQ3aNUbN10T2PcbUmy2XJE_dWgPi7VkzlU02Au18vOKWrGgSaVwGgecrlvGL2wZhXiqvYQIqWCDO6cdgTWmwAAWqEMAfNv1gE1b3QCDWwdA2FsJQMwawAExWoEBadq5gTra1IGymvoBxBtfglZaqIIo2kSCshm4QuoZWsMFGZ2DHJkoQnEYXgMPF67CmFcWwlvXMMIOFuvCVFaVAr_Wr0Lllr7C_FYpAr-WEYLAFjhCitXiwvbVgoLg1RCDGpTaAtcUWgUQFGIEOdMdhSRSxoTWUcKGJBGkBpVR30bgEb6GnxASxiVPgMbez6XHZc87R7wOjcfdzf8Ic018SGnM3gjoDTOJKIzHifnNJ0qizM3K6AwtC2jLCsvoCxyMMcuMjSRMLo0ljE1NSgxLjaMLlw2-yrqN1cpADjQJu82ZSOqOoQbrDD3GvY8AABrPewBvzxZA8Y9BQakPyoGrECtB8RD7QgcRs0LHES8Di9GZRAhSLUQk0eHE25VYBBHZMYyaWmkNoBtCTY8b7w4xW-8NthxxTbfcr015XJwN710YTdldiU5ynWBPVh34T2Jd_dBN3guQRZ6V0O0evlJh33jSW5_U0xJfyVOB4CDT8KCR08ThlBR24cXV6KKkVQQiw5TtouvVI6OJFYOloFTPZUmVZWVsVaSlENXNZThWmCRplyjh_pqpYYTbtyHJG_vrtd-jrz_jQTBe4n-vNyCGL_yge-_kICCwnuAFsRAgovGVYE9yPGCx8vggnvOe4JJ0PJ_cNOrgPPT94de1aWHYtXEiXbWKYof1piUwd2fkWv_3ZT__7WZRf9rqmn8SbQg-wW9APlaw-j0CMtn71PRy-tr3ZXmR-bx4fzwoNyp9x7Wk_wf0cn-TMv___rF7_--wMj-NrtC_DG2rPj5qlbsv6Mc6fSd5OQsmInjO5Mz4b-L0-HBgf7fOYHT3w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NZ/GIS']=data;}

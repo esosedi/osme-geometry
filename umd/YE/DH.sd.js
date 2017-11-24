@@ -1,0 +1,7 @@
+var data = {
+"_ring":883,
+"_params":".sd-883-en",
+"regions":{"383906":{"level":4,"name":"Dhamar Governorate","index":0,"property":{"openStreetMapId":383906,"iso3166":"YE-DH"}}},
+"paths":{"383906":[[1]]},"ways":{"1":"-qPWAJJglwJ-KOUAnCasAiE9EtMMPfTQijZuzdk4sMiTPM7JvT1EyOo-0sLZPcS860uatD9NNbHkTS6oTlOMpKhUIaDwUkmahVj9lelaJpdYXeCVRl1ikmFlDY8eZr6LO2kmiZlpTocMW9eFlVZBhBNVMIB2Uld_pFJKexBQ4XKhUs5ylFPocMJh13E8aSVxGmuhcFVrum9XaI5u42LSaAZhqWhlXTxmg1o7ZtZYUmUAWIJjwFT7YfhTOF5QUjdd2Ur0XKhK-FvuTlRaJE-NWIRN9FU6S1lVeUueUhJK6lGwQxdUYTrVVYEz01RALWhSbCbPS-AgkUK3JhxCki__RX4xcUV7MwBBATGUQH0wl0GtMSlCHy7CQZAr4D0kIhc76xYBOigN5DUgAtktZwBQKwAAWibpEGwWmxD3DPccbQU_IcUEBicoC0Q9mwWjSdAAN1MAALJTNwuFURANRlO4EpNWDRMeWiUWuFrwGHFilB8wamEg92xbI9hr7iidbF0tgGdCMApntDJBaeczMm82P3tzdUMgdAhHjHXwSH97PUsDfS5OzoATTyuCDlHpjVtV0Y6XVn2QrFakkHdVu5IaVCWWqVM7ml5QoJ_sT2ujfVFeqDJOCa_3S3-4yUP4uAxC_cdEN_zPlDQI1HQ1w9UAP0jS9km_1TBNSdawT6rb3lCF3atSzuDJUmXimlSV465Z2OjpXPXob17T7NdgzvAgZrzyzmV28_lml_XOZiT5u2jR-tlr2vv4e4P6HYAg-MOD1vKChBbzlYn98PiKmec0jbTnn6TV7XKlZPN9oz33P6VY9mWoy-9SrKrpI7Xr7uPCGPbyyHT-ndn__7viov2-5lDoa-cX1gbp0NTX7_3OgfLHyEX4Ibf__3-tc_UupkDvMJv06QKT4-fBiH3nUW867kxs-ugYaVjmemZ-5p1WZeOZUJnghE_o1fdNxdVWRvLQ-j7m0iE9EtM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/DH']=data;}

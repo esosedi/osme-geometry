@@ -1,0 +1,7 @@
+var data = {
+"_ring":447,
+"_params":"-447-en",
+"regions":{"214713":{"level":4,"name":"Solol\u00e1 Department","index":0,"property":{"openStreetMapId":214713,"iso3166":"GT-SO"}}},
+"paths":{"214713":[[1]]},"ways":{"1":"dHzdACu4i_ptQeMAp2eS-v__l8GT_jjD9P10xgL-9MnS_BrL5_NezQfxBc007o3PFevz09rqZNWx7EfWEe5r1wDvStns7dDaB-eB3YLkGN_N4prgw9ji67zOrvQOwiX-K7vR-ri6eP9Luf__2LPL_fOlMfsWnlP9hZbX-q2Ri_0Wj4j7m5IU-tSRTPbwiMP2MolY-ciDC_tggGX6nXzz-xd4NvrLcBz6RG63-LJrzfV4aAX0ZWR_86xjuvJOXaTyaVnq8AxWru6eU4juV1GN7PlNtOsjTcHoEke253xEJemXQHPnHDuh5qA3QejZMlbnjS97478sXOTiKjLjpCdn4tcjwOWgIXjkOB735dMauOQlFajlzxEC5IEKkOUTCZHkzAI_5AAApOJ0AX7fTAUZ39wGC90DC9vc-wxj3FcQD9tkFNnY0hSO11cWVNZYGBvUuRm20AgdisoyGtXKUxxjw0kc8cDtHoO_5h_auS0gorWIH3KyaB4jrmcbTajCG1-lwRp-o-YVpp0KEryZTw9dlVYNNZS_Ck6UCwhqlPQGt5NRB92SdApCk1ELnpI6DJ6SCwzskNEKLI-TCpWMrgsaixkNdoqyEWeJLhNeh3Q3HYPSPUWBdz_ieBhC_HZOQzFxd0fscc1KbXWGTspyLVN2bDVQFWjIVuFmIlYoWO9TUlYIU9hUe1TNUXdS3k-lUnVOzVCeTEZR20PlUlxDK1Z6PyZVTD6mVBs9i1SbO4hVpTkcVR047lHGNYFRxTTyUIgxcUoCLFM-uiIePN0i1TlXI2g3HiM_N58i2jksIEQ5ghgSO6oO4TWXDV46AAAHSz8JolJ4Dzpidg4NavEMvXJ8CqB5ZAtlhDYLgIemC02JpAzliiwOzo3IE_aPuhUTligZG5dNGjmYSSIVmQUjv5qeI42k4CMqqJYkaKkaJiTBTjr8zjs8CeH8U2njH1RR7MlcNu65eIXuD3ow6e9_h-hfgP_oD4dN6HKIotyVjsThUpiJ56SqSvG7rM30Da6K9oKv__-XwQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GT/SO']=data;}

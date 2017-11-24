@@ -1,0 +1,7 @@
+var data = {
+"_ring":2216,
+"_params":"-2216-en",
+"regions":{"2279627":{"level":4,"name":"Oshikoto Region","index":0,"property":{"openStreetMapId":2279627,"iso3166":"NA-OT"}}},
+"paths":{"2279627":[[1]]},"ways":{"1":"tPTV_iK08QAyFvL-7b0VAf__VhET3gI5MPUnY1_3OOqrbhHqtG4c7CBt__8rYur-BmD7_YBOG_4vTof140Qo9KVFpewLPiftfDSl7tI0WOwdK2zskSf965oj6uvAIpzk1xyX5CYc499eGL3fiBhz3owQmt4FB3bkGgLC3QAAeNpqB0rY-AZN1oEDP89sA_bHmAxxvj4Jbbz4Dzy0RBHVtGwX7axnE4yrSxljpt0ezaYiJKmmpCT8qgorPqvhKfWjByVypI4khp_GLNyfkywTn64zlZzULxGV4TarklczJYunMWuLzC8FinAtQ4r0GZ98KRS6cngGdF1qDUtSkQ0CRusPwD02EPU3LRR-KtsWgSVYFwcgwRkIGOYb2QonHeoKnh04C2Ei5gkLJQkKwSZ3CYwr3wiuLRcJjS9hCJAxuQgmMnMKWTNEDNU0Gg2YNUoOjTfkDZU4QA76N9gMpzZyDCo4ZAr4OOEJEzoWCrM7gAlJP1cHS0QSBbhGWQRoSRkEgE6jAiFSBgGSU_cAolVvALpYAAA0X1QAz2IjAT9oegMGawQFvm8XCIR10Q6Vd_gPQHlyEXd4YxJveMoSG3hhEzB3zxPLdkQUsXkqFNF6whNSewAUZ30FE8t-2xL5fw0T6YCFE76CsxNHhOsSP4XQEX-FzRANhWYQV4V3D_2F_w4eh-sOQ4mOEJSJRhBOiiMQpIqyDzuL0g-Ni38Piov9DeaL6A0hjDUOcIw5DkeNJA3PjfYM342LDE-N7wv0jSkLuI4AC-mOSwtTkOgLF5HBDH-R0AzxkW4MypKMDFeT5Qt2kxwLBJQuCliVkwqzlQYMd5eeCx-YvAt2mAoM0Ju-C_ScFA0GnosMWJ7nCxaffgsQn_MKc5-BCnef4Ax3oF0MNaTKCzCorAu0qWULn6p_C1Gt6Q5nsNQP1rQ2E4-69RTDvEIVLcaTFRXNlRQYzxoUntDjEpLRbRJj0qcSsdFBEbT0UBH__1YR"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/OT']=data;}

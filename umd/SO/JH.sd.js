@@ -1,0 +1,7 @@
+var data = {
+"_ring":1676,
+"_params":".sd-1676-en",
+"regions":{"1720059":{"level":4,"name":"Lower Juba","index":0,"property":{"openStreetMapId":1720059,"iso3166":"SO-JH"}}},
+"paths":{"1720059":[[48],[58],[70],[74],[103],[169],[170],[171]]},"ways":{"48":"QpD0__7hhALUTfX_CJaFAk5FXksAAAAA1YWaWRuDuXurxym9Sv0_6f____8PRgpMTkVeSw==","58":"-u7z_2hrhAInEvT_8YqEAs745_8AAAAAqK-rHP_____O-Of_","70":"lkfv_814gAILke__Jc6AAolQRhxn_Ipo__97wm3E__8enJXjOVuyqgWAsI8pacdcAAAAACVN5xqJUEYc","74":"eAbu_7mJfwIYa-7_Fdt_Ahqh2yv_____W5gkvgAAAR5WOLM45WgAAM6j_Ssaodsr","103":"Ml3z_2XsgwKLp_P_7S-EAv____8AAAAAZf5m-P____8=","169":"sOD1_wfHhQK9iPb_C0KGAtm0F-jsEFZXGiQXNgAA5S9QIAAAlXQ-BGBrxivsPZowVlFNOi95_UragAcyKGwVNPeGYyGmd2oI1ZdGH-GDfXKoqFKHLcGedP__vN4e2P__iLwK6Nm0F-g=","170":"Y1vw_1sygQIK_vD_0b6BAlOL4VHIiZl9LqzwetiYUoqrok-fVcLJkIOyjn5BytuF_M5fn_y7pKYt4Ua1o8irxdHeCcLh1uXX_____7GZ5NW4mgjBknuPxLFJkojhSP1vAAC9SnEcAAAuYspIgo7fUVOL4VE=","171":"pTfy_-DRggLcJPP_ar-DAkKQ7Y-GUxJUDg-2NwAAAAA1HEEfZllDPkB2o2IIwCmou-gItL3iucv_____0ZBtkEKQ7Y8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SO/JH']=data;}

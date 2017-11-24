@@ -1,0 +1,7 @@
+var data = {
+"_ring":780,
+"_params":".sd-780-en",
+"regions":{"318865":{"level":4,"name":"Eastern Province, Zambia","index":0,"property":{"openStreetMapId":318865,"iso3166":"ZM-03"}}},
+"paths":{"318865":[[1]]},"ways":{"1":"uSsb_5gLyQHvS2L_MTMCAvTy__9t8Yn-GfCO--HuLfv47tj52OsR9jjpI_UJ6QT0xecl81_n8fAM5kDv2-Z77OHl3uoP5tbo6uTM5hXj3-X442jjk-H24U_gKuTY3hjlnder5kvW1Oi400vqztLn64jOM-qgzYzodcmB5vnIjuV1x4jl0MYH5KjDRORjw1TjWMXp4IvEBeAawx3gbcIQ4fbBiuBqwb7h4L0M4hG9s-A4u9rgv7ox4fq60eThud7mSLDU5vOtg-ecqqTmw6gQ6EWl--YFof3i35zP4VCaQ-XqlonldpH06bKSv_DMkcv0lJC_9WmN4fGkjaLwf4qa73-IuOvMh_rrJIbp6U6HGedyhtbijIGN3N-Cpdyzg7PaDoMq2L2Dm9apg5TTvnoCzWB69MtKdSrN53OczpBzctHtcqXRe2coz_NlJc8FY9DQylt9yyFZlsv3VFTJ5VOsxjRShcZVUCnF-k37vvBOkLsWTrm5iUsaurJK-rrUSXK9-0l4wYxGoMVkQ7bASkKdwNdAN8ONQPbHiD8gyiI9msohPNLMKToYzt85G9C4NZ3P3DMe0tQz79KLNbTUdzcO1d04gdkEO0rbLzfV3Rc2Yt_MJWKlASPolKggXI8hHxWHBh27gQcb7nayFLFoFQ0IPiQGtiWVAbQaAAAHEsgAOw9pCvINUBCDB6sTcgGUGAAAIyOoBXIkdQpaJqoLQi1GFU8vQhZ0MpUVxDS1Drs4pgxiOt4IazuvCP06WDxxPX9AZELhQxdE_Eh1RghMlksaTlFNkFFtTXtUFFQrXHNVomJSV8JkmlbzZzNXVWxrXHxzHWCJc9ljOHjIaBV64GeCfH1stYS0cAGF63Shi3R6RZDDfoGR13-wkC-HM5SejbOUnI_1lzeSIplBlzKfk50Mn9yhQqWPpK-lOa7oq3qvKq8is4OxFrb8tey_N6yowvOj08F4n33C-J1uxXKdBcyVnwLPZZ8w0cCh1NQhocPZYKjr3aKlquS4qQLnUqYg7T2j1PSeqhX4q7NS-O-3vf32wf__BcnE_dXQH__P0uL-wNRb_RjYM_pW2MT5C9p0-jTkx_k45e31fOPk8ffkEeXn5Lnk_-Xc6C_oSOj47HnpsfCZ8pH7r_I4__Ty__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZM/03']=data;}

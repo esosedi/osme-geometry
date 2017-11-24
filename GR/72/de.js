@@ -1,0 +1,10 @@
+const lang = require('../../lng/GR/72/lang-de.json');
+const base = require('../../umd/GR/72.js');
+module.exports = {
+"_ring":1059,
+"_params":"0-1059-de",
+"regions": lang,
+"paths": base.paths,
+"ways": base.ways,
+"meta": base.meta,
+}

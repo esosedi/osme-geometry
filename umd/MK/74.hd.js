@@ -1,0 +1,7 @@
+var data = {
+"_ring":2341,
+"_params":".hd-2341-en",
+"regions":{"2460539":{"level":7,"name":"Municipality of Studeni\u010dani","index":0,"property":{"openStreetMapId":2460539,"iso3166":"MK-74"}}},
+"paths":{"2460539":[[1]]},"ways":{"1":"Pwd8AsSARQHJMoACDXZJAfhLZ5lVTBuQwklggPlCQnTWKcliACSBW68g3VCbG0VMSRIHSvIAg0MAAKs0VwOqLHcNpyQsHI8hSiNwKWcu1SsaM9on4DQEIoIzoxnMPrsRiEeLDVJSxApOYJ4KlmkqEs9ypw1hdeMEqXgAABuAIQGVgQoGIYFNDKKBsQ9-hvYSNY3NFvKVrxjVn6UbUqpLICOs2iXgrjgtPLPNLbm39Sl5t6UkerouF9284AuEw3cINc8KC3LSAw7F17kaBdibKQXWKzMD0f1AxNI2bAba-20L6YZxTfVMc3H6S3VZ-7d1__80hXL5mIys82SUcPH-lpjueJyL7bmepupLqK7fEbMb41m-deS9w__m9MiT6cPHGO0rzhDwNdFc8zTPNfVd0H3-Iddb_njXi_502EX_Ctq__zzbv_8V3Ij_otzD_hfdFf7T3mX9cuCU_DfiDPzG4kX7-uKd-RXjzPf34uj2zuJ59gfj2PVa5JX1LuV19UnmKvX65m70CejG84DoN_L96Efx-Oh08MLoFfBV6ObuZ-cI7vrmfu0255XszueF61_pwuoW60nqquv56a_ru-h_6-TnTusO51nrQ-Z_64_l0Ou95K7sDuRE7Vrjq-034iXuqOFe7uLgee7m30juSd9h7tLe_u5-3iPwHN7o8BLdgvJl26X0s9pb9R_a2vXP2T_2GdmM98nYWviP2BH5edin-X3YsfoO2fn7yNkS_fzZO_7o2f__ktVl_SPPBPbfxLvkccA019-zc9V9qcjNu6XvxxigRMLTl0TCEJL3v-2NPrxtjQizTY7VrI-QWqpzl6Wp9ZoNqNabbqDSlXaYgYt_knN3NZPOcDiWZWVTo6BfhKaVUmCh-UtnmQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/74']=data;}

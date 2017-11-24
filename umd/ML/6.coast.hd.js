@@ -1,0 +1,7 @@
+var data = {
+"_ring":2104,
+"_params":".hd-2104-en",
+"regions":{"2096902":{"level":4,"name":"Tombouctou Region","index":0,"property":{"openStreetMapId":2096902,"iso3166":"ML-6"}}},
+"paths":{"2096902":[[1]]},"ways":{"1":"YePlAJi4m_98fH0Biaz__40Mei8vC-QpqCBnMPQkoSXYMZYjVUmgH5pLSB8oWCMdLmr2GV6WlBKtsdoNf8tFCZ7RVAh55YEE-P8AAP__UD34__FDN-3jbwvZJp8bxd_Ntq___8euff_hnpL3KIlXzil_e7BdadjaX2Yh3q5L8NvXSO_UGz8fvok4lcAONfPBCDP8wvsw6MMiMAfVMi8T5hUr_OXdJxblRxm25QsTludyEUDoDhDC6OsKe-p3AAPvdwCK5AAAuePqAmPRFAXVzZkGqsr3B2jGaAnxvkcJ0rl8CQi2VAkas8oI7awJB8alIgYWoZkG4Z3PB1ebQgpZmcsONJXGEICUPhLDkmkSO48jFIOOcRNQhIYT9IPsEwGEBxQ1hFUUT4R3FCGEhhTcg0wU4oJaFI2CdhRcgoEUAoI0FG6ADhRfgOYTNoCvE69_fRNaf0ATGn--EvV-hBIQf2sS2H5jEpZ-aRI3fmASEn4yEr19HhJhffERLn3qEQZ9vRGoe9ARAXuEEdJ5MBHBeAcQK3hrDrx2MQ1NdTAMQnQNC11y4Qo7ctUK5HH4Cn1xAws1cQILDXAWC-VuFwuGbvIKKm70CgBuBgvCbf4Kfm0NC1VtEAsObfUKTmwCCxlsNgu5a1cLUmthC_hqNwtWajgLJmphC2xpfQtZaaQLlGn3C9BpcQzkaakMB2oGDXZqYQ1tapQNKmqPD1dpuA8aadkPgWjoD-Nn5Q-QZmMR-GNjE8VibhNmYiwTPF-vEhpeiRH_WoARr1p8EZ9ZaxFqWVYRTFl3EMdVNA_sUkUNn0l6DWlDmw3iQp4NrkKODS9CoA0nQr8NQkLLDS9CyQ31QbsN0kGjDb1Bsg2cQasNfUF4DU1BbQ0aQTYNtEBIDbFAig3iQIsNlECdDVFAoA0HQIMN6j97Dck_kQ3PP6ENwz_XDUY9vA3WOf4NhzerD3E0Jg78MY0Mei8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ML/6']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1990,
+"_params":"-1990-en",
+"regions":{"1908820":{"level":4,"name":"Sing Buri Province","index":0,"property":{"openStreetMapId":1908820,"iso3166":"TH-17"}}},
+"paths":{"1908820":[[1]]},"ways":{"1":"p67gAH_M-AULcOcAF2n9Bf_B79QOvB_OU7lpzbe3Dc_KtT7UxrEe2sKtidtIpEHcyZ9r3YWZx9-BlZjiuY-25L6KPuRViInjpIQ-4FuDH953gE7bjnln0YF2H87mdLTMFHB2zKhp0c7SYKTVvF7g1Y5aw9e9VQ3XAlM62GdR4tn-Th_ev0xx5PJHfutEQ__vQD9a8tc8WvJYOMXzjzKX9tUvl_ZVKy71RCSl9XMfEfehGtL2ixiI950WefhHEuD9Qg7__ywMDf87BsP3AADi8RcBlu7FAIjn3AKW1mACPMiqA-TFAwyYwp8NL8G_DhG_jA__u98PArifDcevqAxrqXYNIqYoEYif-RVJm0IXeZieFmmVnhamkTkYP4zPHuOF5SAxhW4kmYLEKKh9DSrWegQre3SxKvNwuynobY4luGhFJB9m_CLzYFciqVnpJG1RFimMS5IpQEixKuZFsSrkQUApuzhyKCIuhCb2JGQlIiJyKGwhDSo_IMgsLR1HMZkSVDQFEGs2jA9YOMgPjzsiEpdDEBtoSCAe9U-2IGFWMiGkZRIfWWpHHxprEBs2aMYL2miACMhqTANQbrYAkHAAAPlyfADKd2kFzntPC4B_5Q3_gxIPGoXhEBaGBRSRhsgXSIWmIYSDiSeXgbcwbYG4NGSCUDs_hm1FrIzFT_yVqFnlnAFgEqFrYTWmtVyeqLZYvqkiVv6rMU1Hrdc-j65vPfiwbz2OtwNA27w-RMm-MUlkwA9bq8FXXHHDTFt1xz5cOcmIW-fIiFOiy3tQxtBrTc7Yi0t_3KhJ8t0ESGjfFUUf4hJP5-ddVsLrPFh97rdYePN7WOT55FVN_CNWEf5MW___xGOg_MVvd_xNe1f7aoHF-KeFwfQBiPzyPYgi79SK4uwgipnrAYj-6dSGlefihdDlmobq1dKST9Q-lObRwpemz3ecNM5Po-vMp61Qy9OyyMfhuQzFasFoxC3FusS10P_B79Q="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/17']=data;}

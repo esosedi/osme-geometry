@@ -1,0 +1,7 @@
+var data = {
+"_ring":2042,
+"_params":".sd-2042-en",
+"regions":{"1986974":{"level":4,"name":"Tumbes Region","index":0,"property":{"openStreetMapId":1986974,"iso3166":"PE-TUM"}},"1986975":{"level":6,"name":"Contralmirante Villar Province","index":2,"property":{"openStreetMapId":1986975,"iso3166":""}},"1986976":{"level":6,"name":"Tumbes Province","index":1,"property":{"openStreetMapId":1986976,"iso3166":""}},"1986977":{"level":6,"name":"Zarumilla Province","index":3,"property":{"openStreetMapId":1986977,"iso3166":""}}},
+"paths":{"1986975":[[1]]},"ways":{"1":"7q6__95fK_u_g8j_224z-0oQ6zObFC8wFRJ2KckSziRNFT8jjx2sJ8ggmyTmJvsi1SaeH1ErARv5Km8Y3i0aFZMs_w45Lb0L0S-8CT0xMQbNOQAAnkyuDw1mohvnaNohOnFVJiNyMSo3dykxToWKSxCLIlJYjXha2JUMZU6nvGcKyKh3281iexTSd4Pj2-2L-Nw5kRThPpcc4vicWu3ers7u-raY8iu7tPKIxaX0z8n__7TUHPtc17f4jtTA9IjWDvH21C_vk9kK7AvYpOhr3LzkcN0i4KniYNxj4NjXRuAg1nXipNaT5Q7VGucW1szpjNSJ7RTLFOzgwyjuqr7b6g--xOHWuZXhALeu3k2xJ9zIqdfb4qeg3TWnCPJIpDn0559L9Lqdq_Jem7rzC5Pu7qqMJPPLhzL8l35C92h6d_nydwv4AnHp-A1rIv1SaIf962Wn-8he4Pu6Xdr531k4_lBV__8sUgz7MVJp9M9J0O8VSPDraELS69dB2On6PKDprznn5qU18edlMdXlKi404UEm4d7qI5Lgnx1o2BMT6NAgE3XN1g-yxYgNncbQCo7F_gPxwAAAw7auA1-xIwZGsA4M1KZAC5aggQlenzMJG52NDNOY2w6nmGEQd5USDyKVnA3OkKgQ347ADz2KAhLmhUYRL39BDxZ-RRE2dF8L-mOUCy5WQQonVNgJV06VDO9Kkg3URsMPLkW5Ec89KRQUOlwU1Df0EEQ2NhBDNEoQ6zM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PE/TUM']=data;}

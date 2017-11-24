@@ -1,0 +1,7 @@
+var data = {
+"_ring":2477,
+"_params":".sd-2477-en",
+"regions":{"2762720":{"level":4,"name":"Abia State","index":0,"property":{"openStreetMapId":2762720,"iso3166":"NG-AB"}}},
+"paths":{"2762720":[[1]]},"ways":{"1":"QNpJAMBAbQCQQ1kAnyd5AO36qqrt-hO7ZPhbvlPzo8Ev6aPBg9wM0vrZndj62XXicdcG6U7NBukHuZbvW6yW78Ck3vIlnW_5i5Vv-QKTt_zwjf__34hv-d-I3vJni07s8I0G6WeLveXfiC3fZ4ud2HmQVdWLlXzL0qmjwVusW77jrsu34646sdKp8q2un_KtJZ1ipxSY0aCLlUGai5X5lgKTaJDwjSCN34ggjVaG-ZZEgUGau35BmjJ8-ZYyfCCNqXkAgKl5J3Ygdyd2IHffcph033IPcid2hm9vef1s_390ard8dGondtpi33KTTt9ygUkndkw6l286NU5sFysuX44oLl-OKOVbBSYuXwUmTmyOKJdvBSbfcvMgl2_zIE5s4RsGaVkZvmVZGXZi0BZ2YtAWLl-sDE5sIwpObJsHBmkSBQZpAAB2YokC5VsAAJ1YiQINUokCpEESBRM7iQI7MYkCGiQAAIodAACxE4kCIQ2bB5AGmwdIAyMKSAOsDAAANQ8AAL4RSAPQFkgDWRmQBmoekAbzINkJ8yAhDXwjaRB8I_kWBSZCGgUmih2OKIodFyvSIKAt0iCgLRokpFMaJC1Wih22WIodP1vSIGJl0iDrZxok_WwaJA9yYieYdGInqXnzLTJ88y27fjsxzYM7MVaGgzTfiIM0Z4vLNwKTEzudmuxEJZ3sRK6fNEg3ojRIwKR8S0mnfEvSqcVO464NUmyxDVJ-tp1YB7mdWKHA5VuzxeVbPMidWMXKnVjXzw1SX9INUnHXfEv62XxL-tnFTnHXDVJx11VV-tlVVXHX5Vv62S5f-tkGaYPcl2-D3N9y-tkndoPct3wv6bd8Qe5vecrwJ3bc9d9y7fondv__J3b__295dv1Ig3b92In__yCN__9Bmnb9iZ3t-omd7fpip-36qqo="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/AB']=data;}

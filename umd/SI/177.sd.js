@@ -1,0 +1,7 @@
+var data = {
+"_ring":1459,
+"_params":".sd-1459-en",
+"regions":{"1676299":{"level":8,"name":"Ribnica na Pohorju","index":0,"property":{"openStreetMapId":1676299,"iso3166":"SI-177"}}},
+"paths":{"1676299":[[1]]},"ways":{"1":"TVXFAgbC5wCelsYCYdfpABH-spoe-56f0_ibobP3ZaQC7IKt2esEsCvq97LE4y22-uINuq_he7oX4ci5ntq2vSHWiMOz0zzE0Ml6w7nCbb7yvme_Dbvgvta3BcLptxfKV7nRyje62szDvVfOxr6h0YDDp9TBxCvZRMRx20bFPd1jxL_f0cW74qfIKuQyyRbmJ8Aw5kG8WeQIuBLpMLaN7L2rI-8rqXLxp6Mt87mfwvI_mwPxPZp67caX4Or8l3zomZQy5huQrOZGjXTlnoMK5lR69uTjdGXpMm2e6GBqd-qhaJvqC2Iw50hdPuavWlnjDlhE469Q-OTQS7nqtky_7wVMbPTfTP__LkbQ-mZBKfnQPzr3pycG6gAe5Od5C_7lqAxK4T0KANxuDPPZ8wqY1uwJGs7_CrHLVhDbyrYWpMZGGFXEIxevv2IRlrk4DcKypgvurP4Mw6j9DKql4gp8o9YMSaHnDcCgrg6SoUwVupoZFpmU0hIZk6kVTI5zFyaNmx0gf0kdFXyGHLt6FBGacycOiHCFCEVnvAOhYaICBlxcAHZaAAAMVcEC4lC4Bz1NYAxFRukMZ0EYDj8_mhrqNokhljWZJ2oxki1kL_E25iU9PGQa6j0bEpNB4AqjQsoEDUviAtFSAACcXLoG82DCCrRqwRDCbokSV3V9Ekt62hONdyoXaHZ2Gjxybh68eoYfp304IjaBcCPfhKYn_IWrI4eEQB_JhTofgYphH_WLLCAukYQlMZWhJfGaaSc0n7IhxaEzIL-k8x8Hpjkki6psKKaucym7s3MpD7gKKHm4Dis6tvAwSrE8M0KyvjYYtg859bZRPDO88z1dupU-L7WYQ8O0JUUquJxEALuNSSG_70sOw7RMFcgUUXDKg1A2zEhSzc-kUT7SxFJk0_ZRMdSgUoLUB1aL1hVXDNtCXKPTx1ox3Ftht-IXZefaSmmM3FZtT-Eecuzk53lY5uB5QutLfyLyxYHm8a6EcPV6iCD2wIx1-8SMHv9ljv__LpEQ_rCa"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/177']=data;}

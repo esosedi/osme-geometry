@@ -1,0 +1,7 @@
+var data = {
+"_ring":1493,
+"_params":".sd-1493-en",
+"regions":{"1676349":{"level":8,"name":"Municipality of Duplek","index":0,"property":{"openStreetMapId":1676349,"iso3166":"SI-026"}}},
+"paths":{"1676349":[[1]]},"ways":{"1":"rQ3FAu7A7wA9TMYCN1zxAN71Xlwk8-xdROyoX7fo9mEj6FJj6e41dxzvMXqP7Th9Ae5lfqDwYoKL_RmODv4Okf__wZRD_VuXJPq8lYn22ZeR956c1PaEo_LyRqKI8lukJO97pHjoxa566E6xJOclsibjn7OI4Qmx7-FgsB7eSa0S1wyvJ9Lzq9rKl7C3x-22HMi6wMXGVMLqxIHH4cKMx1HDCMZowbbEL74hyOO7X8l7vQHLCrwly1W8Hc0ju_3Ngbmfzfm45c8Ou3DT17Zt2sy2Zt8YtTTgZrTg4Uqx8uSCr3_l567a5ramKO0io5HybqGf8z2hB_Zankr3P5ug9nWZpvemmJP54ZOg_DSH__8kiJr7lIc1-ICIJfPdhwXvUIhe7J-HF-uqhMLpiIMg6iSAjOfbfsLl5Xzp3bh5694IeDzeDHbg3sd1jeCjdH3hOnJ03Lpoy9oMZ1TcWGly3nNlUOFraP3mNGaY7p9iw-1aYmjvYGBr75hfXe4hXijuZVwe76dYiPDwWLDr0VoW569U-eO-VbjiOFO64KNWWN3oVRXdYVRh3U1R4d_aTgbo9Eqi7ptGN_EhRAHtTkKv6xc9CO5NO7rosDxI4iU7Fd4-O0LWUDMd0i8zqNAEK0bLhCm5yD0oCsMpK_q9Qxzgr6gdlauuHdSoRhQhnzUAgJcAADCVeQVkjygLt4vCC4WK2RKWh2kVsYgIGdCHvyPaf24q9HOEK-5u-S2ia44uDmNnO4NcEz8ZWbJD7Ey1QXlEij-fQDhAxDymQdk6RkibOPNWEDrgXUg5A2LFN3hqYTLWaaEwMW2wLcVrRCvfa04pe26lJNFvpSNTcJ4cvnIpF7V1pRNRftYN9o92ByqtLwAWtAAAcrkaAW-4lw61uFwWV7fWFzO5wRsUvBkcosAaG7LBrR-DwcQhBb2RKCy-azNSwaw1YsPdOPnKzjwf0vY7mtR_PLvWnD4p2FFDed3nSa3gckhu475Jteu-UHDw_1Hb9Vtc"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/026']=data;}

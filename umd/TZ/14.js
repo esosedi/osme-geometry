@@ -1,0 +1,7 @@
+var data = {
+"_ring":1276,
+"_params":"-1276-en",
+"regions":{"1600808":{"level":5,"name":"Mbeya Region","index":0,"property":{"openStreetMapId":1600808,"iso3166":"TZ-14"}}},
+"paths":{"1600808":[[1]]},"ways":{"1":"_ZJx_5E3-AFfLI3_pBEWAkYKlBfmDkIbFRUkH-Acbh_4HkEeBSTUGgsm9Bk2KjoZ-DAkGU4zWhlQOOEYFD0zFxk_7RYIQhAW4UQwEhhH2xGYTK4OU1K8CI9WXwO2WcQAgV8AAJZiwQJqZJMGn1rgDtxZ_xbyUc4fUFgNKZ9Vsy-jX8pBL1y1QrxaIkRrX2pIqGb8SiZvfUx4eOhO6YIEUFGKHlCbkSJPt5vmUACheEoHqAZFdaSyNlufdTTIndIwOpzrJsigniYCpP0nU6nYKHyrbixqs6M1pLfpObq4UDv0wO88sMKVPk3DIEEnyVxFN82lRx_SlU472F5OotgMVzvX3Fk92IBl8tfJZ63ftJt644eZPeXzmKDtw5PE9UCSbP7Nlf__t5az_h6ZH_gdnzfzhKF67zykVekKp2_pu62h6la1GuzmxI7PgvFEz274U85Y_x7J__--w_X-P8EY_DW_S_n5u0n4n7hA9oWtKPGDklzmGJHb4O6O0d3bi5TagYr11FGHVtDGhWnPTH_QzZF8BM72d0rSgHVa1hNx1tYqbObUbmSE0L5gUs9fXdrOvFMwxyJOnb4NSmC5skjgs0lJtK5XSLSsR0edqcVD3qQQQmmhYkJ6nfZDtpxnRhiZpEkLlStMzZDfSrmLgka_hyBCN4WuQMOBnj8oehtBx3UkQDlwZkDFax0-0mcFOwhmwTaHZMow517xLmhciC07W14xDVY6NWtKzjQ-SJ4z20T3LxFBly0rOuUp7zSYJis0px-HM-UURTaCDYs5FgXNN0MBfDYBAmg1AACJNAcBsjD6A88u0wOdK3IFKSqYBrMo9gi-JuwKsCV_DeQiXgz8H44JcxxGCpQX"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TZ/14']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2507,
+"_params":".sd-2507-en",
+"regions":{"2762751":{"level":4,"name":"Rivers State","index":0,"property":{"openStreetMapId":2762751,"iso3166":"NG-RI"}}},
+"paths":{"2762751":[[1]]},"ways":{"1":"_E0_ALDkYADwvFcAz6Z0AN2shCl2rpAlqbGQJQ64nCEMwIonpcGEKT_DhCnYxIon2MSzGaTJsxnWzKgdcM6cIaLRliNu1pYjOtucIWzenCE445Ala-Z-K9Dscy-a-XMvzPxtMf__YTVm_kM_Z_Y4QwLwOENp7j5Bnek-QQToQz_R5EM_09xPOzrbTzvV1Fs3otFbN6LRMkUJ0CZJotEaTaLRDlEJ0AlTcM4JU9bMDlELyBRPDMAUTwzAGk3avBpNQLsgSw64IEsOuBpNqbEDVRCwA1UQsP1Wdq79Vnau91hEq_FaEajlXhGo2WJ4ps5meKZGlN-kQJbfpDqYeKY6mN-kL5zfpCmeeKYjoHimHaLfpBekRaP_q0Wj-q3fpO6xRaPitUqL4rVKi-izsYnosxiI7rF_hu6xf4b0r-WE-q3lhAWqTIMLqEyDEaazgRekgH4XpOd8HaK0eR2iG3gjoIJ2I6DpdB2iT3Mdok9zF6QdcAuog27_q4Nu7rEdcOK1HXDKvbZxucMdcK3HHXCQ0YNuhNUdcH7X6mxm3-psW-NRa1vjUWtV5bhpVeW4aU_nHmhJ6YVmSelTYz3tuWE97YdeN-8iWDfviFY97YxGPe2MRjfv9Dw37_k24fU1D___Hg7S-hYLRNtJDi3LMAXWq2MIVJvLDsaJAADnILIbShuUHr8VLSC_FcchxRP5JMUT9yy5F8MxuRddM7MZ9jSoHcI5qB1bO6IfjT6cIcBBqB1ZQ6gd8Uy5FyNQrhu9UaIfiFaQJVRbcy_uXHkth16KJ4denCG7WdEPVFvRD-5c1w3uXN0LIGDdC7lh1w1TY90LU2PuBYVm9AO4aQAAg24AALZx-gFOe90L53zdC4B-1w0ZgNcNGYDjCbOB4wlMg-gHf4buBbGJ6AdKi-MJSZPXDRSYyxFFo7kXRaOuG6yhoh9Fo5AlqqmKJ92shCk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/RI']=data;}

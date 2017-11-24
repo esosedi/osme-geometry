@@ -1,0 +1,7 @@
+var data = {
+"_ring":2250,
+"_params":".hd-2250-en",
+"regions":{"2319534":{"level":6,"name":"Nik\u0161i\u0107 Municipality","index":0,"property":{"openStreetMapId":2319534,"iso3166":"ME-12"}}},
+"paths":{"2319534":[[1]]},"ways":{"1":"UKKJAuyiGQFGspECk4QlARtalPeIUbn1cUzg8ihIX_PwRBv1DUGh8i0_XfRMPez6wDor-5s4t_ZHOabw-D3V6ho-vefgOAviNDhX3a45q9VsO_zObDsOyNA5WsNaOgLAXDyIvVgth7GjJsaxVSD5ttgctbi-F7W4VBXetAAWKrDhF7Os_BOQoX4QuZ0QFh2ZKhuhl70hzZLWJhuNQysDinIzaodVN1mBdzfKepc1mnR0Nc5sfTsmY_Q6TmCENDNelzXjVycvRVchK81TESHgWKQcYlgFFaFNthg3S0EafkiGGpZFPROpPc0SPzgoEVE0Eg6XLvYHeC4AAGcbEAO9Hy0J5h6ACsQdXgtoHCYNtxqyDS0Z4A5gGTYQKRlYEbUY7xEdGD0TshffFCgWjRXwFdkaWxi4HLgZJx40G88eCR00IJ0fGSGMIl4hwSTZIB0m8iDfJiwhPydwIh0nGSebJQ8o4yNhKuEjqStdIewuuh4YMSAf6TINH8Y2zh2cOLodlDxWHilBMiCrQj4gKkS1IK1HGSB6SOAeekoDHRlKqBbMSwIULk4SEjlQdAycUWgMhFQUCsxVpAb4WC4Ez2E4A-1l1AF_bAAAy3fkAKN4IgJ9eYUD8XohBm173QX8eyUFj30BBGd-hgNOfzEDPYDuAi-B4wKWgzQDwYRLA-qFlwPPhiAEhYe2BNiImwUqi1kH04l5Cb-J4wnsiVoKL4qvCkmQjQk1lskKhZqlD1icZQ6Wn4oNo6L9C8mxWQrSxJ8Nw9VxFdjXrh8j4Js5wN4bPJLgWkAC4LBDi-XtQorqf0J47HdCne0oQmDvN0Kx8ihC__-IQV7-dUcK-SlMPviDToH6OlK0-zJVpfYGWi_tW17K2CdmdNGhaOvM-2rIylJug8YtcIK-c3rVtyKBbbMRiKCyAY5Ls86Vj7MAm1yylZ8Xsoik0q-7qfStEq30re6uzqVYtxGk5b4gn9bE6JV9zo6OgdkFjrbdpYBe5zGFNOusiGnvaYre8zCDhf2kfv__B3uD_vBztPfrbfv09Wa-80Fe4PIbWpT3"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/12']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2321,
+"_params":".sd-2321-en",
+"regions":{"2424084":{"level":4,"name":"Grand Casablanca","index":0,"property":{"openStreetMapId":2424084,"iso3166":"MA-08"}},"2523504":{"level":6,"name":"Prefecture Casablanca \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621 ","index":3,"property":{"openStreetMapId":2523504,"iso3166":""}},"2523505":{"level":6,"name":"Province Mediouna \u0625\u0642\u0644\u064a\u0645 \u0645\u062f\u064a\u0648\u0646\u0629","index":4,"property":{"openStreetMapId":2523505,"iso3166":""}},"2523506":{"level":6,"name":"Prefecture Mohammedia \u0645\u062d\u0645\u062f\u064a\u0629","index":2,"property":{"openStreetMapId":2523506,"iso3166":""}},"2523535":{"level":6,"name":"Province Nouaceur \u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0646\u0648\u0627\u0635\u0631","index":1,"property":{"openStreetMapId":2523535,"iso3166":""}}},
+"paths":{"2523505":[[1]]},"ways":{"1":"BMb9Af8KjP_xZgACw4iP_7aPRfxtglzs40YT1c4_87ZdPxaf2RkwfQwO92RfDmtbAADfUi4ZnTP0JKooMCjiK1ox3SMMOLoYOELmELtAygn9RBAIREYTBLFQQQ4BYAAA1XIfGjpqYiMxfDw514YMOhiLHT_ilxI6QaYYLuum_zDmtq09JLi4SLO95UO1zq86SNTUPiHnoVqh7XheNeTOctToBIH__6uHH_cxkBr1toyJ6JaaIt5eoCjcBaS-3umtH93htVvmubw55qrGJuqRzi_hzNFa3zXO4tG80k7LxdaRzcLaUMnz3cbHxNtGv0fnP7sl5DyrvvZTotTvEJ-U8JuS__-2j0X8"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MA/08']=data;}

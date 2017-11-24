@@ -1,0 +1,7 @@
+var data = {
+"_ring":2367,
+"_params":"-2367-en",
+"regions":{"2537750":{"level":4,"name":"Wadi Fira Region","index":0,"property":{"openStreetMapId":2537750,"iso3166":"TD-WF"}}},
+"paths":{"2537750":[[1]]},"ways":{"1":"WDjUAPjUMQEwn_MAO6RgASLkAABF4cIFM9ZbEZXUCBdy17UdT9njJfPVOiq11KYuUtdSM0zclDei44E-YeQCQh_m2ERa6lpJde5bTBDyXE7N9JxQLPXdUkn4n1YF-_VYJPwLW4b6IV6H-XhhjfTkZpDy0W0u9BNzivcAeaT78IeA_x2OZfu3mgb646CB_nyp__-9raH-vrAE_JSywv0VtSn4bbpr9lm-Svcvwib628WL9gnPTvSf0NfsH9H56ovVlu2P4JLw5-Wz7_3nGOyT6jnrau447Gvz9e0X9jnrWPrA5S_-wuD__2reqv7d2hL9U9oh_K7Ylfpf1hX6VNWQ-YjU-PgD1Pb3GdIP92TQsvUHzoDx28uC8KDJg_CMx8zw3MVX8FPF9O_cwwjwX8J08FLB-PC1v9fyD74J9Ba9c_Rzu8X117kz9g-3xfVntBn2tbEK9uivB_eZrij3R63Y9hqsDvYbqIP1x6US95ukMPfdo-b2g6Oy9d2iYfVCoA31RZ8-9IeeCfThnFjxjpw38Y6bSPF4msPwQ5bN8ZSUh_FVky_wcJM47tyS7uw7kYPrh4576iaNCekdjCHn4Irg5gOKCeZiiJHl2YaA5C6GjOMahT_jB4XY4hqEBOJ9gunhnoGb4faAuOFMfz_hOXw54b17-OCHegTgu3cg3Fl2RNvudAnb0nEg27Rq2NthY7ndcWHu3RdebdW9WYjKxFdgyBxWCMYbVffEEVP4ww9OF8OBTCPDDkxqwydJkMdSSDDIHUd9yDo7p8iIOTXJFDd8ylI2gspRNfnJsTMqyPcxkMcaMYTHKSy5yNAqa8kxKjrKSiil0dwfn9J4GmrRbhkCzawYzstKFufJ3RGQx0cSUMXvEWnECA9BwjwNkMCmDIy9MgvJvEMKrLu2CVS6MAfUtgAA77IgAzSwLAepqzIJ9Kd9ER2TKRjxhvYXsX7IGUl6_hpUeDIbdHJJGqJwqxhlbmwUIWquEOJkLxGFXgcVSFz5GAZbzRu3WLYcUVc4HfBUUR2DUaohq01nJSFMrixNR1YyKERjN_s-HTrDO2s6RDgiPKczQT4iMUM_Gy9DP1st0joJJaE77h-7O80bOTuRGfEyVxPsMDIQoCcpC_UgXAg1HDcFoxWWAXfdDgAi5AAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TD/WF']=data;}

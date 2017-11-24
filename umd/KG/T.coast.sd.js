@@ -1,0 +1,7 @@
+var data = {
+"_ring":387,
+"_params":".sd-387-en",
+"regions":{"178023":{"level":4,"name":"Talas Province","index":0,"property":{"openStreetMapId":178023,"iso3166":"KG-T"}}},
+"paths":{"178023":[[1]]},"ways":{"1":"wQV4AjNROQSmk40CIolqBIy2gAb2whsJub6wEPTA0xH6yToOXM7OCpHT5wq51dcOv9YiF_XTYxf82CYZPOPXGKTmvhz68SgggPaxIOD1xCeL-a8pwvdoL5f4CzOm-tw0f_X8N6rzfjw2-E1Aa_sOR7b_nkv__z1Pnfw4VSr32Vhq9JVe9-8YYYvunmMe75Nly_E-ZxXxO2na8nlsq_JycDzlqYHK462FkOQ3ih_gBo_b3CKV-c-vmjDN3Z8GylmiGM31su7GAsIlxMrCErxnwqG5kMMkuMDFv7QX0OC3VtLQtcjT_LgZ1ZTBMNbCwIfXxrvw2dK8wtxRuUvefrUP3oet6dpWpmfaDKRN2bifQdFZotDJm6EWx9Cd0MQ5oBPAxZ0cvf6eebnmnRa4wpcOtGGY4bFTmpGw4JmkrguOHa6AiF6zCoEqs1Z_c7RYfwu5x3vJwMd40sJxcezD_W4mxexu-ceQbJHK4Gro0M5nt9PuaLrWHGc62WJqed-gaU3lN2ew5mdebughU-XieVHc4vpNEejoTy_qOUt77dlMMO-JS1Dx50vj8_1JtPUAQBP2fTkW-LQ2Yv8WLwn_0yH__2sdWf8lGmX52xxb9B8ZM_LmFXzq_xxA43Yfg94NFt_P7At5yhAYyq3pF4ikMhXjodcFCJtnAGSPAAAKjNMDgoBmB4h9_QzffOYVpYXVGvaHmh0BiOEhw4RsKLh5Vjn7dEZGpnQuVb9t5F5PX3tk2VutckNfzHXvXlJ54lxZfSdX94aAQd2G2T_jgpQ9cYMtO_uIjy-7kAUoSZFMJpWQ5yKyjGYfBJn7FjydRxA4mw0M15fmCfSZbQVpmLwDx5gJAjSbVQJonwAAKaMKANulswEwqF4B-6pKAmesaQQIsF8FlbEvB66znwVrtbEFjLaABg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KG/T']=data;}

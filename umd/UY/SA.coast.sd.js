@@ -1,0 +1,7 @@
+var data = {
+"_ring":1312,
+"_params":".sd-1312-en",
+"regions":{"1614733":{"level":4,"name":"Salto Department","index":0,"property":{"openStreetMapId":1614733,"iso3166":"UY-SA"}},"2619114":{"level":8,"name":"Laureles","index":1,"property":{"openStreetMapId":2619114,"iso3166":""}}},
+"paths":{"1614733":[[1]]},"ways":{"1":"w64Z_rzCifze6yr-6Fip_Cpq_OcYZf7k8GJo4NdeSuEfV6_a2EyY2HxJGdmASLnXjUVo1_1ExdVnQorUakAE1cI8F9QQOQvWCjl-19Q0-tdRMHPXmC0E1mEnMNrWHdrbJBnj0dgV0dCXEB_RaQ5Xz2cJA84xCAnLAAA_yQAA3sYdApjFNwLjvjQFc74IBEy8_Qi1uOgGwrWGCG6waQoSr1UJnqzSDAqqFA6kp3EQoqa_DRikmRPpoEkVRJoxEoGUFg_kkRUPhY2fEHKMhBHhiNQTSodGFG-DbBKSf14TrnnbFKp3sxO2dKAURnEnGW5uUhk0ahEcrWgzIM5elCmnWhgq8lidLpNXcC-zUMYxVkyVNXRHdDyaQgY_XT9jP9E89kCYO65AjTdKROY1X0JjNOVDcDPwQa0xsUTYLwtESyrHSkspUUwrKAtOdyjmT-ElQFIAJt9ViiRUWCwlv1mbJGVYvCKGWIwf_FkOH_pZaB2qXFEcYVsnGZ5eAxnqXhYYcl2JFoRd0BPMWjATMF0iD3lXvw_KVIgSoFP_ESJTnw7BV3YMJFeCB09S0QVaVFQCRVgAAJFdAQAqZiMGHGmwCeNtagxCdCoL132fDOuFNBFDlVoVr6fuFKurfxXzsk0ZX76yGvvGXhn2zfIV19F1FcTWvhdS1uUfEtmDIaT3iCKU-Wwm_v6-Jf__QSZT_lAoOv8pKif8JS8U-VYwKvMAN3DmOT2z5OY-cOcmSlDVpVlp1EtePc5eY2DN62dFyy9qzcaba1bDN2-avxBw1rXzfIG5lX80vSGMib2rkc262Za8u82ZJLncoFa8h6pEw1OvGsQ0tonIEbrex4e96M_7ws_SJMix1UzJn9s4yU7hU8_h2wrU5Num1c_Y_9aV2NjazNas3JjY3OAk1rvhJ9ZK40_TDeby1OXqx9Gj7IvPrO-Zxtzvo8Ui81bCD_dFvHz4prL__3uqC_4_qb_8Op-m-d2dgPhwmKz4k5Yf95yWZ_Suk3vv049g7piNXepNi7_qC4Yk7hCBL-5pezzqKXYq60dtZugqavzn"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UY/SA']=data;}

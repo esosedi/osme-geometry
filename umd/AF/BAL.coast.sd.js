@@ -1,0 +1,7 @@
+var data = {
+"_ring":1366,
+"_params":".sd-1366-en",
+"regions":{"1674795":{"level":4,"name":"Balkh Province","index":0,"property":{"openStreetMapId":1674795,"iso3166":"AF-BAL"}}},
+"paths":{"1674795":[[1]]},"ways":{"1":"4xIfAj1Q9QNJhjoCqrgQBML5zRAW-9YU9_r4HYz7cSKg-mEnkvuzLVr6uTM8_JQ67Pv9QdX_BE3__85Twf0WWkv6TF4q-KFjGfafZFrygGOa8Otkf-6aaZPuMW3M7JJxA-qLcxbp63Xh58V2H-RNd7rhnXtw44KAzuU0g0Dnv4wN6nmUSu45mo3vDJ7N7NyituiTpLrn4qUM6J2nn-riqjfslLDg6Le2FulEvJDojL6V5S3D3eL7xF3en8TN2I7CFtUhxYHTDMlA0YLSksoT1oTIutgoxYnfUb5T5M294-c2ugbplrK26L-veukPqALvn6Kp7_-Zu_TvlMD69Y7__1WOqPxmiqfz6YqJ50-MUePMi9TbGY5S2DKNAtU_jRXPdoqexsKGkcNWfbC_XGqgwIlnor-QYPC4clvCr79e5q4yYFytNWXToMlqTJj8aUKOX2dziX9dgoWwVpqBIlQMf4xQRnCyTk9tWU6NaslNSmkjSi9nk0crZD9FW1wcRKRbbUJoXFY7FGQzNI1pUjKEaoYwLWqJLtZnpiYoZX0jg2HCIbhcMCCLVK8e81HwF-RRdhUgT2oSsEb5DuEyIA2iLF8IxSNmAj8ddgB9FwAAjhODAKsSKQMuEwME9BFTBEgL2gHvBCoC9wCmAwAAEAckAskK-Aq6C10PMBIUGQwZ0hq2H7Ua-SXzHrkp8x4iLxcipjQgIWM3Yx8WQnIbk0hOGuZMihrjUPcYeVMAGdlToBnMXoYI_1_dB6xhNAk2ZEINNmrIErBsVBPscbQR6XTeEcmABxi5iTEag4teGV-LxhXAj1ELZpFnCd-VJweYmy0IRqPiC-yraBMPr4wUOLmmD0-_EQqvxpoIieOtDoLqTw6y7oIMUvg6CzH5Ew_C-c0Q"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/BAL']=data;}

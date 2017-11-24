@@ -1,0 +1,7 @@
+var data = {
+"_ring":1478,
+"_params":".sd-1478-en",
+"regions":{"1676323":{"level":8,"name":"Municipality of Ra\u010de","index":0,"property":{"openStreetMapId":1676323,"iso3166":"SI-098"}}},
+"paths":{"1676323":[[1]]},"ways":{"1":"tyPEAmgl7QBpU8UCOfzvAMqnjugdoVTp95e87CqKn_Juhf_1tH5Y8iqAtfF4fdjtWHzJ5251aO7qdCftkWmG7xVPXvdwVTn-3UL__1A73vk5LNDw4yzM72cdYOHeGc_bDhus208YGtusFLfWqRPa1toLt8uYBHfFAADVvigBf7xjA6a7kgX7u6UF6LruB4u63gfKuBAKg7i5CXm31A0wtjEPDLSrEoOzKRP8rWgaqKqDGlqpLR1GqVwgAqtLI8uqhSkwpkUxj6LaNSyj_zljoTE6BZ7_O92bljlcloM7kJSwPhOUvjo_kuQ_GIpjRhOFFkjJdlZSoXt2WJWA0FtGgLNdRnzXYXZ4t1-SddFffnK_YY1vAGVhbW1mVmi9azZlmm52Yb1thl-dbhJc5HPPVJp2yFMRcG5LgXODS-F5-0g8gXBB74R8P32GEjxuiV47z4zOOGyPozikj3U315O9NUOZ2zAanJkvU6NuL5Om9S2XqYgpx66wJu2xeiO5sZMglrNTHsKyfhs1tfYUsrrRDC2-MgmXxO8HYcqpCcLMuAjsz88DpdlLA_TZ_wT23ckGr9-_CF3f7wp03QUMWuThDinmgg7U6uAPs-7GCEn1EQOc9gAAEvhXAP__Mwvd-S8SNfknHvXtsiXU6l4qeusOLVbnPDFY4zQzT99iM_nZHjuz0qs-dc8HRMfPm0RA2IJC8t09REPlDkko5z5JX-Y1SiboWUy95vlND-yNWLTpzFm06SlcWudDXdbna2GQ3dVg1tlgYk3Tf1_bzG5lA8uycSzMvnNyxTJ_g8EhgU29XIFTt22DZ7LuhYSwqolFqy-MgKclkeWkIZG0pAGSAKhrkxepWpi0rEmaiq6_nOuqXKPGqyGo667GqVetjqrZrRmsj7HHq0GtfLDJp-WzF60uvKOz-rmquO2-Fbe-v8m9cseHs93J8rcPzuyyatW9toXZa7nD3oKrSOPdrArmeqdJ6Mqnjug="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/098']=data;}

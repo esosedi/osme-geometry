@@ -1,0 +1,7 @@
+var data = {
+"_ring":1096,
+"_params":".sd-1096-en",
+"regions":{"1154756":{"level":4,"name":"Ceuta","index":0,"property":{"openStreetMapId":1154756,"iso3166":"ES-CE"}}},
+"paths":{"1154756":[[1]]},"ways":{"1":"vVgjAgbgrf98ECQC_fSu_wAAwovDBzZ7vxV6ePoZl3RbGVRyqgvRbTQOzWWWC8VhjAszX28M8113EhRcGxOwVjIVGlWqGWdUOBqCUM0inlA3JY5Ozyg8SD0saEWIKyRBDC_rO8svETKXMcQvNjcnLuQ2JCkXO8QlmkhyIJ9QYCCyU5Qc5lluGw5esBgBZRYYYnRZGwh5lhmMfC0aGIKBFqiDWxQhgxATo4YbECGNFxJnkhUQ8JQiEz2YTxSUm2cSJakOEFOs5BB8reIT5LrEEnK-sxFhwJAOWsKiDQ3M2A3tzzgIVNhJCLHc2wWO3UYDguEAAJHnQwHL5QICZuYHAzTr4AZp8fkJhfZdCHf3fAz1-ecLefvJDVP2vw4G-GIRK_YAExf27Ret9yIdKPtBIWv5zSJy97Eo4vgtKjT4Fy3__4M2Z_8rOBz-RziT_UQ9NPF7RafvOEq86p9O1u07UJLtAlH-6E5PVOc7UDTlglTz2PFfLNAdbX7PdHGvyJ93E8iue6i5Vn-Or0OEqKkDhPSeroremtCQfZwOkrabIpM6kC2aEY4umbyKlZlUh5CfGoCCpt99aaqOfqywpIXBsL6ILrOXjly6yqLnzY6Z_tTumC3gtItK82yJ___rh-3_xocq_niFdf3BhQ38HohN_L-JbPJqli7gtJaB1QONYM_HhBvXgIWh16GBTNtRgsnbEHx34Dh77N-_crXntHWx5DhyF-Jrcd_ixm7B6bN7gPKbeRr1nGZK581mm-NyYDjlSlFu5VFWveRxVo3hglGJ3G5OQd4VUTzcc08P2ntGk9UZRJrXAkZJ1c1CCtJOPerPsTpE0K84dtSBN8zTgzlj0BQxuslZMN3F9ysqxOIp9sGoK8K7Iioeu8Er0rQALXq0qi7sqiMtZabiJRadvhpQlXcOWJF8B0qNAQC6iw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ES/CE']=data;}

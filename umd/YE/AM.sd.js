@@ -1,0 +1,7 @@
+var data = {
+"_ring":884,
+"_params":".sd-884-en",
+"regions":{"383907":{"level":4,"name":"'Amran Governorate","index":0,"property":{"openStreetMapId":383907,"iso3166":"YE-AM"}}},
+"paths":{"383907":[[1]]},"ways":{"1":"MfDsAHzrlwIBsP4AHLikAl4BCHc1AV1wWgL8bWwEd2PkBhBgFAefW5gIWViBCfFTYQhdUQgFElFcBAZQ2QK3TCQEWETKA4pDgQGdQ-EAz0IFARw-aARHOpoF1TILAJAqAAAzKRABNyePAAImWAEQJm0BpSQvAsYkLQNaJ4sHyCoEC-cvuAxYMEoOwyoFEN4npBZ7J1IahynUHTgvUB5kMvIdiDWCHF83QB2jOYUbB0CJHKpCiRyCRBsfi0JSJvJBDikkRHgrr0hVLURKPi9dSb4xS0OhMRM91TQAP1c3Sz9QOgo9aDtpPVs-7TuJP1U8zD-6PS8-Oz9yPjJA6kT5QkRIEkB8SJg9CEoPPR5NMj1AVAY7OVl-PDNcAzxkY684L2dPMk9nhCxLZcwqhmbyKGNmxSfUWesaoln1GPxa2BWnXIcUKmLAFORlciAAaOIiHGtUIy5tmCEbcfMbw3i5GVN91xP3krcQ2pe8CoqblwQgnMABA55SAUClbgIGq5kFx60LAhS6AACIwEcCA8rICOnfoQaB8nAGe_WYFbr3kjBW_TI-LP83Qf__dkW4_9dTqPxLX0z6NWyv9-uTyfdrssT1nLYY9QK7ofXNwiv3o8gB95zJUvUTyyXprdNm4vfc2t5Q58Ld3-OZ3d3kBtwB5sXaz-Xt1rrpUtKx6q_AuuRLqmfmjqj551eoeeosq7TrZ6sE8QSpl_Jlp5LwgJEX6FWFNuwCfIr95HH__7luyfjsbjzk42zc5D9rN-PKZsnYCGf9xoNmV8WiZATFs174xxpZ8sanU2HCkUvRwgpD_szBQZnMSzH-urorR7MMKqqy6iAntHEaK7Y3GGey1xjurssVAK3zE2uouwxKo-IJwZy1B1-VaQYdi3AJ7Yd0DO2HFg-ciYYQqIk3ERqIRw-VgtcKbXrtB9J7PwUFfAUDx3leAQh3"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/AM']=data;}

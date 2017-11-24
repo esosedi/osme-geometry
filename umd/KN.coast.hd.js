@@ -1,0 +1,7 @@
+var data = {
+"_ring":191284,
+"_params":".hd-191284-en",
+"regions":{"224884":{"level":10,"name":"Saint John Figtree Parish","index":1,"property":{"openStreetMapId":224884,"iso3166":"KN-07"}},"536899":{"level":2,"name":"Saint Kitts and Nevis","index":0,"property":{"openStreetMapId":536899,"iso3166":"KN"}}},
+"paths":{"224884":[[1]],"536899":[[2],[3]]},"ways":{"1":"D9oEAcVJRPxFkQYBk7hF_Or82X_r_HOD__8Lkdr5xKD25AW0H-IM07nC1O-db___ySut6msaHtjtGlS60APHdQAANEv5HHYl2B5hFtMnoR7kVQAAN1mGCdx1Uw-vrQwQqM7ZJ8raDihD7tc8TfVPOkP8sEbq_Nl_","2":"EagGAQzEQPwixwkB63dE_E9ZF8TEWETF109fylNFb9ktPrnbaDc25xouJeooLrbu5zTp8E0u0fssJOj_qiD__0Ma0fiZEJb6FBRl8qUK9-rpELjm2xBY4y0N1t8gAp_gAADO2Y4PY9fbE27SGSGs2qwogNc7LfLauDoF2ExGh88aTbfA31Mqu1pW2qtQXcukuVp0oglj46MMZJihVmXVlwBiMZfoYSWTv2QPkRZedIgYYxd-BWe5XrRrZlwrcH5PPYToRJuVEiXAqCwSkbCuEeO61guawwAAuNiPAPXkzgUm6ZkMZPCRD_j4OBwh-Ccje_4jLv__5Dh68h1CPvVFSkDteVaH7thYd9bSbsnLJoOblx2p1Id8rph7KrfCcha3b242vl5bG79PWRfE","3":"D9oEAcVJRPxFkQYBk7hF_Or82X_r_HOD__8Lkdr5xKD25AW0H-IM07nC1O-db___ySut6msaHtjtGlS60APHdQAANEv5HHYl2B5hFtMnoR7kVQAAN1mGCdx1Uw-vrQwQqM7ZJ8raDihD7tc8TfVPOkP8sEbq_Nl_"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KN']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2351,
+"_params":".sd-2351-en",
+"regions":{"2528143":{"level":4,"name":"Br\u010dko District","index":0,"property":{"openStreetMapId":2528143,"iso3166":"BA-BRC"}}},
+"paths":{"2528143":[[1]]},"ways":{"1":"l16qAqN7GgGfE64CiUYiAcdCDAs1RWcN01CXC-hR4AhrVYMIr19dALRmAAAwbaEBB2tZBOtsmweYaNwMG2w5DRNvBhHYbx0aT3ngHp98RiRogOkkuINnKPqHWil0iE4qE49CKyyWqDDZm-EyeKICN4OqAjdZrXQ7IbEiOwaz3TlVti4687zmP3LO4kZW0BtJAdYDS7vaulD73r9d0eGyXjzjHF0D5xxdGe6yXqj132H79x1kofPDbSr58W7O9atxeO9Ue_3zL32_81l-JPUff-z4V39a_NaA0P9chf__mok1-heKae47knfoppIS5A6QNuKVi2_iiIdg5NmDXuzGfF7soHmt6t53EeYYdzrf9Hh02Yh87NMGgibSbIIqyqd9F8Y7fVnA7n9SsOeMjKsrkkCnt5l_ohad-JhYoUGQlaZ8jBSs34uSvwSJCtQ8ib_qp454-JiDL_Lwganymnra-NF2NP8pdf__RHOu_z5v3vu_apn6JGih9ohuEvFmdaXv7XQe5o9yJuIsYxLdNFXM2wxPDdoZRSHVtD5qz-o6g82jMwDMhjRXyqEyHsgaMzfG5Da5wg09Or8NPQG9vDnttw49BbYOPSqzNjqfsNhA4KS9OeOdXS7jndYl-JhxIYaXWSTPlf4gEZFYItCLSh5HiQUeeId0IGGGgiQbh9wlqIXqKTWEYCmUgiEmZYKCJJaADCXGfnsnJX3iIp549yP_dDYnjHPcJZBvcyDwa80hfmpzIDlp2xvIZf0WymNkEuZenwEHVj8DhE0AAIhJbwIBRaABvkGNCqw8sA_wPfUPfzqbDpo3qRJvM9oRWzDvEjEs9Q97J_UP3CNBDcYiQQ3KHlARbxzaEZ8aBBRbGVcYohggHAIVXx-PE20jrA7xJpUNWSwIDxozrA7HOK4M8TolCuo94AhYQJkJx0IMCw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BA/BRC']=data;}

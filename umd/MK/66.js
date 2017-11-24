@@ -1,0 +1,7 @@
+var data = {
+"_ring":2417,
+"_params":"-2417-en",
+"regions":{"2598355":{"level":7,"name":"Resen","index":0,"property":{"openStreetMapId":2598355,"iso3166":"MK-66"}}},
+"paths":{"2598355":[[1]]},"ways":{"1":"-2NvAhYVPgF993QC-1FEAXbC-pmWvtKZLLujnd-0Y58araOd_KPBl5Cft5EUnE-MBJXRifiMqImtiByOVocUmXWFx5vjfsebQHlenQR0O6Awbx2moGo_qrtmM6slYeCtB1t4sGFZLreVWNHBDVpWyfRaVdANUyHU5Eyz2lJID9wOQ8rgJz4e4Tk4b-KcMqjtWjCV8lUwhvl9Ll395iqC_1cm__8jIWT-VRnv_ScQCPrcDNv5Ig4r99wOBfV_EW7v3BDs7ZcQvuz0EHTr3BGz6vQSFumuE3nnURQA5T8TeOROE8bi8RK74GUQpdxlD7baqw_92DcQ6terDynX2Qx51E4NHNIkDavP1QnXywAHvspGBR_GRgIwxAAARLsAAbtWyxiCUmobilJiHURTTx4jU8Mg1VBDIcxQDiJRT54iC08zI1hOZyZtTYonr0zmJy9M_ieTS84noUrJJ91ITyh1R5opukb5KqJF5Ct8RV0sDUSALQBCWS4HQakvRUC6L30_si8ZPsAukDwiMJ47KzGwO9cwQzkCMQk47jDoNgAwuDQTL6Y01C4dNHcwcC6GMKwrajBzKzkudSrjLeUo9Cs2KfIs-SBVLm8e9zCOG6QxNRjNM2ES7zSLEPk2kwopORgGZTmsBGU6TwHoPgAAXUUAAIhNcwB1VuwCAF-fBf1iXQyCZEIWsmQAHXFpZSJqcdgiIHfjItZ9tR-XgeQbKoi8Gw6MDRzujZgeWJBRJJmmRiV5tSIoRsCLLDTOQzld1LxAMduQTvPgX1mS5kBmaO_Dc3_2tnv__8CBVfWmiLbv34og4eWNjtg2jvrNtZGaxDqYdsL6mQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/66']=data;}

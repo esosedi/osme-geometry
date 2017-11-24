@@ -1,0 +1,7 @@
+var data = {
+"_ring":1355,
+"_params":".sd-1355-en",
+"regions":{"1674541":{"level":4,"name":"Takhar Province","index":0,"property":{"openStreetMapId":1674541,"iso3166":"AF-TAK"}}},
+"paths":{"1674541":[[1]]},"ways":{"1":"DQQiAqBwHwSY9T0CBqIzBNUM2NHkDN3NoxCfxZ0QB8R8D0vCRApkwH8IU7qQBai3tQXns9AE_a5XBS-qzAKDpp0AXaEAAIGdugB9nDQFmpuQDmqbPROylxIX3pIcGT-NpRoBiy8loIT5JomC3CkGei0tL3WfMaR09TX5eB44mXlJOQV5nTxsdhQ_R3KzQERuHEC7aYlBXmb5SBVjs074Y2ZPT2OzTiVgJUrDVL1HTEyfRlREMET6PiRBijQcQBInWj9MJfo8-SL6PAEiHEBkG_lA0hWIRJMSUEbQDYxIfAooTFQJ50-6BeNU-gJzWrUDvFwKAVZfAAA8YLwBeV-cDJhfdw4sYAsPvmEXD5FpGQuJbHwKDm9BC4R3fBCIeT8QsHv5DviAlQiWhYsG94jwAWyKqgF2jHQE1I2VCKWPTxRGksEXa6ARICSksR_UpnsdgKiEHSCrJh9Er1sbyLEhHfa3ISQ5uQYklrxXIcW_VyYzwGwq8sHPLf7GrTGEyWg2LcqRNrnKpzX0yjQvr85CL73QwS1_0-8uhtauLGHXsSoj2gYpmN1DKpDeYShG4K4nFunPKCzqeirs614vSu7WMR3wTDbd8Uk4WfQ7Pa36VUKm-4FFy_qTS-n6qU_J-V1dnPtWZvj84mlv_Txuuvswdoj7WHsQ_w-H__8vjd_-75IC-a-Yxvgom1H5vJ2Z9k6iyfXtpi7viaMY6oyfs-UXmuXgjJkB2Mee1dN0owvRNKW8zJOk5stcpq3CaqiywXSpsMAAq-6_8K3Lv6O1375Kuui8ZL9Zu2jBU7OnvZit1bRnqvmzsqhlrbem_6nblXOikZA3oliLW6XAhYCjR3wnpEp6W6UAeUun03aZreR0FLEycKK0ZGxUtWxoYrddY2K3oGAHtu1bTrHAWe2wU1g9s-RWZLk9VC280U9NxLFNPc0vTEzQfkuD1IRL5d9dSjTuaUjY-cxHqvvsRcH9_kM2_T9A7PgUP3T4VDyK-eo2pv2DMf__nC7N_bck7fL5IrHz4iC9-WwfHvolHtX2Wxnv9EkWB-vGECrgRA9c25AO_dX6DNnS1QzY0Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/TAK']=data;}

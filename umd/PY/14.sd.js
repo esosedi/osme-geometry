@@ -1,0 +1,7 @@
+var data = {
+"_ring":903,
+"_params":".sd-903-en",
+"regions":{"389888":{"level":4,"name":"Canindey\u00fa Department","index":0,"property":{"openStreetMapId":389888,"iso3166":"PY-14"}}},
+"paths":{"389888":[[1]]},"ways":{"1":"iM6G_rD8pvwGrJv-5R7E_K-svxSYrAIhd60kJNGveyd6t4ArWbiiLpO_-DSazfg09OB0RdrpPkuI8eBMX_VfUf__aVaY_ZdWo_xRWAb7k1hD9RtX3O0yU7HsvFML5YlSz-C4UrXfwlMR2lxUv9ejVR3TCVTyzNdT8cvkVEDNqleSy8pXk8jNXL--A2HLu61h_rYTYPq00WCjs0hgobEQYgeukmKWqGRftKYMYZWe0WFTlmdgiJTcYt-RO2JLkfVjSo3EZFGN52UwixVn0IxEaESMc2mEiuppwofqbQ6IJm-yjaZxSY1zc6yJ93YPidB4bodLeQWHSXsnhIR9F4Z-gD-JrIEBieyD7YdFhB2KUIfNiECILYlTiWyLeIs8i2iMC47ije2JKZCNieeRfYqTkv2Ik5I9iC-UTYpklb2JEJb7jn-cq41GpGuOa6bKkZ2lGZPSpliVSaa4leWnl5eQqMeXk6rWmfqqNprqqyeYZK1XmHmwZpp5sNWcOLK2myu11J8euASg37uzoYu8pJ-NvmSgyMOzobjEsqSWxI-mI8YyqxHP4aYr1DajZtTSoVHWdJ-F1T2e89X3nv7YBJ632wCc89y9nVHhUZgk6uqJE_KVhRL3tIKs9kp-ffgCeXf8anC29VBpVPQrYnn2G1fU95tSx_syT2r9qUP__7k5Uv0GMv_3fCqm9ZwkWvUWF0v4AwuB9lINlux6B2PaCQjB130MCtNmCpLMDRLixcAS88ALDQe7Cw1XtIYQ3K5kIG-t3yOto_kfhZYUJwmRhzHRkGMx4otWM8WDhzGXgDEokHrCFztZqRDpTwAAYTBYA08wCweBLicMnipfFiMgzSKVH_EsOhi0NDYWLkDeEDVCqRDUQvQNXEbiCORJzQZIUmoFAFxZAD5gAAApcMMFTXhKB-57OwkkfokN9YRTEhiKTBPsk88S5psFDkGjVA2SqFoRr6y_FA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/14']=data;}

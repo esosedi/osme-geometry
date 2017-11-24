@@ -1,0 +1,7 @@
+var data = {
+"_ring":191337,
+"_params":".sd-191337-en",
+"regions":{"2103120":{"level":2,"name":"Brunei","index":0,"property":{"openStreetMapId":2103120,"iso3166":"BN"}}},
+"paths":{"2103120":[[1]]},"ways":{"1":"qBc9ANqpzAaV_UwADy_cBsxDKl1wQPZXQT0oV8I_MFIrQPNM3z9XSuc9rEi-PmVEQz5QPvA_ezxMTUA-wlSkQBBZADqxXxw8JmVaOtluEDQJcTY0p3tRLtaCiSKlgfIeT4XLHPaLxhV3jjUASY8AACyQfyB2lIo1KKHgWVSrA20Dsix2us2qltDbp6w15nW58-VvuhXnurjy6US40-YSudHnybq05lm77OdQvOfpvbpf6rS4vekPu2_nlbyQ6B281efxvLbp_r3r6K2-4Ok6vkTqocDT7V7D1uxsxB_uI8Va7fPGy-5Kxxbucsji7mfJ1-8ryQjvecpN8DjLd_sh6f__bPcL_qL4kf7__5b5T_n19JL4dfKL-fL0Yfi69LLy_Ow59InnWu7a48XsYNvS7nDY5-h_1aDlRtGd5l3PWuQ7zYnlu8Vg4VHH89cVxirUlcdrzofB_MK2tm29RrRps_ewkq4yr-yxs6kZsO6oi7K9pY-zBKXDtkqihLWqoFq2J5wKtuOYI7gjkwq535FluAyRN7pNj7a5lY7Fus6K6rmxgjO7u3S9ugtpXL2PZq_Blmb8xeJnt8kTZzHLxmHlyulfxslFXYvKNlaeycRQPMdAPrm54zwEusk8JLuBQx3EgEHLxPY0Ib4oLv63RieitM0lFrVwJhO4wiMbuJAfX7TqHX60UxygsCUKEKKaBLyZtQCMkAAAcIZsAxWKgwa5igYKfYc-C89_yw6LfjoSp3tPEzZ4TxbIeF8YbXfYGM91bBq1dgoe-XUgI-JuFCJ-az0jcGkXNaxgZjf3YPo6FF_YP8VfmUPnXcxDKl0="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BN']=data;}

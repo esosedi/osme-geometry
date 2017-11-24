@@ -1,0 +1,7 @@
+var data = {
+"_ring":871,
+"_params":".sd-871-en",
+"regions":{"383892":{"level":4,"name":"Lahij Governorate","index":0,"property":{"openStreetMapId":383892,"iso3166":"YE-LA"}}},
+"paths":{"383892":[[1]]},"ways":{"1":"xSjAAJMcmALpedYAFIO0AlANN3tcDwt5Jw0vc0oGQGmNBfZkEQdWYB0EtlsQBJZYUgbeUxoE2VijBG9b-QepWwwLp1atAdlHvwEpQDMAoz0AAD86WQIcNr8IITWFC_YsHREKJWERdCBgE5IePBWtGN4WjxYoFxASJBuKClwYQQZnEhoCVBQAANc-BRFrQRwZllSgF45T6CAYWvslm1yxLOtb7i6iWJ8y0FbvOFRTPT6WVtNAqljiP1xeiUHhVw1H9VaISAlXTkx0WVFNqmJfTYpjRU4CYq1Pr2H0VuJpaFMfa_ZYnm9DWE5wBVrBcFBYIXMcWY9x21qxbdxa2mx_Zctq7mdhbNFrP26UbE5w028MdoBwSHxobl-DCXCdhY1uO4VYbf6Go2yNhfFphYfcaYiHSWxPimpvqolBd6GKxHs9kE177pQJcsiXDW8lmmVvmJsGcSGbBXX9ndB2fp6JeyijLHzdo6eBXa5iiHiqCo8aqaWQeKfvkKWoVpOHrMSSiKwvlKOpJJdtqNmalqy9pq2xMarfrTCwuq3GtPHFnLBZx_-07sSstszForoWyF28gsoAwi7T6sx_3m3ZhuKM2jrl1dyc5kjcGe6f3aHvr94N8oTeyPL34nnxd-Qa8Enqp_YE7___Ufsa_e79QPb__6voIv9m5uH_3-SG_o3mofiB5NX1kOFE9fDeQfUG2Zb3TNad-r_UK_q11Jb3wtIg9GDT5O370avsGM0s62zKWe0eyNbsL8TO7lLCBey6wsfpOMAK42a5cOTEt_zl37cm6PS6Muofu1DrTbqT7PC6Ue4kuSDwDLk48vK2rfJztgzxrqpD7MSfRuX5mtvjdpWn6liQl-6Rj53xtIaf7xuA_-WCapji1l3N3BpW2tfvUmbUXU4u1H9IKNUpQznX4zw716s87c8gO4fLLTvexZs5VsCWNyq_LTKmtY0uMZItLFyJsym6hQAhl4A8D-h5"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/LA']=data;}

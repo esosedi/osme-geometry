@@ -1,0 +1,7 @@
+var data = {
+"_ring":191348,
+"_params":"-191348-en",
+"regions":{"2185386":{"level":4,"name":"United States Minor Outlying Islands","index":0,"property":{"openStreetMapId":2185386,"iso3166":"UM"}}},
+"paths":{"2185386":[[1],[2],[3],[4],[5],[6]]},"ways":{"1":"Sv4iAZ_V6gkb5ikBOzjyCZQbljtbPdoWj2YwA0SXAAASwyMPo-mrMVL94Fn__96H6u_MuarSZOBUp7D3ymj___w1MvBBET3NAADUn7UCrXLsGok8lBuWOw==","2":"edf__wYKePXNIAYA7EZ-9QsAAnFxDxo_8jE9Fxxi6AAglgAA2ckWFifurzv__8NskfxMoVzop8zVw5Hux5f5_8Fm__81O9PuuhewzQwDcKEAAGRxCwACcQ==","3":"qxEJAHzkdfXkiQ8AgSV89UkO1kR0LtIdZFoJBwqRAABAwpcPjuhjMTX-YF___5KT4-zTxP_KoOhOnYX9Omz__wo-HPAsGb_PHgRFpQAA9XOXDS5GSQ7WRA==","4":"KiT3_3hhc_bveP3_EtZ59gUAd21HDxU9kTGfFpJgQwF9kgAAisMoE1LrgTcw_yFk__-sly3uTsfmysPreZ0C_8dm__9WOCzu0BQszPwBGaEAAJZtBQB3bQ==","5":"t-b7AKuM4fXSHwMBsG7p9TZrZvg_Ow3pthgxyFgLgq1iAE9_AAAgVgUVPyohPlwLDGwAADudywhgyngk3Om4Rlv_IHb__1isFu2k1dvJQ_NCnP__8Guu-DZrZvg=","6":"1mlWAPcZU_Yr_lwAmrJa9o679vC0if__8Vfy_OApS-e_C6bEAABcmcgGO1XDGskxk0G7EBlxAAD9pPcB7tKlFofxhDhS_0Ff__8mpj_pj84vvsTvjrv28A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UM']=data;}

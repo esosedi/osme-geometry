@@ -1,0 +1,7 @@
+var data = {
+"_ring":2089,
+"_params":"-2089-en",
+"regions":{"2060183":{"level":4,"name":"Nuqat al Khams","index":0,"property":{"openStreetMapId":2060183,"iso3166":"LY-NQ"}}},
+"paths":{"2060183":[[1]]},"ways":{"1":"x17sAbdFrgANFfoB2I-_AI4YAABYGSEB7RoFBW4cSAfDIg8OeSMwD6kk8Q83JUIRUyYDEtMnRRRNKJcVuyxOHKIuYB6jMRMhITgGJHM7hiQSQYYkqUU1IzFIBCKSTQIgX1G_HVlT_RsmVzkYgFsUE4ti3gx-Yy0M6mTcC4BmLAsrazsKGnxcC7SGzQyviK0MKowuDaedvg1ln_8NiKHfDYKjHw7Dqa0MWKu9DFKtbQy0sm0MQ7b9C5y3jQxZuc0M2rpuDZi8fg0tvu8NqMFfDlnEkA8_xqAP1McREBHTQRCB2vEPVd8CEYHltBIy6OUTIe7HFW_4fh_H-jkfHf7OH___4B-S_t8hR_SCKhjyhioN8Ywr9u_pLlbwvDAS7bwxKut7NKjpTD0t51dGMOc9R9jnUkfe5jJI0OQBWETmWVj55rZWx-ezVhbq01LY6QdR-erQTyTrIU8F6txPOuuUTlDsBU_861JQpOZcWSTjX2Tw3qRrg9YQd33S63vSyuGHM8Uyjfm9yJd3vVea47uNm8a7cZ3_ul6eQbvunfm5q50uumieNrkwngy4cJ9Ns2enSbE9q7awJK7dr0SvL65yr0OsSLHhqtK2vanht7CpVbmNqbK4yqZsvKelnr1-okPFVZ9Hzh6c0Nz8m-vgvJyo4cKbW-YHnDXoYJt_6KGayOo0m97ryJnt7lmZ_PQbmIT3CpiH-vGW___LjFf-_4tV_neLs_5IipD-Koqq_ImJ_vuAiVD614mB-C-FDPlJhOT4eYNk90GB2vVBfnD0i3zh87t5bvJid-3w2nQK7Rh0Uuy-csnrnW9O67JpmunIZ3Po8GaU53RjheIBYJPfRF7-3ANbANpkWBnWx1PL0V5OGs9gTdLOnktkzX9KKMyVSW3KfUeoyZZG-MhoRNvGxkCJwes-qMD_OsG8-jg1ueE3vbZ8M6GxciVFpCkWNZb6EPCDWg4_gzgGKoAYBXhnsAGCQgAA1inwAHAbkwwsDI4YAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/NQ']=data;}

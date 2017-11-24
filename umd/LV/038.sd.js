@@ -1,0 +1,7 @@
+var data = {
+"_ring":1841,
+"_params":".sd-1841-en",
+"regions":{"1811625":{"level":6,"name":"Jaunjelgava Municipality","index":0,"property":{"openStreetMapId":1811625,"iso3166":"LV-038"}}},
+"paths":{"1811625":[[1]]},"ways":{"1":"BKhcA8kCfQHUMGADmsWGAdXtPECi6LNHDd9zTkfY41Cr0BFXSc8mWW3PE18Kzb5eO8gkYHPHiWLKwrVhScDAYr--12HHwOtlXL_6ZprBcWhJuc9sNLdkcuG_m3Kk0EZ6EMvJgaXKRYUTzOmHw8_civ7czpHj5GeYovNGoAP-RK___1C1U_xyujrtfMRx5XbOieHH0d3ZZdIAyujNcsSgzkTB7tDTvrXTg70u31u57OprsxXsmbOY8-K3LvZCtlz31LeC-Mi4LfcsuRz44bgK_1aq___5pMv9e6I0_hihOPt9nxz7RJ4t_E2ZNftalsH4FZbp7UCUt-wtgtfsR31V6VhxJOkNbmToEWxF6utrCu0uZiLxZ2SW8EJjMvHUXpP27lx695hb4fYdWRH6-1GT-U9JDftCRbT42j-W-Ec9XPZSP4b0Vz2x8TA3oO52NFDuMzP67v4x6uw3Lb3q4iyD5kox2-Q7MgziyDR94Msxsd6aNdDbHCj11xUl49RKIq7T_Bxk0iUYzdLsFtTRYxUu0v4UL9H3EvDQtBLrz9AOZs7PD6jNDg3LzC8JnMbEDFfCoApNvxQLXL0bDVa88gyuuswLw7jFBsC1iAbrrw8Fp6snA6-r2wLaqW8DFqjPBu-l-wYyopkJPJ4yCnmdhQyMnWEOv5QaFBCQrRJNgYIDboEAAKWCBw83RfALfEUpDQlDIAdSMG00uik8NfsqhDh4KT44BignO7IoZkU3JxVDEiBRoEwTg6OFDOOjlQToxQAADNCLH7_SuB-61XghRuDJH5DisCDF5HEf-ulRJqbwcCul8QAuu-5DPtXtPEA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/038']=data;}

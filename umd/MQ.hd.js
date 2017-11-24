@@ -1,0 +1,7 @@
+var data = {
+"_ring":191329,
+"_params":".hd-191329-en",
+"regions":{"1891495":{"level":4,"name":"Martinique","index":0,"property":{"openStreetMapId":1891495,"iso3166":"MQ"}}},
+"paths":{"1891495":[[1]]},"ways":{"1":"qgHZAJCRVvxOGOYAV0hj_FTrLpl_6meuK-pgsrfpqrVI6Q-43OgAuhfo_7yG5-a-iObRwdLlqsOc5H3GxONFyN3iBcpd4a_Mvt9Ez0LeadFs3NTTwtrS1QXZvdc115TZANWe2wrTR90v0bjeGc804JnM0eEGykzjxcd25KnFcOUjwtrmvr7354O8k-jgsvzqAHR4-cFX9_5xVH3_UVHO_y9O8v9dR___2kTy_y5D2v-uQJ__MT5H_7c70_6nOBr-bjZ4_Qk0rPx1MhX8HzAd-wQuI_rFHSjy_hqd8DAZgO9rF1LuhBXz7AIT9upkEY7pDg9Y52oNo-X7CwjkmQpg4qAIzN9jBwXeowVF2wAAotFyBgCnJg-chEQJVW4JCAtokgisZnQJ9WNeCn1heAvdXvoMtVtTDjdZeBM2UDYVdE0VF8xK3xuPRFwdtEJ-H0dAriAIP10iYD3rJBc7vyacORsolDh-KZc3cStMNlsujzQPO-4tVj3RLBM_DCyeQQorbGZBHTRpJRtQa7UZwGzMGPNwXRYndLsUo3c5E5x5fBKUe9UR9n6PEPeA6w_9gloPB4XcDhWHcQ7FiaEMPYwYC5SOigmTkFUILpPqBgqWiwWRmH0EvZtbAyieoQLNoPcBrqNkASKoowB2q0AAYq4TAAyzAAAvthIAsbhBADi8tAAbvz0B9sHsAZXGRQOTyUQE78svBUDONAYX0Z4HodarCv3YGgwc24cNnN1ZD5DgZBHD4hYThuV2FSXoARiB6pIaefHWLuv_-1T__-xY2v-wXI3_AGDR_pJlRP6eaKL9a2su_OdwxfrOdeX5iXjo-Dh7-_dzfe72vH_b9VmCqPTwhHTzRYcp8o2JxfDHi9rvoY6G7iCSvu3wk3PsppZU6y6Z"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MQ']=data;}

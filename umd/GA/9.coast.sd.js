@@ -1,0 +1,7 @@
+var data = {
+"_ring":1106,
+"_params":".sd-1106-en",
+"regions":{"1243582":{"level":4,"name":"Woleu-Ntem Province","index":0,"property":{"openStreetMapId":1243582,"iso3166":"GA-9"}}},
+"paths":{"1243582":[[1]]},"ways":{"1":"P3YDAGLxnACggSMAsQbLAKj1WOP69m_nAvYL6L32v-gU9d7oxvZf7Hv1SO1Q9zDu2Pat7-74e-8T-3bzDvoW9bP6cfY1-eb1MPhr9gz5WffO94n3lffI-Jb5Bfsu-Dz8Ovft-432O_2A9fD82fbx_ePzh_9b8f__Mu9G_hfuhv9z63v-uOln_7boQP5j5fj-deWf_xLi3P4T4FD_Cd65_ofeqf0t3ZP-INtD_UTbZvsf2kv74dkO-hvYE_p11ub3jdFN-NzPE_bmy7D09cxB9ErMofPSyKPzZMgK9gDFZfe8win21r6_9gC_lfWqvPr0trqu9d24v_THuGbzdraN88-zkPFArCHyOqvZ8ryol_JmqNzxbqez8iKmZ_Jrpb_w3aS98ZWiwvGOohnxEqEb8wygkfLpnaLzbZ_79LedEfaqmsH2aZkm9pyZhfcdmJ34hJSZ-DOTAfrFkKP5PZAg---NDvuKjdb7Goux-iSJevvLh376aYcX_DKGX_z1goX65YJj-RiBX_nSgHH2tYEO9pt8PfW3fBj03XoQ82J8-7A2cMSsDm6xqnhl_KhGYOylpVvXpLBWWaY5VIqkjU34o88c2G83DtRimQasa0ADJG6nAU9tEwFTVp8Df09cAT9MWgAhQwAA9SxZA60ujgdxLxwJwi1_DKUtmhBZMP0U9jAAGMIyViAdNCMkjTVDJJ80qCl3NSErJTYGKik3US6eOes1OTsPQk87iEcqOvQ18hb4KwANZy4oCh0sKAmkLvIHnC3pBjYvXQX6K8QCezMAAGk0cQNkOk8Emz0TB6RCuQcBTRwNg15LD3tekVq17F1Z_-4xWvX0SVrR-D1cqfteWyf9y1sn_UtmpP6Fa939jG___wx2MP0keGD6Fn3M-7iKnfpvmbv7Hpw9-pGet_oLpdf-361--5Wy2fz6uYP6Kr49-mTBs_fXw4z2UcyW9NDQ1vcI11T1Gtv19kjc5fQ33R_2Gd869w7ftvVL46j1WOM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/9']=data;}

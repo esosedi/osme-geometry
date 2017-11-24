@@ -1,0 +1,7 @@
+var data = {
+"_ring":191274,
+"_params":".sd-191274-en",
+"regions":{"447325":{"level":2,"name":"Madagascar","index":0,"property":{"openStreetMapId":447325,"iso3166":"MG"}}},
+"paths":{"447325":[[1]]},"ways":{"1":"bz12_ii3jwLltEz_2pcFA2YIcYBnB_F58weVdKcHkHCDBRNmLQHfWJQA71QAAGFI6QBiQzUCMUEEAwM-NQU1OU8GwyvwBxQk5Qn0IXEKCx-xC6Ucag-AG20SaRhZFCAY1hYaE_UYnRB4HJkPvCKTD4Qncw0uKUYOXio-EKgsTA7ML9wNuzEECn81zQW-PmkBf0E2AZVDAAAxR8YALUmPA1BLvwONTtYIm1DzCMhTYgv_VF4NvFWJELlXHBEsWVQT0VtPE5Jd6RWCX_0W-mBrGiFhsR65YrMfn2RSI3Bq5SmUbe0nOXEgKDpz0Ckpd9Akc3lLI_5_kiLZf_YdR4GqGHSDMBXVhYwUMYieEqeJDxO5jHoWy443F-iP6BibkFkb_5H6GceTihlxlCgW_JXKE8SYsxOsmvEWF5ssG6CgySAvoo8j76bdKLCp-Smpq7woda23KJqwgSoXssws7bK1MIKyljzNsgM-sbUQRDy3aklYt0hNnrbTUE25gVQwujRXKLqqW5S7QGASu9hkmLuIajq-WG-Gwwl91MQngyzGFobyyI2ILMt-ixzO45EO0KKTEdJJlL3TT5f82AKYSdsXm-7dSJlf4GOaneGRnAvkuaRj5lqmrejgqXDpqKxw6eWvGutksDDtj7J28OC31vHstW3zBbUS9YS1OffutMv4Hrbo-X24Vvqxu1r7pL5u-yjC9vyCx6X_Cc3__0_RX_9i1Lj9ctdD-I_bVPcp3ob1VeD78e7hIPFE42HwWecv7tnqa-sM60jpK-3t5kjtBeVI7xbhY_B12yr0_dPY9LDRXPYRzdT1f8gh-MHFbvqOwqr-tL___9u7IP9atvn637S2-rywHvYvr9nx4q6u7UGv6epTqRLr8qf87tilc_Dpn5nsHZxC6AebDeaDmuHhcJvA3YSa4NyPk-Lfyo5d3b-M8d1ziQfchYUb2z6E69kug3TXMoHS1YBwf8ohanvIMmEwwfFNBLfCOxeqMDTSp0QsB6RxKd6hdCPZnzkZM5dOEROTFAydjZMIMoFmCHGA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MG']=data;}

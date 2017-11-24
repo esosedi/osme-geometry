@@ -1,0 +1,7 @@
+var data = {
+"_ring":2515,
+"_params":".hd-2515-en",
+"regions":{"2793217":{"level":4,"name":"Bioko Sur Province","index":0,"property":{"openStreetMapId":2793217,"iso3166":"GQ-BS"}}},
+"paths":{"2793217":[[1]]},"ways":{"1":"0O0tAJNXfQDorTcAg6SKAP__nC8O_553tf7zeuv9bn5g_bJ_UvrBg9H2NoiM9F-JPvLpiRHv74uC63-OF-gpkYvl4JZc5CiZd-SDmhflg5z35euel-aWoX_nC6OR51-s5eWgrSPjHa8L4Sqwl-D1sRTerLMs2hy2NdfAtv_Qn7ffyzW4ZcanuLXG__8aw9z9f79z--S70flJuP734rWm9uGzc_XgsSr0ea-G8t6r9PBDqmnwD6eZ79ujrO7Zn1rtcJn86gmXC-o7lNjooJAp556MPOZqiV_lNYZj5AGDSONmf-rhMXyO4P14C98vdpbdyHV03fpwq9zFbQ_c9mgM28BhTtm_XTTYV1t11-9W59XuUkXU7VBf04VMONGDSAPP5j40ybE7DMd8NkHD4TLbwXow0sBFLVC_RCtLvkEj0rlzIBK42R7-tj4bXrSjF-SxPBUPsKETv67TED2snw38qAUMKqdrCi6lAwjRoc8G6Z-cBc2daARrm5sDoZnOApyXAQJClTQBWJLNAH-QZwAWjgAA6YgAANWGZwCngc0APn80AWZ9AQJ8ejQDFndoBFJ0AgYacQMItG03Cehr0Qq0aTgLm2ieC2FnBQwyZGsMBF_SDJtcnw01WWwOnlYGEANSOhETT24SlUyhE2RHbhTNRDwVokIKGAI8pBnJONcapzYLHLczPx05MUAfsi1AIbMqqCOUJ6klMiVDJ2kjdyofIEUtiB3fLi0cRzFLGhU0SRhJNyYWSzu6E0w_mxG0QXQQG0RgD4NIng1STfsLhlALC1VV2gkkWuMIi1wFCFphgAaOZKMFkGi2BJNwHQNidVAClnjeAZh8MAH_ftsAzoNbAAKHJADRiwAAOI4CAG2RGgBulVsAcJm9AHKdRAGmoMcBdaVRAnap7gKrrIoDR7LcBOK3fwZKuhoHfr0CCBrDZQnpx8IKHcvJC4bREw7u1ecP8NnKEVjeKRSN4cUVW-ZwGCrrYhv47Uwdku93Hi3zXCH79ekjyfjIJsr6Fin-_fos__-cLw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GQ/BS']=data;}

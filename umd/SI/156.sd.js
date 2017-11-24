@@ -1,0 +1,7 @@
+var data = {
+"_ring":1519,
+"_params":".sd-1519-en",
+"regions":{"1676394":{"level":8,"name":"Municipality of Dobrovnik","index":0,"property":{"openStreetMapId":1676394,"iso3166":"SI-156"}}},
+"paths":{"1676394":[[1]]},"ways":{"1":"3z7HArLG-ADCbsgCeyX6AEVmBA4MZ9wOE4QAAB1_NxIKhakPEo0NF7qMLhoGnV4ZWqkTIAS1QSXnuU0jxb6BI87LOyg-zDwqa9LzKYHRjy6h1NgyEeDBMWjgcDRJ3zg3rtz0OTPdvzxX3sU9wugyPbro00H-5zhCWOZfSPDodkpS6ihP_uypUKPwRlE79KRTn_cFV___WWOw_CNicfYyYqnzBWdi8Dxpou1ubS7snnH46C51YudHetbpVYEC6ZCIaefDi1_l64si4E-Oq9UpjujOMYyezbqMws7Lj-HODZM60FqWFdDRmMzNkZqsyZmkXMayp9TEA6t_v_2vUr7Ws56597mHt76-B7VCvgy067-vq9jBQKrKxrarz8koq4rKLajPyWiji93HoffgHaJC5E-jkeZhotTtd6TB70ijfP8AodL-x6D__6Kau_5Lmgr6wpFQ-ZSPA_hWjd_4loxW93WN2_VHiGDuPYk-6H5pLep9aPruZV61-9lc4PYqW-f07VWN9JtVs_aWU3Hw0VOn7ORUGOq0UgXnkFKV5KlKGNnNSbnWUEHIy79DFcj6RWfGRkPvwZpEtcBFRofByUcrwQ5N5rxSSZe4mUrCtr5HUrIyO-qnnzFynu4ltqmlEEyVahCnlDsStZKrDRCTzgkUkgAAi4tDASWJRAUThlcHb4EjBkd64AiIdfcGiHRPBVZx7gdebJ0HGGmrCpBlFA-sYsYPU2D6EhRccRInWkcTUFgkGL5a9htJW8cd71glIEVYoyG6VOAl4FSHJ4VRmyvfTxEty02eLydRRUWLNixHOzdjSWo1plOLJ_RU-SacUyIlV2DEFElleA9FZgQO"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/156']=data;}

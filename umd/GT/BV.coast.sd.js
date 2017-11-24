@@ -1,0 +1,7 @@
+var data = {
+"_ring":446,
+"_params":".sd-446-en",
+"regions":{"214712":{"level":4,"name":"Baja Verapaz Department","index":0,"property":{"openStreetMapId":214712,"iso3166":"GT-BV"}}},
+"paths":{"214712":[[1]]},"ways":{"1":"wvHiADBdlvp7XukAXjSk-s4CJXU_BSl1DwjNcxwN0XI3EGVzPBQbcXgYUHFiGdRt3BtHbV8b0GsFGKBrvxUmat0PSmkCClVp3AcmZ1sHHGCOBZdf_AVQXnoIR11xCCxc5AluXE0L01nRDwlZeQp6UhMKh1CZB5ZP2gndTA4BnkWUAnxFdQIRRAAA0kEIAbk_HAOMPiMAcz0qBRQ4yAKWNmkGSzRIEbs2khlONoAcizKOH64w0SL4MJkndS-lLB0vZjD6LT4yTivYNgEqn0TCKr9FFyx0R3UryUqwKxh0qhCGizsJ86nqADXcAAB52o0Bot3rBHHaNAfm0vwI_NPnDI3SKw7G0_wPT86UFL7JZRXCylEXvsmLGFrLuRl_yZ0bQMuTHQvJnSPvygEoUMq2Kv7Nny4ny_wuGcsMMdHNljEsyhg1vcpaOFnGzjkVxjg76cpNPRnP0j03zGc_wc0UQw_IukaiyWFLoNBJT1bVnVA32cxQF9z4UBHe4FK_4L9SbuPHVL3ohFW96uFXOe_AWfTzWlmK9JBaZfl5Wwz6I14X-Olj_viCZ1X3u20h-bNuOPeScvP0XHPP8nZy7_CccqroXXyL3-yBwNbKhZfW7YYJ2aeH49_Lh_Tgzos64yeOZvdykd_45pAC_p6R__9iksH-55R688SdmPIep_rpLrV_6fS4yOzuuwPrVsFz7MzIJ-veyrHrjdKL6UvU0Owm2cnuneGc87fs4vVI7rXz4PNs8bf1Zefk9ybhC_iSzZb0dKOX5vaqHvC4pePyeKLx-sqTw_wdiHT_54L__5qAr_6Vf37zfntK7pl75OFOdZTfUHOT3MFsoNfjaDHWS2b-0DtpQcymY1_CXF2bw6VdSsI8TbitRBpoizYXe4pxEbyKwQynjiQGRI7oA5yLPQVthk0B-YG8AuR9KQFCexsDYnjOAiV1"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GT/BV']=data;}

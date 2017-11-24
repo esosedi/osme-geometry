@@ -1,0 +1,7 @@
+var data = {
+"_ring":191291,
+"_params":"-191291-en",
+"regions":{"550727":{"level":2,"name":"Grenada","index":0,"property":{"openStreetMapId":550727,"iso3166":"GD"}}},
+"paths":{"550727":[[1],[2]]},"ways":{"1":"GOm2AEv4UPzasLoAKgdU_FwS904ICj5GdxKCRjYTsD8AAqA-KQViOQAALzTaDa44Cg9kMrwU8i-3BmAswA4lKlcJ0yTGD54gcRCbFh0MaBbSC8USPw8tDe8PAAAxFdsFZhhwFe0gkyFyIEglYSPYJnUmLSKdI38rdihdOJQuyj2NO_U_fjo7SFs9kkNHQ6xDuj7pO0BJPT30Tpc5fFn1P3xkqjGKZTc18mghNJ5rGjsAcNo6KnBiPi1-fkMVfixIz4omP8abE0suoghMIan0VcG4HlrkxC5kzMq4Y5DS6mzi2N59P-Vshqjn4Y0X7seR7e_emv__7rSX_wC9nfWgy6v1kdav-n_i1Pfm9gT0Tvwo7Fz2RuSS9SjerPoW1lr749Lp_63Lzvyfu___Wrnd-92YHPboj7v4iI7H_lWLffxnjpb4zI096rSIWORBeqPfo3Y55rFvP-GmacPm4GKQ5gpdBe09Wk7pelxc5MJaeODiUIXf3U5p4xJKu92bTCXZHUZw2y5FGNOLQO_YkEBA0-k6O9ZFOkDRrzZ40WE3V8qFNEDL3jcixPg0RMT7M-y_PDPaxuEtF8akLcO7-Cd2vr4o67eiJpy2fSmRsIkkdbMIIUSsrCXVpfEfy6YqIFKjARtQotokvp0cIB2bNCBFlkoY6pjlHIaU_B5xjL8bF4ilHiF7Yh1ceIgZNHqKGR2CaBYjhiAU-oNFGvt0th-PdQodN3MKHXNsFRyucUIR0XuxBoN36RlybeEYIWeeHZVhvxZgZJAWqGrODLlqlRFIZCwPnWErFRhfRhWLWa4dlFBWFUFSZBL5Tg==","2":"ysC9AECWVfwxMb8Aks5W_M41_cKyPKW3ITbOprE8CI9VL-Bx2BpIXzUjTDzWIT0luhETDuQB0w0AAAAA2yALCCowuiGNMGsvhj8uNjNTDCu4TS8ZVlHbKtpJxihISUkaHVhzBT50pQilZ_ELgmI5OShsqUbdc9JEvn0agJOOn5JCpSWQCLCynXHc0J6T8De9__9Cxr32Msqs9Ozbi-sD433Nwt-TsP__u6oK986WCu8rij73N4L73XhXBtmzPCrfsjtjzs41_cI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GD']=data;}

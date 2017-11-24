@@ -1,0 +1,7 @@
+var data = {
+"_ring":1409,
+"_params":".sd-1409-en",
+"regions":{"1675828":{"level":8,"name":"Municipality of Se\u017eana","index":0,"property":{"openStreetMapId":1675828,"iso3166":"SI-111"}}},
+"paths":{"1675828":[[1]]},"ways":{"1":"GG-4AvYr0QDjBrsCgqDVAHkDWNEDAH3J4QJPxwAAssJtBN-4CQKxs7ABPa4UBASo4wLdplEFAaIAFuOOcxeijrMk-IKGLMZ_HzsBeLFE6m1vTc5ruFGjbAZV62-jWotu9GIqbkxufmcwe99Z1oTQVPiUKlCMmoVLoaAtQ7ahGTqAoyA4zaQ6Mm-nNjLWrFgviavbIIOvuhsTsoEa5LHpFxm0HhZEtYYZQrwHE0G_xQwoyQAAJM3hAqvRkwzJz6gT2NE6FKLTTRbUz2YXq88IG-XN-R27z4UgDdImH5TXTx701rYaFttSGM_e0xik30MYb-YKHKvbix-S2HwwjtwDNeXdl0AY3X9AEt1dQQXejkGS3jZEj92VRLTfe0Wj5T1OoeW7UIHnzFDI4PxTTeaLXLXkoGeU5XxosOUnbWjmqm426G9vHuy2bnXuam8274lwvO1xca_uJ3KD62V1durMdIzpTnXc68N4KewZfCHtL34f7jt-8--JhILx3YZS-haK2f3QkKr6npFS-xmVPPbNlQP3dJiA9l6dUPjsnfn1Ip-m9qOgk_UOoTX1aaQB8p-iO_Fao0n6D6n__wivCf39rwz9fbET9da5te_2vtnst79Y6o_BmOjfxMjmdsNp41fGlOPnycbhi8sc4mDMWd2H1KPedNrA2vDa89ra31LXyeH01n7jptKS5Q7S3uoL0ODtuM6C8nbIpfjnxET6VcH__xC7_ftXuP38jbVl-zCv_vxDrSX8_6uO_LWn9PbJpIr1yaJI896fIvO9ng3xHZ-371ed_u5EnbTsUpr_6UOZR-ZhlgXj_5Zf3oCYgdw7mgbcMZqH2uqRq9yFhi_pt3um5U90EOF_bELq92bM7I1iyPBFYXHtBF4N6sBcHuecUGHgoEqG2zhHg9pbQkzbXj532g44etQyNErFyzCuzgou_9KpKw_ckST92n4gTtygG0TbuRGI1hkMptYhBGTSeQNY0Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/111']=data;}

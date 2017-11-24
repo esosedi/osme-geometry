@@ -1,0 +1,7 @@
+var data = {
+"_ring":619,
+"_params":".sd-619-en",
+"regions":{"254093":{"level":8,"name":"Can\u00f3vanas, Puerto Rico","index":0,"property":{"openStreetMapId":254093,"iso3166":"PR-029"}}},
+"paths":{"254093":[[1],[2]]},"ways":{"1":"sSsYAbUmEvzOxhgBGJMS_K5LhwJHTeAINFBiDBBR1Q-PUIMTk00wFOZNlxe1UDwZIlMWFspUOhubWYwZvVzeHKRlBxzSbIcmDHCzMQpvCzZ9cV45i3UKOFx0mzEeeAkxpXiRL_l4myfRdmQo9HTALaBzci1Kcv8pJXNUJ2t5OiIoeYAZqnsaGTeFrB24iCopEYieMzCJVjpHiVdaaIpLZGCS04RtleGLGZk4j8qfMJC1piKGm62SXIGuB00ysX9DXLhhODC9_zZWzbM2Ve3lQJrm5UBO7wtG__8uWNn_jlt16c2D5ue7hCDcDYMB23KBjNzze7_blXo72X5_rdObhQbTpIu21a6SutK7mW3RVZkx0pGVvM8xlHHO3ZDUymuWMrz9lJ64lZufs26V97EGlT6vvJydrA-g3qqup5OlvLOonpu4L5lAv5OU88AOkVrEwI-byLuRic6ojujYJIxK2EeKa9NshIbUgYIw2qqAOOn4gZHpC4Xa5amFI-7jfbfzIH6b-2F8___seef_plsm7blYR-0OVEPquEvQ7bhLK-8PR3fxL0M3720-PfNTPD3zRDwV8G0-2uy-PcXqCz8g5EZDENw_QzfYh0Di0s08ltCkOsPSajzm1cs7_NlnLyndOS6_2XIr0tZ_KqLQZCb3zbEnQskEJY7HKyTxvwohfbW3JSiccQNflikAho0AAMqGSwNScf0O_khAErRE8hsBQWIe4kE3MNdUgzPhU0o1iUKqKp4k7iiNGOcpZhTOKy4TrS6kFjE3FxUDPUEJ7EZMAAxJAABBS_wBrkuHAg==","2":"lWAYAUcyEvyNchgBH_ES_G23_____xiTXPDDh0LXw4CFKgdjPQoEWgAAllO-CoNHe1VQMGpOfBWycQAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/029']=data;}

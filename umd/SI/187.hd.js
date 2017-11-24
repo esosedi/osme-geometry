@@ -1,0 +1,7 @@
+var data = {
+"_ring":1509,
+"_params":".hd-1509-en",
+"regions":{"1676366":{"level":8,"name":"Velika Polana","index":0,"property":{"openStreetMapId":1676366,"iso3166":"SI-187"}}},
+"paths":{"1676366":[[1]]},"ways":{"1":"O1nGAuQL-QAGG8cCKkT6ACamPQjPr2cOXLI7Cxm1MQwkuHAMt7qjDTa-OBARwZERi8a9EFvKBhK5xxkWU9GUG1bVOxh017oVpthwFQHgxxHR4K4R4epEFg3lziL__5oqLu_iTufhMmoA5mJrf8pbiizpupti85iU9fN4lGT1CZUF8zSa9PLBm2TuRp3s3Dqk6detp1DScqxLzG6wDcjGs8m9Gr7ru7i_KrfDwp6qDM-VoxbUMJ_c17OSYuU0iqjyFH9X_VZ8wP6OexX-F3b__3VoevyHbED0enHGzB9iwMiZYQ3I9l6Ix0ZfAsVUXlrDxV_6wttgUsMuYQDD72DywSxhgcH7Yj7BXmFnwDldCb08Xry8Rl-Yu3dfRbrAXqe40F7mtwRg0bRJXbOx_Fm4sVVZPrGiWQmv31fDrbJWeaqAViGptVcWpjBXLqQbU3CgJVIsoHxQCKE1Tueg50w_oW9Jd6PrRo6jzESOohFDyKD6QZ-e4UHKnZZCk5vgQdeWLjk3j_81644dNVaO-zRojV01boyPMj6L_jA9iawwhIMeMBWDEi7xg5Asu4OYLEiBISx_gG8qP3-oKId-2yb6fMQi4neZIMB3DSIKczQiFG8CIzRqFSBYZUscimP5GYRhlRikX4MYql44GaZd-hioXKQXpFpQFepY-hPvVQIVPlOmE65SrRB5UkkQsFF_EIZQyhFjTycRb00HEWBJ-w8KRgIRt0LdEKdBeA51PxUN3D4vDLg9uAuZPcYJuz8ZBZ5DSATjQ_IBf0NjARpDAADCQEsASj-SAqY9YwOWOhgF2zfQAtAwpwMdMF4G9C5cCe8rZQvTKHILdScBCiAnVQfFJX8FxyO-BBoi-AVPHd0IZBteDGoTOA3PErIPnRIcEaARQBF5EJ0Pgw_CDBwMkQz6CVUPCwbLEeoDiBLMAqcSPAHxEWcAmBIAALke5AxyIHQQNCynHV0u9BzNMaYgeVTeBsxVkgUmVuwCHFikA6tVVgsMX0YOHGXOD49lyA-XaNAHw431EUePEhFokKUOtJOLDlCUJA9nlfURo5wPEC6eIg-cnsIN8Z36C4meTQpan6EJJqY9CA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/187']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":124,
+"_params":"-124-en",
+"regions":{"58993":{"level":6,"name":"Telene\u0219ti District","index":0,"property":{"openStreetMapId":58993,"iso3166":"MD-TE"}}},
+"paths":{"58993":[[1]]},"ways":{"1":"wi_TAg1prQEIbdgCWwK2AfPlidgX49PWD9sS1K3P0c-ayT3O58YO1KPEi9odv1jlp8L952u-zevuvDnukMGg7bnBXO8tv2T_hK8--DeumfyMqbb7TKnx-zmixPrngVn5Wn5k-NF4__9TaNTkc2Mc3Jpf-dWPYgvUbGMW08heMM5PW7DQsFOXx1BOoMIGTjzCuU5iwQlLg7wsSvu6XUFdvSY_KLkzPQO6YDnktzszRLdwLp21PyiOuRkmcbwRHxO4vx1ZtoUe8LIUHBCuzhpzoRIaaJvFGa6aGRkwlCkbxpGbHJaQnxUuj_8Uw41wFjmM2xTeiv4PA4pwCO-QAABLjxIH64jzCYaF9wdUgiYJ84B0CgKA5Anvfn0MjH7uDJR8yAwWe_0O2np1DlN3AxG2dlYSqHbSEm1yyRNKcJEUvG8bE3Zv5BMRbSUVOG2hFS5r5xZca00YmWV7E6lkMwtPYl0PRF5oEH5bSBEkW00RfVpIEvRYfwwOVoUOYFRgEFtTgBEpUiQS1U-zESRO0hEyTXoT0kvoE8FKkBUTSfQVU0g3FmJDBhbBQgkWfD_oFoQ-TRjXPekaATsFHL01AR0OMxwe1DBmIfctsR01LnYdMi2sHkQp6h5HH58mAByMJs8YMCZ8FhMlOhb1IckWISHQE8MhfBNuIgISKCgMEGQqtQoZLjUFTkbXBRtmCgTtZwAAm2rXAFxvqQFBe24Cq4CVA5WCLwRng6oEn35iDDx8HAz-esMPjXkJEMJ57BDmevcQD3lUE7J3ARYgdnQY7nbiGFh2HRqJclcf6Hy4Ivh90iKygUIhcIP9IViE0iITg5Qk74I2LHWB-CyWgQAvKIIpMM6CjDB9gkFAGIIVQXGC8UFpgpBElXvoW9d601wAe8Vd2HkJYn-XNGjKotZoT6euaF-m2m_noVJx0542dt6efHhMrCF0CreMcsS373JYu6pyqrxkcQjAR3ETwL5yvMGCcrzBPnSLwuZ0T8Hxdk_BVHhP3gpzJePJccLjlXPd5H56wOWHglfjvYcS4rqJx-LDjQTlkJXs52CVYuiDk9roo5Op_wOlnffzror-dbP__yy0RPtsud34srxc-Ga-W_Lvx6jva81j7vrMAOy60PPlidg="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/TE']=data;}

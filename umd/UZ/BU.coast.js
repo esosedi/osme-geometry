@@ -1,0 +1,7 @@
+var data = {
+"_ring":1350,
+"_params":"-1350-en",
+"regions":{"1670973":{"level":4,"name":"Bukhara Province","index":0,"property":{"openStreetMapId":1670973,"iso3166":"UZ-BU"}}},
+"paths":{"1670973":[[1]]},"ways":{"1":"ukhSAvoUtQOPwHgCYL3lA238gAH__wIf6fTOJIDxNieq7fYqGOsbL_DnQzVQ5fs3GN6YO4zVBj470wI_YNOMQP_TU0EU1N9EjtJbSrjOs1NpyV9mi72Ac8C6LncAuSl4hba-eMuy6nfwstN9VbNlgqSzW4P6x7OM0MmBjsLLUZKBy9aTSsi8lpm76ZZwuAizQbles8LAy7QRwca1B8J-viTCEsXDwgXJP8f7yr7KO8wNywPNsMq1zvrFEdAUtcrTP7PG1YuyKNf6sfHY-a_t5-6uO_J5s___ba15_q2nRP5poiX_MKHV_cKgSvWFlqfyg5NO7xCPAe4RjaHtlY1A6DeOseWnjtDhTZAR3pSQS9ybkHjaXJCt2AaQ2df5jnPWBo6Q1aiLANQPiB7XSYb41-SBT9hEf9bYx3oZ2Ex6Ptfmea7VlXnO0rF4R9I5d5HQ03Iu0G5x4s-_anrFe2aqwWliQcFCWunGl0-x0HtPkNLOUCPYi0qo4JQ6SOiiOOjo-DJR6Wsy0Og6Ly3kly3B4OQou97dKEbdtSgS3TEhwNSPH-HTfB7W06cccNT5GbzWGBeQ2A0WEtivCpu4AADdrvEDKKv-A3OqfwNpqGgBw6T5AASj8AA0oT0BzJ72AVKdIgY0mI4JN5N9EmqHfxRChJYYpn4RGuZ7HRzpeE0gKHinIKR2wiJMdasoF29VLJVrHjGvZJc1FF3zOlhVrj_7TRFMLDwoVBUw_WUyF9pnIhUFao8TcmzvEl5tDBONbocSg3FNEgJ12g8ZduYPHXgXEYt8PRE_fpMQUoBVEMKDTw-rhTQP9obODvuH4A6DiX4PNYtzD3ONIg46jyAMAJHiCt2Rxgp0lKIL65YmDG6XEwxPmMcJt5l8ByecMAUZnf4CkJ6zAH-fAABArOoK07TgEiy7QhS9vU0UqL8fE1nQwgPD2D4WMuEAEG38gAE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/BU']=data;}

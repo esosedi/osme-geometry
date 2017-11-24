@@ -1,0 +1,7 @@
+var data = {
+"_ring":1084,
+"_params":"-1084-en",
+"regions":{"962357":{"level":4,"name":"Cayo District","index":0,"property":{"openStreetMapId":962357,"iso3166":"BZ-CY"}}},
+"paths":{"962357":[[1]]},"ways":{"1":"dVf6AC4mr_oX-woBmRG5-nFBQKXuP5yiu0A-nPs9RZecOqaWEzq_kDI1TZIRM5WXlTCzk1Ew4o5GLp-Lyiv2hnspPIMgKVR9CyWzcyMhBW1hIiNpEiAgYFIdtVwJGuJerhmQVUIYnFKjFxtO3RXpSdcWzkZkGiBABBc-PFURSDAoEYgqFxBoJS4QCh_IDQ8RrArGC60GwgkAAAAAyBWEAlgXhAJjGywD6C0kBcIuCAW8MrAFoDcEBgo6dAYDUzAJzFMUCW1VaAk5Z-sKfpHeDM2Yvg2b1dgNP9u5Fuzc0xlr3QIdIuA_JLTkOS9j5M0yQuMkNiHhxDgh4fI7TuJJP5_ivkNw4wBHzeMyTwXl0Vgp5KNcHuRuZCjli2xJ541xI-nHc7jrNnXw7IR3H-2_eQnsKn04602IFOwkj_7q4ZLz6viXlOzmnCHrl6Et68Kt5eyrtprwXLtS8iW-O_JQw_Pzx8WK9K3JDPMEzQj21dBB92HTKvdP2MP1u9xZ95jjKfbF54z8xefe_qjp__-J7eL_UPGn2ebzhtVj9fbLS_RNyRX2b8dj9QDDw_QPwD_3972G-zq6zv5Xt___n7SB_j6yn_vdrzn7o6zw-EKqwfVjqMH1-qW58VykY-rVolDmE6Ho5sqde-tfmcHvhZhu9GyWNfjDk8_3BpMJ8x6SpvBljw_vc4zH6_mHFetPhQDoCoMg5HmCjt63gN7cfH143L98mtZPes_VkXZazthzCtDgbwrQO24nzplq2M_OaSXPe2d4y-pmZ8WNZbfDrmOCxHJgdc1eXw_Nk14UypxdQL1IW8y1VVhOtO1Uoq9CUvWqBk-pqkVI6KIDRGmicUFApQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BZ/CY']=data;}

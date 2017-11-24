@@ -1,0 +1,7 @@
+var data = {
+"_ring":992,
+"_params":".sd-992-en",
+"regions":{"537701":{"level":4,"name":"Tehran Province","index":0,"property":{"openStreetMapId":537701,"iso3166":"IR-07"}}},
+"paths":{"537701":[[1]]},"ways":{"1":"uigUAnbrBgM5WyYCUkwqA_ej_QCmpVcDcrNkCrG3KxAvvjcWHL8_GfC7FxxPvNkdTrokINi8pyAQwCweQ8TLHHXc-iPL6RkqIOYqM-_fKDeA4B9A1vOrPzb42EBs_HY_pv6xQP__vVfn-69bRPr_ZQ_yLm-l6YZ0HOFNd1rW2XjZzet8r8v5fErFtH9hxUaCJMH1hBu_3oiPvwaXxMFCmM3BjJktxrqaAM-snyjciqT65IapBOXSqm3pUq2q696vvet2svHtuLMN7p23yelMup_l4sB94zrCuuNXy2Pd_dEe2a_UJ9n-1ezUANpB1c3lddcS53_XY-jn2_Dq-9uS7drZ7e6v1_fuLM9k9B_NYfh1xIr4JqTC_1KZ___Jktb-lpCU_bKH9PV_hbT0VYPD9Np-qu99envuc3ot7T948OulcTnom3Hs5jVtdOT3auvhGWQh1aJhz8q4YybIsmWawRNwvrHub5Osnm15p7FxUJ5VfI-XS3xFlq2COZLaiL6HBYuvh2WRpoNPkROBGY_ZfwKPR30hke97FpGlen2X53cQk3J1aX0Edl19u3T9eI5zHm6LcuhrUHFAY4hx-F7ucqRaCnPCSy17MUP7fdU8B4LgPFKDbjbJhE80Iob8Lz-GlCvEg2sp04P_GSB7ohXveV0EWXoAACV5XAgmcVUK5muHEgNgAh8KVDQlaU0mJRxMfC1wRSU8CjwrPmY50j3qMrJFxCWIR4ggm0kyHwNJGxa5SpIPtElEAY5HTQF2RwAAn2HBBN1jBAbMbmsIo3mGCeJ7yArGiI0K04o4CSuRzwdzmcUD7aFTAvej_QA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/07']=data;}

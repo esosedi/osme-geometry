@@ -1,0 +1,7 @@
+var data = {
+"_ring":991,
+"_params":"-991-en",
+"regions":{"537693":{"level":4,"name":"Sistan and Baluchestan Province","index":0,"property":{"openStreetMapId":537693,"iso3166":"IR-13"}}},
+"paths":{"537693":[[1]]},"ways":{"1":"0zaAAW2mqgM7HIIBkSOsA0NRlorQQWWQHEbBlyU-ppXhQL2gWDefoQ9CTrDVT56uXEaqt2VfoMeRUeTBdF1gy3BWEc6PQDS8okDaxQ5QT8yzSSXNyFKp1jFBj8mVRjnTRkGy1ChDvM1YM5zBjjSh1S0vUsvuMWHZ7SkT0pcnyth7McfjYSe63qImJOaRKD_xIzpi-6cpM_RNL___5iFr694c_6R1A5WqniA_llkqAnyxUO1-Q1HjmZRjbphwZkxYUnmTV7loeFIlZICN_FZumEZVCoyNU9R5VR5zdSwRHIGXCG6YAAApmXADyz7iDq0x4w19GdoSjCIKGKETHxK5KnsgklJOIFA8MyZiRM8lETTaLiA51ywfJcwxyjx6NQY5uS2gUVE5i0j5Oq9QBTL7WIVEi1BKNuNbqDHFbbRF3GDDOxRyx0WBalJFKHSGUXV1o1b-XRNOXVNkXORTYmPGYP5qwTObacJN6G8-RvBuI1KKefpRGYBLKK6KiCX1kTwTkI0AAIuTNhNGjJ8mRoM-KOuDVjZnlfQ0i5mlKCmaBzM_rOw6eMxULLTFBjyZ12kry9CnNvHbtThd0dc7J99fPJjDiD32x81Nw_qhQuv4_CH__6U5-_SqSNb46lvv84lK2tfRTATjHFG27ANlyMT2TnjBTz4OmGU2TqImTB6o1klio1xOzKqCTTSo-VRSkzE6W4GEQSx6y2DCatVbI2Y0b5ZuXms-cD90GGUvcn1rjHYpZZx512a4hEN3vIPdZm6IEmmIk4Z5hZWxcgud6XkbpTaOs5bVkcWKOY4wmIqlGZdmmseVp51hn8WXyZiVkwChC4v2mLaMVaMwhESeJHhDsLZxc6eHdDG8fXyPvQ90oMONbW6wsmb8tJ5v-ajqbciZM1CUmmhRaog="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/13']=data;}

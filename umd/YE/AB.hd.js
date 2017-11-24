@@ -1,0 +1,7 @@
+var data = {
+"_ring":877,
+"_params":".hd-877-en",
+"regions":{"383898":{"level":4,"name":"Abyan Governorate","index":0,"property":{"openStreetMapId":383898,"iso3166":"YE-AB"}}},
+"paths":{"383898":[[1]]},"ways":{"1":"X7XDAK6mrwJbetoARfvPAnJfAf81V0rpWUJgw71BnKBjQxR4bTlCVmEPgje2B8syAADlG5sT_wPGE64C6xmsAicf3ADnJAAAYikxAH0sOgMRNJMHfECpDKhVpg_AVkIQH1wbGNBk2xmTZTMX8WfKFZZqvRP-b8UNsHQED1960hFifygVDoi-GOuKXBmli90ZGItiGmiLyRo1jKwad41jGvaNOBr3jewZaI3QGSmNlRmGjVQZPo0tGY6NjBhEjnAY0o7xF1GP9Rbbjm4Wso5tFX-PUhRWj1YTNI5kElCMihE1jKQPz41IDq2T9gx_lA0NtpVTEPSW-BKOlvEUJZebFUWXWxZhmGQXU5lXFzycqRV_nhwWlJ-0FR-guxQdoTMU6KWDFWimTxZFp5YWmqcHF6umGxmrpg8clKgaH56oXyEiqsMhZaziH8-sGh-asg4dLbUQHQ-4kB0QugUgbLgzJc25Sybjt4codraXMB-5qTajt687D7TbPOKuGz8XrLxC4654RUauP0c_rgRKdbBjTl-4UFT8zMZreNBhbVvTfmyW1X5sYthobcbbS3G68et0ZPQqeP__i4dX_-KNkvl5lD71spXp6xOamuaImevVT5OV0wOUqtKllV_UXZdm1Z2ZNNbqnUzYHaUq2BanZNazqK_WYqu82nqvAt4otIbp8Lm96_vMuecX1TflsN0m5WTheeRB497gl-XV4Nfm5OIM6PDmKekF62TrpuxC7qXs8_GL61jzSum38zvblfO319X0LNaI9sXUC_m11Ij7lNJx_DOzsv0Xlf__hoSp_3JfAf8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/AB']=data;}

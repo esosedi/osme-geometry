@@ -1,0 +1,7 @@
+var data = {
+"_ring":627,
+"_params":"-627-en",
+"regions":{"254245":{"level":8,"name":"Aibonito, Puerto Rico","index":0,"property":{"openStreetMapId":254245,"iso3166":"PR-009"}}},
+"paths":{"254245":[[1]]},"ways":{"1":"SaYUAd2iDPyC-BQBZh4N_GwyTOk1DYXWVi2ctPks67ARLkewFiMxqgAAtpmXAryXlAZ3kq0G-5HkIvt1zzMYVkE6qUizN-xHXDY9Ruw1EkKCNiU-GzYoPS03dz1bRYA4ZUk5N_hMYTZbRZ8zX0TqMkZEWDFCRj4tREM8K_xCwSmmRUgikkZ9If5MmB-MT2ce7lFuHJlTQBqfU-YYFVQbGFFYTBc3Wc4WDVtjEQBczw8DXYoOL2AkDBNkkAi5bH4GVm8sBaBwdwPucFMCrXAzARFwgwDQcwAAPXlLCVl5Nwp9f8IMXoddD_aNuRAHmeoRUJu4EZWfVhCGptUPRKxdDWqwsQrAsZ0Is7JxCDi0dAmutR8LXrcJDKi4yApPu0cLWb_VDGnHrRDKz5kV_tCNFkbQxxqrziMgRMtnHvXHpiGEyNMiPsotJFLNTSUozzcom891KNbQkCh00jcoR9PJJ3XUXCaE1TwiMNUKHr_VtRuy1sQZeddEGSXYJhl_3OMZm91bGg7eNRu33VwfRt5pIFfgpSA94l8gAupeHfntfR8Z9aEinvctJP__rCs6-GYwV_HpM-3tXjXx6-w2tOpeOaHqPjwY6pY9A-mKPtfg4UD925RExdbQRh3VakiT0ndP08-hUXTJ2FNQwghYY75vWKK8T1lVvKVaGL4RX8G9JGDXvONg_rpfYZy0cGHJsdVhHq3CY5ioPmUXqQlmRKhyaFilR3ykrV993bSgflS0R4Cys_2ApLEaibexM47aq7aO4ab5jxmnp59qsJilibBmpzKvtKgUrsetH6u-s2ip3bU4p5e3y6YeuaKmRbr6ple-B6rMxsypw8d0oePGfJ8zxqWZJ8JrmM7BR5bewcqSScM1lX_SHpJH4V2RxeOijY3px4356qmP1eu7lX_sEJm-6wCa4es1mr3sw5dS7_KX2PA4mQfzt5Iu-W2R1Pl_jhL8moqS_raG__-Dg0T_noHa_RZ_6PbFeRz11HZG599vyefpXSPw9lz071FTTOvxRYbk_UVc5J9C5-KBQHzp_D5t6887Q-zcNvns5DT-64Ezm-t-MnHqRjKf6WwyTOk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/009']=data;}

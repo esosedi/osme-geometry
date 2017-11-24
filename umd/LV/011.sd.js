@@ -1,0 +1,7 @@
+var data = {
+"_ring":1759,
+"_params":".sd-1759-en",
+"regions":{"1781269":{"level":6,"name":"\u0100da\u017ei Municipality","index":0,"property":{"openStreetMapId":1781269,"iso3166":"LV-011"}}},
+"paths":{"1781269":[[1]]},"ways":{"1":"tyhmA03ncQHmoGgDsvp1Ae5CLQHJVXQJT1w0C5xa_hGJYFMXs2YfFDlsuxRYbXkNKHkbGON40xr3elIn2n0YJxh-fC4Pgs8wG4JQM9iDIzQKhkQ3_YXMOJGH0zniiIU-fosaQJyO6UQUkIdJn4_qTs--r18szcRjjtEoZDvx7l-H959hhPcKY_z3QmIS-z9l_v3BZP__32c__gRwtPjUc6n4lXeV9eR4DfjVevD2nnvE-P571vjhfO33MH2r-NR9l_hTgJf51oE8--SJzvr2jPL5jo0_-pKOcPcIkJL2p47Y9E6O9PSXjwz0dJDW9KeQA_XSkzn2N5SH9WmVuvZCl0T2j5mc9yCfM_emoHX5uKPZ-Amm2PkHqJ35iakJ_eKv8_xvtEf8dLZz-7y25fu8tyj5y7_G-ajCCvgmxJb44MUx94nGfvXTymD2E8zf9ZDOCvaa0AP3y9EN97HSOfYM0yr38dML9__Vs4D__2l94PnXdb_1NnX5-At0DPlHdNH77276_i9j9e0OW4jfE1hL4N5Wnd9XVe3bM1VO2ZZUkdgJUSjYGE_N1YJMzNSpS67Rk0r20VdIms2FR7LItEV6xYRHub2bSfa5MEedtBNHPa_aRdSvu0TNrIVDjq4NQyixREHYsHFCQ6qcQcamaz8yqAM-ZaRyOiCR0jd1jmM114irMhCIcDA4ha0yB4JzMsF-gzaneXY4FXSNLCZv2yaQZtwmrmAVIj9eYiHhX2MbZl3VFHBZnRcBWV8WoVcIEzhWeRCvVlYMy0-eDjhP6gyhTGEIF0yDB_hKnwfkSLoFnUYAAEFFNw2cJrEWoBTCGYAWZRdrCiZAAADuQi0B"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/011']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":604,
+"_params":".sd-604-en",
+"regions":{"241475":{"level":4,"name":"Isfahan Province","index":0,"property":{"openStreetMapId":241475,"iso3166":"IR-04"}}},
+"paths":{"241475":[[1]]},"ways":{"1":"HYzVAWmN8gLREQ8CS0hOA2nyTfyD0139wM2y_6PJ__93w-j8h7tj-kO0VfYatMLup7A57OqeD-kGlnDlM5HW38mIisgGhn7F_3xptfR8bbHyfu6th4H3o79-jJ2eeDOYNHfLki112ZHKbQKSYl5bk-pORJDcSGKQfUV3jxtAkI-8OpyRCjinkeUxIYN9NGl20jfoczE9RnTeP7pzh0C8ctQ92XDMPextwTkSbA05rmivNUxn-DL2Y_EyiGHoNBReODSjXDouN18-LDVhRiweZPUqF2ZKKJxnPCDYZd4YgmUsFqFjbgvwYGUDDGK2AJ1hAABLXQACS1yiBOlXmAz2UekT507uGcJOTB0gUE8hBlD7KdRO8DMmS0g_0UpQQThMCUIfT7JEjU5NR4xLo0iBS6hKa0y3TEhPuU60T7JY4k5wZCtFl2kYP-dsfT6gb1xAnHO8Pzp2Kz7peJM-03gcPC5-bjzHgGA6CoBsOFB9BzeWfJI1O3wvLVh3bCibeOMmFHf9Iqt3eiFwfUcdVH1LGxx7ZhdZfNoViXtkE8N1KwzAdxMMlX7DDlqCFQsogRgDookoAPeMAADfkl4IzpoLB02chQkIn28KhZ78DPOfcw4ioHoR-qo4FHywJRcksxcXWbQKFa21AxVFveoZ_cJdIffDYicfxtsqzsdZMvPJ0DVxzzg6ls1DPfnOvT7w1hg_ZdqKQm7e-EO84elD6uTXQIn0oELD-JRFEfuSS_36Jlx6_CRg__-WY7f6uWlw-cRs7vlsfu3wQJPR8Ry_R_OjxXfzwtM_9YLWPvTW3GL0ie3I9aX3FPPL-2nyTfw="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/04']=data;}

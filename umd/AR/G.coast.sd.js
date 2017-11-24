@@ -1,0 +1,7 @@
+var data = {
+"_ring":318,
+"_params":".sd-318-en",
+"regions":{"153544":{"level":4,"name":"Santiago del Estero Province","index":0,"property":{"openStreetMapId":153544,"iso3166":"AR-G"}},"2271167":{"level":8,"name":"Loreto Region","index":2,"property":{"openStreetMapId":2271167,"iso3166":""}},"2271170":{"level":8,"name":"San Pedro de Guasay\u00e1n","index":3,"property":{"openStreetMapId":2271170,"iso3166":""}},"2271182":{"level":8,"name":"Termas de R\u00edo Hondo","index":1,"property":{"openStreetMapId":2271182,"iso3166":""}}},
+"paths":{"153544":[[1]],"2271182":[[2]]},"ways":{"1":"Tr4v_oaBHfzWnHj-21hS_AAAF-JxBbTcYAULxDcHJ8E3CLy_vwoRv9kMJMBZDdS-Xg6wvwAPSr9UEZTBaxJTwZkTccCjEy29WxUPuVEZBrUiGjGyahsPskodpK9JH7CuJCDzrrsg6bDsIl1_rCVXf7AlEH3TKPt9pygqe78pknLrKGxrFiqZZwYsZWVqLP1may3pZgkuUWICLv5gdCunXnQroVk3L1hYfzFCPoou9hnkPIEVlkmgGKZTMBPXWs0GJV0VCPddbgURXwEEwV6VAzdgAACwYcIATmGuA8RoxgUIeKME5IROALGJwgPwiNkJvoxuDFyOigybjvQPKpeLCiCZGAsWmoAOtps8D2KeyAxrpdoNwqYhFrDANSG6wjMp08k_K_XIkzE_2g8wRtygM3_hRjJr_J1BOPpiU7z9jVTn_F2G__9Wif7_s_8Ggv__UUX88QAAF-I=","2":"tRdc_rD7Ifwyulz-EJsi_BhfAAAa-xse__9-32ySFOcAAP__E1t7BBhfAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AR/G']=data;}

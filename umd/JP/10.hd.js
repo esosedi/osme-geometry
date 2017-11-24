@@ -1,0 +1,7 @@
+var data = {
+"_ring":1858,
+"_params":".hd-1858-en",
+"regions":{"1851649":{"level":6,"name":"Gunma Prefecture","index":0,"property":{"openStreetMapId":1851649,"iso3166":"JP-10"}}},
+"paths":{"1851649":[[1],[3],[5],[7],[8],[10],[11],[12],[14],[15],[16],[17]]},"ways":{"1":"RkUxAsaSTgjSzDECM_xOCP____9W43jiaaOMrOIWZVlCD8VPAAAAAA==","3":"MhkyAn5WTgjsvTICe8FOCAAA___UagAAIHLMEGbU-jsT_5ae__9Tng==","5":"-kAsAnMzTwi8mSwC4JRPCP__D-S7x___YCqW6q8ov-vXONZlhCUAAAAAWyY=","7":"XHYmAiNlQwjl8yYCMJRDCAAASWwCigAAN5snDwujVRz_____","8":"138wAsYVRAjRlTACZ4BECAAAAAD12bd4__-0l0LJ__8=","10":"4yI0Ar2lSwg3KTQCgadLCAAA__8pQ_Br__8AAA==","11":"g9cvAqacQQgb6i8CRLVBCAAAAAA-es9B_____w==","12":"lg00AmlzSAg4RjQCNchICAAAAABYYYMHvoYcFoS18Q7_____","14":"FhonAvScSAjSGicCQrBICPpO__8AAF4N__8AAA==","15":"bh8nAnV3SAgNNycCoplICIL7AAD__8I5ne-ZXkVwOs4AAP__","16":"doYpAub1Twj6oykCQR9QCP__73ea77V7Rt3Film8HrdkrkTbl50b6BqUHftCj-72XJEZ5mqKCeKCfZfrcnVp_Sdj__9QWqn8sWsW8OBsgM4Ua4bA33JTuHlkO5nadbN5qGuuZRhXQU2BOqZE5DtLKqckAAAIBioGTQaLFQAA_B0=","17":"w8EtAsz-TwgK6y0CoRRQCAAAAADwnHt9_____w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['JP/10']=data;}

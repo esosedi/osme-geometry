@@ -1,0 +1,7 @@
+var data = {
+"_ring":2452,
+"_params":"-2452-en",
+"regions":{"2693947":{"level":4,"name":"Guanacaste Province","index":0,"property":{"openStreetMapId":2693947,"iso3166":"CR-G"}}},
+"paths":{"2693947":[[1]]},"ways":{"1":"-kaTALoO3_pWHasANwnz-p46N6tNNpWpYTRJp-8z8aQyNDihPTMgoIAy2JvAMfuYXTEKleMu75FtLPSRGSsPlE8qRpjmKQCckyiWoNchGqVZIV2p3B74p48cVabiGVulkhUWpmMRzKNOD-ugMw0JnwAAOo3DB9WDJA1IgJMVn1wkGIpFIR7sOxImATatRqMWBF2vDwBtZQuKdYEKLYQzEsKPAxWunCMlwKPwL5iufy8UtKofJra7CGi_AACaz5gAWNmnClbpxBz054JC9-lbRf__L1RQ_wNeNvhmZajxJXqF8YN9BfFrhj3qpZlu6ZeZ4-WAmAviF5ht32iXeN8LlVDh3ZF95MKOfuTQjDfjyoop4xOGAOLQhFfdBIMX3CuCKtqEf7PYrHsz2Al5jdbZdxrPRH0izSh_jsgRgf3FvoKOwwCGfcFvjNi_q48YvdCPRrjKkb-2yZN8toGXULecnca3yaKRt5-m0bZcqta0E66ZsM6xM7DSsxKw5LaGsGm58a8GvLmuib4ArpLD4awkxjKsdsiRp1_K36SiygihZ8zAnJvQ6Zr4022YHNeUlXDZg5Vm4fyS9ubdjqDrjYzE7_OK4vKUigX2poYk9u2GnPlShN_7UYSz_YKD9_6Wgmj_gIFh_6KA__9EgAL_goCF-nCAdfevfV330XeL9oh0IPnrc_f3JnCN9slsGvQGb9jwG3Bj7MBu5egja7TlYGel5EFlW-S0XfHg01cE4gBXCN7CU8XZh1CG2tVMC9jGTHPV5E4z0U1S4sZcVFfCUVShwC9PD6V1Smej7EI3qztAQrKeOjer"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CR/G']=data;}

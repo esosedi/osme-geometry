@@ -1,0 +1,7 @@
+var data = {
+"_ring":1382,
+"_params":".sd-1382-en",
+"regions":{"1675593":{"level":8,"name":"Municipality of Kranjska Gora","index":0,"property":{"openStreetMapId":1675593,"iso3166":"SI-053"}}},
+"paths":{"1675593":[[1]]},"ways":{"1":"l6fDAs2z0ABF5MUC3MvVAAAA_n6eAt551gdmeYkID3cfCk52BQfBctgHVnBADmVt0xJ5aYUXyGgAGMNpFB52aqkhuGn1JKJnmSghaL8vxGb9NKZonDm2Zk87WmOoOZNgKDqWXkxAQF3zQdxaW0AxWfhA3FfDREhYAUumUDtQKk0zTzpMe1DwST5PpUhrU7BGwVG-P6lVXTp-WPE3CGQFNe9nLjCwbEkvM2fkJfla2B1lXEUc21V7FRhWxRABUdwLvFB7CKlKUgMyUQAA_VpLA5JdOQIyYH4CJWSUBBptwAUIbzAIPW4ACfl0agzhftIMcotUEMyVgg5omXAMC59kDJOkyxBaqvkRAbHHFj-3Bxl-vKkTKsB4FBXHaBQTyXwVUs4RFbDPjRNL0zEU2tQoE8nZMRTV4vkdJehbHervVx4v_w4cU_4FHf__tCFx_w4lc_1aJdn07C1A9T82hva8OljwHURC8itFmPPkR_nyQkrD9cxLZPUZTSzstE626XFShOQRVtzkxldR4ONZVOKeXETjcmHc4UdnT-SwaazoNWtj6eltMu3XbsPutHKs8U90l_Tfc6D37XUy90F4qPQheQPzAnvi8hp-6u-VgjzvUojs7-SK1fFqjFnxv4179lWRj_i0lGv4WZrJ_sqcovsEoQz8waTE-Ean3PeKq8P4wa8K-2Gx6fvZs4_3W7wa7xrA_-6Gwi7r0McO64zLEuXcz93j4dIA4uTSG9x42EPYfdly0QPg6NHO4gLUnORmy3fsocqr7qjCQ-_wwH_xRcCw9Xy2RfzNsjj756pz_vCiZ_8imjH-AZZO_iWRtv_NhpH-koD__zKAdv4LgsX8FIP_-CmCt_jjfxz7o3_1_aZ8SP1WgdD20ID98EJvYO21bTTs3HEu5O9ufuH0a0PgzWa44Udb6984XRTe3Vv23DNdGdrTXE_WSVZIyUFEs8JEPT_BhjhJwSAzpr4yM9e5wC7Yr-QkgKkfId-lyxoUnLEDiIMAAP5-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/053']=data;}

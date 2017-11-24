@@ -1,0 +1,7 @@
+var data = {
+"_ring":2389,
+"_params":".sd-2389-en",
+"regions":{"2583474":{"level":7,"name":"Municipality of Del\u010devo","index":0,"property":{"openStreetMapId":2583474,"iso3166":"MK-23"}}},
+"paths":{"2583474":[[1]]},"ways":{"1":"kOF9AlZVWQFI8YECV3ddAbYR900NGUZPCCQfTnAs_UtrNuVOCENuXB9OTmWqVKpoJVfrbDtcrmyOXxtqcGATY99j71zFZnJL3W3SPhx5oDL6ey0nA4AIHUqB7xcuhYQRtIgcDTiW4QrrowAAgK6lADHCiAg4w0QM_cMfF9DGfxnEzikZvtctGvL7-iD__wMgmf8ZJHz7HShV-ikqQ_lVLyT6mzHG-Z0zW_rbNZP45zht-bI7QvmvPkD72kD3-j9El_0GTPv9TVCh-ctRgPc4VXj1gFZG9Ahb-PEaW8vvHF2n7NZdhOn9YNjn8mQK50VoyujPa1Lpsm9U5lh0yOUZfIbjuINJ4vKE1t9ZjPTgro9C4BWT8-Culwbk25uK6Jmd1-agn8flTqPt4cSjHN27qTfZmate1wOu3tVFshbSyLZ60I--BtOHw1_StcyM1H3Q8dPH0jbUmdT70RbXUNKn25DRdd6_ynDffcY84YfEa90gvgTb-bwz3b-8IuB4usviQrmF5gq3Q-a7tMTkorMA5puxiuYeqOrk_KRA6fuf8OaenJTnpZX15qyUyuW_kK3kEovr5RWK1-Ydh_3lBYXL6P6CWeiFgWnmx37D5HZ7nOhzdy3qonQD6lFx_ezCbzrvAm_h9KpqAPieaEX4PmZr95hkfPl3Yvf57F_l_JBe9PzPWaT6f1ZZ-9tUpP7EUyj_C1Ip_TlQovxpTT_-10sG_nlKRv9KSJX-3kT__9w0nfF7NMDQ8zBUzCwYScp5EwfGFBClvccITLYsA_asPwGapQAAipurBiSMlAm-ffILRWs4DcFZTwwdUbYR900="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/23']=data;}

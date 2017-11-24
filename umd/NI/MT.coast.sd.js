@@ -1,0 +1,7 @@
+var data = {
+"_ring":2153,
+"_params":".sd-2153-en",
+"regions":{"2194958":{"level":4,"name":"Matagalpa Department","index":0,"property":{"openStreetMapId":2194958,"iso3166":"NI-MT"}}},
+"paths":{"2194958":[[1]]},"ways":{"1":"1di-AC5q2_qOEswAjVHz-u9k5QGbdEwDMH3CCy6AJhNfg5wUM5CRF7mTrhYqlYsYe5iqGY6aSRzTmBIhTZrGIZiZ2SSLlZgnqY3YKOSM1y3WjRgvCJLKLhSUfi-akSU4bpM7O-Gz6E7RtqRUxcRtWQrZzWRi7Qhrq_C8bmbyk3Vw_9x-ge8Bgpfk6Iaf4U6J4Nmpi1jWmY_IyyiTMcf2lhnJhptXwZqfZcAtouW6iqMQunmlJrdipnO02ak1uT-sRLk4r7S9VbHcvPeyWsLptQzLTrmS2sG6XeFUvdPmncDh5zXCvOXrxzrkstb__yXng9Kr-6S7bvJ9usbzULi58xW42_WOtuP2hacq-j6joPzOoAj9daD__8uarv3ykTr9K41L_oyIjvt8ghf84X6R9v5-cvUQgjb0t3-w7FV4feaSclbjm3BE3lFnDtznZCbao2VF0zNpW87BZ6jMqGDZyEFdLcRxYUm6RVoEvP5P3bZtVXew41R2r6BO6KwyR4-sJ0CYrwU5za82LnOyASNet7EhqrYQG-m2MxkBtgIavLEWGLGuzSAGrJEkBKoAIoGoYSISpQEjg6SPJ9Ol_yhUpWsrPZ9IL0yd-S-ZmVwt9ZcdNHyWiznMkFI4mY7tNBuNZTPniggv8YiyM-yEaDVGgO8yNX7ZM1R87zJfeS0xxXchKqV1HypgcgknXHAJKN9tpCWdam4jFGqdJCRobiO_ZgQnD2CiIgRZHSELVNkgykkxH5NCOx4tQYQW5kE9EMxAKw19PoUJ3TgAAN4ybQOxLMoKqSOLFFoejxjwGuIZJxgqGM4ULx4NEbogRQ5CI60IkSI1A4YkAAAgKgYAAjJ7AWs6lgBuP3sB5U9NAh9i2wHvZOUB"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/MT']=data;}

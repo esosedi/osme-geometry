@@ -1,0 +1,7 @@
+var data = {
+"_ring":427,
+"_params":"-427-en",
+"regions":{"196253":{"level":4,"name":"Sirdaryo Province","index":0,"property":{"openStreetMapId":196253,"iso3166":"UZ-SI"}}},
+"paths":{"196253":[[1]]},"ways":{"1":"OutkAg_zDgQSF3ICf7ceBAAAn4irBOWIsQQaiYQdJY3kIH6L3hvsctIYO2WWF55g8xQMWdERQUrpEINDFhADK5ER6gfRETIGDRMGBZgWngILG9QAvR8AAG0ljQA8JxsBcyp7Aj41gAdcXZkbKme6H_NqjSDxa6kfcmvwHeRoXBgRaA4XbGaVEr5nwRG8feMTtn9NFLSAQhd9glAfhJaZJ8WQ8DM3hf9FKIUXSoqErE8jf-JVF3y2YN13JGQIenVmaHq3ax97wG30eatux3n8cuF5i3W_di56P3lHgfF_64jZf1yOlIIxjduDAIwWiRqETYpqhTmK6IddizSJpI1BibeOi4qslr2KyZf5i92XZotjmF2Lb5guipeZG4qkmbCHO5uFifCbjIn_nV6H1p0th_-cKIcWnWCDsp1hg_uf-oAroLJ6m7Ute6m4GXgWvVt1psdkdcXJyHWOyi54T8uleUrM63qpzlV8Y9Lde9_UR3sZ2O946trneDLeMHog3-l5OuBmeuTgjnhT4Qd4N-PEdp7jYXU_5HZ0n-Wacx7mgHJd5n1y2uYBcqflsWuT5UBqK-dAahHo6WpJ6DFqvejOabzpI2p96pZpjOtnaZzqh2dK6gtmj-oRZa3pt2Ns6S9iluizYSfoSmA76KdfMOmaXXfqKF2y601dae3uYMvufmWC8ERlhvKHZu3z8Gal9gdnoPeYZ5z5QmkH-55r1vr7bHj7pG13-uluxfmQcd34oXPD-JV0_vh_dSj6kXd6-6R42_xoeRr-mno7_xt8vP-Hff__Y3_v_zWAov_NgPr-H4Hq-t2ANPoGgTP3goMn9jiFwPVRhrX1RIsr9RqO9_M3kPzy35Df8dyQcfGWkJPwWY917zeMGO_6h17uX4Zb7ZGFZOxXhffqx4XL5keIueWFiZ7l5orH5U6LxeZ1jPvp-Y6e6yGSN-uZkx_ov5Wp4N6NfdljlWjY5JaC09abhMogpqC5tLj1ow_T2ZBR7G-Qn-_Ce9z_B3r__8ZkLf2zSpj4WzIz84wwEPMrLUXzHyoH9O4ktfZdEln1rw1h9WkPae-BD6nhyg2hz4QLIMWxCRHDEgfYva4GmLwQCJ-7VQk4s40LHrCcAuGUaQGVjQAAn4g="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/SI']=data;}

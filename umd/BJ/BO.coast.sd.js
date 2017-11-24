@@ -1,0 +1,7 @@
+var data = {
+"_ring":2517,
+"_params":".sd-2517-en",
+"regions":{"2803880":{"level":4,"name":"Borgou Department","index":0,"property":{"openStreetMapId":2803880,"iso3166":"BJ-BO"}}},
+"paths":{"2803880":[[1]]},"ways":{"1":"0tKFAE8PHgDbg6IA66M6AJsAER6zBqwgnwtiDwURiwg3FWcHNRpdByIjiwiNLCkLLS4GCj0xIwTfNEEBoTdrAOxDAAAWSpIACk-8AihRNweTUdgRz1U5FU56bBqrhP8Ruo6BDrySWg7HnZ4RzKUjEKyoORIYrUAQT7AsEA2yWhEXtNQVNLRiHVK2aSQ4ugopgr3WKYTBkimq0TUlpNcYIuDbsB1N4OQczuZvHxnskyOu7mcolvIQLQX0PTZR82Y9-fbiPw_3gkdO9RJI2fROSrTwGlHt8fVhwPa3Z2T3AG_39pd1vvG4fEDwAoHo8Z2SLfK8qDHzvrHn98q-uvyy0___af_W9___A-81_BXofvp_46_6HN96-EbmL-pP42jkS-AF4qDdw-J9zJTbOMTg39nAVOVvwM3of7-g6fq2WudZtLDiOLLF4JmrWN_apazflaGD3jGdbNlVmt7Z35gW2auU3tPTlQLMS5CZvfOMH7qZhjy5-IE5u6x_F76Se-y6Dnmstwd6mLOPeLSwdnVBryVx9q7raXep62Vvp7ZjraToYreh2VrhnldQAKKvRUiivEJVn_I-jp0FOp6dFTOzmSgt2JhvKuKPcSoQjHonen8YJ7J6pSiWbowmHG87Jk1wayP_bZ4i_29FITpuwR-1b4weu25JHkNwVh3ubvsbAnDxGqdvMBqtbSEZ2G5OFyVvsxTabY0TTmt6Eq1roxJKbdgRqm0cDohtgA0oa24M4WxlB89r_gb0bJYF3WydBN1r4QSsackCLmndAdNnMgGVaAAAQGi5AFIfmwARHg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BJ/BO']=data;}

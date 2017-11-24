@@ -1,0 +1,7 @@
+var data = {
+"_ring":1865,
+"_params":"-1865-en",
+"regions":{"1854631":{"level":4,"name":"Ciego de \u00c1vila Province","index":0,"property":{"openStreetMapId":1854631,"iso3166":"CU-08"}}},
+"paths":{"1854631":[[1],[2],[3]]},"ways":{"1":"pdZVAY_KTvuFFVkByqxV-8pHgl2OTDhOvF2BNGhg8iM5ZEoiX2XQGfRp3hf2bcEQxW3dCCRqKgWdfZQEynWYC8J-9QxHfGsOoYVKE9aNGBPAkwoVk5seEvefvgm8pBsLG7ovCBPDdAUVxwAAzMjTAqfu2hIB9vkP2_C9CTX9Hwgb-_QT__-3FB3zxR6H72YfZuouJXzOzi6Xxowt-cYIKEm_SCtFw2wsasRxL-G-pjYwsBlAnaqGQfynm0MurA9Jf6FGTGKXdVQvk-NanpTsY4eRTmTYkNlo3JVRcP2Yv29pkR6I25HLkMGX_pe8pimedavbpmOxOqkGuCWo-7ROrMW2ibSosTrDiqNezNqhfM4_pKfPcJwR18GQa9xvjuPb-ZXl07-W7NDdku_OBpcCzJ2UV8pZiubQxHwa1It5cNcxelHdAG-O4ddnu-bRQdvykD0e9ugwB_mmJP__7R_s_zMawfqzH0frWign7BQsxu9sMYnu6Swm7Y8vnehPKCHirBpF3lobc9ukE9HWYRiM0jIXKc46GxHMph3rxc0YkcQgHiHEOx9wwQIajb7SHB280BSiuvgXRLmmFvCxIAaTrAAAuKa4BYunLhGVniUWtJ3PFBaiexfKpZ8pmKXEKvWmCTZzo8kyNqHSLS-isDBkmpEmG5YhI0mPwibphtkk34DQKXd5GCi-Y3wszGFWPG1kBEP_XcpHgl0=","2":"BABBAdKURPuPUUIBeklG-zD3RxH__z5IyNz9Y7nDMqBcbD7vTVNJ-7Ms__8AAE7apBMTynoe2q6ANaCemDvwbeBia2JEUQ-SO2R5scKwf4VNvrRosayVRBHapSS_2qkOe_QAADD3RxE=","3":"UfM9AbsMR_scx0ABbSFL-5_jkQIG6wAAIPYfCP__oB9O37Q2kq4pYNCSZnA5fXyEyGVGnaRKmcGFN4TfIziY9lUp__8AAJT87wTG6XEXbsuQKsqx-laTmMNdg3vjsh092L9UJJ_jkQI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CU/08']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1794,
+"_params":"-1794-en",
+"regions":{"1802540":{"level":4,"name":"Benguela Province","index":0,"property":{"openStreetMapId":1802540,"iso3166":"AO-BGU"}}},
+"paths":{"1802540":[[1]]},"ways":{"1":"8Eos_8hMvQCWrEz_t5LmADP_bYPc_aqKxP7FjKD9y46f_F6RHftlk9r7jZUx_cKXw_33mXT8rJ7X-XafwvAKoCXug6F67QmkTexFpg_qnKhx5xWqZeQ2q-rhNq1_5P-xLefIs_ns_rWW72K3bvF9uSb1Cb459lLA_vbLwn32-sQH8S_JjehxzpHlC9Dj4k7RMdfG1VvWCdjJ1dHejtYH4aLYQ-Oi2HjlZdfC5z7ULOzd0ZDwDtCW8mTKJPNByYH3lrwI9-y2MPdYtMv3mavf-hapovl4pl_626MN_KygUfoSoLH1RJ8k85acW-7XmcHr25bp6maSQ-S4j97hwYlX5D6H0OIohNDi6IDe4wd-eOUte2rmnnV_5gFtY-oOalXsNWdU7bJerO6DW_bu51J97FNKK_DfRm7x5EN1805Ay_mxPSL66Try-6s5__3dOP__Pi4o_oMu-fxYLlj6syzm9-4rvvVIKXvzhClo8akrYu9mLDPt0ilj6vIhE-X_Hofi5B1s4NYZstY7GXbUzxo60vQceM1fIFHICiFExl0f7cOmHNLDEho3xCIZD8KbDU29SgQyulcBuriBAJ-2AAAStGcAh62CAT6mFALao-wDQJ9rA_ecWQKZmhEGIZSaBkSRGQb6jnICZ4pyAj-IHwR3gUoET3_uBSd9rgj_evIIyngtCKJ2owY-dMwFAXJTBNpvJwN1bZUC9monA-loTQbCZOcGXWLbAyJeqgXYWzELUlo-Du1YtBP8VLAWkFNEGehSFRxUU7Yhe1WPJOFUCCbGUrQmuVAKJ4ROYShVTJQovEcVKSFFqivYQDErgT5yKAE-syXgPDIlzDpAI9s1-B-tMIceoC2ZH5QrSCKAKRckjic5JKoi3yZTHpMn7xutJ5IXRyhPFcEpNRMJKdEMKSkAADo1SQAvRAYCglOhDw9YChIQby8k-Xz2IWiE_SM1iU4mxqXnQQ6rTUpMq4lRccDqX4Def2vs8wVz___tcjP_bYM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/BGU']=data;}

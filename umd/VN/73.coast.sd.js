@@ -1,0 +1,7 @@
+var data = {
+"_ring":1876,
+"_params":".sd-1876-en",
+"regions":{"1874249":{"level":4,"name":"H\u1eadu Giang Province","index":0,"property":{"openStreetMapId":1874249,"iso3166":"VN-73"}}},
+"paths":{"1874249":[[1]]},"ways":{"1":"RzaSAP8vRwaNf5gAattPBird__8N2IT9ytby-QjR0Pgp0AT31Mo-9eHIA_bZxqT0Acav9QTAWPNJv530F7xC86e5nfR2uZDzRbbW8wm14vIXqObwrKje78Ggoe3Di1Lqq4pG7bpwe-ixZ-rnpjXmq70vtaXAH4yZIyWqmKsjOpY1ITqVdiCNkOIaYo_LGfiL2BYmiroX0IhEFeSF3BXOhMQUGIKHF3uCzxhKgQQXRX-XF1V9hhBEePgMFHhhDfh27A9qdrUQnHT6Eo10fxIRc2MUgW8mESZvYA8ebSQNX2wTD8lqAg9caXcNkGfGCPJmDgl0YvYFYWPNAWphIAbsXWMJBV02CI5bxwfUVi4EvFaiBKxTPAHVUosCM0-xBRhPbAU5Sm0CHEoAAFFIlQHJRnIBLUL3BEBDOwkIQIEIND9dBdI-6gJHPBYFuDnwAsM23APoNZoH5DUmCRM13gdwMn8Lky3lB9QsSwiEKoMGIyjCB5UnWQsqKEMMJSeaCXck-gmcH0YH8h_MAy4eAAVUGxcCdRdFA9YVTwa7Fe8IMBRTCt4U5hGaFI8UkBVMF9AXCBkvGx4bwBscGcQfcCB5IBwmKCOcJ7ogOysxI64wxBw3L0waQDGsFd4vFRN-MhoSPzZkFDw4DhT5NYUMgDrYCoU6zgRRQUAE0UdOAN1JAADnSyAFFlHKDMtbtBOEXwYcDGVcHaBovSEHZ1gk72exJbNq2SbkbeImOG_iJZtubSO2dJEiBHV6Jpp2kiYRdpIkYnkiJRp3hSdQemomennNKLl8GSgPesopVn5gKup8Diw6fqAs-X6dK7N_8SuIgVUvRoMIMOCC2jAohWwvi5H_LXKVQjmWmaA925vDQhChkUkjrJRWm67IVGjN7l6R0btbFt8fYHnevGH_5ehjF-qCZmDrP2SF-5FpovmRbP__tG78_N9zRPkJc8nh6oJQ5BSHO-iYh6TqIImw6T2LeOtsjQLu1I6j9I2P8vHHlMzukJTb7sOYdu1Zm7bkvJQD3gyaJOGLnGjgaZ1P4WmeFePYnTvmqqSg56-k_Ob1qPrpJalE6nGt2u-JrzfyqrFx9AeyM_GftHbw_LZd8eq3jukuwlDnlMlc6XrK4-3S3Jz0OuLY-N3ozedb9aPgg_wq3f__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/73']=data;}

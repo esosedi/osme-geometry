@@ -1,0 +1,7 @@
+var data = {
+"_ring":1682,
+"_params":".sd-1682-en",
+"regions":{"1720065":{"level":4,"name":"Sanaag","index":0,"property":{"openStreetMapId":1720065,"iso3166":"SO-SA"}},"1720095":{"level":6,"name":"El Afweyne","index":3,"property":{"openStreetMapId":1720095,"iso3166":""}},"1720099":{"level":6,"name":"Erigavo","index":1,"property":{"openStreetMapId":1720099,"iso3166":""}},"1720121":{"level":6,"name":"Las Khorey","index":2,"property":{"openStreetMapId":1720121,"iso3166":""}}},
+"paths":{"1720065":[[1,2]],"1720121":[[3,4]]},"ways":{"1":"8ZWRAH4_5QKx7Z0AoZjsAv__XfUlCf__AAAAAA==","2":"4LyPAI4OvgJlz6wAgUrsAkYQANkAACBGrlgAAL61uQHAtPYI-bY1E0ir2hueqQohGqrGJfmvFjFOr_0zLLDWM7282ENRwWBIwcX4StfGM03uyMdNssqcUgrPdVRJzztXrdIuXJrcGmBM3_xkr-UibKbrA3bK7CF-Xex0gWLkU4h04LGOseTjlpPjjJ5V5SihtuNlpd7lQLA85fWzVe_ku47yQ8K--KLGj_pwyuP6stDY_UvUpv2Z2v__v9-q9KT1u7Yn__V8__8=","3":"8ZWRALUB2wJlz6wAgUrsAgAAr5d0jNGe440KmM2acIEbnyN2JqnXahDXcRDN4gAAyuGmDRjkrypr45g0-O7BS6Tx3VrD9Hpgqvc1ZDH6unDj-f98sv0Yi3399pv__7up5fNM5MKxvP0QdP__","4":"8ZWRAH4_5QKx7Z0AoZjsAv__XfUlCf__AAAAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SO/SA']=data;}

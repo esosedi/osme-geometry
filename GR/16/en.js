@@ -1,0 +1,10 @@
+const lang = require('../../lng/GR/16/lang-en.json');
+const base = require('../../umd/GR/16.js');
+module.exports = {
+"_ring":1209,
+"_params":"0-1209-en",
+"regions": lang,
+"paths": base.paths,
+"ways": base.ways,
+"meta": base.meta,
+}

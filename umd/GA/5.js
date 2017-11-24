@@ -1,0 +1,7 @@
+var data = {
+"_ring":1110,
+"_params":"-1110-en",
+"regions":{"1243587":{"level":4,"name":"Nyanga Province","index":0,"property":{"openStreetMapId":1243587,"iso3166":"GA-5"}}},
+"paths":{"1243587":[[1]]},"ways":{"1":"senB__2slwBp2N3_V7m2AAAAMInTDKx5lhXQdjEeinbuTSRKZFYlR41e9kdRZyg-V2p6Pf196Cv4oQAAubGDCqiyXRDlsscUabUEGMi3pxt_vUcf0b2jIQTCKiSoxG4os8nCL2bJczGGyKMyHskHM6vLWDOq04MzF9vcNZLcaTzN3m07DeSxOkPm9DtF638_cO7LRN321lGS-SldyvqdZlT8U2_9_dB9__98iiL9eo9k-nWS0PWZktjwSpW_7VSYx-jQnvbg1KKA2F-l9dRkqfzTwa180oi35s9ouaDN4bjCzEq63sqJu_DJnb41xYbBecT2xcLFpcdTxPjJDcYkzKvDrM2awWfP276SzkO94c7lu2bOZ7o3zi25Yc_HtmTNv7Nvy0-yCsoHrZ7JfqmwyVOoY8r6p-nK3Keuyw6oYcxxqOfMTKn5zHaqrM0zq6_ODqyB0JSuUNQMr5vV7q4z1rCtq9eKqiLZWKY_3PykvNzeoBPff55Q4Q-de-OnmqXlhplP5omW0-ipk4rqAJOl6t-REullkMfn4o635ZyOH-Wcjj_kIJAw4jSQa-FqjprfDomK3TOIb915hGDeVoK23ZR_yN1JfULdlnyK3VB8At-bepvi1Hle5bN4x-fsd9PodXce6tN1HOwCcaTv6W7k8pdtlvh5bfH7IG1X_bxs3f3Ea7T-8Gmu_21o__8iZoL_T2SQ_kJj7Pz3YM_5h1-E-F1e0vd2XPL2Mlla9spShfNSUhHzFFF58t1O4fECTsbx9kzy8Q9LHPE0SgHx9kiJ77dH8e4dRQPvdERL7wRDlvA9QpnxlEGX83s_wPfaPbX5MD38-Wo8z_m0OsP4zTjs97Yzo_S9MsTzMjKU8pYyd-9TM8Pr4DQU5xI1q-R2NU7jdjVu4hk0e94ZNLzcXzRN26o259mHPGzX2j0G1gQ_U9XGQWLUQ0gV0DRKNs8oTdvL0U29yphO-seYTtrDn00bwpJMg8HMS1bBNEo4wNhIsb8uRAm90kKSu1tCR7raQTy3qEEds_9AH7HrPFur9TgAqJY2H6R9NLWhITMvobYv1qBGLmqg-ysEn5okBp1HI4mc0h9wmq0cxpkGFTCXwRErlQAAMIk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/5']=data;}

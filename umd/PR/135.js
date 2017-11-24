@@ -1,0 +1,7 @@
+var data = {
+"_ring":615,
+"_params":"-615-en",
+"regions":{"254045":{"level":8,"name":"Toa Alta, Puerto Rico","index":0,"property":{"openStreetMapId":254045,"iso3166":"PR-135"}}},
+"paths":{"254045":[[1]]},"ways":{"1":"EW0YAUP7DPwYsxgBQjUN_BryvOPN8HrhWe_O4UPpN-Jv5uTiROGd5QbcyehM2FvqrNXt6o7UB-vF01vq7tJO6H3Ryecwz8nnesZf6RjCmeqqv7Prlb2D7QK8K_Anu2TyHLo89I63SvbJtcX4irTF-VCy8vrJsbT7RbFt-_GwRfpcqen7qp60_cueGf_hnbD_1pz__4ab0_9amZX-2pcD_l6Vg_0LkS_9IYzy-7CKCPsaiuD59Ynk9u6HvPUIhn_zZITx8BuCce41gM7rsXpS5ol4lOTIcaHgDm5J31tsX959ZC7VjGEz0uBdFM-qWoLL_lb0yMhTSMbiUfnDQVBnwdpP577wTyC7xUg1nOZIYZqvSQCWukqAki9Ln48oS26Or0uwjIpLGoWkSPeAGkNPf2ZGT33fRn97IUeVeUVGGnX5RLRx30InbYRAQWlKPltmlzy4Y9U56GAUOMFfIzQ8Xs8sQVx_K2hcQSr-XCgolV6DJjhfXyOVXociEF95IQxgUR_2YAQdtGHKGh1i-hcHYp8VTmEyDEpfnApkXhwJ5FyGCFJbpwgUWRkKX1IZCiZPLwkCTbMGWkhtBqFF5gaLQvQGZ0B4BMQ65gKuOIsAdDQAAAYz7QV9LQMHeSvlD-cwwBW_Np4ZLjnRHU062yVnOYMtZzkjNvU6DTeYNDk2_TEqMT8pbS4tI_QuKSI1MVUjCTWTJIU3lySBOMMjlDgOIhs8XiHGPWsd9j6-FR1GIBaHSeIVf00XFsFP8xarUvgZgVuXKdVeWjGTXy405F_sOBNfREmmXclRQmXWVNhqSVVadYNSo3QHSJF07D1_dRg9PH-yPK1-tinOfAoi2nlMF3N50BSMhvgSjIcAAHWI5gLniVAFh4w6Bz6RMQkGnV0MkKAFDdWjWQ2IpscMOKndDOer2Q1Rrt0PTa9qEYCvvhJfryQVQq4KGEatRxzGqrskcqpDKZOqvyyPq2My36wGNvWuWji6tPA7K719PlrC40HDxKFCYMjRQhrMoUNnzt9EN9EHSEnUKkyZ2WRUIN2DWF7i6F0J5qZgIufKX0fm22K86cVqdu_ybID2GnJf-gR7W_pQkhz-kqv__97Bs_wl0MX5t9i39ejfhPJF4xryvOM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/135']=data;}

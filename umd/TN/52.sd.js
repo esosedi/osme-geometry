@@ -1,0 +1,7 @@
+var data = {
+"_ring":1240,
+"_params":".sd-1240-en",
+"regions":{"1434954":{"level":4,"name":"Monastir Governorate","index":0,"property":{"openStreetMapId":1434954,"iso3166":"TN-52"}}},
+"paths":{"1434954":[[1]]},"ways":{"1":"-xEdAoXynwB2UyICxJyoALxYGvjFUzrfAUqc26dL_9Y8S9_QBUiYzv1HwMjrQUnBkTZptkwqlqcYE6mWXgWIluMBa5ORAGyOAACNh6MET3hODb1x1hk1bIoih2qnI-tl-CCYVy8lr0eKI4QyPCVNMsYvYifZLEwdQSoYGukZeBUCG2IQ0B5uDOwfSQjBJIQEAyv7AfMyMAD6OAAAGj37AaFAGwgmS7QTeVFiF_RZnRj7Zt8S725YE-F0Nxeld9IdMXrAMVJ_XTOXinEzs5L_NVSiJ0F7qHFBTrEPPoO-yj0LziE_vdSxQXbeJz-N3mlIP-VaS6XvmEw090lL__83Ufn3z1cg95panvaaWJf02VkY9UxaE_aIWV_2JVrL8whbb_QsXPHynVqd7pNZxvOEW7Dl2mxp4ypxIeO6dpTkxnvl6AyB9-kohJ_u8IcS7aKKRe0DjdLxLZLt7mOXJO7InKfvFp5V8WGdFvSRnk7vZZ7d7P-fue5mngnuS51g7c6eFex9nt_sP5-Y64SefumCn23qNaDl6AqgdOi8oenmxKFu54eiyuXboh_gOaHk3D-hyt7zoPvcQp833NufO93XoKHbjJ_S23udUti0nC7Sep2c0vebO9QPnLbUx5qozrualNCCmUjJb5hRxCyZ5cJUmnTDTZlKwl-YKr99morCApfVwcOWU7NBnG-sPKNerUmk1KtVpEGn66gRpvKrU6ZBsFWjOrGOoRGz46ERtVGfaLdKodG5gp-NuL-eBrlioLm5-p7Uuc-cYrybmz7DqZTF0HeUmdRSlp3WZZV21WyUKNZ9k2_VaZSV1r-Vmtbmka7X-JAG4eiKB-PtiLzlxYmR5sOIO-bmhiPpRIVW6bqDBOthgqv1JoBR-tJ8P_1rfG__CXn__xF6gf98eGv-b2uL_WxiK_oNWkL4vFga-A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/52']=data;}

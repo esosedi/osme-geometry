@@ -1,0 +1,7 @@
+var data = {
+"_ring":396,
+"_params":".sd-396-en",
+"regions":{"184879":{"level":4,"name":"Aleppo Governorate","index":0,"property":{"openStreetMapId":184879,"iso3166":"SY-HL"}}},
+"paths":{"184879":[[1]]},"ways":{"1":"_JgcAr-dLQLDajMC0hBOAlXvRhQS7goZNuoGHhrnCClp6L4tIedMLkbnDi9H5vMuzeZiMDfkqzTc5Jo20eMVNgbi0Tba4AY22N9aOx_egTwv2r073tjTONjTZjnp0dQ9SNDGPW_OPUHZ0NBC3NSkQ7_T6EXB1QFIQNJ4SmnV_lBv0wRYhNQRWQ_QF2odzlxsK876byDVhXLg3ceBCOIhhirhFomC44CLIeIzlXjkK5dZ6amj7u0kqD3wjq4z74CxE_EWs6zztbIZ9ZWzrPU5t8z317jP9w-7Bvtgv6j7rsJZ_RTD5v0VxEv9EMn__2rM4vsm2EX8T96Q8sjxKu-y8yTvOfam6_D2w-c4-0nic_s12HX97dSw_BLTMfR3zMP0g8pm9o_Kkve_z-z9FM9u_4PN__9kvG7_tKva-8SgmPSVmhvtQ5OR4ZmQANbij7rJCo8Jxl6MVsIJig-_VIZjvMR_8rnreZm2vHQqtlxu-LYLZQa-VWHdv2RcJcWuWSXFjFKBwtlGg7puQIG31DRCtDwjuLF6IJ-ychQduzYBissAADu15wA8rNsAvpnzAhqM_gUdhrIOSHviDol3UQwNZ5oMzGCxEdhZZRfeS6EaH0kaHBVG5yCbQ2EhzUEiJqJBtCjLP_ovuT2xMco9WjSAQaI2-EL3OfBCoD1kPiVBDDyGQlY3LkhkM-RL2jKUXGQpVGX1KApoFiixcGgZKnSJGAR4zBUoesQWGn5yG2yHNCOoiSQkCYyjIzeSfh_5lEAcWZmdGwObYRrSmr0Yr5dlFWWYjRKTl7ENjJmlDpqbpA1Gm8wL15xvCnib_wlDm9YH15lgB6adpwYBn_8IkqFeBnuidwf1pHcH26QZBQqpzQOIqbICrqyuApqtaQE0sSoCJLQYALK3AABDvGwDC8a4BeDJFwSk0pMDGdNMBVLUdQWz1boHIthWCI_aNgoG3WsKd94ACW7hTwgU5R8KieWbC27oSAyt6mIPA-3NDlvuXA-Z758OUO83FFXvRhQ="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SY/HL']=data;}

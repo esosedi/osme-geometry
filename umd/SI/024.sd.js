@@ -1,0 +1,7 @@
+var data = {
+"_ring":1497,
+"_params":".sd-1497-en",
+"regions":{"1676354":{"level":8,"name":"Municipality of Dornava","index":0,"property":{"openStreetMapId":1676354,"iso3166":"SI-024"}}},
+"paths":{"1676354":[[1]]},"ways":{"1":"ZkbEAiEn8wDKZcUCfrH0ALaO6_dkil72EYkL9-WEK_XNdzX2IXN-9ChstPM_am7x_mLW8JBid-2MXzzpEV7O6Rhbp-T_W2PiSFpt311ZKNsvWDfaK1YD24dSqd4iUbDdsU8P24RRD9o5Up7YalKm1VVRpdSFTxDXzky12KBLO9jjSG7Rukik1lZFc9duRenU5UFB0jc_uM4vO4DOazlFz6Q1bM6gO0XLLjuAyTo8LsjeOx7EoTyzwNtAR76iQny5Z0Kzt8lFXrJwR82tGksUr_RK3q8hTJGv5UukrUNKT62qRpeqsUJnqrtAdKkMOvaigTy1oVU8jaCyN-aVNTZPlIIyN5e4Mc2WODKNkyAwD5D8MhuPvivrirYnRYosKxB5QSKudZ0hKHfaHox3LxUbckINum_JCtJsAAAFaW8A2lyTA3JB5AD_Mt0GszMDDWgBKBEkAL8dAAA7Hn4BCSoEBBwq9gJ8NX4HdUVqDKdJYQP3Vw0PQVvFC_Bh9BHVZlAYWm1UGPh0fhsFeDsWBnnCHdZ7_yACeGsm1HY7K-NzTzCaanc2vl_tOKZYPDwOVCpA_U8kRn9SjUdjUmVTnll1U31dd1RDbxRd0W-MXTJsg19Jet1peXwgbRZ_Ym4lhkVyhYojeDeLnnd1jXB4P5AJgB6T74DblYuKCpfBiiSZ_4wRmrWQuZ83lD6n0JunrMqeRLOHoAC6hKBpvTSjFMNYoC_IwqLhzYWgiNBPnk_Sw5672eubxd8Ml4vh9pfG4Z2ZWObDnk3m458E5IiiB-RgofHiDKOH4Yaj-uEmpSrhYqcw4N2nLuC-rbPeu7MD4dyzmOEotVLmy7f47Fa5Fu0Zunzxcrt89Eu-hPY9vKb7jr7__5PG-fqvzG35GdCI9lnRjvY90szzyNTK8UjV3-r73DnnL96r5ATizeJD4ZPgsuEX28Lketk55mPZK-ip1gnrktRF74LOGvG2ymP0W8f0-Tm6gf0RtcX8cLQg_Ue0__-Xs9v_nays-h6olvmQpAH2H6Rg8fyinO_yoJ7y26Fq95GjrPqylN36t47q9w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/024']=data;}

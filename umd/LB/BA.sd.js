@@ -1,0 +1,7 @@
+var data = {
+"_ring":760,
+"_params":".sd-760-en",
+"regions":{"316552":{"level":3,"name":"Beirut Governorate","index":0,"property":{"openStreetMapId":316552,"iso3166":"LB-BA"}}},
+"paths":{"316552":[[1]]},"ways":{"1":"n7YEAp0uHQLtaQUCZE8eApjlxP7V3cz6FLEA8o-XrOg3kTDnjn6B5cNiseD5UhTcVFDi1KVUGdCSUnnHPlAWw-JGvbuQRqq3cEGYsywwYq7dLtunkillp84mS6JdJvaeSSRVnKgfr5rRH0CWnBlPk4UQ3pJtA0KZbgP-iwAA9IrUAiGBKgaZfT0QU3wfHaR9gh1qfKkbp3uiGdAvsB_8L-Ig2y4DJuowNCwkMeY2MjCnaTkonW4eJgJwCCOobgAgXHBaICR0Dx1wc0UZzm2vFxxuNBQtbvwUoW_0FBhuDhUwbmMX4XJKF8By5hJla8wS3GryEVdzqxGAdToTIXczFr96mxWQe7AScn07EzuAXBHNfngNLH1XDFx_ZgwJgHoOfIK3D1yD0xEohJ4RcoIADMGDlQuEgxsIG4XWBM6HkgS6jD0GBo0YCSyO4weojrkLd5AfDcmPiw89knMQTJrjDz6dwA4tn2QMbJ7WCcCfsgnXoSkEMaP0BoyjNQNypR4BVqb7ABKmEQPrphEDhaYAAFCotwADqlQAMapuAzKtVAMorR4AP7OhAou3wArxuB0KVLfOBDm4yQMmxo4GMcUhCKfB6QZCwWkJ4sJ6CuLD3QnexZkKQselCSLIpAb8y3sF3cxYBlzKJgfPyB4KBsw1CpfLrgefzHcJcs88CuPOYAzv0OUO1dBhEpbR-hKC1lISptlEFQ_YrhUx1mQTFdQbFODVERaQ1FgX4NgXHN7d5y1g4C8vpOFYM5zgAjWi3Jo2BtknPkvV0kva1bROhdcyUujZDlM72ZJRWt6zV2Pf7Fk23vdb_t7ZXVTol2TP6wlo7utiaXvpcGoJ57Nn4eVNaADlsWfH3RRhDNevZRrXQGc42uJqu971bAvizWy65Glru-LcaFrk8mcE6aNs_PJEecf5Hot8-1eY1uRInGDqXKbA6I-p1eG6m-7enJvi35Kay-Gpmsrcw41w0KyNKMpBmDjNaZer1zKYQtlIoHPOX6BWzY2pb88wq4zdAK2i4gS0Q9Ijt77ei8Rh8ALEBPe8y87nUM198nPd__9q3OP9F_MH--nyUvMN9YbupPNL61b01Oyx9qHrG_dw7P__TuYn_pjlxP4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LB/BA']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2405,
+"_params":".hd-2405-en",
+"regions":{"2591087":{"level":7,"name":"Strumica Municipality","index":0,"property":{"openStreetMapId":2591087,"iso3166":"MK-73"}}},
+"paths":{"2591087":[[1]]},"ways":{"1":"LHt2An3cVgFEN3kCOQFcAdoOivEJE6zs3hxi4Acou9EaMtDEjTRUvF8y7rbWLrqxfyFCrj8SP6nOCZ6kWwcdohUHc56HDI-bng0fl0MJf5JFA_2PRgDJikYAbIQAAI57cwLFdfwLYnVrF95txR5QZ1Efr2IjHZlfcRq2WawZn1KsGUNI1BryQi8hz0I8LyFC0jmVPgBIKji_Uk80JFmANJ5jGjfSbeM8WHf5P2p-KkCThoA8AItbOH-MUTHRi4kr0YtIIjWS7hj_m2kR0qeCCXe0VwPXwAAAYMQxAHHLZgU80mMQUNatGArWCh_30SAiys_NKn_VCy8j3OIwFODfMy7pyjia8SA9wPlxP1H_wUH__5BJQPhVUIbt5VMe6IdaeeQ8YVDh1GVz2Z1xPNF7dzrQ4X1S0X-Lr9NIk5vTjpg71defuNzapOjZw6fg12uqn9J0r8HMdLKywsS0OLsttgqz8LK7qdKudKLErGmZua5zlniyGpPltciOyre1kqq8S5ZYwMeVAsW4lPbHTZNpy8CQtsz1jIDMl4FczO58lc4neizTpHY22DByEd6UbzThYG3Q5zlzguxcedDybXqs9Wp3_PZ2dND4_Wnv-_NV6_tkOwL9djQC_f8w9v07HP__bhyT_3sc4_4_HP791xsg_cEbq_zQGzj8JhzU-6Ucivs8HV770x4g-xsfCPtSH9n6Xh-g-k0fZfohHzf6lR72-fodzfmnHdH5WB3E-cAclfmEHG_5LBwL-fAb5PgeG4X4oBo5-FcaIvi2GTv4IBlr-IwYovj9F-z4wRfi-MwVV_eTFJz2vxNE9gcS4fV4Eav1-RBg9SAQsPTODwn0jw_w8zYP7fOUDsnzIg5188QNDvOkDabywQ1z8l8O3vHaDorx"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/73']=data;}

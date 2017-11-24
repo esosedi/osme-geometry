@@ -1,0 +1,7 @@
+var data = {
+"_ring":570,
+"_params":".sd-570-en",
+"regions":{"226726":{"level":6,"name":"Zadar County","index":0,"property":{"openStreetMapId":226726,"iso3166":"HR-13"}}},
+"paths":{"226726":[[1]]},"ways":{"1":"Y5qbAg212QDRJaoCTXz3AB-iE6SAnhmnj5aYqJ6SjqpPk06szo8Ys46QFbZcjNG4_YwsvTyLCMDtjGDHTY4VyY6QK8nvk9zL8Jl1zACgysoAo0PL8KETx4Ck0MQgqwTIP62Xx2-uLsZttezF67vUz7nAUtFYwhPTWMGW09jByNQDyqzaA8ri38XHK-NmxkHj58PG5Vm_L-eMuafnfLdh6F22Fupst9DqScAA6gnAfuvLu2rtO7xY8aq-RPMovpb0qLyl9By83vVPuFv1FLQW9hm0UfcOss74ya7W-RysjPYgre7yWqh09DynU_mIpE77a6Mw_iWg___vm439vpSa-_uKLPy7gW3_pX3h_qB9-f_kejz5D3yL9Qp4IfXmdRL0OXFJ9e1noPQ-ZY7vVGKM7kZkJeskZxvqq2hy5X1rv-N9axzi2HK54LZ1fd7lbZPZ7Wdp2J1lY9W8Xx_ThF3i0AZeiM_1XG3OCFeizEFZTcoBWNXJYFgLyUZaUsgwWAfHWFTOyoNThM3TUIjP0E0R0HZH4sw5QhXOiD_xywU_pMnLPEHI1De8yds2R8vdMiHM3jBHy7owTMkMMznIMjVPxTgxM8TBL_3Fbi0FxrAsC8XzJwnEXSjAwSknq8BfJobCXySGwlsdWsA3HTi_ch9Wvkgg-rtfJI250h2ttXkcc7DTI26rPSDEqKge1Ki7Hz2m3R65pHAT_aVCEgSi9RfTnjMp24UJKUqCyye_frQk7nsgHoN6AABEWdwzrTs7REwtVnPSEYmHAADFsx8iJbbfKkjGDioo0bgnJNvtJ8TrNSre-gMw___0MwH65jYH9jo63uJdQxnXqkq_z5FNb88RUQrVEVZ1x1pgxsVkZVjCEGkJwEVuoKBChJCiq4Vgq3uGTrOjiY6y0Ys7qjuTm6ILoh-iE6Q="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['HR/13']=data;}

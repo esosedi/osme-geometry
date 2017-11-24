@@ -1,0 +1,7 @@
+var data = {
+"_ring":64,
+"_params":".sd-64-en",
+"regions":{"41255":{"level":6,"name":"Province of Campobasso","index":1,"property":{"openStreetMapId":41255,"iso3166":""}},"41256":{"level":4,"name":"Molise","index":0,"property":{"openStreetMapId":41256,"iso3166":"IT-67"}},"41277":{"level":6,"name":"Province of Isernia","index":2,"property":{"openStreetMapId":41277,"iso3166":""}}},
+"paths":{"41277":[[1]]},"ways":{"1":"ooV3AhW51ADLhX8CDZndAL2SAADglpsGt5ZmEgKW5BdakJkiBJrWKOyZyjFiorcxRKv6OJ-r5kOtnIlJF6F-TtClnVAeqxdNx68FUP2tTFULsDJg17ENYh-2WmIzufxlZriYZx-xAWmXsNJvTrX3b8u5OnPvvN1vFr0raGO_0WW7zr1iPdcfW6Pee2Pz31VoMd4xcGzhYnBR5Bh3_-O0eW3uNn5A8suG__9yl4L3JqDs-Oeoz_OIqhPs-7Bv6FGxL-f8t4TrxLo_7la57_AkwAjqQ8ET7LfICul7zkveVdpZ3eHd3cd_4pa-huYEuIXiNbb273Kv8OvOqOn4aKh2_H-h__-wmKr_HpLw9nuOfvcli5PzZo9M74GOEOnZh1_iY4vN2c-JW9fjgyXZsn0G1WR6fdaafNHcqHed7XZxwe5YcIX1oWyy-qBmyvsEZBHzxlqG8_xSSOnTSgbp-E2743ZAxeCGQ8XWWzwwzS47y8aqLeLEPyCWwL4bssIHIfWwtyBZqg8nd6DTKXmX5SvvmswwNZXnLyGIFDZQhOc1cXlqN4R0XDZDbso32Ga4NP1jFi31YvsuGF0KO31R3TqAT8s1dE5NLktGnB3YPPoRq0imDqlJTAjFR2gB6UwAAGdL1gGnRKQGqT-qBQk1GQMCLbYK-ibFDgwmZxKnIdUSjxy6Faka8RnhHW8fuh2mJD0QfinuETcuyRaFL90StzPqDw00Cg5FPaQXaj6LH39BCyJLQhEm4klHHKVLEyMlUmMlw1RgJHVXxhsCWsUbU1uAGb9dARnKYeMbr2IvH4dnwx3dayofknN_GCeDfxTui5kLVIyxCCKOKQj6jksEmZIZAL2SAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IT/67']=data;}

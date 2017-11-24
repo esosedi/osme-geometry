@@ -1,0 +1,7 @@
+var data = {
+"_ring":2134,
+"_params":".sd-2134-en",
+"regions":{"2190481":{"level":4,"name":"Jonglei","index":0,"property":{"openStreetMapId":2190481,"iso3166":"SS-JG"}}},
+"paths":{"2190481":[[1]]},"ways":{"1":"cGpYAADbzAGAs5EAimQWAnGILJphhzGaAIjinAaJFJ3ZhqefP4fjoQ2GJKJFhVKkRIRMpOGEqKSsg72kD4RypXOCw6Vvgq-mAoQ2p06D6afUhNio94OMqX-E3KrVhT2riYS9rIOFka0shJuucIQXsISBYrF_gfS2bX-aupp86rtFeVO_9HZVxI9ywcUwcnfHzXCCx_Fu0MlMbBjKiGqoywVl6MuZZFbK-mLdym9fD8_JXUjPLVvR0wlV4tPVVHTVgFIF1gNTZ9f-UQ_Ys1Dv2bBORNnXTjva00xz225N49snTBHeK02o3vhM5t_qS7bg7kz74UJKteS8RZLm00Dv5VQ_g-q6QO_qekDC6708e--pOqbvjjaD8qs3nvf6Nvv4gTX4-Jk1GPqnM-D7YzCV_DEucf-mK___XChL_uEl2_7cHi78qxq2_W0X6PwkFFf9NhMU_9cP3v7ZCjTvAADj1jkGoXGDCaZQ1givTPQX30UWI_9D2kHJNYVMiSzgVW8heVzRG7ltaxZZch0T4XtaEWd-ew-_giYPw4kmESWVlQvZnGUJE6CjBhuk4ARzq7UGRbESBqy0Dwc8uTYGN8DUAsHFVgU3y7kBdNDlAbbaAAAv5dIE--lDCNHsmwgM8mYHVfqjCf__dQ6i_honXfwTLC74uTFY9Ok7efMsRDXxk0g76UFNr9URVsbRQlkm1P9dztzKaBDeo22H3NRw9tVbdN-5Qn69thSBnbRGiZmyeYshr4iMxKqfjF2eEoo3l2yLG5JwkKaQmJQfj3iVxYzYlJeJGpcRiAmXcIgomnGILJo="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SS/JG']=data;}

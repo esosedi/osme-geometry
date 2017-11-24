@@ -1,0 +1,7 @@
+var data = {
+"_ring":905,
+"_params":".hd-905-en",
+"regions":{"389890":{"level":4,"name":"Caaguaz\u00fa Department","index":0,"property":{"openStreetMapId":389890,"iso3166":"PY-5"}}},
+"paths":{"389890":[[1]]},"ways":{"1":"Tdx3_iwznvzlmon-2Xe5_P__psnC--DJBvVizAHtDczB4XXLr9VDy7LPVspzylbKNsaLybDAyMX1uJPG1LXlx5-zSsggsOXHu63lx26rjsgKqcDIHKeyx-qlssf1oRjIo500yk6Yl8vqlaXMxZAR0dyQXtSwkXvWZ5DN172N6tlhjjncYY4V3XGLNN7wfRro_G-P9iNtWvftaUv25GWg9sViEfl8YbL8016O_eZcW_0KWJ_9_1Lu_65N__8uSIL76Edj-oxIRPn9UcT1MlXo9B1WP_SSViDzBlZp8RtVwu9KVQznH1fv5B9Xj-L1WCzhiFwx3-teBN2PX7LbHmGV2Wxk8dYlZJvQDGPyz7JPZMs5TWnJ2UvqxcInCLptKHK7USWpuZAhAbleH6-3uh4qtrAYrbGnEmmxABBbsIMKNatUCmGn-Aq9pCsOf6JzD7mfABCtkC0P9Y61DO-KKg0Khy0Pd4SPEo-BCxeVf_oanHxZHB15WRwPZK4XwmCtFh5eOBb4WH4W0FT2GN9OVBktSw8aqElwHGxGExy6QuIa8kAlGT89gxkEOrMaCzezGgI0gRjBMjAROjIUDpMwKg0ULScLDCP3CVkf1QJrGAAAbBEAAAwPpQHvDNcDBQuVBk4J9Ae4B68IzgUtCt8Cyg7HBvkRWgd1IM4AHiQAAMgnWAAgK3ID5y_ZD3QyHBEdQbgS5GMFHLJzYiBlgq4iNZpBI0eZmCjlmfgqTp06LBWpdC4vrN0vl7IhNS6yWjc_sVs7SLJ4PFi9Iz2Fzo5Gus4KSKjMfEpPwmpOT7_dUMu7dVGXuANTYrK4VBywuVYcsFFZYrLEXS21g2DUuRFiy8HPYu7CEmRYw45n98MeayPGdG4JybdxAMv6cmrL6Ha5zmV83dJ6hArV9oWg1y-GOOvfp5Dz1LH__6bJ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/5']=data;}

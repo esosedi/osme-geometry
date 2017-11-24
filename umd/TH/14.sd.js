@@ -1,0 +1,7 @@
+var data = {
+"_ring":1976,
+"_params":".sd-1976-en",
+"regions":{"1908806":{"level":4,"name":"Phra Nakhon Si Ayutthaya Province","index":0,"property":{"openStreetMapId":1908806,"iso3166":"TH-14"}}},
+"paths":{"1908806":[[1]]},"ways":{"1":"_ErXAG1A-QWHFuAAcHACBv__N31M_O1_rvt3gcf9mYXK_HGKn_Y1jOH1Y40h9hGTR_Trm63yhJ7d7VWdW9v0lMjX15SW0_aWgNCQmyjOc52ex8GeRsVooMvDAaPxwWOrLcMitjzIxsLTysjGjcx2zu_LkNmqzdXhTsyu5nTKzeisw1fq8Ljs6Da3rua7tTHigrNM4A6wAuFhqkXnqqdy6KqUq-TFjK7mUYme5Z2F2uWIgs3otH4u7yR6m_KXdBPzKW8i8tlgHOxeX7Psw10u70JeCfhlXXj9TFsC_79Vev8ZTuP-i0jy_4c7__8VH-LGow-4qpoPlqhlC1yjeghfmQ0GUpaIBQKRdQOMkHUEx43VA6-MfQKSjdABKY3mAH2NawDLi1oCKYqjBOyD6QYbgRwB9HYAAB1yFgPEZDwBQVo8AVtFLwOMNEIIcS9MCF0uoQqVLk0KYym5CU8pywsTJWQN3iT0DZwgHQ0CHY8H6BgTF6obEBgTG0gasxb_HFwLJB4AAHYfgABcJwAJnDDYDTA0jQ7lQJ0NpErYDXRPJA-fVSgTx1xYFLZhiBc_cg8XbXf_FxN_1Ro-hfIYC4uxFMaVYg92mhcOHKKsDmqn9w1EqZ4PQaqxEgiolxi4rAggZKljL9ur1jg6rH08PavqPzet7kPqsItIy7CATeexOVItsJZU26t5VjuZH1aKlKdX5pUoYPORbmpXmud38Zu6eJmsRHqvr455I7P0dpe2AnZav1B3zsLWdnTKHXJOzDpy6M14dNjSyXde2kF4auAGeinqNHsq80h-DPwWe2T--3z__zd9"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/14']=data;}

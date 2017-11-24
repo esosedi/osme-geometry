@@ -1,0 +1,7 @@
+var data = {
+"_ring":2144,
+"_params":".sd-2144-en",
+"regions":{"2194862":{"level":4,"name":"Boaco Department","index":0,"property":{"openStreetMapId":2194862,"iso3166":"NI-BO"}}},
+"paths":{"2194862":[[1]]},"ways":{"1":"uh2zADr13_oOEMMAUn3v-v3d___vxg3xO8Ke73u6ze-Xtg3vnahw5D2nu90ZpMXZRqQM2B-nLNQKpHzLHKFrxo2YfL5ykOiw_JBarrOSbqyJjzCoeotii-2La4nNjeyHCI46hriLyYF2jTx9gIzheFyMH2_viV1pwoWTZX5_DGMpclhhm2xAWMxmklatYSlXP1nWUcJVf1CTUutNAACxU9UrzTogXEYtRF7XKVZeHiWeYPcib2bzIvtnWiSjaj4ioW6qIcFvFSLRcBokKHOGIh57yidfiiQUSY9fD_aR7A1fmOgPCZooEnmbThKZnFoQjqDIDiyi9AqJqp4FO61tApavxgHQsDcDerYAAFO3DgDdt-QBarkkAQy76wFUvTMFPMFGCDfEowzux6MWqsqRGWDNcBpl1W4ZMdaVG5DXrybJ13c2C9kePq7c9EhN3AlMzdobT9PahFG02T9Tr9plVbTZYViJ2zNZWty7XIbdN17Y3UlfstwLYkHfJWVD3y5qG-VzbZDm6m9S53h0kOZbd53oinoy57GB5eO_hVTj4Ify5uWKN-hJjgjrlJAL7PiTi-e4nPDh_J4b5IOhiOM0p1TgMqpS3pGzIN1UtFnZT7LV2CuzhNh0uMja4Lml2se6htfevUzQ-sHxzyTD49GoxjjRO81J1OzO2ticzlnZVM892OvTAtpO1TzcgtUs4pDTF-Su1T7nM9c-69zbse3w20TxrdmX8i_cmPWp2xb6Ft7j-5bf__9H6Sr9ZO_k-O_yhvWn9_voWPxz4Bz8TN6W_v3d__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/BO']=data;}

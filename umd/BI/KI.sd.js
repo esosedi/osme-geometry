@@ -1,0 +1,7 @@
+var data = {
+"_ring":1638,
+"_params":".sd-1638-en",
+"regions":{"1700329":{"level":4,"name":"Kirundo Province","index":0,"property":{"openStreetMapId":1700329,"iso3166":"BI-KI"}}},
+"paths":{"1700329":[[1]]},"ways":{"1":"xYTV_26MyAHqfdz_QiLQAb9HtQS-SqYGnU_aB6lRAQe_UuoEdlQBBDpaOwWcYsYEPm2OBY9xjwS7c2IC43T4AiR5ogFTenUAR3zVACl_AACmgQYCXITUAtCFigRCiEEEbYzuBiSRkAcElNIGn5QhCNCWKgm8mNAI9Z5nCz-gPgumoWoPW6U8EmylFxZMpxEYo6y0GMmvuxfrtIkZL7dgGIy5chhQuxoXer0lGOvCixU5ycMU2s5SFaPYtxEb3YMRdeJuDyLmLgzB58cLk-ssDMXzlhLx_dwR___PEyH7UCCt9von_PbsMZH0QDjg7AZBhuTtRdfceEil2vxJ79WeTzzLwlkwyfhcWciyYCzDg2gIwuRsasILcb3EsXRzxZF5U8ixfn3GGYVkx5qHltERjjTYXo9428mO_91Rjz3hxpYG6H2XYupsmSzwEJpd85mc-vKMoBnw_6LE7fWmZustqV_nNqqb5lKrKeU1uDHmR8Eq8L_otdza6gHM-_K9v5r1fLYj_kev__-Lqcz-_KFh9-ufkvYWmKv3_ZA__8CO8v_ki1j_eIch_K-D8fr9gA_7-Hz9_BR5jfwncwX7dmr69tVo4_MhaOjulWe96uFoqeRcZ-fgFGDS269XNtleVd7W_VWMz2tM6sqIQFW_qzQOuBszAbTSNU2yxjuYsEs63agfNlGfyTHmmlYzg5j8IjyJHyFehEYdyYBYGyyAkhzffB0hJ3hiIFB2BR8WdZwWPHKBD6BsmgkHbM8CLWfJATplOwKVYUcHqFtlAEJQAAChRwQGzkj0B8tGtgwwRb8NikKuEbFB9xHyPw4U-T0EGYA9aCSDLbEmeDFUKsMyPDUsKzw0fid0OWUn7DpgJk4-UR91PmMbzUB2Gr9DTRfjRzgOR0YTB5dH2QS_R7UE"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BI/KI']=data;}

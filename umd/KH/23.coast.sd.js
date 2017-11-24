@@ -1,0 +1,7 @@
+var data = {
+"_ring":2163,
+"_params":".sd-2163-en",
+"regions":{"2200024":{"level":4,"name":"Kep Province","index":0,"property":{"openStreetMapId":2200024,"iso3166":"KH-23"}}},
+"paths":{"2200024":[[1]]},"ways":{"1":"_2KfAMj0NgaomqEA0Gk5BgAAuO_YArbpzQRx4SUFrd58A87Xcgin0mgJ1s_cCIHOPgw9xyAMSsVqE9_BXxWNv6UUqbxiFeu7HRsVunAnrLNpNxWptDtApYU9t6R_TQWXpFmHiENaQ4LbVyt64lY7emhTQnQSUBpxxUkeZutIdGLuRz9iGEbvXfNCQ1p-Q3VZ0UJjWOI-ylPfPJ1P8DtuT_47cEqFNcM8fzXCOHg3Szb8N4ozvTwWK-o5pSa9OtIldUDfJFJIcCYtTd8lIVWIJjhj_SN7bJgjHW-sJL12EyO_gPEeJoUoHo6H8Rs_kMIZw5DhGJSY-RUho0MQIqQ5EP-nmwwbrH0LMrW-Al-4bwKuu5kAfLxiAVe8ngI3uz8DDby3BIfEpAExxgAA5sj1Ae3JigYGz74JgdOgCh_VuwjB4YQK__-WEdj6ihiL7MYnKeaGLE_nlTA05_o1TeWMOivlOUHe4zND7eM9S2ziGk5t4I1XxOFYXMbgYGW84uhmNuP5aGXiIWqK41hyROf7duHoxXqX6f6Ad-j6pankQaUh5DSn3dmkrI3lPa8I5NG16NssvrTXpL_FyovATMcQwPXEfL6Gsfu_hK7Uvvurcb-9qsa-JakwwmmnEcLypSrDnqGnyLCh2MrJnaDOHpxTzoSaTc9jloLT_5KK0juNftMBjd7Sqo4x11uNU9fUiVbaAInO4MOCZesygLvsxG-G7LNqx_G6Y0X0A2HR8lZeJ-9BXA_vs1ml8S9ZKPafVbX3NlRW-R5PPfhsSYroH01Z5DtOwuDpT8rfBlQJ5f1VkuRuVkHj4lQF4ItUYNrrUtjYlVCc2DVMSNpLS87ZaUoS1f1Iy9SuRtHVaEMB20Y8y9yAPEbeOj5B33FDIeAtRP_hCEIr5Ew3ueJ4Mfbffy-63dk0qdtcMybY7Cr71yktU9tkLZrdzCob37EnX93PJVfejCXu300mZOFRK4Lkuiz85qEq5OvnLMvsSTAf698yp-6IMm7wdSwy9tAqDfYHJnDuLyTQ7r8i7fB5Iln1Hx4A-VMYVPrOFx_-_RT__2sRGf_uDML7BAC37w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KH/23']=data;}

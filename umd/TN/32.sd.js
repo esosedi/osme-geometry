@@ -1,0 +1,7 @@
+var data = {
+"_ring":1253,
+"_params":".sd-1253-en",
+"regions":{"1435834":{"level":4,"name":"Jendouba Governorate","index":0,"property":{"openStreetMapId":1435834,"iso3166":"TN-32"}}},
+"paths":{"1435834":[[1]]},"ways":{"1":"odEqAplqfAAy7zQCBI-KANNV9DWOVtI3oFgQOaFbqD5yWp9A6VsfQodgb0PUYglFQmNBRxdl8EibY-VMa2OaUZZl8VAlaClSYGteUhRu41P5co1U-HNJVGp0MFKvdmVXinw3W15_EVsGgitcFIQSWjOO8FXXkL1VDZNdV-2WTlTVlFpQCJVjTj6Wo03hlQFMC5pITD-bLFDBoUJbUaFJZPOiNme_n49oaZ8sbIGhaW5znz5xFKA-clOfqHMuqSV7LKZUfrWndYD7qU-B8alZg2Ct9YhRrWOKXbBwjre4qpHBukuOwr2GjHK8J4pQvn2HUb_bg3C-KoI9wFOCFcFeg5PE9YLZxeyDFMscg4zNNoQcz7GDt9OLhVnWK4q62xiHK-DZhn_jdYsN5MGNGOUbjgzm75BK53aRg-jZlKfn_ZZT6haaR-i1mrfpip6Z6eigK-toop_mfaYC6AGnCegppkjpZKYg6m6neOe_qC7o36eU5gqn_uVgp6nnLKhf5rGn6eTDqGXkn6s85YuuiejztMfrSrgD7k-9__8_z_75_teR9Q7c5e682xvrq9mW57_ZaOAw35PezuIr3Tjjptq-4R_aFeTy2ILkT9UE433REejZyLfmq8A94qi76NwruELXkqbr1Hak1NX3onPodqEq7DWfPu_smwzxdI409jSDqfEbfn_wc3nK8O9wH_QvYwT-CF_E_5Ja__82TRz_u0Jk-Ro_YvgoLwD4CSwb7nEpDNgWJ8_UKx4KzvsabccNG2rA6xjVuwQZNrinEwKe5hm_iwYSSHz8El5uXQp3ZSwIdlsAACdS5gGBQcwGikSTCTZE2QxPQsoTr0Z4FPNFIBjARScaODxxHpI6CyGMN9EcYzSzGxcwKx3wL_IdoSxnHDEqpB9HKbof0iUDIR4kGx4zHhoh3BrRIDQX4SF8FT4hexCMItYN5iWZDL8mdwtpJuQFRC5MAGAxyQEDM6ABrjQAAGk3TQXvOk4GTTvEB5s4egsvOz4PsjvBEoA9TBNCQHkZIkRbHFtD9R4gRQwm5EvoLVVSnS9TVYk101X0NQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/32']=data;}

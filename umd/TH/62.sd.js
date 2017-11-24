@@ -1,0 +1,7 @@
+var data = {
+"_ring":1950,
+"_params":".sd-1950-en",
+"regions":{"1908776":{"level":4,"name":"Kamphaeng Phet Province","index":0,"property":{"openStreetMapId":1908776,"iso3166":"TH-62"}}},
+"paths":{"1908776":[[1]]},"ways":{"1":"X9LwANBg5gXgrwEBGmL2Bb3Rm-DxzWfgJ8ha3UnGJt2IvyHgfLnt4ym5jenytWPvubRe9h2zWvndsDv6Wq5I_aip5P1Ppv__epjk-QuSm_gCiDvyNYZM8tyCwfWcgJL2dH-b9F56vfD1diLsUnSA6tpua-m3ZfrqOF9e5jpQdN_0SiveCEWB3gJC3Nu6M-TJCC_GxvMpWcWLJOXBryAIvkkZGb75FKO6KgoqtgIJA7USCcey2QeKsFgDB6oAANynAADXppwB_6OxBv-fuhBZndcWsZnmGCqWWBuwjUQfhoePHvKEuB8igHYf1HlNHpd35BrZdu4ZUnO5HWxpoRzDZQMfAFhfHPxSPR55UD0eY0-IHeVN5Bo4TdQaGkreF65IYhjIRpobi0SpHd0_fCJtOXMj9zWtIi8zECNFMOAgUi8ZIuoq2xvzJNsbdR8CFA0XbRUsFuMcoRX6HyQYgyM9Fv0mDBNLLZAVMDBcFZA0GhLzNPMMTTbqCow61QkTQuYJ0UyCBmpSpgaBVd4HAlpTC6Vc5gmKXywKBWF-CT5iCQYcZIwEYmkoBeBx2QI8fKIFIIGiBeiIqgd6jYgHgJBPBmuWIwDcmgAAIqBwAo2hWASFoCwKjKHQEEyfuxd0oLsfN6VBJzan7ysqrNgupa3qOruwqT_JtPhBrrdgQpXDQT8nyO4_scv4QcnMfkWWzvxGV9WLSAna0EzM3klNqOK7SyDoEUzl6ihRDO6pU6_welQ2-CJU4fsNV___Rlio-lZg__-PeYz_ZH8a_fKEwflEiJP1jomm8Y6JE-9ii0rcdKt0232x7tx0u1rcZshy3XzRD92J1HnT9t290Zvg"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/62']=data;}

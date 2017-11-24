@@ -1,0 +1,7 @@
+var data = {
+"_ring":1441,
+"_params":".sd-1441-en",
+"regions":{"1675889":{"level":8,"name":"Vransko","index":0,"property":{"openStreetMapId":1675889,"iso3166":"SI-189"}}},
+"paths":{"1675889":[[1]]},"ways":{"1":"Sr3AAmIc4wB9NMICTQvlAOTEgP8Twf__NMJa9gHBIfNhvGrzubpz8e-2Ye_Mrd7xcK2w8E-sZvCBqXHytqVW8oCmfeXimlfkeZuv2GqdptVcnH_UxZkA0yaWm9NgkfXRzJBv0d-Qg8s7jn3KAo3nxl2JB8jkhkbGQIcexQGGhcP4eirBw3hPvpl1fr5udQLB_XM6wKZyBr7IcaG-pHHKvTFv3r1abqG46GuFtEtpjrOnZtWvoGIyrCZZSqn7VdekH1IyotxO5KCUTK2he0WuoMIwBKQAK5SiFiZApdQVW6uXAZl77wIkZwAABV-oAtJZgQjqUhYKSFOlECBRDBRvTeIXOkwQGvlJnh1pQyAhkjpbIaIz_SRmMlgmSTMnKQYyBCoZMyAuKjLCNLEySjoLMvM8ujXCR2UxuU0_Q3NIrUfaSt1L507FSKhQC0xeUiNTik9tVFVQwVbsUnlZUFRMVxdVKElnVz09zFldOKVbOTmHXMg38V2lOBJfATraYXY3Lmw3MWRvZjBebyQv9nSPLn926y-jd8ouv3h8LPJ4sSl0dY8lsnSMJWpy5yCmciwf1HS8HOx4WhuHeIgZI37LF7Z-uBarfyETPH56DyeAlAxNf8cDyIZnAhKKAABEjBMA5pMUA_2VVAW2lt0IB5vdB2acOApsnsET15xvFA-d2RU3pRcYVKh8FzWufBt1r9cdlrBkHlK2Oh28uy8Z0cCpFu_EhhDbxuESqclLE3zLoBU5ywIYbcwRHXjKFyUGy3InRcYKMlXEijl7xCU_jMDfSInMfEoezhJIUNIbSP_SM0pp1cxL1tcJUYHfUFy23xNgr-HMYuTjU2lw5RZpYOYTbIDg0W8Q4ER2HN7_etffb4FM4f6DxOURh-voE4jS63-HMe6qhPTvtIQ78hCD3_XyfcT5Qn4e_GR9Fv4Ofq3-sIj___6KzPwdjib6U45U9gGNI_YikRf5PZst-fCdH_XOtWzze7jc6nC9aOfDwuziQsSW3_vHoduiyWHTS9CE0rTStNU527nUjd-a0Szi5cj65FbHXec2xu7p6Mbl6yPGgOwtxRbx3sR__w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/189']=data;}

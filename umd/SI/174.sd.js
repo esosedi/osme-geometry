@@ -1,0 +1,7 @@
+var data = {
+"_ring":1444,
+"_params":".sd-1444-en",
+"regions":{"1675895":{"level":8,"name":"Municipality of Prebold","index":0,"property":{"openStreetMapId":1675895,"iso3166":"SI-174"}}},
+"paths":{"1675895":[[1]]},"ways":{"1":"3rPAAueM5QDk2cECHg3nAPmTdgQOltAFIJceCc-YPgsdnNsLt5vEDIadXQyOnQQO1JoNEfGZZg9TmQMW55xoGFWgzhdFoPEaUp_jG1ygZiK_nCMoRJ06Khekiy3WqJ0trqvYL9utpC--rhsyMbEINHKyyjWCsrY3T7REOVS5JTpqveY7hb5gOqbAoj0nwFhA6cGiSLvBN0w2xIJJ89RhQOPZ6VWj41JSoOZuXQXwklr_82tbhfX2Y1T31GNj99dkOvZYZWL3fmsz-iRqo_h1a075uG24-yhzV_27c___W3p4_T-BYPdnjFj5rI4Z862URNOcsHbNqapczM6rh8dfv3LGFMi2xu3LkMQB0Pu_Cd7twSPm4MDy7si7AvpYtxH6HbP__zmyDP8VsJX_aa_l_QOsSP2Mqir80afz_SGiIvtjoLP4PaAm92Gfm_Y3noz3hp6A9pif2fTpo5DytqQf74mnN-t5o4rlyqH25Lqe5-UJnwnjeqBR4dGgft-_nxfftp593IGc9dw7nAzc2JlT3SuWa90yj5jcgYxD2gGLI9t7hnHZYYXZ2fiDi9ycgc3ex3-V3eF9rt04eyjccnZF22t0wN8kcSHhYnB53KxxVtnFcV7WMWjK1gplTtjJZNLc1F9L3glN6t8XTMffmkt73cY969njNkzcvjRI22YwL9w8L4LbxyNnzgwgh8v5GZDAWxROuekTt65mECKoBA7FpcIWmJQCF76ScxkAj14VVIkHEiKBcg3peawJzHG7BuNjXwMwWgAAMFMyA11MuQS6S9wFt0fZBodCwwZONrMHjTEVC18tZQ6zJjEPGiGGEQkbexD4FOcSMg7eFCALWBXoCyMYbAshF5sJ4he1Bk8ZCwWSG5sEwxxDA7IgNwQEI5ICBSXsAs4nLAZ7KkkGMTAAAJs4GQU6OigHaEPRCKZG9wazSMQGN1LMCxFc4QwoXL0R9VrYF6dgOxbDYpoT6GF0Ev1mxQ3QcFYKUIFlANyKvQAtj-wBApR1BA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/174']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1111,
+"_params":".sd-1111-en",
+"regions":{"1243588":{"level":4,"name":"Ogoou\u00e9-Lolo Province","index":0,"property":{"openStreetMapId":1243588,"iso3166":"GA-7"}}},
+"paths":{"1243588":[[1]]},"ways":{"1":"0KTi_6arrwBUjwQAWQvPAK0LmI2XCo2KdAsFhhYJdoPrBXp9CARYfiUC_31CAMh7AABVerACY3YOBY91NgY0diYJLHSuCyBwMgpxZ3cMLmMZDNleGhC8V0EP5lM5IfhDUiDlQNQjxzgtJ502uyijNvsw9Th5Pqs5m0HdNilNrCgfU_sf6VYvHY9kZR7hY6cawF5gEfpeBw57XHQKO13RBq1cDARfYOcF1GH5BXdiIQVkZNQFWGq9BQNyKAHCeAAA8n-7AE-JzQevjHIX8Z0TTiugU1TVoa1WuaFEWW2jRVuSop5cgKh0a1-q4HKqrdx4h7RkegfNeH7x8DGGLv7MiVT9Uo5I-ZeUMPwHlf__XZff_Veb7PkYoFH3taDc-UylafZ9prL3q6i89rCq5PeCrtb5OrHR_Y2w9PwCtDf7xbMJ-i-2-PcrtmT5jbj09m641PfwvaH5jb-g9mzA7_Qrwu70vsNm8TLEWe2SxivnOchp53PLZeX4zOjjH9Jc5XnU1-LW2PXjEdwX45bey97c3iPbstrC2PHabtjD2JTVf9jl1MjVqdL51wDNrNlIyYDZb8ZB26DF-9xAxvDelMM24FrBad_VuNLndIj__6J0MPGnVsDcKFjk2Fdb2tVOW9TSKl5i0HBd1c2tVUbNB1SNztRMq80JSojHakWRxOFEY8JmQ_3A8ERpvko-K7ceOmG1HzpDsto1Nq9xMyarVi4brGIpeqnMJ2imyCVGpbIjVKYDJNqjYhxnn28Xep-rE1ycyRAFn4oPCZymAziargfmlnQLN46tC5iN"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GA/7']=data;}

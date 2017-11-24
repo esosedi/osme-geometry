@@ -1,0 +1,7 @@
+var data = {
+"_ring":623,
+"_params":"-623-en",
+"regions":{"254143":{"level":8,"name":"Comer\u00edo, Puerto Rico","index":0,"property":{"openStreetMapId":254143,"iso3166":"PR-045"}}},
+"paths":{"254143":[[1]]},"ways":{"1":"meMVATpdDfxsKRYB7aAN_IxOijf-VOk07Wf_N6x1tDsGftxA1XxvRPV0_lTgdm9Vc4OOUoWJEFR4kGRVTZgPU9KfT1Njqk9Tv6pNWG-r7Vn-rKZaw7HiWa6yuVrSsixcuLEyXnKr6GIlqlpnyagWasak1m3FqEVyiq1Ee3qyIIBjtf-Eubg-h6C5SY0uvpuZx8NmlufH_5T3yrWW28ummSfKzKOHzGSlSNEdqanU260I1HSwncytujfNdslU0jLT-s4N2jLWPeBV5eDqD_BP8FD1BvL5_MfyI_988___UPQB_cL4bvuq-qf5LPww8ML4SO6J-JHor_hF3eP6zdgC_BPUqv0R0Lb-pc2z__TK__8eyOj_hcO2_vO9QftcvHr4xruF9BG6WfWvtNr2gauq-kegk-mrkejNu4zgyfiEMb6Yd2aj7nS5o_xzaaODc4OiSHNPoPprgZquZjyWl2XXln1kSJYpZOyUgmcxjH9nDYr3Zg-JqmWLiGdkxIhNXZuMsluQjM5ZoYsjVUqLXU_YiX9KhYZ3Sd2E-kenf4BF-XutQi55Tz3ebXgzB2RVMENjvig6ZaAnGWZdJQZpgCP0afsg7GljHiZoNhwGZqUYN2NTFopiZhBKY1kO82J1C2ph6wf9XdwS3k9GEqhOwBnDS4kTATZiCjc3SARGLccBCSMAAKUdowMdGpAI4RLwDlkMUBBbCvsU0gWBGdoC3huVAQgetgDeIDkAhSUAABUoKgDuKaoAmS0TA0cxhwZAOJwOK0QbDmVE-g5BRYAQxkaaEG5MbwvOTa8Ly04pDS5PHRM8TjkYsU7ZGb1PdBogUUca3lbIF19YZxjjWIYZvldcHAxTFiGnT_Yo20qsLQpKGDAoS8w1tEyYNoxOijc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/045']=data;}

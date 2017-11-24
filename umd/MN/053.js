@@ -1,0 +1,7 @@
+var data = {
+"_ring":639,
+"_params":"-639-en",
+"regions":{"270051":{"level":4,"name":"\u00d6mn\u00f6govi Province","index":0,"property":{"openStreetMapId":270051,"iso3166":"MN-053"}}},
+"paths":{"270051":[[1]]},"ways":{"1":"gnd6ArD77AVFu7ECmXZwBgAgLGpWKMRhVig2XwMpwVzZJ-pZji38Tn4_jkcbQbJGnUKoQBxNByshTrYaoko1GVNLfxDERmAF0FFPBRRbswQpZ0gDeXQpAkeIAwE6oP8Ab60AAEKwNAB2skkBYbObAuez0QQ4tVkHobWDCUO1uQr1slkNx696D2Wt8RGlphQV-Z-mGLOeABrPnewcUp-QI0if6zKXn4819aDZOEWlMD1_p-Y_h6mtQqyqOEV5rghHJbEWS9myUE7Otb9XJ7Zlata9m2iEv3FowcGoaArFfGnByXZrrdSVbQ3f3XCk471xieUkdFDoonQQ6mR1qOv4dn3uqXqp8E98p_Z8f_T7goGp_bOBd_5eiP__X4vk-3yMW_ghjabwCI4K6TSPBuWAkCDjxJEG4WyUJN-kmG_eRZua3WqdV9znnmvbnaA72lWkV9o3pozbmKne2yOt1dsBsePa6bT70sS2vsjwuqnGcbtPw-q74MCxvJa5lMF5uJPCzre-w5C3acXct4DHBrl9ymC6SswZvsvOhL9t0MvAk9LAw8_Ud8kn2zbLEN-jzYfmbs_l6TXPZ-vMzcvtwc1E7y_StfV0xIz0bMGV9Be_CvVntsP3h7EL-fWqEvoqpZf685gQ_XGVpv2Rk8T9aI6s_e6EGv3ReRn9CXdx_TBzof4tcDX_Pmd-_4tg___QWV__PU8k_zJHcv7NOmT-wDqI_Rc6lfzIOuX2vzoZ8tE9B_DvPcDugTr86Uw37OjeM4HiQTLu2iItMdReK6TSxhiTungWG7ifC0yuxwuqrAAAM6YUBV2jZwRKnMgFj5e1FMGXjw8zin8PHoS9Feh1ACAsag=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/053']=data;}

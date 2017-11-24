@@ -1,0 +1,7 @@
+var data = {
+"_ring":466,
+"_params":".sd-466-en",
+"regions":{"222870":{"level":6,"name":"Po\u017eega-Slavonia County","index":0,"property":{"openStreetMapId":222870,"iso3166":"HR-11"}}},
+"paths":{"222870":[[1]]},"ways":{"1":"8HWxAn1QAgFqhLcCSVwUARW9CQJUyAUBf80qAcrUAADs5-4DOuj3BbnfRgcr2-AIDtL9Dg7SpBPg09MVhdfdF6bZEBtb0v4ets58IlvSESOP2kQmj9qYKL3YOyx81EAtLtS5L8DR6DHg0-0yONfDMeLkQTXi5G83J-IOOq_cEzv30ulBANaDQ-DTjEXq1l5Lb9jqURTciVSv3PlchdeOXRfVKF9b0mVkqdJ4aE7W8WoG4P9tgu-5bifzCXDL9lNwpvt0b1z-lm3n_h9x_vwWc7f5InS3-X12tvbidlfy2Xi18_17WfgJfbj8CX3__wB_uf86gVr77oKf-BKGhfHoh2ztqIqy7SWNaupfj8Tig5Ko2yuTj9eSlrvTt6RBy4-p-8ourCvN96y3zZWvb8p6tVTGZ7k4v6G777vnvsK8nsOYwzDF3sNtyma-ecvEvWPOZLYwzmOu69HBrXjYb6tl22CmHN1RoSLgyZ4p41yakOMklmPmkJYA6Miag-msmFPrmYtY7ZmLqe85iGDxf42a9FeO8PgTjan7bIRe_F6Dr_5qgP__cXUw_yx0RPzMcL_5k2zS9rhnuPbqY0L7D18S_blYRv21VJj_hk2y_-9JLP31QsP7REEK-TI8oPcfN7r3Sjlx8uU-Au9LQITof0Kb5rJEQN1MQ9fQsTyyz305XM7hLo3OEys1y6skWMhtIIXHASB6xfcUSMPAEbm9oxOgu9oWmLoVFm65gwxuuC4ICLbwAs21AAAStN4CvbLeAvKsbgZiq-0JBKv0C-OnhhUvq4IZQKliK0Cpby_Kp28v0qbbOFOl7Th5mj03hJhcN8CVGD4vjZE-iYqoRX6HRErQhrFNWYE0WFt6mGLHeMxpcXjbagB1dm9lcft_QGseiItkR4G8XkeBsVvugvJZGoIWWDN6v1d8d7tWEnYKVeV2zE8Ge_BNnnu9Sw2FMEizhBpCkH4LPghqmjbgbscynGq-MJBn-i0saBYsAnFhLMt2NyvXeZ0pD3tpJu5_qiTYgCwh74b0HHWIexq4jDEai5WAGz2cjh4Foo4e-aWvHUempRs9o3YZw50LGhyavBhUm8oTiqNVEpWmFBQlq3sSGa_cDwOwHQYBtzQDFb0JAg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['HR/11']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1961,
+"_params":".sd-1961-en",
+"regions":{"1908788":{"level":4,"name":"Nakhon Pathom Province","index":0,"property":{"openStreetMapId":1908788,"iso3166":"TH-73"}}},
+"paths":{"1908788":[[1]]},"ways":{"1":"8UTQANLu8gUTVNgAnQf7BSJLWfsvRyz9E0E3_lw9u_yxOFj8VzZ1_NI1zv19M7L9iDL5_qgsH_8WKvn_hCj__0YoxP5jJ4f-XyWR_84jWP-1Imr8nyLf8usek-jlHFTmtxrs5cYXduIdFsbh8hM-44sQpN-OEY3bNxGp2jsPYtpIDO_S4g3Zz9MKr8mTDYXIiQ5FynUP1slnEQjIORAbx68SLsXpEZ7DZhJKwSYO8by5Dtq7bA1Cur0NPLkIEQe3CBHItVgTxrTLEoOy9w-GsU0Q1rBfDRSsXA_fp_cQvqclD7CZKxAOmHUO7JMyAi2YAAC6kBgA6o5tATeNlwDVisoBMYqVAOmG6AOqhSwE5YOhAyp_PQEif1QAp3zmACB5Ogi9e8EL03skDdR81g2QegEPTHucENZ6pRIDefkRQXhHFKBuxBbmbTcZyGogHCFpLyYhaMsptGg1LuFrBzMEa2UvjmakLpxi1yziYNMsS192IJRYhR9fV-cdJVJAH-5OxSQsSZkuzkN3PLNHPUcFRUJJSUWbWINKh16lSi9kcEk5aAhHW28nRXV5fkYcf7FFK4V3QnqJCDxijZQvHY87I8SSpSPdlSwiiZbVIKyWqhqxmEIYiqSWFzun1xXnpz0UXqcTDi2oMAqZqsYHlK-RBga7AADfxpsBs8lZA2nHbxPzx8Ifs8m0ImDYdzPg4qU9JeoZSFfwoFN58PJdPu0Sa6vvEHZD79GG8O-0mWbvhJz57GeeYe0gqevtuqq18xSu3PVcsPX4h7gd-826E_7XwP__x8e__qvUk_rj5En4K-fe5LfjjdFy4tzNS-EjzVLg_cpm4DXHj9wNvLTee7XN4j-1Ld_Frlrchq2J3Buspd4lqcDb_KZt3iSh9OFWnAbnU5gJ7WKQk-fUiSDhmoM93dt_XeIZTOH6IktZ-w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/73']=data;}

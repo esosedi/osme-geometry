@@ -1,0 +1,7 @@
+var data = {
+"_ring":1361,
+"_params":"-1361-en",
+"regions":{"1674664":{"level":4,"name":"Nimruz Province","index":0,"property":{"openStreetMapId":1674664,"iso3166":"AF-NIM"}}},
+"paths":{"1674664":[[1]]},"ways":{"1":"nrPAAX_BoANg8-sBwkPJA-38__-S-Z790ffF_J3ykvnK7bT3ies39t7pbfVz50_0f-Md8xTgl_E12LzuOs-W6pfMJerlymrqkMhz6hm_x-lcuOrpQrR96dewmuh2rlDoUavG6PKoj-g3pPHldaDI5DafJeQLkjrfWI5S3huL5d1vgxHcqoD72uN9NtrFexjZS3cN1qNxo9TNZrHMI2K-yb5c8cW4WX7DJlXLwLVLiLo9SuO5UEI5taQ8O7JBN9yvyjCtqzMvLatxKdSqHxqkqwgJ7622AcOvAAD5mycAOZsKGbc9_yhuAD8pAACkNeIMHFi5MM1_xFjHgCJa1YE0W7yC6VpqgzBa6oMiWguFIFsmhldbz4g3WneKnloRi1la2YxQW7aQlF7dkedecpPSXhuWwF12mCJdjJv3WvucpFpjnwRbaqDpWpSj2Vgcpq5WtqwwV5SypFFXs5NLGLTZS921o0sJuGNMorrLTIG7o0yGvZ5L076ES8i_BEwCwcxO6sHqT5rCcFDTw8lQQcVwUNnGTE5nx_1Nhsg4Tk3JAk8Gyo1QuMu9VQvN5lfcz-1aMNK9XDPWol673Q9hCuGbYtLjXGTK5x1ll-rTZpPtH2hD7gFpqe4HagDvrW7g7kVzPe7WdwbusYEV7uCK3O5ymIjuU51H7oueNe4apEHvoKY18Qqq9vEfrPzwbLdN8EK66u49wv3tWcVg7UPIBeyVzOTrgc4X7CTPw-zvz8Htm9BF8pTS2_au1Ub6ItnA-zLbuvxH3Uz-RN8B_7Hg__8P6B3_kevz_gbwVv5C8pH85PZC_HP4n_zf_O38__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/NIM']=data;}

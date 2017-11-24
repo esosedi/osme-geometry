@@ -1,0 +1,7 @@
+var data = {
+"_ring":743,
+"_params":"-743-en",
+"regions":{"311771":{"level":4,"name":"Enga Province","index":0,"property":{"openStreetMapId":311771,"iso3166":"PG-EPW"}}},
+"paths":{"311771":[[1]]},"ways":{"1":"5tCk_-0ugghjjLP_jg-ZCP__QdBE_bnRafSZ1zPxJtvS79DdKe8h5K_uXOXP7VHm5Opi6PToSenV4kDrfNuD7K3Ym-0v1gLvF9SU8BbQffQ8zyT2jM5S-cDNQPswzPX8vsiA_0TFwP4PwpT-9b7j_lq7wv_puP__dLfT_zG02v52qiv-i6dd_R2mDfxRpRv626Zo8IKm5-6ppYbtBaRc7Gif5OrenbLp7JpV5quY_eAllWfdtJJ33LaMv9tMigPbsYa-2N2EotXwg5PUGnDK04pu5dNdbF_Ubmox1TRoD9juZtjYO2VT2fle9NkHWJnZMlLn2RdLk9v4QZHc5j8h3Vk8s97oOWXcFjkQ29A35NXHNtfTdzMr0Pkwkc5IMNXNCzD2zGMwqstDMWbKTjOXyK0zeseZM1LGkDLVxAkvkMLgKp7ACyn6vlsoj70QKFe7QCgauRIpDLYFKUq0zCcjsm4kaq4uGAO0SgqpuBcM-bKqDkmvThAnqx4T66ZNE9ijiRIaok4Q_563DtWaWgh_kn8GwI2BAA2GBwDxhAAAv4PMABuCCAT5fbYKW3jMDh1zXBA6cLYRdG7-E2Vt6BY6axcahWdLIFZjZiPNYUIp0l84MsBaUzkNWIY7QlZUPZBRjj95TgNBRkqWQ5pGakXWQehHJz5ySfc5pUvgNnNN6jJaTvExeVBsMPNQFiyWUUIqyVMmJ6tVbCLsV1QfdlkmG_RbdRfPXbYS1GC4DplhdQvhY7MHE2VjBNFlFwMJZ_YBp2gPAaRqbQDebCMAe3EAAKCEKwCK9zkAPPmWAfX6vQOf-2sGO_ykDdP6WRFc-NcTzPaOFqzwLhs77toeTOxSIFTpOSNs5BAnjeARLDvgMi1_4DguFeHeLgHlMDEe5kwy3OaiM3jnVjc75-o7VebRPtbjm0Ks4i5HkeLASOvjFFCy4r9V7uEHV6vewFrH2xJdyNgNYfjcA2WJ3jdn1t_sb4PiU3Tr4196mObHfrzn2oY96CKIoOroiw_s9JG17k6WJPAZn4Dy0qIB8yekLPQ2rNn2kLBB-Jy27voEuyD8E8Oa_FvEwP56x6D_z8r__0HQ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PG/EPW']=data;}

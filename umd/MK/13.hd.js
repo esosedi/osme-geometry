@@ -1,0 +1,7 @@
+var data = {
+"_ring":2374,
+"_params":".hd-2374-en",
+"regions":{"2575609":{"level":7,"name":"Veles Municipality","index":0,"property":{"openStreetMapId":2575609,"iso3166":"MK-13"}}},
+"paths":{"2575609":[[1]]},"ways":{"1":"GwZ7AuQ9SQHg238C8bBNAQAABrIQAICqwAMslrYJ-o1vELeMGxkIjaIeFowmIyyJFiCuhb4eeYJiG_V8ZRpGduYYTHSSGf5w_B0YbG0i1mrGJvBqqy3RaGc1d2HiQpFenUsbWQ9P209dTw1Gq1A-O-NS4zNWVW0t71V0KD1W_yPeU4ogCFIyHRtSoBfJVA8T5V3RDGFoPQXQbR0Aum_lADV2AADldo8AvHeHED57_h3vfeoiqYmSLPaR9TQ1lzAupZ7qLV-iHy91pzYxJ6lKMdqqTDFprsAxCa_gMoiwcjMHsBc14q8SNmiv1zZHruE3C6y7OMmqNjrsqQ08p6lmPa-pFj43q6JAWquoQf-qNkS6qiNFwaouRvqqAEcSrMlHqKzVR0OtI0jgrfVIIa7PSRquZEs4rlxMMq4oTeOtNE7YrX5P4a3QUBuuEVJnrtFS26-WVA2wLFX1r-VVa6-AVtSuqVdqrXJYqqzqWK2rDlpzqi9bRql4WpGob1m2pwdYK6YYVcykEFQmo6VTUqPRVcuj61jYpONbQKeSXZGo716Yq4hgmqyFYMqtjmJrrs9kna4LZsGtbGe6rbZorK7_aDCxamlSslJpAbNiaQCzOWhTsplnW7J-Zvqy3GXIs-xmkbSrZ4-0nWhtsx9q9rBncOur3HSDqTl_xKrYg-at94W2vsKLlcZTkI_U45L_3n6TnOl8kFzsmZEd7iqWu-0zokrx7a7__47Ke_jRzen1pc5Z7dTQmt2n1gDUl9r2ye3l0b-T8aq5IvnjtXP5dLIn9fuuwfFqqL3pIqUs5KqfjeKmnIHd5prT3QiTn-aYj73qKYuH726FpO8ngaLtc3mh5o10bOHCcsPgjm285HRqjuZfafrnLWsD6udoZ-00aTLzWmi_9c9jmvmkWv__B1Wu_3FO5_-jQtr85jsN9fQuCetwKcXg2iEX3Aka29d4EFrPfw-BxXEPQb45Dxy4WgxFtfcFNbcAAAay"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/13']=data;}

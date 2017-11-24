@@ -1,0 +1,7 @@
+var data = {
+"_ring":1363,
+"_params":".sd-1363-en",
+"regions":{"1674782":{"level":4,"name":"Parwan Province","index":0,"property":{"openStreetMapId":1674782,"iso3166":"AF-PAR"}}},
+"paths":{"1674782":[[1]]},"ways":{"1":"is0PAnsxEATlSRoCdVYmBBijAACTqfgBTa2DBIivXgrUtPgQ1LThF4KyDhtwsPon1LScLre14DUrtLw9m8AaRtvB4kszyJhMxcsJTv_LVFAtyfpSisnOVPvaNF3f5-hmc_tpb9b9WXH__1548_5ohD77fYvc-k2Ps_3wkvD3W5Or712VduUUnrnYQaQ3zp6tss31sSbPfLVr1_q7nNjvwFjdwsU12PvEp8MUxpvCO8U3uYfEDrIDw7CqqMKvpXbDe6KNxYuZKMgFmXPKaJu4y1ed1c60mcXQeZSN1haQFNebiXDaSYdV2smDIdyOgdvgpoOt47eBoeclgL_pQnyO6sJ4hO0Zen3wanca8hN2P_Xwd4j4x3NO-UxtXveXaE75XGS79iFdcfbbWYv6SlgR-ANStvf3TA72tkgU9-VHmPi8RSn2DUOa9WQ99fVdOX34zDVq-QYzF_ldNH773Cn8-_Mmgf1EJ9T_UCXd__4lOf0bJcv8ThdC_VoYWvtOFwf7iRRm_FsVRv5JEP__bwXa-MwDW_Y7B4jwQARV7BgEmejSAAHnAAAA5fUFhuKZDNvhSBE43nIdgt4yIKvc0CRm238nPtnXMZnZmDev2GQ9ANMOSsLP5kw4x6xRVsatWEHHp1sfxlBhzb3dZZe69WvdsmNtoKkvcWekmG2an25pK51Gadia72wAlx51RpKedr2Lb2seh_pmc4Y_XjODhFbKgT1OaH4OSpd95UcWfoJFM4PqQiuDSinBeKEjaXg-IVN5eB5rfQMcu33UFR18GAtCdnwNK3TIFK1lOB_wVe0qhUZKKSRD7SoPPn4iIDgVH_UxQxd_K6sTRCclEzciDhRaIBQYyB15KBQcvysbFygvPhUZSYYPOWFBDtJr_AwggZQHw4mOBoCd2gAYowAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/PAR']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":886,
+"_params":".hd-886-en",
+"regions":{"383909":{"level":4,"name":"Ma'rib Governorate","index":0,"property":{"openStreetMapId":383909,"iso3166":"YE-MA"}}},
+"paths":{"383909":[[1]]},"ways":{"1":"J1DdAGg8pwI2nPYAhkfKAj2qvccha26EO10AeQRZkXbIUcJzWEzIcZhK5XBnSW9w0Efvb35FaW8YRCpvAUOibtlBlm7GPx9vjT6eb3Q9sW9vPJ1vAjw-bxg8-m78OkJutji_bWE1HW3ALNtrfyUHawQlB2s2JC1rFyOhaxQiqGwiIfZtbSCAb0EgM3A-IJpwUBl_b54VZm0LEsRsaQ5ibK4OtWbBE0VlQhS1ZAkU_2JJDuNg9wu9X3YLy15IC49dNAvFWzQLj1kbDaFWrAxcVbcK8VQJCmdVhgm0VrQIAFhkCM1XHgjUVxQICFhGCJxY2Ac4WXME1li5BDBXDwdoVEgIxVKxCMlRTQgdT6UCfEsAAPVKYwQRQ_0HSkEqDUQ_pA9-PjklDTxlJw08fynhO44t4Dv7Ljs84zDhO5oxlTmzL1g12yzfK7I2yCuAOhwsqj9XLrdBgC-fRLwv4UeqMIZNMjNhWAI6JVuCPHRfDj-6eDpCGoL8MtCLRCS7jIUgZYVuIKKB8B96gJcfQX_PHnp-oh0nfv8bXH5uGPx-zBWDf94UAoEyFIqCrxOAiAAUx4t0E7aRaRP9iy8LRIvNCEGLVAVmjdkB9JAAAGCVzQCkmKEMQproDuabxA-CnrMSSKLcGCyjvRqzo5YcqaUNH1Snqx8ZqpwfI6w3H1etmh4rriMdXa-LGZmykhZqu4gTOMGoEjzDHhPs05AQMeaWCknnwQas69wIvet4JCLDSVAswulpx8bucPrMN3TX02J38docfNHif4UP6VWS_____z2qvcc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/MA']=data;}

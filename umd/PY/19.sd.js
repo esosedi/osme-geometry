@@ -1,0 +1,7 @@
+var data = {
+"_ring":898,
+"_params":".sd-898-en",
+"regions":{"389883":{"level":4,"name":"Boquer\u00f3n department","index":0,"property":{"openStreetMapId":389883,"iso3166":"PY-19"}}},
+"paths":{"389883":[[1]]},"ways":{"1":"nraT_tkfRPwDoM3-uPR1_CybwBDjvQ0eU9-fHe73zTL__9o419Yq2pTQpNnyrF7qFaNQ2s16K9aGeXv2pXf__yZzVP9ccFX8mW5D9xpoLOpXZtboa2K-6Khg3ONdVsbdnkqP1L1BhNHAKjXR1CT-zQ0hq8y-HFDMXxsiy_MXZsGHFwW4txQyo_IQkJ12C1-YGABclQAAt4xuAw2HxAOvgWUGuH-zB8R_9wjGfUELYXxZDJN6qw2rerkOE3nND-V5kBAOeYkR-XlpEzN1hxWWcn4VRm-nF-BsYRcxbBEat2pPGcppQxsLaFMbv2W7HFJlLRyAY9IcqWLjG41i8xxHYbQcMGCbHgBeXR65WkchG1grItlXWCP2WPUj-VRBJ45R0CfxUTcovU-oJ1pMVChYS3EpX0vRKuZIpCqER98sbUcPLylGkS_CREgw4UTPL9dDYDDbQeA02T1GNR47rTY_OSk2NDj3NyQ3xzckNkA5-zVJORk05zpPM0Y7ADJmPfAxpD0NM8o-KzKkP58y0j8xMGpBwjDyQN0vaUOoLz9EKC7ARfYtB0XpLKJH9CvbRl4qVUj4KQNJ8CdXSkUnJEtHKA1LMiYpTJEl6kv1Ju5NoiQ7ThslrE5vJAdOZSP5TkMiq1BJI_BRmCK1Ucshi1JuIqRSCCE9U8MgxVL4HxxVFyARVZ0e_VXrHopVPR2QVtIfuVc9H2JY1SCAWMEflFniIIlaoh7MW6QfSVtqG3dcUhwwXvwbg138GZle3hjmXQ4YeV-ZF3dfuBXcXeIU91_dE0Jg2xH9YXsRLmL0DrZk8w1BZc4MvmSKCphl_geKZqQHGGiYCHtnCQebaGcG12hRBMhq0AE7aksAtmuAAYdtAACNlJ4OLJvAEA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/19']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1835,
+"_params":".sd-1835-en",
+"regions":{"1806977":{"level":6,"name":"M\u0113rsrags Municipality","index":0,"property":{"openStreetMapId":1806977,"iso3166":"LV-063"}}},
+"paths":{"1806977":[[1]]},"ways":{"1":"iURpAxuOXQH3y2sDrjFhAf__D2RC-2FvUPcNc9Xy0nXO7cZ7quryfXPlPoij4WmTndz1qc3VXbji0mnEZNE9077SBOWfx4rw_8Wc72DC0fCBvzbsGrpT6hC6ZemZtzTp0bSU5lywLeYeqxbnmaUK6bKn8O7dplrwi6Ju892hFfoPnvz2PZ1j9ZSZjvTxmHnuX5Tn8LSOX_V0hP__l39v4GVv7c-daYzSl2Q00whj-dSUYTjUsSG65MMdjs5rHn7LGB34yBgaBciKFe7EOxLhwGEQdcFfCEjAAAXxwj4DesGPAf3ETwDExAAADcTQAE_CNALYwOUD97uFBbW5Gg_PtJUTe67rFuqtaBnTrtkbU7N2Gwe0aR3cs6IgeLXxH3S4SSGBuXogE7g4Ine1_B6OsBwgSqhFJ3WjHi1SnhMxcJxqMoKcaDI1nTcvR55LLQ2h2yqNq1wrGq20LW6vyDEUsLA0oLHlO-ux8D5ps5NC_a-kRKKvBEWurfFHLqt1S9OrYE9rqiBROayrUuipQlYwqPBb36gkXdumSmCKpAdhs6RrYJSmMmGOpmNiBKXtYdCj1WKBozxgtJg7bCyV1GgQfZFfnEn-W7JHm1qkQ7p8lT0XeXUdZ4CeGXuFexg4iwUUd5TJEweVCxjJmaAWC6FoC5Gk5QGFpAAA4rPjAtq35gTlujgJG73_DYHAGhI1wgcYEMQIG4vECiC7xlso0cTmKK3G8jOswyEzmcH0LbO_Cy1MvIstULp1Mpi_rjQuwJM5lbyOPmK5az_yu6hRksoGTuvKTFCSyKVSv8uSVJPO-2kMz91pidA_c9jexm8y3CRea-DZW_fhals_4x5c6OMsW6_meFpU59taY-cEXUXp61wx6i5l9-Z0ZrbleGqk5KFqVeZGeLPr0XHV7PlySO8DcLjw0m3i8Flsd_Ina2Tyk2mY8zVp3PPaZqX10WS9-Bde__8PZA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/063']=data;}

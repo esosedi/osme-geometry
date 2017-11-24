@@ -1,0 +1,7 @@
+var data = {
+"_ring":468,
+"_params":"-468-en",
+"regions":{"223029":{"level":4,"name":"Lebap Province","index":0,"property":{"openStreetMapId":223029,"iso3166":"TM-L"}}},
+"paths":{"223029":[[1]]},"ways":{"1":"OXQyAtZblgMLD3YCjYX5A6T-JDCr_7Aw__-JMbj_CDOr_gg1iP6LNhP_pjfD_oY4x_0aOeH8VjmG_K85_PusOt37wTuV-yk8TvnkPVv4KT8H-B5AKva6Qd71j0JZ9fhCqPN6Qz3yk0Pw8XxEJfGxRULwVEY07rVGAO4kR5_tVUcV7CNH7-h6R8XkekfV4oRIJ-EiSYTeREnB3YZJLN0bSlXbD0u72aFL0dfuS4bVKE0P1OdOwdKoT2LR3FH_z_1Sss49VQnLp1QHykNVBMlAVr7H5VbGxutWU8WUVma_xlfgvLNXurseVxy7GFceuUtY27TpWJ-zr1mQsrJaaqjoZsOclHXBkRqET4zfiByLiInpikaKh4ikig2DwpGleYKcPHk8nRV5Tp9VeSmghXrzocZ6TKNAdyKmP3Laqq5t2LDzatO0E2nStjNlo77gX8nD2l5kxD1T4dKHUunSi1LI02FQFNlwTxDdm0_U3VVQFd5EUJHeplEx3-pRBOCwUbLhwE9R4yhPFuTMTlzmAk4E53tNv-iHTCzpIky36RxLsuwCS1Hutkq27mhI0e9dRl_xv0TA87BDzPRbQ-D1O0Sa-AVEwfpaQ3T8n0J4_Z0_sv_TPvn_7z3__x09y_-5PGz_lTui_Sc7T_1sOYz8jjdE-8g1o_pZM0n6ljCA-v8qBvqDKT76_yMj_ugif_5uITz-hiCk-1Ef8_kJHnD5BxzH-TIbpPdxGqv2nhoz9sIbkPUIHCD1iBsR88caQPHLGnfwCRsE8Kcdy-3EHQLtOB0A7JkeHuphIDDp-SCc6AMjA-SbI9bhLiXy3vMlK975J5TdBill3KInNtzlJtTbsCYC2ycnk9ndJgzZ5yV72PghCdeUHEnXDBwa138ZIdWFF0HU2RZ902YWj9IoFmLQdhYrzDAWuMlSFcHGKBaNwigWhMClFV6_YRNLvJYQhbdBD7K1Vw4StSQM3bS2BMu1_gJbtV0A-LMAAB6Ajh3bfvQp9IduRhRzeE2CYklicFRVmY4lPJjNFyOYggooyH4IxMkAAJ_uAQDs79wd5fzsHbb85SE9-wUjRPsGJSn51SbN-GInxfd6KYv35Cu491Etd_qvLwb7qC_I-wowR_7-L6T-JDA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TM/L']=data;}

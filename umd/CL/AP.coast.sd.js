@@ -1,0 +1,7 @@
+var data = {
+"_ring":586,
+"_params":".sd-586-en",
+"regions":{"238392":{"level":4,"name":"Arica y Parinacota Region","index":0,"property":{"openStreetMapId":238392,"iso3166":"CL-AP"}},"1568616":{"level":6,"name":"Arica Province","index":1,"property":{"openStreetMapId":1568616,"iso3166":""}},"1568630":{"level":6,"name":"Parinacota Province","index":2,"property":{"openStreetMapId":1568630,"iso3166":""}}},
+"paths":{"1568630":[[1]]},"ways":{"1":"0p3d_liO1vvu_vT-Qn3k-wuugBMTtdUU3LqJDJfCMwfk0-gGzdbiAHzdAAAi5-oH-OSSLP__7WMx7h9ktNm3h1fUvYlWz5-PncbfkdDEdZOVwQGRF8DJkcK8e5Bxu9GSF7fDkruyYJamsWiYobLMndmzs587sJOfwq66oyyudKYvr0WngK9UqSKuYa1LrW23C6xeucKrn8OmqLzJl6g-zGClFtBSpXTTF6Pf1cCi2Nifn_nSC5xu0OiasMtAme3LCpczwx6VEcO9k9y_6JA0v2OJsskNiNvPxYTG1QCCotNYeznSsnj-1vR3edo1dpHcvXPf2D1ydti8bvzZc23C19lqdtrwZPjZKWQn3NlhCt2QYVHf2V8u335b7ObUWgLl5FVd5ElV7OWtUafjm0yT4o9Jgub1Rw3lt0dS39FETd0VQxjeskHj5FlA5uQQO27rGTb96pAz1e2jLgHu_yrn8W4fIfyeGLf9bxf__-kWOv0wElf6AA5C8g0OVO4xDEroqA0_5AUNauJLCU3gVwdN5N8EnOO2A63h1ANX3wAAo9nEAFHTzgGnz50IWMQHC3_FjA3ev2wPoL-1E0u7GhggvR8crrtcIe682CD8uBAiWa4kJ4KrlShVqEEoAKQtKeGcLChBnKEnzJn-KSaSHynuijInKYqmJYOHNyUAhOgip4KsJNF7TDMSb1w1YmiCN_xmbTchXtY4_l3oO6taaD5UVQxRGyUQU3sk6VRqJ9VZfCl1XlkukmOWN2lz9ym6dfkuc3gXMXJ_-ioViC8ob4usJOyOZSVAkQEq1JOGIuaUchWymZwQq51WBlqpwg8LroAT"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CL/AP']=data;}

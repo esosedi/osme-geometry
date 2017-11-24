@@ -1,0 +1,7 @@
+var data = {
+"_ring":1242,
+"_params":".sd-1242-en",
+"regions":{"1434956":{"level":4,"name":"Gab\u00e8s Governorate","index":0,"property":{"openStreetMapId":1434956,"iso3166":"TN-81"}}},
+"paths":{"1434956":[[1]]},"ways":{"1":"5eP7AX8ajQBqqwsCYHyfAMz8jUb__1JV4vsTX33yY2Kj8HZk-ut1bNHqlXFr6690ue0_d7_u_3lv61KBNeOphQrirYeR3gSKutwAjdTbBZCJ3NOU7t2mlt3gpZj85MmWKeY5mHfl2Zqz472cReFHnf_dLaOy2jyjetaOpajO2qRpziGkvs0rpYLGS6XSudGnyKzrq4ijQrDGnz-yT571twuf-bRDnie09pxztKedJ7dknO61SZm1thqXIbgKl4q5bZfFuKeWr7f3ljm5C5Kru7iKQ8Ikio3CdIlmwfKJ-cIwgnjKRXxq0-N1nNrVdcLZoHLY20Vw4dsTb-raYXFy3DNx893CaLrmSGYj62ZnT-1FZjfsumQ17cJgFPRYXwr13V62921fkfjmXb74CV9Z-eRedPozXv35r1z__2BYgfh-VWH2M0SD6y1Ap-q7M0Tiay4q3TMoA9vpJCrXKCQlxjkgJL-dHfq-CxrqvFUYi7nIF0y2CxYZtK0PYrRzCuys8whWqSYIw6ONBWWhPAZdnt8H2Jv4B8SZqwPylK4Cc5G_AkyN0QN6ilQCI4JzAw6AwQLJeVsAv3MAAD9wpwCSa8cD5GPdAzdhuAb7XQkKaFp7EBtXBRcRUlQiSU7VK0lA-S70PpU1KjnvOjs-80P3PZtMTUY8UJY-Q1eyOtlYrjjHVyIvpVk1LDNhYyv_Zs4lmWdoH3RmjR3BaPYa6mnHFu5xghO9dxcTvISgDHSHagn4kQ4DW5VRAc-cAAB5piMAw7bwAam7FwG0vpMBccNQBSHKvw4_0SoUbdWKEXDhgAQK5bkB8OhVB1Hs_w8U7TMWqumQKELqPy9N8H4-A_TVQqv4G0XM_I1G"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/81']=data;}

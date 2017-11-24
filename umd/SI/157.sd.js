@@ -1,0 +1,7 @@
+var data = {
+"_ring":1543,
+"_params":".sd-1543-en",
+"regions":{"1681527":{"level":8,"name":"Municipality of Dolenjske Toplice","index":0,"property":{"openStreetMapId":1681527,"iso3166":"SI-157"}}},
+"paths":{"1681527":[[1]]},"ways":{"1":"EFi4AnFI5AAww7oC9LnmAHXTbB388Tc2l_N_MZ70njJC80Q3XPr2O___JELQ_3lK8P1pUnL_XF1A_Xhm9vz0aS703nFA8bxzV--Hc3TuQnT_6814peu8gHLxuYml8KCS2-7Ok1_s3pIo6MWV7-YHmWjjnZi83yaVodrgm7zUn6XTyG-xuMBku1O_orknuTi1t7cSsxyyEb7DrNvFYajEyjKljdRBoHbc3p7G4OWd4eEEnhvlTJ1n6Caag-05lVPsZ5On7I-TgutykkLrWpIJ7CaPJ-tMjYbwwY388NaM6PJWjYDzEI1_9CqJBfhPhgH9L4VU_RGEEfwFgjn_foB__QmA3v4cf9T9Un4a_lt-Av2KeYT8gnU8-uB0I_ldcv__P29G_txuTvtHbsD6UnLJ8lJwOfKEb_PyAG4G8iJq0fMqau_ySWiM8Bxqu-65aGnsdmk76rloyum0aO3nAmhT5_JnseOsar7k9GiP4upl1uJ_ZuffkmMG3Z5gFd27X2zax1yK2sNZ8Nv1VQ_gzVOb39FRp90JTdjc0EyS2X9NVtkCTqvWXFCa1glSJdWlVZHPJ1ej0EZa08VCWZXEb1kAw09aHMA_XVq7Y1jtrHJY2av1WZaqQ1tPps5YDKTMVnedrFK4mIFQMZsnTSudg0jPnRFIgJ27R0eYUUX7krND1ZGCQc-RqT5wj082kZBnNeqKBi9vejQrSnTgJFlvgx_tbF8Ty3xkBoxvAAAQavEI31pPJJxQKkVnUlJF90wMSBVHnkhEQ3NM5T9ET8c4bU-mNhtQLzdLVawsAmDaHw9mZx_WZV4Za2gBGOFpXxmEauIYY21XE39wVweqcB0DQXIJAXZzMQFrdAAAMXS5BB51OgdKjjkEAYyQCGmOnAhgkDoK2JO7CdiTHAkwllcIgpYGCUCbBAiwns4JnKFZC7ug7AyvobQNmaCpDvKgIxNioD4TaqD3FK6fdhZKoCUYlKGpF3OjsBmQpVcaD6h4F9-nAxb6qIgVCKkuFLWq8xXeq6gUP7HnGRuwJR0rsTgdU7FpHtK2_yJ0uj4jdryQGb3CKB3gxHUfHMXHHqPGih_mxwsfmcirHWvLnxxHzE4bhM5aHL3QnR7n0d8d0dKNHnXTbB0="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/157']=data;}

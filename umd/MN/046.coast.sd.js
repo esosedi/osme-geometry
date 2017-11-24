@@ -1,0 +1,7 @@
+var data = {
+"_ring":644,
+"_params":".sd-644-en",
+"regions":{"270059":{"level":4,"name":"Uvs Province","index":0,"property":{"openStreetMapId":270059,"iso3166":"MN-046"}}},
+"paths":{"270059":[[1]]},"ways":{"1":"auXiAntTXQXscQgDp6m0BVmyW8rFp_PN7Km61R-phd4nqFDfZ6IG4HKhEOEfoDjjiJ8L8zeaGvYelMX1k4bw8TtzJvRGbqj1NWH__1NUK_0UT-35iEhm-HAurPZaKZvzXSk27okdiuV2G2jhWxpQ05IeedJTHsnK1B_qw-okDbz0JSO3TCC6sgwZNad6E7ak9Aryo1YGCZ0AAEmZlgEhlS8ESpKiEaiNgRXMiWwV5ISJDxGB1g06fmIUiG6IFMRjSyQmYFIlSl7vJK9Zfid_V-IxaFamOMdWFjeST0AzhUr2JKdDwBnBOxYtTDkWNqo1_j-SLeJYAijEW8Yk8FpUISZfwB33aDYaK206Gqx4aBb1f7QR7oaXCjeJdAm6jfYHW5vGBYqhowMsovoBOqcgAI-pAAAAregCLK9JB3Wvpwz2t0oRbLgmFGC8chZLvd8ZN7oDHj69lSB4xH4fDcd0IuDFeyMMyf0k2sfUJQzJMCclyGco-s51KCfRxi3C0I4xn8_HM8bUvjnO0i8_49WjPgnZ7UBY3R5BJd4QQ5zgS0Qk4ahJwOalSXPs70w97xFQbPDnUm7sVF1P8GhlJvMJZ9_2kWah-tBnAv8FZ___XWnV_TlrZPpeaxr23W0q9kJzMfPKdG_vqXNQ7UR2mu8Se6P0MHu695R8BPiffyj2eoJw9nmGhe88h8foQoT74omGS-SgiLzgx4ux4oqMR-EjkIbk0pST41WW3eS9mDDmbZgu5BidvOGnnc7idqLK4DqlAeJ_rLfgJ7Dm4lSzOeK8vCfhfr5i4G6_k9uiwF7b18HJuirEPLlexd-4n8cbtnbJ2bI8ylmyW8o="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/046']=data;}

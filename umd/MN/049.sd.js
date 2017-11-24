@@ -1,0 +1,7 @@
+var data = {
+"_ring":649,
+"_params":".sd-649-en",
+"regions":{"270089":{"level":4,"name":"Selenge Province","index":0,"property":{"openStreetMapId":270089,"iso3166":"MN-049"}}},
+"paths":{"270089":[[1]]},"ways":{"1":"wCHkAvxqOAa4QgIDCqt4BtVNqAlYbz0ONn9mEtuT-BIYmasWM6C_E4-q8gyZseEJhb9wCSvAgg3-wpAPO8jtC-3Oegs61dcJ4t1EBRjkAADx6ZkB2urKCZHpKgx17ToSVfGVE_rtHhhQ7pgaI_G_HWT24h8d9_8ga_ROJ6T0Ei6u-t41Mf-tN___Tjxr-75AR_sGQpb9fUav-cVLl_oWTkH5GlLM-spY1PdxXBP4r2Kg9bVnnvKtZ4ztP2ns7aJuCemtc4Lsunx26zp-0-vjgWDuSIIo73yD6-jilDDbaqEO1nuhvsflpgrH2anawyOrV8DgrlPAVrGfwlOyqcKctN--FrixvrG5Yb7Pu-m_ib2avkW-g74hwNK_dMJYvQTF7b1-x5e8pMi1vbnLhb_fzOS9xM69ubLQA7om0l-8e9P_u1LUKLkW1Ti6YtvWtnXbo7FY2Pqu4NlZqmnZiKmq2zmoI9zkpSDaCqFs22CcQ9kVlwraCZVU23KXqN7SkO7eyos25faK0OT6iA3nnYgr6S2GgOsjhl3vTYK376SAW_GBfIzynnft8sB1Jfcyc-T3YnB29_hu1vn6abj8E2v__3Nd0_00UPb8E06N7-FHW-dGQaPiBkfg3C1JQNkpSjrVq0kPz1NHgckDPcrADjPdxFktq8u3KDTNNBNqyNAP9sUyEE3A7QvEutoG26-VDEmsOQ6gqUgM05iXA-mRogEGjKcEJoREB8CA9wr0fpYXF259EtZnORW2ZLwX-WKlIUNlESiEZOwrjGGqLppZzyhiSpUg6kEMEvNEjgdHN2cFBTFEAH4qAAC4J98GNxmhDzAKeB1hCcIkIgsRMw4BNji9Br8_TgyQQ7MMcUpUCtVNqAk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/049']=data;}

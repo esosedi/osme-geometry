@@ -1,0 +1,7 @@
+var data = {
+"_ring":2239,
+"_params":"-2239-en",
+"regions":{"2319358":{"level":6,"name":"Andrijevica","index":0,"property":{"openStreetMapId":2319358,"iso3166":"ME-01"}}},
+"paths":{"2319358":[[1]]},"ways":{"1":"PNmJAqlRKwEZ5Y0CbaYvAVtYkRn1ZeMaWXUNJrJ-LCm5i1YrSpYYKEaikiLcqjYf87djJxXEjx7izM8QntCMAnzUAADi3IcBN-AJCzbkQw5p6a0JivEECt36lQ3__ykUmverHa3u2x5Z4wYov-ExMfLmvDy_5QlEwNMRWHzTHm0nzEOHr8aKn428Fasnxr28nrutyyWsTsACoiy5VZf2v4WMy7_Gfv_TcH1V3X1ytPFKZf__nF6k87Zar-44WmnrmFV45MM7l9N4ODvLajXyxUUxLMXELMrBAShGvTUltMAbJHTBnxnfwm0XNcdrDZrMyAN80kEFr8kAADrCeAFbuukDHrn6BZq0BAdPqlwIRKOBBwKTnAOBjyIEOI4cBgCNWwcCjd4Iu4rsCH2Jdwl6iDMK04czDK6G1xBQg8YSjII9FSKC6xYAfiwYTnqsGDx6xh3se5Yem3vYH4R6WCGUeSkj6Hh1Jnt49Cd0eR4plnq3K0d_RCxEf_cuL36tL5B9vzEAevkxwHh2Mlx3CDM8ckg0NW5WNVdtXje8bb05Jm1dO0xsaTxlazw9N2vSPltr9j-Jag5CcmkORdZkfEWIZC5GamSZRVljEUbeYH9F-l-zRKRdaEPNW6xColjNQYNYREGtV91AYVXgP6ZR3j8UUQJBd0-8QEBPZT4ZT9k9zE71PBZNdzykS_87H0sTO6FK0jnKSsA42kuFNp9LLjbsSic0ukmaMwhJ9zJWRrAxiUW3L55CzC_LQb4w6D9RL08_DS5XP-Ashz74KzA-6Co6PXUpjDxCKAM7ViaGOQsmEzd_JuszrieRMlwpGC68J94rXCaDKXgeESPoNs8cW1iRGQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/01']=data;}

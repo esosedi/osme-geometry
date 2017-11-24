@@ -1,0 +1,7 @@
+var data = {
+"_ring":2334,
+"_params":"-2334-en",
+"regions":{"2440352":{"level":7,"name":"Gjor\u010de Petrov Municipality","index":0,"property":{"openStreetMapId":2440352,"iso3166":"MK-29"}}},
+"paths":{"2440352":[[1]]},"ways":{"1":"19KAArVYRAHVkYICIjBGAcNoPOrLZkTqDWWl6oNjoetoYrnqEGGO6qpe5-p_XFTrrlr47L9YUe2LVvjr3FOK6Y1QAueFTUjm-0rY57NIiecaR-vnHELe5JM_r-PdPfXjujqZ5U04mebXNL3sjTM-7msyoe7_LtXu9Cx-72krXPBtKL3zQx1k9vYaNO9bGgvutBlr7YUXaux5FnbrHBak60MV9u2kE2Xxlgn__xsJyv_aBR_8oQQf-jEDtfaMALDyBwB48QAAs_BGAPbv9ADT7rQBHu6YBM3tYQVw7SoGmOzcBu_qZQhP4zIIwt93B5ncgAYA2g4F0dfTA1zVEwMP09wCSdH4AmXP2APBzM8E48oTBujIgAnQxJAOUrzQDi-7tQ4euvoM1rURDRa0jA1bsocPg690E6SqbxTGqM8UEafYFPmkUxS2nYoTaZtmEouYZhJ5ljMTYZSAFOeSuxUVkUQWH4yEFiWLthfKjJ8YvpDWGoCY3yLnnDgst5ZZNYaRwUKDiTxbVnKxY45iHGpdXKlzykXHgXkmGIgCHE-U6BM7t7UJ-NYAAPHgrBv__71LA_s2W4X1ZF-T9FZiAfH1Y8LyXWkC9GRwJfTzeZ_2RX829vWBv_Y7hlP4BYqp9g6NJvVujsbzz46f8tqPLvJMkwXxppYk7OSZLuhqmwDlWpw704enBM-xqIbKtahBwpCmgrt4rP22KLK_s4e5ZLPxvOSyIL_tsjnCP7MixUiz3sitsiTLdLDSz-WvVNLmrcrURKqo2CaoStsipijbCKRL262iBt2Zn6jf2p2R4CecHuFskuTgWI-G4OuNKeHmi6rhHotw4leGh-LGhLbj_YJy5kiACujkfiHpv3ks68B18urOc1DqFXKJ6iJvXOstbFHrwWg56g=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/29']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":630,
+"_params":".sd-630-en",
+"regions":{"254269":{"level":8,"name":"Naranjito, Puerto Rico","index":0,"property":{"openStreetMapId":254269,"iso3166":"PR-105"}}},
+"paths":{"254269":[[1]]},"ways":{"1":"yDcXATX_DPxrWRcBYFEN_KqIvFPbjAZbxIyOY2qEcXLBi2FzDo_Ccq-SFHBMks5sj5ejakabOWuln7puf5-HcIWZVHMSlpd2jpHXeGOSYnzjj11_CZAPgd-TXoS9sNCMI7X0kEe_7pS1xjSZVsqemQPN3Zjb0X6Vvd9vk_zoiJNM4rWc__-6pZ36AKn52cOr-Mjfq2m46q5WqcGwwo7zsHp8a7MHblyzM2g6snZXMbG9VVqxs1cBs6FTw7H-UWPChVSew6xiPcVYbV_KfnjIzHuN29JNmK3Xlp-F22yjPuCxnpzmOp_251OoWOvYi-T92ID__z5pPv8DZzb9kWai-SRoZ_fZbXv10G_N84Nvn_EnbC7tuWdS6mpY_-aYULzjk07q4J1Ey97HPS_gWzfw3wkfr9lTE7nYhxsx0HAN9s1CDWrH9A7-xC4Zu7x1Gli6xBDorVsTDqGOGHGbKRouksQYiI1qEyqJcxHthcARDoPoD9OBTQZygRUQdH7eETN9VBYHfaIXe3ztEcN2sjDNdHE0v3L9NXNoBEnxZF8-KVquNL1FrzqkRdE-1j4GPHQ8DDb1Oect_zf5Au85AAAnM2sDbTGXE_wsux2hLIkkVCv2LVYm9zD2JaM7gia2P64lgEetIURNbyEsVakiMFnSIQFegRxmXzkXwm1_FP5y8w3RdZUNSXgYDi5_KRLjhCkSdYhiENuMXAgJjaMFI5FzAdiTVwCHlwAAqZv2ABCgTATvob4Tap0eFZeP8iGgh8ElZZA9Jm6ZoCillHopio0aLuGD1DHmgvIyu4NQOeN2CEDJcvlDZW9iRb15HEmyiLxT"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/105']=data;}

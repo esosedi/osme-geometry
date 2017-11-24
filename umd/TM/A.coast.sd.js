@@ -1,0 +1,7 @@
+var data = {
+"_ring":470,
+"_params":".sd-470-en",
+"regions":{"223031":{"level":4,"name":"Ahal Province","index":0,"property":{"openStreetMapId":223031,"iso3166":"TM-A"}}},
+"paths":{"223031":[[1]]},"ways":{"1":"ByUfAgQSXgM9aGUCtYyqA7zYCsp72SHk1M_y4l7NJ9iZuTfUSLdCzbywzcztrcLGaJbHzUiNhdk5f5TjgXy93ZR1HuC9c3zaEmUv3_RiyOosX8PzaVoG-ZlVvfB1XUHsml-c4yw9efw2GF362xb__8QRkP8yDpb5EAdY_tQA6vsAAKL6pgAi-f4BiPl1ArL4twHH9JcAMvSXBLPxHAxj88YQhvLdEKHxMhOU8B0VSOw5FrHucxhs7r8Z_--HHbfxbCZu7wAor-1TLErtIS5w7kEyZe4NNrfvnzoK7lw6Acb2OvLDfz0owmJAc8GrRhu7m05FtiJQcLRXUZSuBFVjqVNVi6XCVhyialWKn_dXzZ4vWZGdyVkJnPxYZ5rVWSGZe1oUmONb9ZgKYO-T_2TFkptmjZMTaU-TDmwrkQpsTI-eaqGMG3HwgjpxGIEtc9p8SHOMeTN1z3Ypc991KXMJcyRyMXHecsxtenWEabFxAWVycalgynIhX4tzolnwc4RYanXIWPN4bFc0erRUn3k6U1F6_lLieeZRo3qhUeJ6NU59fj9HEn7fQxeAW0L6fzpAVYGAPlqB0Tk7glA3MIHfMy6C7zJLgrUw44TxK9mKqiwEjksqKI9wKOSR7Sfxkowm55TtJW2VKiQClSMizZKXIJGQJh0WlPQZ_ZmoEHebKwddnY0BQp8AAL6kMgDDtIYIjdfzE7baNhiq3WAZkeMuGWvoRhYC8LEVA_QFGEf13ByP-E4gFfU3JCP5_Sq9-g056ft_UP__GlzK_fFtCfuUeYD1SIGU9TWwDuKNr-3durKt39e8P9dHwbzYCso="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TM/A']=data;}

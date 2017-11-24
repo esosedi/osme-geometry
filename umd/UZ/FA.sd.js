@@ -1,0 +1,7 @@
+var data = {
+"_ring":384,
+"_params":".sd-384-en",
+"regions":{"178018":{"level":4,"name":"Fergana Province","index":0,"property":{"openStreetMapId":178018,"iso3166":"UZ-FA"}}},
+"paths":{"178018":[[1]]},"ways":{"1":"7pdkAvsfMQT1KW4C2hNOBIJQZICoR3B7YU2CfExQ03lwUTd2Z04pcA5MzW9oTfFrVDpUZBA2J18LOVRc7DfyWl01KlrnNPBYXTeBVTszyVXYKjxYFB_8WFcedEgCGn1EiRYaPtcQOzqGEQc0ZQwEKRsWPSZoH6Yi0Sb9ILQ3ZyGHP-AfXkV5Hx1OryFAUXofl1RBH0VT_BRNVkgS9FnAEMtaFw5xXqYMymHVBthq_QK3cakCvXkAAHx_bgDXgMwAoYa2B1qLiAtKjNkN_JHBEvSRGBXBlHcWMZrNFiudFxjbpRAZ4af1G2qnNh7XqZkfD6vzInyyfiUBxMkpM8WxKx_KqS24zcswDNH_MYPS0TRt0PA2iduINovfeDt46K083elDP2XsJz_17fk_WfYtTm76CVgc-79rIPapagLrsGa_3R9pRtGYble-D4AswUWCVdQUi8fkd48S-Q6f__8bqfHh8bGx64qynOevvi7dfcfC2ErJhMHYz_i21eobuITsC7UT826sxf7MqIX_f47__2aPTPrCgvL3FX3E9Pd99_HygVvv7XoE7l9vVO9FaA_tG2Ns7ItgFuv5XgHo8FX35O1Iy94pR3DexUMS3zNC6OFyPgPkLjzG5OY4luR-MTbgwiyk3pgssdo0KmPZ6CcO3VImkNwHJaHZzif61-4qadedLejSyTCU0TMresz2JdPLiCMUzlQbys89GkXPHxv9zGkX-8rhFtLIzhBEx_wQr8UEDZvC6ApPv5cFrL0lA2W9SADmvQAAVr1DAZ28dgdLvGsMK7vZEB22bRLNtiwUH7bxE6u4FxhVuHcW3rlGHyu4DibmuDoqUrjCLVu2SzJctpsy4LIBMJCwJTCSrnslea4zHJivgxomrx0ds64oHnKtRRxQrfgZja4UGDyu8BlBq4kcv6q9HDyoihtppwgid5-2JFig-yeIn30pFKCQMYKfHjVHnuQzHpt-N8qTfEECjxFBzoqJQn6MEEURjRdFEIt7Ru-JBUQ-iVxFj4ZCQaSEM0cVgiNMXoKPT3WBfFCCgIJQZIA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/FA']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2452,
+"_params":".hd-2452-en",
+"regions":{"2693947":{"level":4,"name":"Guanacaste Province","index":0,"property":{"openStreetMapId":2693947,"iso3166":"CR-G"}}},
+"paths":{"2693947":[[1]]},"ways":{"1":"-kaTALoO3_pWHasANwnz-p46N6tNNpWpYTRJp-8z8aQyNDihPTMgoIAy2JvAMfuYXTEKleMu75FtLPSRGSsPlE8qRpjmKQCckyiWoNchGqVZIV2p3B74p48cVabiGVulkhUWpmMRzKNOD-ugMw0JnwAAOo3DB9WDJA1IgJMVn1wkGIpFIR7sOxImATatRqMWBF2vDwBtZQuKdYEKLYQzEsKPAxWunCMlwKPwL5iufy8UtKofJra7CGi_AACaz5gAWNmnClbpxBz054JCvekvRffpW0U-7OBGVe2xR-3tBEgQ79VIv_DdSUvxTEpu8gFL-vJwS5Lzw0se9DNMZPaqTYj3e05a-lNQcvskUQn8d1Es_UhSuP2bUkT-C1Pc_l5T__8vVP__1VTc_z9Wlv9SWn__-Vp__7tbUP8DXi3-GV9D-ixjNvhmZR_30mjw9odpB_Y-bKr1mW1M9LpxevN_dAbzzXWd8jZ3qPEleoXxg31u8Sp-evHfflfxOoAo8RCFBfFrhkvwfIji79eJHO_ai-HunIzt7VSPJ-1kkbLswJJs7GaTMuwplOzr0JS96jyYd-rjmD3qpZlu6ZeZ4-WAmAviF5ht32iXeN8LlVDh3ZF95MKOfuTQjDfjyoop4xOGAOLQhFfdBIMX3CuCKtqEf7PYrHsz2Al5jdbZdwXTYHoaz0R9Is0of9fK_3-OyBGB_cW-go7DAIY5wg2KfcFvjNi_q48YvdCPnbrkkEa4ypG_tsmTfLaBl1C3nJ3Gt8mikbefptG2XKrWtBOumbDOsTOw0rMSsOS2hrBpufGvBry5rom-AK6Sw-GsJMYyrHbIZKobyZGnX8rfpKLKCKFnzMCcm9DpmvjTbZgc15SVcNmDlWbhD5SD5PyS9ubdjqDrjYzE7_OK4vKUigX2qYj29aaGJPbthpz5xIWI-lKE3_tRhLP9goP3_paCaP-AgWH_ooD__0SAAv9SgA_9goCF-nCAdfevfV33O3rT9tF3i_aIdCD563P39yZwjfbJbBr0Bm_Y8BtwY-zAbuXoI2u05WBnpeRBZVvktF3x4NNXBOIAVwjewlPF2YdQhtrVTAvYxkxz1eROM9FNUuLGXFRXwlFUocAvTw-ldUpno-xCN6s7QEKynjo3qw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CR/G']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1474,
+"_params":".sd-1474-en",
+"regions":{"1676318":{"level":8,"name":"Municipality of Kidri\u010devo","index":0,"property":{"openStreetMapId":1676318,"iso3166":"SI-045"}}},
+"paths":{"1676318":[[1]]},"ways":{"1":"HFnDAhEH7wCMmcQC6HHxAKXrGNAF5u_MUttWzQPaL9lG2c_ZJtY12JTWhNd10TfWls4C2zvKQNmgxU3ZNsW53gjE7N7mwQvl97et5PugyOVpoH7mxqWI6EqhB-y0pNru959_8DmhpvIcnOfyzprP9xiX1feulfb0I5MO9NOPEfZaj4r1aYm89leJ6vUBhzz2mYFd-UuC1PkzgPL8RXv__9x4mv06cQr7ol978AVXGfL4TnfxFCs98okpMPLXJ5TwmygV7modPPHSHJntfhaD7nMWW--GEUTuzQe97u0CIu5iAkroAAD_4ZkBmdXmADDPMAhW0H4OIM9-DXPM_RLezHwThs29EJXCjBcZrI8gZazcHT6mtiFInTsh5pRqH26NNBoShJQZA4CUHZhsCB17ZAAi0V30IllZZRw7SJIfIjxQH681biPVKrYgoCCdIAQYnSKHEhglXw-9LdIHzjZ8AA9HbAh4TRoFj1JmCTdDxBHmR-0UGlPVGcZXShtmWS4ZHmjqH6dw6BMidZoLlXs9CcOA0xGEhNsUe3zUF0N5xyBOfTkj0IHdIZCKXSKVigIb3ot5Gp2Kjxm_i6oYcIrQF6GK3gl2icIDOos6AQSQAAAHn2EXf523GCeeABpsocgYMqNuGjemrCAYrQIof7QXNXS17jTnuBU6gbvAOmC66Tq6vXNBZ8xjUsXLlVMT2jdeDOdma9fpeGwG7uVwGPP6c6TqS4iY26CM1Oetj9TdtKWB5FGo3-hhq1vsR6v89ue0__8nuUz8FL0o9WfIpOsZ0A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/045']=data;}

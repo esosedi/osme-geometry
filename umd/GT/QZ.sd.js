@@ -1,0 +1,7 @@
+var data = {
+"_ring":445,
+"_params":".sd-445-en",
+"regions":{"214710":{"level":4,"name":"Quetzaltenango Department","index":0,"property":{"openStreetMapId":214710,"iso3166":"GT-QZ"}}},
+"paths":{"214710":[[1]]},"ways":{"1":"WyrdABEOgvpoTugA20qN-vIqAADxLVAAWzNCCDo5nAvlObEMgjn9DuBA3xG4QqUTDULkF3VKbR4KSw8inUxVI81MaSUpThwn0UsYN4VMzjsKTDs-lkz8PxNOOUAmUdJDclCoRR1S0UipUKVK-FAWTTxPfU9VTxhRnk3tUoROMVS7TRtaeE5bW71OnGM3TdVmi05IaytQl23UUu5uBFP9dHtVbnjgVld5mlvweb9e33s1Yfd7_GPIfc1lhnxVaJR96WoBfJJvEnyTc4h_UnZ6ftSAqYTUhBeFo4jWim-Lv4tni3iQpI5WlGePiZRCkzmRA5YakBaXPZWemjGbE6GUod-kTqCTxHmmEsbmoqbJaKFcyhiffc5cmuvQbZoS1eKXO9g6mK7aKZrQ2mGb9uGXntvhyp-i5EmiXOWXsWvtvsD__2nGYvmJ10_kdtpa2JrN16iG0COn2tKioh3ToJuKymme3NVrmUbWQpZn2OWLsdyWhmLgmYaJ5MOIVedNis_nE4zA5sSNN-v1jeXs5oqJ9L6EcvQ_fxjz-XpJ-o9y__9ka9r-dF7t8YJXWvEzVo_wFlUh685Q7-d5Tq_j7kvV4rRDk9oVQePTHETf0lRAQdCKPTzMnjagxSk3lMIdNdW-0zGlvn0vjbtxLjG41jCCt8U38LgbOM2y1jOFsUgxoa4sLSeuJilEqvon46fyKluoIyv4pp4w6aR2Nu6kADeeo_sy4qA_Mw6fKDmGn1k81KGTQXCi80MOpLNFOqOiTO-kfk3QouFLoKKDSzWfoURzl7s7V5PNOA6U5TwpjdY9pI2NPt-M9jhQiik1ZYdXMNiFDyl4hbsmJoaVIReFOiPmfO8gYnvzHGp62xhHfJgURXsiEAd67A2ueLENqXc8CdZ1DwStdaEAB3NPAdduAAAebTQAtWqyAfdo8AG0Ze8FO11YB3RcWwcMWxIFNlgWBi9XvQVYTyoIQU3iCF5Jowp7RqIKY0R3Ce5CHQ6MO-YNtzqWDy05WA_LMRISPC64E98nzxYoJOgYLx_rGlcdsCDTHUMkKhMpInsS8ioAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GT/QZ']=data;}

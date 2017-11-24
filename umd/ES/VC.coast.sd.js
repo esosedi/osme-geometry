@@ -1,0 +1,7 @@
+var data = {
+"_ring":811,
+"_params":".sd-811-en",
+"regions":{"349000":{"level":6,"name":"Province of Valencia","index":2,"property":{"openStreetMapId":349000,"iso3166":""}},"349012":{"level":6,"name":"Province of Alicante","index":1,"property":{"openStreetMapId":349012,"iso3166":""}},"349020":{"level":6,"name":"Province of Castell\u00f3n","index":3,"property":{"openStreetMapId":349020,"iso3166":""}},"349043":{"level":4,"name":"Valencian Community","index":0,"property":{"openStreetMapId":349043,"iso3166":"ES-VC"}}},
+"paths":{"349000":[[1]],"349020":[[2]],"349043":[[3],[4]]},"ways":{"1":"tkZiAqrH6f_jlGUCZKXv_2oUw0BVGdg04jOpMFl07ResfWAgVpHtCJegAACZseYEn6S4KaSpoj2en4k-156rQ7G2-lxK4LZYz_MJXv__NGmB0HNyLq-1h1ayHY1ImOiIsI7rjPyHyKUljTfN83ju1oNzTeUhV8n7O0L__58ws_erFxjVAACbioAPFnG3F6xGahTDQA==","2":"ZspfAnzZCQAVF2EC690KAP__AAD6____FgBepgAAAAD__wAA","3":"ZspfAnzZCQAVF2EC690KAP__AAD6____FgBepgAAAAD__wAA","4":"3UZiAqzD6f_jlGUCZKXv_0OYOYnvjUmO9ocFpiCNWc3teArXfHNf5RlXy_syQv__lTC596Ijv-agFzXVchJivJoHUbAAAP6JKhIdY38ZqlAwFLE9SxliNdkzNjFSdIoYpn33IFGRlAltpQAAlbGRBZukSSqgqSY-mp8NP9OeK0SutmldSeAoWc7zd17__5ppf9DTciqvBohTsmuNg5j2iUOYOYk="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ES/VC']=data;}

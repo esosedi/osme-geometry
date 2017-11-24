@@ -1,0 +1,7 @@
+var data = {
+"_ring":1662,
+"_params":".sd-1662-en",
+"regions":{"1707699":{"level":4,"name":"Addis Ababa","index":0,"property":{"openStreetMapId":1707699,"iso3166":"ET-AA"}}},
+"paths":{"1707699":[[1]]},"ways":{"1":"EMiGAHPXTQJq2IoA_LlRAvm-bBS2wq8WpMOEGF_JmhZ_ykIXicocG1PLuhww0QghfNHNIlTSKSPU1A8hY9a0If3ebSAO5egjXeQIJSblgCbp5iUnHO9QLm_vrTIU8bE1xe8BOFHyWToA84Q_mfA2RJnycU8j80tYSvVyYLb2bWJR-cZq___Nc2z9iHXz_PN2MP7IfKz8uX4Y-fx--fGogbDsMoUV6SiJZumIjVLqAI9g9XeTe_YomWf5pJ1r_p6ip_4_pCT81qU79xKlB_SypwDyBKhI7C-rw-qUrfLtZLcv75nDZu46ybzuJs8F8QLU-_Ff2MjxLuEU7mji5uls5b_jLucg3ynn5dwB6PzTzudmzzjslsIH9QDAgPWju-nz4bai9KO13vZzr6z7vaX__6Oa3Pyqixf_dIbH_BuE_vkffY37BHm-9-54MfY8er3zXXew85RumvD2bNjwl2jR9INlQfYoZFnsKmc_5E1nstzPaUTbIm35zxltDsySXzTMllQtzmVN_dAQQvTafz4I3Kw04trVKdjc5iWq3AsliNqCJRfYySdu1E4oNdDVJQ7HUyW1thgmma8JJUiu3hpQrjgLpKxuCNKmDAXxpNMDNKKiAqKhWAFHnwAAkJa9AlGQvQJliAAEf4FqAzd_5QMHfskML30GDzN89Qz4eBAS4Hd8Ec11zxObcFgfLWbiHxtkNSNCX50mx1zaKxZblC6dWhQzh1sINbJaADVCUMc4CkmnO45Igj7mRtVCQURaRCxCjkOoP4FBDz6zQd885DumNqQ8ozSEPv0yC0SpMUtFPjCSRB0uF0Y-LHROCyegTr8cflA3GhVdxRfXXlgY5mJeHk9pqhrgcCIaTHQXGI5ztBT-fKwS_oJDD8CD7Q0bg5kMqoUXCceOZwJ6kMoDgZG9CCSSBQkflVwFqJlGBD6eAAAnpCcCia5VAoGwAwS8sUoOdrlFEGq-_RP5vmwU"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ET/AA']=data;}

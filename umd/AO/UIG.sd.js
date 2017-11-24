@@ -1,0 +1,7 @@
+var data = {
+"_ring":973,
+"_params":".sd-973-en",
+"regions":{"422659":{"level":4,"name":"U\u00edge Province","index":0,"property":{"openStreetMapId":422659,"iso3166":"AO-UIG"}}},
+"paths":{"422659":[[1]]},"ways":{"1":"7KV__2WH0gB_06b_8xAFAVzv4VL68MRR1fDXUEz0ilAm9ypNePu7TAH9nksb_sRZt_5jkHH9DJww__nCHv9Nx9P9-chs_ZzMxf8BzsD-c87__0rQovxU10v20tZ49d_YNfSg19Lx3dhM7arXfO0-2gzsTdrB67XYbOqS2A7q59vK6HLcwuZm20_ngd3u5XjdhuVX3pXlcN-b40jh1OB34e3fp-Ix3f7hy9ue4OfZiOG81aXgbs_p4ZfOM-Grz37fLc-I3gfN6t9gyq7eaMnj3qfJyuAeyCXiGcb7343DwOFswP_gVbxb5Ma2xOJZtLjk7ak25YSnF-iioKnoPJ5C64uYPuvCmDTuwZWf8FOSCvAgj77wLI2x71yKRfCbikvyZYjo8taGEPUTgcnz-oDI8qmCAvJCggHxVXrC8nh4LPRsde3yZ3K79YlvBfY8b4z5Bm1j-jdp__8sZ3__gWWl-o1fuvVLWJ_161OG9MlRkvKRUB3vAlGY62tTM-j1YrbeU2qF3NFsFtnfbGTXAWbryOdincWMVynAv1VsvHpS57i6Uhuz50-ertVKk67HN6Sz8i3utJ8ryLRiJ4yyIx09sdgYK66nF3ms5xfSqIcSeqMeFPCavx2Rmigfg5lUHnSX_CFxlgkjbJaQI62YcySnmJMoUZSvKB2OgCUxi1AjfYZsIzuBKSfsf58rAYAdLrh-sS9xfBUvYnE6Lflr_ieTbBgisGpnITNrGCK6bP0fZm7THlBuiBukbEwVjmxPEjlrCBLDae0POmm0DzBnfgsiZiEM3GGqCdNd7wzrWW8N91UVCjJTSQZiUvABVU8AAJNL_gHHRWMB5ULiCn9AohSdQRkg5Ua_Jp5GTTCVR-AyMkfKNGpFHzXPP0wyJjb9MrIwwDiMJ2pCiSHzSCkbI0s0G2lNsxl9TnYN2k3EBO9OhgExVS0DqVbTCAFcwQw4Xr8L9mBwCF5llAdTaYIER3CxBRB3WQp5eaEKe4AqBN6JaALTjgAAYJC8Ay-QkArNl3oR7prAGiSenh5An-chsagaJX2soilLrNMwQq8FNn60PTk3tKE-i7X_Qwi6M0xQy0tUXM5dV57Sd1li2JRWsOAqVh3keFRh65NU3ethUybv91Jc7-FS"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/UIG']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2254,
+"_params":".sd-2254-en",
+"regions":{"2319538":{"level":6,"name":"Ulcinj","index":0,"property":{"openStreetMapId":2319538,"iso3166":"ME-20"}}},
+"paths":{"2319538":[[1]]},"ways":{"1":"WYZ-ArEGJAGc6oEC29gnAf8ES_BkBdTukAEQ7EMBSu0AAEbtRQSt5NoSSM-yFlTL2Rc2zLYatsdiHe7F5SKGv4EqxbRJMdWn6j9QhTlIvmm_SCpjfUS8Yw1MOlwSTaFZm0-qVmZPZ1UUUfBTr1C3UnBSMlAzUtFOElObTtFSNE2sVDBNm1MlTFdUmEsYVNFK_VXYSVRVbEjoVitGP1W3RRlWU0VjVUlFClaGRGRVf0SJVeJD0FbgQ1dXEkU2WXdDfFkWQvlWG0EGWAlA3VcPP_JYeD_dWiI_d1vEPPBcZDz7W-c5r13BNuVekDaDXUwzGl5IMzlfvS8vYgQwbWH7LmdiyysPZWArIGTwKHdmeSdPZ_4kM2hSJWVneiEAaWEgRGmeHrxqOh6vamsbRmtnG2ZsNhiTbacXgG5QGLpuChZRbwcWlm-dFFlx3RPocRgSZXPCEp9z4w7OdNsOyXTNDfZ1aw2ldV8MmHjyC9944grJenwKCHriEbB3yxqjeisc-XwxGRKB-hYyhN4PuIe4DoqH-AyuibEIj4pSCECKoAdtiz4H_ovSBXuNTwZVjlsEs5ClBJKTAADxlUoA-ZUMAr-XAAIPmN8Ch5lPApaasAM8m9YG1Jr1CD2a-QiPmiUMiZvODPWbHgwhnBMOGp2EDrOh0wysoZ8pIIdTZRmGV26NmQ6BBKJsghK_q3NP16ZRfN1gav__umKV4tafvuJvqIPvvcR28eT02Oy_9v3lefIK5pnxltt67dnZOu3L1ubuu9TP7MjSMuw_zWXsGss98DTJ3u8qyI7uK8En7rC-qu9rtgvxQrMp9xeuMPYQruT3LazD-amkJvhVoAj5xJgB9JSTdfPOjNL9NIr__8SGYf2OhMn5IYOs4RuCn91ngPTaqnyE2RV5QdrMcbPYO27w2DZratoRZ0_fpF9N67JbF-7GWLju8lR07OtRoucwTgLXFU2B1IZKBNK8RezQXkOv0dhAudVqPhHcATz-51E4SuqdMAns_C6O8MUupvYTLb34yimw96ohDvLjG1nx0BMU8vYMKPDtBUfw_wRL8A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/20']=data;}

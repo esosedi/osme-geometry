@@ -1,0 +1,7 @@
+var data = {
+"_ring":2444,
+"_params":".sd-2444-en",
+"regions":{"2634533":{"level":4,"name":"Basse-Kotto","index":0,"property":{"openStreetMapId":2634533,"iso3166":"CF-BK"}}},
+"paths":{"2634533":[[1]]},"ways":{"1":"3XxAAO1EOAG5y1YA5P1RAYLqlbOQ5l23R-SSwavZEtio19fWWcRt13q9TdawrszWsKbs1cmVosrpjaTP54sV0GyBaMzCfnbJJ3xbyXt3fcYZdCvHy3EtxjJu28blaFzGvGQQx5Nii8aWYazDVV3QwhVZNMNnVwHCBlL7wXNTQcOmUQ7FD1OhxfZQwMb2UIjHu1JeyJRSzckvUDXLQ1EszAZRvM0ZTrXOpkyU0LhLydNGTY3XrEpA199ICNiCSePZq0gq3ZpFJ9slQ__aTUEY3LlAUN4hP4_eCDuD4iU5v-ImNtjgAjVX4V8yMOk4M6rsyjV_7-s04vKtN_Xz8DUi90A3-vrZNcH9_jD__8Mncf1zI5X5-Ryl-NEa1PXFFhHzSQqb9AoIg_PDBZrvvAKG7wAATu5cA2npKwJb5YMCTuNPAVrh8QJ-3gUDhNlLBJLWlQO20zUGDdCeCjDMMwxYyDMMh8QFDzbBPA43vjEMwLtyDna67gwGuDYPJLSKC2CwjQipqdMEWKbJBB6jQgY8oJ8GCJqcC5qUkwkFjOkJPIg0D0iBjxMsfsEUFXziEuh2NhHXdQ4Og3WrC6VzWguvcdcOV27uDfxrtBFXaEwUUmLwFRZhEBqtYHIe51wvIWRUDCRAUIImaUm8JVNC5Sc0QOkmgjvuJy05FiZWOKolZzZKIsUxHiRlLTkkLSWRIewdXCJvG18gkhaxIcIUbyD0EVgomgh8K3wHYS6nBPwxwAKzMskA3zQGAKY1AACpNpYE6ztjDbFCTBU3WxgmEV0-K49lMzQDX3o84WcvQjdqDkPXcLZCM3JvQSh1z0KyeiRBGn-nQZ2L_EUTnHE_652kP-uuOUoxytlIItFCTGvgS0y54UFO1_S-UW75VVSH_gZe3vcBYhj80Wqv9ody3v3ffLH9BIH__9eIRfpqjmz5vpR19DiXFevLmMXhlpzi4V6dwdYUpD3WBqeR2L6r2NzisC_jtrKC6pWz"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CF/BK']=data;}

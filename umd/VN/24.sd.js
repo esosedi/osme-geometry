@@ -1,0 +1,7 @@
+var data = {
+"_ring":1903,
+"_params":".sd-1903-en",
+"regions":{"1896050":{"level":4,"name":"Qu\u1ea3ng B\u00ecnh Province","index":0,"property":{"openStreetMapId":1896050,"iso3166":"VN-24"}}},
+"paths":{"1896050":[[1]]},"ways":{"1":"UDMCAflxSwbiBxQBBJtgBuUQ061YEkGtlgxpqvkKjacPDRuklg2Bn34OVZ5cEYGdYRBWmeoSUpdMGJiW4BylknMiOJXmJ3yQCinMjY4stYyZLiiKzTDpiaUxWIgVNP-JIDbBhpk49YRAO9aD5zyghMk-l4AHQTWBe0B8hPpCH4Z5RB-Gm0UwgZ1HHoO3Sa-AgUxEgeVRgYC6UUJ7RE1IfC9LoHtESOd2nUaGdhFNh23WU3Zm7lRaY4xaRWF2YFBZpprrLp-arCuJnTwqsZ00KaOf6SjRoQ0m66CyJA2iMiSnomAiE6TnISOkdCBgpRkgq6NoGgivHBlSr5cWV7SZFvi2lBQVuDwRHr3eDnW_jQzDxCEOycf6DdzMxAkizlEFyNEAALnVMgCV17sB4Nq2AtvfDQOe4yIFE-RqBqfqnAa36jgSCe4fFfjw2BTK878WW_QpGAbwVR_W8WIhAfJZJUHz8iSe9JwmRvPHKH31-Snc9-cln_klJxj7_SzV-pMw__8dNVv_Mjj6_XQ5w_8OPHL8aD4K-WQ_SvlmQXj4aUIF-vJDW_rXRebxHUz58HVOmPLzUKzwwFFM75BTC-5CUxDrkFWq5EVRjuDSUKvdolZ23FZehdoiYozZFGh626xr_tlObRHcCm8H3dx0fdkUeaTaRXs42ON8FdsvfgvfMn1K4Bd_KuTigDLkY4QM5XaEiuNmmsPhdZo64Y-bs-INnyDiJKFz5OCjH-TcpWHjuaYN486lBOEDpjLfnaeH3oWmcNs0pQTbuaF2zRybgceImqfAn5sHtQyfx6VXpfOZIKwCmXWtx5E5sN2HjrWwckDC7lzB01tQlOD6NP__gCpM948nBPFyIhHroCH15nkcAejGGcflqBh_4iYavd-rGATeVRce3rkVv9yuEc7dng_93EgOQdk0DEvYgAq32BkHatfzAR3YvAAH15YBZ9QAALjR7AH1zWsEl8xFBAPKUAeFyJ0HMMe1BaXDUQNZwlwEurznA4K4hQUmt6MHKLcwCPW19Aq4tD0Mx7QrDQy2aA7TtXEORLCiEPyt5RDTrQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/24']=data;}

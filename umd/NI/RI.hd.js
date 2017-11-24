@@ -1,0 +1,7 @@
+var data = {
+"_ring":2142,
+"_params":".hd-2142-en",
+"regions":{"2194846":{"level":4,"name":"Rivas Department","index":0,"property":{"openStreetMapId":2194846,"iso3166":"NI-RI"}}},
+"paths":{"2194846":[[1]]},"ways":{"1":"TcCoADhX2_q8HbMAYPPr-mjo_FsG6oddv-vLXjPtFF9-7gVf6u6gXiXxQV6A8lFe3PPQXkf0vV958zFgT_JwYLHxeGGe8U1jsvHwaZryFXX__2uV9r-g_p0L0P-JCtr_1An__w0Juf_CB6v_rQaP_7oFJf_4AXz-MgE9_gAAWv5hAJb9HAG9_IcB9PtDAhv7NAN5-dUDsPjhBP32qQaC9LUH4PJVCBfy2wgt8XwJZPA1DEbs1gx-61wNlOr8DcvpCA8p6NAQreUDE2niiRN_4VAVFN9CFnLd7hf32gkYHdo_GFXZPxh72HQY2dZ0GBHWqhhe1KoYhNP6GOLR4BgJ0TAZeM8wGZ7OZhn8zGYZM8yYG6zIihz5xpYdaMUBHo_EDR_twngfE8KcIhy9ciN6u4olNrj1JV23DigItHkoP7NPKbmyLy2RsFAy060vNqurzThdqug4Cao5OZ6nOTm0pm4566UPOgWhXzpSn186ip7BN4-dZTYrnSM1pZziM0CcRDFGm-cv4ZpkLeaZ5yaul0kks5YNH--Uyx1qlG8cBZQtG4CTjximkk4XIJLxFbyRbhPjkNAQ6I90D4OP8AyJjrQHtIwuB4CMFQNIiUIG4lsGOu43oX6bBrSFAAA7rX8bx66zHI2wvx1OsdYdVLKaHXazxx3btPEe-7UzHxi4xR4LudEeMrrbHw67cCDOvPEguL8rIevAYiHlwrUigsSnI4rIcyY3yywol80tKf7Nqiofzkoswc1tLTnN4C2izDEuHczRLyrNwjD2zgYyudDoM8vRhjYP0mU58NEUOynSSDwA05I9mdPzPTbUND5217E-RNkMPzvbuz_n2xJArtyeQJLeIUIz3-xC1N9tRNLfN0UX31RGId4mR1Ldd0gA3epJId2TStvcKEz43sxMYN_sTevgo1Bd4Q1Sk-FMU6PhtlQJ4rRWH-QNWaPl5ln25ZFaYOenW2jo_Fs="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/RI']=data;}

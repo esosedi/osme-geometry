@@ -1,0 +1,7 @@
+var data = {
+"_ring":922,
+"_params":".sd-922-en",
+"regions":{"391220":{"level":4,"name":"Northwest Territories","index":0,"property":{"openStreetMapId":391220,"iso3166":"CA-NT"}}},
+"paths":{"391220":[[1]]},"ways":{"1":"IYOTAx_V2_cNb7cE1Jjr-dJlN3-cSUaynEnYv7FAt8mqOP__AAD__wcAkF6sAkZcFQaoWz8GCFq-CKlYbAqYWb8M5Vj7DBFXdwvGVu4KZlVbC2hUaApbUyULhlHFCllQMwyJT6oKVE6aC3BNbwthTHQKbUzlCnVKMQoXSBsOhUfEDVJG8Q4LRmEQEEeXE-5FnhQdQnAXBz-xGGw_1Rj4PaocJDtsG9U5ZxzzOMscFTadHa42BR_SNbgfjzYUINc1TiHSNpkiATV1Igc0PyOUNHUmWTI5KYIzRSnnMdwqQjGEK1YvrCwtMLYsNjFqLmQxTy4mMnAxti_tMJ4ulzEYLjsyry-aM8Uv5DPcLi4zIS5cNCwtKjUJKxc2NisLNjsqSzd7KfY3cio1OcMoHTs_KL07dCakOm8lsjrvIqY8QiSePBwj3T63IZk__x84QOUe6j_XHahAQh2pQZkebkIdHm1Dbh8hRFAfLkTuHZBFzR0JRc8ccEUUHKJFsBwaRikcv0bNHetKrSC3TM4fLk7JHSFQgh_kTzoeqFDZHZhQHh35TmsbXk-UGl1QOBvdUK8aLFDiF3ZPYBe5T-EVr1BkFnRRWRVbUmgWkVNSFo5USBQeVyoVw1dKFrhZEBPRWSQUzVrjFFNc5xMOXWQSrl19FMNdHAMcYJcCzGG7AxBjtwL0ZasCh2YPAQV3CQHWfQAAsIBHAmGDPgamhYgQH4VqE_mCNhdJh2QjwIpaKd6LiTAkkBU6S6IRS0Wmr01LqCVOxKnzT5-sVk_0tJ5VqrbaUpq7iVM4vklQn7_UTwXBAVHlwf9SS9QhYLXW01003FZfHt1XYUPeqWbb6Xt8D-7mkcjv-5P08HaWdPNSmWL3raBA-UWpZvsosP__xMTThcbE1IVFsqWERbKhhCKxCYTRsXmE4rE6hHSzzYOnsUGETrGZgymxmYNvr9SFb6_VhRmQWITlj-aAqJPpf7h1EGu4ddFlN38="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CA/NT']=data;}

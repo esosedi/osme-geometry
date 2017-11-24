@@ -1,0 +1,7 @@
+var data = {
+"_ring":191300,
+"_params":".hd-191300-en",
+"regions":{"571804":{"level":2,"name":"Nauru","index":0,"property":{"openStreetMapId":571804,"iso3166":"NR"}}},
+"paths":{"571804":[[1]]},"ways":{"1":"mIL0_-XK7wlpYPv_sKf2CQAAHHmSABdvIwFtarUB2mZHAtlj2AI2YWoD1l6NBKRaQgZJVfcHrlAaCelNPQpUS2EL6EgWDYZFOQ5qQ-4PcEDGEuQ7MBa2NnYYaTMrGhMx4BvbLpUdvizbHxQq1yPCJR0mdyNkKEYhqyowHzgvUBt-MYMZxTPOF502yxV1OeUTvDt0EgI-FhHaQHcPIUM9DvlFyww_SLULqUsyClpR7gegUxgHClfwBVBZPAW6XEcEa2LsAhto2AHLbQYBn3RcAOV2MwBPegwAlnwAAACABACwhUAAGomGAGCLwwDKjjYBEZGRAXqUKwLkl9kCTpujA5SdOgQioo4F0qd3BzyrwwjJr7EKM7NIDAu2tQ2YujMQJb_5EkTEZRaKxgkY0cjEGczMBR3H0Jcgw9R4JC3YGChz2p4q3d3gLZLfnC9q4qwyH-SfNNTlqzYa6I058-pzPafs-D9c7pxCEfBlRTXxW0fp8ntKMPUOT-X23lII-KNVK_mkWOD6tV0E_J5hlfzLY7j9zmhK_s9r3P5ib23_C3T__xF-__92iG3_fJLc_iWXSv64mrj9uZ2V_LyiBPzqpOD60qgr-eSt5fbMs8L1eLZ781K7xvGcvqPwqsDu7pTDOe1VxoTr88jP6WvLieeKztTlwtCN443TR-Eu1pLfEthL3XjaUNli3gnXd-Ax1O7iWdFN5RPPGefMzM_ohcpu6j_I-Ov4xW7tIMMm70jAw_BwvUfymLq08wu2yPWhsjH3WrAS-PGsSfmHqWH6HaZk-9ajAfxtoNX8A52R_VKXmP7pkxT_opFX_ziOpv_Pitz_ZYf7__uD__-RgOn_J325_755bv9Udgn_6nKJ_oBv7v3Qaa_8iWcc_B9kJ_vZYXP6TF3i-JxXpvYOUz71gU6f8xhLQ_LRSEjxREQl77c_wexwPXXrKjsW6lI4SejFMyvlfjF74zgvteHxLNXfqyrc3a8mI9ppJNjXIiJp1dsf2tKVHSXQ4BsAzisavst2GF3JwRbZxukTUsI0Emm_pw05t_IL2LPPCmyxrAnXrokIEqxCBvWljQSaoGoDaJzYAgiaRwJll7UBZJQjAdGQkgAnjAAAIoIAABx5"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NR']=data;}

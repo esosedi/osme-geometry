@@ -1,0 +1,7 @@
+var data = {
+"_ring":1296,
+"_params":".sd-1296-en",
+"regions":{"1609810":{"level":4,"name":"Haut-Sassandra","index":0,"property":{"openStreetMapId":1609810,"iso3166":"CI-02"}}},
+"paths":{"1609810":[[1]]},"ways":{"1":"AlZfALLLk_-bHXcAUoal_2sub-fYKtXldCQ25WAhseO0H6rgUxtF3UkXoNw2EzfZKRFk2VUMN9e5DGbRMg-Ay0YPVMpRDS3GGA7jwkAPyqsbCjimawgYnsAHZJDzA4KGcgJ7gPsLcG4AAHxaMgDJPLEc2xhnINYWeiBTEzchzhIEIxoTACPEGK4kKRxuJ5IeWSqtHE4tERy4Lt8ZiDF9GDY1mxByNrEP1DemDyM7FxXdPL8WJkO3F8pFCRYZSCAXdktlGhJN0xgKTlUWuVEZGHRW-RRLXYUUKmBWEhBhLhAQYTkLCGMkBnZkqgZJaP8FkGmyBrlq5AlubgULyG9tCqNwNAfFcfMFnXPCBYl26wb1eRoHNXsJB2J8UgWnf7YGe4WGBxWKoAmdjRcFRpEeBQKTDwZBldIEdZZSAQqYEAChmQAAapr4ACqb7AIUm_8EFJyCBSedYAR0oR0DCKo-BfetMwR4shUGebjpABC6GgJhuuMFc7zAB-e8XAm_v6cIb8CiCSTBpQ90w7oSVsTcEh3GuxLTxzwQ0MuMDbjOfQ5t0jMKb9M6Cq_UoQul1nMQPdYcFvrWTBe02ikXi9s9FtHbaRM64IMPO9-iCqbhXwkC4ssHEuQ-BWbnBgUa60oCqOwRA3HswQSB7RcJ2P4bEYv9pRP__zMcyP3DJNr90C___Pgyjf4dNZn9_zgW_UlBHfy-QqT8J0Ym_OdJNPqGU9b7EldP_vBZiv5qYqT8rmeX_SBsmPzvcHj8T3Yu-_V3h_ryeoz2mHxx9JuJ6vu6l337np5x-i-iGPwApNv9Iag8_aWt5P0xr2X9SrEb-0C0pfqMvNT3Gbze8inCS-2rwGfsSME-6njIHOhey__m_dI55bDX7NDWp1XGg6iTvjmbobo1mNW4Fpn1traXRrSQl3iuSpm8q-GX2qmLmHWnf5d2pt2X7qS2nHehdaLpnsKk3pvOpVaX6q3GmpSwEaDLuE-mF8gdmP__o5a98EB-McUCag_DeV36yTBR3MpNS5HPrEbYzXU_jNJSPLTYmjWj2Gsub-c="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CI/02']=data;}

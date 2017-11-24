@@ -1,0 +1,7 @@
+var data = {
+"_ring":1435,
+"_params":".sd-1435-en",
+"regions":{"1675881":{"level":8,"name":"Municipality of Gornji Grad","index":0,"property":{"openStreetMapId":1675881,"iso3166":"SI-030"}}},
+"paths":{"1675881":[[1]]},"ways":{"1":"z7fBArU84ABaIMMCUgjjAEWs9u38pqXwn6Vw8Eulvu6ao0TuhZhq8HyY8_EakP_3v5A2-VKPsPrhjQj6_Yk-_ACJ5PoBhNf6H4RD_FOBov9XfwH_93z__5Z6af_Pe739Qnh_95hziPmLbTv5KWq7--Nob_kQZj34FmXG-PZgp_Z1YDrzL1xl8GNfou0aXxvsF1qf7GZYlOpQVTLpnlGF6rtInuECRLnkqjrp4fkp0t8aIQfcUwXH3D0Bg904AobIlgr-tYYJD6azDOagVw82mIQGpoXOAjVzAABOcEYCcWyiAbZoZgp9YPEIdFrpAQhVZAb0TfEOKkWvDpM8ShUiMHkWfCsgFHoo1BPmIW0VfhuGFBYXuBX4FcQVmwxEJmsFmC0AAKozwwHuOOMFikRyCCVOmw3rUO0MwllnDsxgngyLZikMdGfhEHBtORLxclMVCXxyEsB8QRXCg3sUnYadFR6FMxiohBsfjIoXI5yNKSdbk-cmQqAzKJ-lmSsipMEykKp1PWWyvj2ptG1A-bEdRTizHkhGtTVJR7VQSw-5QE3TtTtSarr6VsG_PFOdw0dVTse7U8vHfFUL0JNV59CgWCLP2Vn0zIdeYdGrYKHWsWEo2I9jHeOXaKbswHUl7HB2nfjHf7r514P__1-MFv9ekCn59ou_8xKMm_J_k4jvb5U369WVIuFnkUvbK5Py2e-Xm9qWmgHVjJ2b0KGe7s9MoLXUtKkR1KKtKdIUrzbU4a_901izS9FxtX_QprfFzqq4ostQuLHCyLvBwyS9ZML_vNe_Kr8CvlfDGreswwKylsWyruvDAal4yFSoy8w_qcbQiqSy1QmnqtfEqBvbqqsw3dqs1d_ErbLlGaxh6zere-tprFbsS6z27Q=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/030']=data;}

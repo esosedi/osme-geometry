@@ -1,0 +1,7 @@
+var data = {
+"_ring":1488,
+"_params":".sd-1488-en",
+"regions":{"1676342":{"level":8,"name":"Municipality of Benedikt","index":0,"property":{"openStreetMapId":1676342,"iso3166":"SI-148"}}},
+"paths":{"1676342":[[1]]},"ways":{"1":"9sTGAhrg8QA7x8cCySXzAHtM0zZRT6c2gWXVLDBmeC0wa_csuW-uKop08ilqc24nxXQJGAl4iBD7dKwMWXUbDOJyrAZMcBkEhXG1AfZ18ANSjgAAtI-UB9ONbAn2jpIKJZLqCqKXuwnJlxQJ-pTCBleaewM0oPAL9J9uCi-h9wmdoi8MUqEMDSmiVQ-NoRwUqanvFaaqfhdYsLgbAK61HlStoSPjsR8lA7SdJ3G3oSeRt7wo572gJyy-KzG6wCwyzMT9MBvK5zFx1Oow2NooLvPe9ils4O4p1uXsK1jt1TEB8OE13vAKOqX72jPd_vczFPs9Nv__Y0EX-0lHG_moU7r2RViJ80pisfXwY9_07GRU-NFomvh2byH3EnN29kp51OwNfKXqsX876g2BO-sahyHrZ4zD53eRQun1lyjs8Jm158Gi5ORnpAPky6Uy442l2uKJpgrdH6f5282qV9uSsorZZrUz3HG6YdwOwWfdZ8Kd3YTF2uKKxl3n5clw6H_POugp0s7mddVZ40va9OK33zTeYOY-3vDq3N9w7Jzgd_LW4crzkeJH9ovjoPaC5Bf9ZeH9_Q7hWv9n3___w9tn_83aTP2K2Df8qtNu_8DTY_3f0jv8HNN4-hXSnfe5y4DvM8k77azFHOxUwHXszcDP5sS_0OTUvyHgSb7x16K7odUDs7HZkq4-1hup2c1BqFrJs6ZExr6mIMCxp_e6xKrytOmpgK-LpTisPqMsqGSdj6Y9mcyp55ekrWKRJK-Ejtuur4oRsdKF4rnTfYq4jnnAtdt2OrUEcre4ImcfuNVhUbtqYI-96l0WvotZ7cAmVUvFF1ELyINHHtLzRYXRe0IE01VDmNTqPqTbmD6B3pE649uLNuTU6TRQ0zQzPNNJMNnKGSckwv4hV8AwJQa19SRYrhggAq2cFfWskBNPq7MSK6c9EGyibhtnntsaAJkrH9uSKR1Hjt4dl41DHa-MUhz9i24YPYwZF4GHnxnmhhEev4fEHuB80xZgfacQ0Hv0AtSEUgHYgJcCin3yAh92AABJcgICFnK0BGtwlAh4bGkLOmutC45pcxqIZIMeDmQZJPtfXSoeXgAtPFzcMFJcNzMEW-86904SP0lNxUX6TbVG60U9SCtEVEjAQCFK7z58TNM2"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/148']=data;}

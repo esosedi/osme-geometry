@@ -1,0 +1,7 @@
+var data = {
+"_ring":1610,
+"_params":".sd-1610-en",
+"regions":{"1693907":{"level":6,"name":"Drochia District","index":0,"property":{"openStreetMapId":1693907,"iso3166":"MD-DR"}}},
+"paths":{"1693907":[[1]]},"ways":{"1":"f63ZAlyBpQGoF-ACxKCsAcqKIimRixgoPYyeKM-O8ic0kIwmyJDYJ8GRtidmkpYkpJQGI0SWSyNBliskipdnJQeYMSPQmDsjwZipIHaZAB-Tmn4eS5tfH-icIh8NnZ8dFJ5RHV-fxhkuoQoY1aD1FS-iTBVvotoSNaPLEuuloA9nproN56UZDFSoYgqvtQsWfLgzFmjFNSnTwq8ubMnnMnTPTTVE1940XNY_PCjaQjrT3Bk7Pd2lOTDnhUDm6B0-ZelmPnTqGTpr6QM0qOrxMQ7tNzBG8C4vg_HwMKvxpjTC7ds8keoFR63yOU7E87dLC_hdWfH8qGP__6N-bviqgr74Z4Rx83SFiet2jgfo4Y7h3-OZmN6TnTnosKv01sDCSN6MyTvS69H7zare98wx5LK8ueoqtRjwErQn-5Wqu_uFpsj5w6ST-yOk1vqln636EZ3k_HuS__8yi6rZSIS93PV_wch0d5PM3nc00uFw4NWpaHLU7GhW22tV9ty7UAPgu0Ch7uI4ZuEkL_LUFCur2hAlGtfXGjnHjBYavpYW_rvQFQ68qhJxtq8alK82ExOhmgLOmloAzpoAAO-X-AxWl0UM5ZCrFYWQRRUyjSIYxoyYFpyFTgzMcLMMn2piDr1ouBWoZjsY0GPZGA9iixvGXxwfsl5YIaBg5iJZXcIjP11EJr9ZzSjpVc0pIFK0KbNO6izRS44sukopLXlJQS07RuAvl0YyMVZItDKMSK0z-0ayMntFUTPoQ7I0AUGqNnM_xDm1QMI-HUA-PypCuD6bRIRAGUMfQcZDQEHfRSRCB0Y4QglFZ0NWREBD-kFMRbI6f0cMLUhHlielSfceWUdlGVdJGRjTR5USnEjwEAdLYRAQTTwOZEp9CpRWGwBFWCcGrljDBcFcAw-ybQAA2nX1C0h3fwlheQIJVXzvDdOFwQ40jsYcOYpAJ7OKmSjKiiIp"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/DR']=data;}

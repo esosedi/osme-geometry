@@ -1,0 +1,7 @@
+var data = {
+"_ring":1735,
+"_params":"-1735-en",
+"regions":{"1781242":{"level":6,"name":"Carnikava Municipality","index":0,"property":{"openStreetMapId":1781242,"iso3166":"LV-020"}}},
+"paths":{"1781242":[[1]]},"ways":{"1":"gZlmA-H-bwEHwmgD_YNzAf__6fit_tf3g_wu-FP7y_c0-kr2m_nL9Vv4xPU0-Gb1y_Y79Wr2PPal9cr2F_Sv9nHxJ_Rm8Bj0mO-W9CDvF_ZA7zX4RvDw-v7vVvzo7rL9Vu7-_lvua_8T7U7_Z-zW_63r__8E6_3_zekB_53pzf7F6T7-e-eI_PLmb_325sr7wd_V-S_e4fmDu7n-97ij_oC2Rv57sQj9R6s9-8mn0vkQpoz5Dnbg59R1oucScCHmmXDl3-BvMd3qbozaWWv71F5pWNPMaA_TXWgl0zVoJNHaZsfO22a2zQxlhcwbZb_KxmMnyZliH8ecYCzGjmBFwwRclMC-Wwa4b1hJuA9W0algVpapXlaqpgxRoqHaSFuaskjCm5JHwqK3RBWitUNHokBBDaJeOtWlazOWn88z3ZxANbmZXTW6l-UttJVTGB6M5hPWgBkiWHmtGa5kHQzVRIMB6CqBAIsoAAAOKIoA0iX1AM0iNgKUIcoCRSGnA_8h-gNoI6kDriRkBHQmLwXPJtQFcyYvBuglFQmaJrAMaiRDC1Uhzws3IPEKvR6GC9EdvgwCHfsPWByUEKwasxA5G8URMhwiE-ocIBS3HHUUZR2ZGJMciBtUGygcWRvpHNsZNCeaFLwjfQt6KaQIpyfSBRUvAAC8MZwE9DZFAm84awQmQhMW4kj0IAhZ2zmCYO9DbWNLSGhmrktnbD5UbXEsWtt0rV4vfNVmuHzPZ8p9g2hbfqRpNYXbcFmHtHL_h_tzPInwdAyO4XlQj3F7dJW7gHOWDoKPl4qCAqHsisumeY_Bp3iQjKxHlFKtRZW_s2eah7bfnNa6rKH5vVik6b4lpri_a6bAv1enGMCdp--_66eBv4-nt799qAnFta87yES1fdThxnvd3NLB57beweh54NjsyOTD7obmAPBQ6PD3TPGk-7r0Cf869___6vg="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/020']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2208,
+"_params":".sd-2208-en",
+"regions":{"2279557":{"level":4,"name":"\u01c1Karas Region","index":0,"property":{"openStreetMapId":2279557,"iso3166":"NA-KA"}}},
+"paths":{"2279557":[[1]]},"ways":{"1":"dgRG_kjZ4QCffoL-5CoxATlgSx6DYgUc82SGG8pqGRhScNoWpXlXFtZ7KhWHgxEVPIU0EYuIeBEciAERkIueD8WPQQ-qkCMOiJYeDseVDw__ljgQI5PmEMmWOxEzlqARUZiIEv6ZTRKOmvwQ5J7EEPKhXg_cotwP_qXsDVCpswhgq1MHBrF3ByezTQictl8G3LYzCDy65Qjrv6IH_sNhBQHJYAW8z2EBftFdApzXMQLQ2wkEAOLQAT_kJAIK544A1OwAAFHzEALD92QCFvq3A9v__QH__-8vEtmCNWDaQDkeyOlE48oeSMDHsUs22l5IZdyTTerZkU8K2GJOFdbKTpvW3VEm4AFVctoTV0raT12U2JpictaqY6rWWmdP1N5qA9GqagPT129C0oxxf9TCc7_Pf3wX2np89NyhgALcaoFc3B6F59oPiEPbd5Cw30uiY-MDqGjjlbmm3W65XN0XzA7cvtLr3o7XdeGc2c7WUN-o2k_ix9nb6ZLXnera1gPxndSG823Z6fuo1078yNj__78i-__IIfj5jB3T9gEfJ_MTHLHvYR2R7UwcpOp1GC3pjxeX53wS--bGEMTlyg6o4mkOBNzeCY_a-gZn25wEWN2nA7TcFQTX2jYBdthAAGrWAACY0zgC2NBcAjrPFAVvzgMHm8ukCMHBDgh0vHEGBrjuBMG2VAW6tDIEYrJ_BciujgXmqjQD36YoBpehywUBoBgKNp2tC7KbhAtYmggNdZltDcSSlw4ykUoNTZBHDviOawwcjBQNtorlEVGJGBH5hqERlITAD-WAShmMgQsanYCiGQJ_bx1UfqofsHwGInR9KCI8f5IkeYATJq6AninKfkkrGn_ML7J8YC7Zdj0xRXVjN7x1XjgXc0A8VXADO1htgTlibJY6_mp5OQtqkDlIZxI4cmY2M8NmoDLrZZ0z-WO1MDJlCjCVYowutmMBLadjlyyNYqUtRWHCLDFg3yo4YAAn2WK_JOhgHiHnYB8eul7fHydcEx6gWeUbYVjeGbNSIhh7UYIVWlGlGldLdiw0PR02pTNwPhIta0FJKwNEiivWR7ApNU7RJJZShSMRVc0jwVmxIDFgTB45YEse"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/KA']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1248,
+"_params":".sd-1248-en",
+"regions":{"1435829":{"level":4,"name":"Siliana Governorate","index":0,"property":{"openStreetMapId":1435829,"iso3166":"TN-34"}}},
+"paths":{"1435829":[[1]]},"ways":{"1":"BJEdArgoiADanCwCXu-UAIb7AABW_d0D6_7BF3375xsn-74lw_l9KLf1pCo-890vhPFiMQHuWzBz7BkxaOxENGLpyTiK6Pg7COumRnnvEVCz7qBeku1OZ4rsr2qK6ddtDOafdAPng3mH6UKA8uuDg3fuHoQv8fqCIfUagxr4F4So-mmHaP2Pkqz-SaGI_kCrvf0MsP__brgX-53BsvWzx8v0oc5G9RjZm_NJ3KX03OB79sbgp_m245b4qPA7-Sb2jPsL-FT1z_mr6L_3-OCZ9Brage_s1cXmANF434HPUtZF0BbPVs_vy7bJftFmyAXYtMbB2C3CrtiAv-_Ztb9S3ITBheGQvuDphLp_7Oq5v_JVuDPya7bc8oe1k_dbsp3-CbD__xus4_6FnvP1gZvC9D6b1vVJjjfhOYaW2b2DfNVhf2zRSHp3yuRuNKybbD2sp2MytDxgSLPiXXOxaFpMs5VSO6qtT7mq7EywrAVH6bQTRqi7d0IxtsZBOKpfQLClQz5CovM6ypQ-OEiQzTkXjF45YoODOpB-Wj-6ce8-021iOglp5jbNabkxYG6oK-52tScmgOcj_YMiIRGIQSCPjOUWvpMnE9qYcwmZmhEFwpwIA86eVgHQmQgD141WAdqHAADhebUAkXbUAt93mAmAdMUMa3ASDoVtlg4IaXYSPWceER9hmREEWg0TQlVnFZxQHhhIT8kdpVC-H6RMSyKFSVsjiEVTIpxC8CL9NecgTy9fIsIr2SlVJcInBB70J4cZpCnoFSkvjBPoMWARFzVMCVk3SBJ6OSoW1zaLHH024R9HOUUgRD9QH7REZBr9R3YY9U1NHvZRPh8bV44ej1vLHCNe-SBOYOQhu2CVHV5m1h_OaZUkQmtXKLxrFi0Bbtsx5XAlM6B5ZTIzfMEzFIK0PNyD8UFKho9FAIjpRWOT_UJEnSdEyZ8XOSujajeoopkwyqdfLIWofyTTs58feLgJJPC6TiQ8vtEiS8G4I63DKCEfx6kVE9hzCM7aYwi44GUQB-OjERrsXQ378bwFDvarAhb7jQCG-wAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/34']=data;}

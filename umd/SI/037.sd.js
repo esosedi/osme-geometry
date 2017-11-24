@@ -1,0 +1,7 @@
+var data = {
+"_ring":1549,
+"_params":".sd-1549-en",
+"regions":{"1681534":{"level":8,"name":"Municipality of Ig","index":0,"property":{"openStreetMapId":1681534,"iso3166":"SI-037"}}},
+"paths":{"1681534":[[1]]},"ways":{"1":"59O7Ahdu3ACN870C86beAG09Q_V8LsT-_Sza_PspGP6FKLj9_Sb___YmmP0qJoT8QyRB_bgiuftwH0X77B1K-YAcEvl_GVr2QRVM9XQU_fP2EyX1PhJA9WkS__XJEYv2cw8K9tcO_fLFDBzvowo16_sJ6uteCNXlRgna5AcIxuNNB7Pg0wXw32kC09rXAMXaAAC312gBItO_BPjN8QQEzWQEhcwuBTrLEAUeyo4H2sgrB4zGlgZ7xosH3MAKDje7VA6zuMMNpLfSD7i1bhGPplwYuJ1CHbSdnh4SmrMe-ZXHH3qSGx9VkFQfOY7wJfSDjCqHd1AtlGhoLWNkUildYTooXV2sJZtYvyFwTvgl7UJbLHo4-jHjL1I3vStRRa4jOGAXJatsVh9Jb50ceXbjHSuCaxwohBcZhoc_F1mJ-Bpui5Ea1ZHVIG-USSG0lesclpb6HTqWqR5BmJ4ghKBAHa2nwxgvsukOM7ubClvG_QN8ywAARs0RBFLNiAqOz90Qvs4vFF7UuBZY010Xq9P2HNHSBiWEzpYlbtBYL9bR5y5H0ZozdNAoNIfQODVS0VQ1kNIPOWjfUTUH8ZQt__8ybxb0j3SO9ON0__NYftDzHIF99YSB_PG9g8nwZ4as7muHgOzMicrrx4rJ69eNeukEkPznzJLQ6OGT4OiAmRzj_pt23Ae19dJHuJ3KWr8wx_2-HMaTxga8bcVAvfPB17vatyy7wLnbs6HAOrF0xXOuSsahq-rI8aYVx-2iEciQn4bHUZMcy5GQYsp7iYvOcYeyzUGIn80ziGnIY4cHyECE5MkWg1DIUH1KyE98H8Yue2LFV3suxG56JMRkdWa-XnS_tmtyzbdUboS3EWhsuV1jKrkgYOO6pV6qvO1d3r_DXNnA3F9JwsNhxMVyZF3HymRJymtlpcoGZRfPw2Ohz19kldO_YQvUa2Ae0l5efNFbXXTUdVeM1CRU6M9uUHLOGE67zgBMKtFWSXnSKEhl1hNFV9mtQwnf2UN24DtCJuJqQ4DjY0Nz5WlG1OfyRlLpcEa66n9Aku_YO9rvFDqL8S85KvFQOI7yxjr79Ws9QvU="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/037']=data;}

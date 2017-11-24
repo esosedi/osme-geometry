@@ -1,0 +1,7 @@
+var data = {
+"_ring":1803,
+"_params":".sd-1803-en",
+"regions":{"1802549":{"level":4,"name":"Moxico Province","index":0,"property":{"openStreetMapId":1802549,"iso3166":"AO-MOX"}}},
+"paths":{"1802549":[[1]]},"ways":{"1":"vDIJ_1anEQHZdV7_yHZvAajhQrPw4WO1rOSDt_PmSb1U61u_W-vywfrnEMeo5-HJYOkCy1rqMs3B6PDPxefC1gbp0NiH6Djbw--V5dXvEuiL7L_uMO2z8tDr6fYY8oz85O2Y_YDnz_w05gr-cOAf_tfa__-u2N79DtUY_gXPYPtgx5r9ucMo_CW63_tetSv9FrNw_1axof8-sM3-dq7U_zesmv89prv6VKPs-vagrvkNmZD44ZOi_d2RQf43kUupAABLqeMEPqIuCIShUAkvoPwLZp_nDHedpA9dnRsSMJmoFc-XxBZ7lrYYuZaGG6GUexy1khsiEJJGJUSM7Crlid0rc4i6K3CG9y04huotPYTnMp-AyzMlfmI1rXz9NN96ojbWeIM1h3fhNXV1xDfucSo3tHBDNvJs2TacasQ1JWi4NldkZzYmYTg6dFmEP1ZVZECnUoZBoVJ5QbJR_Ud2S2dJF0uJSjdJI07jR0hPmkbuUSFG51PiQ-tWdkLZVaM9f1ZtOSdYlzc3WLQ161Z4M5pP8zQDUxAvO1HuKQ5S2SdwWTEkOmFwI4xpJx43bd4Yy2z0FftwDhBbcEkMg3fDAIJ5LAAHfJ8BYH8AAP-BxwJBgxAGPIRXBl-GGwaJiu8Dn4x5BduN7QRLj-MHTpFFCKWTmwoBmdwI-ZnhCfSYcgpenY8PfaB3D26mJhStqRQUoarpFPKuNBlQr34bdbJLHuWzRCEGt7AgdL3vJiW_CSdfwdAlrcMLJmHFxCd0yRkpBcklKw3KvyvgzIUqic1TLojOQC-L0-Yv39cLM_7YmDaV2go4I9rdPA3dJ0FD4YJEXeFoRuLehkqc31VNi-F2Ty3fvFIc4XJUTeENVxHgFFq446RdMuA4Y6XfAGVz4AZnjN2zai3dTm0I3P9tAto-cjba-nOi2NV0EtdJgEHYaIEm2tSA4dvuhX3gMYmh4wKRxeN2k2DlQpSp5O2Xuea6nFDqzJzC6qObce3Lmgnym5sN9Z-ehvoEn339XqCP_rChNP4Dq___2awd_kG0Wv9ithH4mrbN9f-xafMcsFTtXLG26Yyze-QUtNnhUbOo4UKz"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/MOX']=data;}

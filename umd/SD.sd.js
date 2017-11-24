@@ -1,0 +1,7 @@
+var data = {
+"_ring":191194,
+"_params":".sd-191194-en",
+"regions":{"192789":{"level":2,"name":"Sudan","index":0,"property":{"openStreetMapId":192789,"iso3166":"SD"}}},
+"paths":{"192789":[[1]]},"ways":{"1":"l6COAObcTAFw6GIBjopOAuUScD4XFM47MxJ2Mr4QJzFTDAIx1ghoLigIOC0GCRAsNwgWK_0IrSjqB70krAVPIvgFhxySCSAcdRSfFs4YKxKRHCkQQyKXEREm7BDOJc4O2ilUCx8yhwxeMQ4KEjRqCmA5oghBPOQJkD4zBt888QSqPBkCpz8AANNEZQK3RjwF0ElFB41RGAT9VFwG7Vc6C-JZOwugWooJcl6RCdBfowgzYfAJV2J2DW5l-gznaQURRmwNEmdyBBE6deUT23T9F0Z2CBzZdCAhD8QlIQLETTDR6FEwy-hbj6HsJZEZ7SeS3-sRk8voIJLP6EGsvOM8soXkx7hy7FO7JO6Lw3H4ascC91LL__-202_6Mdcc-qDZm_iA2xXyN-CY7CnmleoH50_mmuYR4bHnbNn97CvYQ-040QjrRM8a7ErEcOsuwVzsHb3360GwHu-WsDPy7a7X9Jyvc_hcrXz4raz_9XarNPaApPj9sqD__9mcUPyelkT56pZi96yVDPf6ljX2DpUb9K2VnfLAk1vxxZL47USQCO6BjaHsG42B6C6OI-YSiovm8oOh5GB_y-XgdZ7hS3Dc4MZqw91sWkzf01TP3alSbN6qTRHd_UnP2vtDddnWPTPZET180msxH82hLVrJrCvDyK0oTckkI1XHECL_x54d38brG4LHiRnUxacYcsS8GXLEWRy8wXIaY798Fja9SBD-vY8H2LrQAle60ALetpcKlriyDka41hdnsVMaS63vKaGr2DQHrio1fqXqL7Wl6i_em2krVaC9IVWgNh-GofoXO5pUEQuXlweEj2kHyoi1BruISAsehFARMXuFDRN1aQcTdSwHo220ArNpAAANaQMAXF7iBFZcIwXEUJsCGkrIBIFEegqxQk8PbD4mEm8-5RJwPg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SD']=data;}

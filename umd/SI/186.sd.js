@@ -1,0 +1,7 @@
+var data = {
+"_ring":1431,
+"_params":".sd-1431-en",
+"regions":{"1675868":{"level":8,"name":"Trzin","index":0,"property":{"openStreetMapId":1675868,"iso3166":"SI-186"}}},
+"paths":{"1675868":[[1]]},"ways":{"1":"cpO_AqSP3QDGIMAC7ITeAIH-_v8-94z_w_QO9VTxmfWv7bzpDNtn7MfXit9w1d_h69SA4ObLcuP-xMjK4rrHzFO5dsgzo2nMaqLUyHiHUMYyikvE0YqMwhaFUMIHf2TB5X7CwMdxc8AhcJHBCGtGwYhjNMNfYvHA-WBfwe1fUL1wXGO_UVKLwHROn8MvPJ_NTzjazpQyCc5mL1_PJijTz4Ekv9ZiIafWcx2R2GQabdjFGTjaNhZy2_sT7trcE3XckxEo3SkQetudDfXaGgvN1lAOhNFsBBTOqwRlzZACxcyOAoHLSAGCywAA7cjHAffHQgG0xoUCOcXwATnDSwSiw_ACvcAPBmjApwYYw_0HFsPiCRPBSws6wkYODcDBDbu-xA40vr8Qdb_wEVe8-BP2u48Wk7hiGy-3FR1TtPkawLKIG22wbRoprUIj2qmyI3qoOybHpqwqUZwRLVSOQjKpiqIygImlMPqGLDOWg3QrGIF9KtV_qyZuf6whjHuXHql3lR4hdrYcB3P1IDZwWCPSag4vvmD3LStgAy5SXjcszFu0KqFUQSt2UTUtw06tLytNBTUkTLU3tk2oOx1OC0KnSJ1DUkVtS29CAk5BPoVRPj8BUFY3nEwwNN1OwC9oTpctyFFcLSFUIyzLWBom0mQ-Jf5mix5CbmIWgW_YEgtvyhCzce0NXnRHDZZ0owjueEELIXuZB15_QgRxhykCu5AQAkCXAABMm6AD_KA8BvakwQkMpX8MrqcFEOipqRj9qusYvaklHHWtPiAjr-AjN64FMgasJjddrl0-mqx9QWyuSEaCtkRPpbawUP2z-VP3tDFXCLRBWv-wzlyCsGVfLLGdY0ywn2V6tLlrI7WsbmayZHc8smZ7VL7DeifA9InWwXuON8TMkZ_LF5ZN0H6TA9LWlqvMJpoY1Dyf7dc5oXvbGJ8020yb3-Aemz7m_55Y646g5-1JoxDs06P_7U2mK_A-p-v2Naed9_ev__Zms_X0g7M-9Y3Bu_oW4ir9WeT__wLzP_yo833-__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/186']=data;}

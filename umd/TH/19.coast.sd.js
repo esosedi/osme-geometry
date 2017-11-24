@@ -1,0 +1,7 @@
+var data = {
+"_ring":1988,
+"_params":".sd-1988-en",
+"regions":{"1908818":{"level":4,"name":"Saraburi Province","index":0,"property":{"openStreetMapId":1908818,"iso3166":"TH-19"}}},
+"paths":{"1908818":[[1]]},"ways":{"1":"jVbZAPKY_gVBquIAjeQIBvcLSpAIAH95mQ12eQAAh1_1HaVeoiDnW0gghVDMIU9OliQzTrAwJ1PONf9TCjuTU1g_hVD0QtRK3EUySFpJ_EecTO9IDlQkR_hlgkqHaHZJ4W3fQyNxPUM7c-5EQnbvSmGAM0zHhtRKhYjvSM2JnEQsiDo9wYhTMyCHeCyvhOQo6n-dHcB-BhRVf2IP5IE5ChqEvwhEipUHY4_LAfKRUQC3lgAAKqh6B7SsiQiProkKrrMrDTG6BA6dvpkP5b-0ESzBgRmSwoIbEMslIu3RYTKP1-s57eBEQADogkAi64JBVuvXQkDsjEJ36wZGeOfdSgjnFVm-6lZaQ-vgXUPjWXLG33V0Q97HdpDdNXsN3IV9GNgAgbLRRIRH0gONytM8kTbY3pX84SKdLOaCnoDtTJw_74Gc_fCensjzhaZ7-eWrpfpSrjr7zrf__9C_4fqT0m_489UO6x3b9ujn3nPnYuS05X3mZuGM6Wza3utH13_sfM-M61jMZeyZyvjrJ8ON7bigqu_IkEzywY1Z8bqAcumzfc_o-nmZ6qB0-_HPaTP4M2H__ydgd_sPXq35jFx2-T5YhPwZVRr6lk5A-QFO4fOhRbnywz767xY3xfE5NUvwPzPQ6g8vcemALGLm3yqX4lYro99dM7HaXjhc1LE6ac_DOZzFCztLwVlEmLs2Rum5GEYduNBEfLfQPx24zzqWtzk1l7mMMh24mC6wsTIt9bAsKqOwLCUQs0MiUrJgHcqtfRiTp9wW_aH5EVmfoBH7negSP5uVFYCaYBhzl_UYtJIYFwSPEhQsjicQno6uDXyQ9wtKkA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/19']=data;}

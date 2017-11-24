@@ -1,0 +1,7 @@
+var data = {
+"_ring":605,
+"_params":".sd-605-en",
+"regions":{"241478":{"level":4,"name":"Khuzestan Province","index":0,"property":{"openStreetMapId":241478,"iso3166":"IR-10"}}},
+"paths":{"241478":[[1]]},"ways":{"1":"ZPnLAUGl-QKUceABUpEUA5ru_Ez27LBTSu2gXTbvNl-e61Fkq-v5ZQTobGkl5n5p1d5icPXcdHAB0mx8yMhZgxDFH4ViwYyIa8EziuS7VI88uGaUTLizl4O2tJxruEueiLjkpNW0TKj9tC6yXMBuuGLAFLpJwqu7VcL3vkLEM8JUxCTHfsJ-ypfA58itr2TJHpvQ07-EFOjsgrDuMH8O8ll9Bfd3exD3uXdt-pBq_P28V___uVdc_vRTbv7wU8v8DlLU_D5O_PdzSFfpakgP5idMtuL8TcHd208U3OhNMNfGT4PVcFVn1WtVw9NIVxXSMleDyxVZest-YHbBKmTNuvhjRK8NYqitKWCxrVxerLKVWr-yxVYrsRhRRbGDS1C28ENxtjVAzLlrPNy5Yzw2uIY4-rSgNgK1ETGuu9sh5LvSIT-66x9Fui8Um6ssErCmOxARpR4QIKD8EXSeFRB6nm4GX5aEApCMdwJGiUYE9IU_BE-EYwJYhFACan8VBHN6PAJ9ejUC2XgHBCt3wwWRcP0BuWvVAYhjAACTY28FLWBVBUNbxArdV5wKUFFoDKJPHg6tSsAR80hSNTlIJzeKRgw5gUZ4PtA_XUDGPzFCFz6qS-U9jVG4QpNT-UVtV4pHNlt1R_Rg-ki8ZORIkGYzR3RoJ0fsbRFC221rQK1vuT4bc2A27HStNGh4-S1UeFIsYoHNIyiFsiOgjNMhbo4dIFGQDyAmkMAcCow_FgWGzQ-mhTAJBYsNBMuO7wPHkIcFa5jwBjCc0QYrnmkI76FJCH2nbwZCq04G1K7bApiyuQJCtu0Atc4AAK_QlwGQ0oQBqdItA5XY8Qe-2tsMr94IEL7gSRMQ44YbUeODIF3lwyO59hItXP4YMP__Zjaa9Ws_K_LdR5ru_Ew="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/10']=data;}

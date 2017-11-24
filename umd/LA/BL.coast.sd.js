@@ -1,0 +1,7 @@
+var data = {
+"_ring":595,
+"_params":".sd-595-en",
+"regions":{"240193":{"level":4,"name":"Bolikhamsai Province","index":0,"property":{"openStreetMapId":240193,"iso3166":"LA-BL"}}},
+"paths":{"240193":[[1]]},"ways":{"1":"THwQAVTvIAYXxiMBzR9GBiwgc5AcM0OHH0lIgghfN3odYat4smHZdihgNHRnWMNvzVapbGpepmqCYY9o6WIPZWNi1Vu0aNtXs25fUuxukE7mcRxM1HNgSNNyR0OXdwA-inNnMnFnOiyZZBMsLGHZLNFf6i-CXZwx1FmDMfJRACXbSmEirkP4Iis9wSDnOVIdJEH3GXlBDhn4PwIY9jsjGI04QxdgNqkVNDYyFOM45RJVPH0S4kG2FBVGLBVOSeUSL1EPEkpYpAhYXF4JIGZ5CVBtYQgucLcFJ3T7A0SEAACxhRQBsYbVCNCEex-jh3EkcYijL6-M5jq5nctGTLMtR4W5x0VSxFdFX8VTSGvHZUmAyI1HH9GmRQrb8UVf3XVOa9sXUNrVQFKs0u5XCc24Wn_InWBtxKtibMTMZnHKPWrJzrFwXMVAfMfBPH7dwSaI4sXziNbP6Iys1UmRXd3rkX_jYpYg9uuVD_tRl3D_R5f__1WYWP4tm0z6uJtN-ZGcFfYnoGD2MKK88mSlgO-IpQXrt6eK6NCnG-SOqoHkT61S6GCuMujZr0njvrHF43yzhOJztEbTzrhb0Nm9Ys7evYrJFMIjxhbD-MW5xjbClcefwSvJ7b57yTS9v8v2vg3OvrrWz5m7N9Rvuf3Vt7uR1ya8wdvVuE_eFbbk3Y2yld45s5HjOLKI5JK0KeemsrfmB7E-55qvLeterD7qHKwY7bSry--lrfPw-63c8karGPTkpzDzVqbH9O6hePaVotz3RZ-B-Zebrvhll9X425bR9xmZl_WclPTyUJDd8qyOhPP1iePwvoZu8ZaEdPBPgLvwbneq7910VvBkdEHxunF68c9xhvPPbzrzkW5G9ItrnPRAbPL2EGsw-AFoi_fxYsj4nF4p-HxcsvotWqb73FhU_mZT4_9HTf__RTlu_Lkwf_dIGqHyZRKr7lUQHOwuE3riIxMY3cMbodifHRLTWR7Z00Mm39G2LL_OBDiVwwVCZb18RCm5VUuBtatIrLMrSJyx5URvsU9DbrAbQ9-p6TsvpqsvjKXvJ6SiWiDeodwEo5kAAB-ZARw4kiwgc5A="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LA/BL']=data;}

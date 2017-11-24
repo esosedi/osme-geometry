@@ -1,0 +1,7 @@
+var data = {
+"_ring":2489,
+"_params":".hd-2489-en",
+"regions":{"2762733":{"level":4,"name":"Enugu State","index":0,"property":{"openStreetMapId":2762733,"iso3166":"NG-EN"}}},
+"paths":{"2762733":[[1]]},"ways":{"1":"8C1aAFC-aQBfVmwAX4t4AB_X5UlG2YlMlN0XV7rfF1cu5gJfVegCX8nu7WbJ7pFp8PCRafDwNGxk9x90ZPfDdov5w3bY_Qp82P2ufv__rn7__yeRZPe1m_Dw_aDJ7qCjVehEpgjkRKa634urbdsvrm3b0rBG2XazH9d2sx_XGrb51L240tK9uNLSYbur0GG7EMjvxRDIxdU3ysXVN8oM217MVOCFzvfihc4p8F7MKfBezM3yEMhx9RDIFPjqxRT46sW4-pzBW_12v1v9KLv__xms___yqVv9zKdb_aWluPp-o7j6WKEU-DGfFPgKnXH1MZ-b5QqdadjjmtrNCp3vxeOaqMCWlqjAb5TvxfuNk8jFfNrNUXY3y91vN8tCZ9rNzmDazYFck8gNVu_Fv1FMw0tL78XXRO_FiUB-0IlAadhjPmnYoTMM27kmDNuSJGnYayJp2B4exdX3G37Qqhc3y1wTN8s2EdrN6AzazcIKftAAAH7QAAA3yycCk8gnAu_FTQTvxXQGqMAPD9KwDw9EpjYRoKM2Ef2gXBP9oFwTtZuDFbWbgxUnkaoXg46DFeCLgxU8iVwT9YNcE1GBqhcKfNEZCnzRGWZ59xtmefcbAl9FILtZkiQXV-AoF1fgKHRUejEtTxU6LU88PIlMPDzlSddE5UnXRLM8JEmzPEtLEDqYTxA6mE-zPL9RVz8NVlc_M1izPIFcszyBXBA6zmAQOhxlyDRCZ8g0QmclMmlpJTJpaYEv3W-WJ91vCB1RdggdUXarH3h4qx94eE8ixXyrHxOBqx86g08ih4dPIq6J8yTUi94s-42BLyKQgS8ikCUylpYlMpaWyDS9mMg045psNzGfbDdYocg0fqOBL6Wl3iylpU8izKerH8ynCB3yqWQaGawdFRmsjgryqesH8qmkAhmsAAC0tAAA27akAgG5pAIou0cFT71HBXa_6wfqxesHEMiOCjfKjgo3yjIN6sV5EpzBeRKcwR0VT70dFSi7wRcou08idr_eLJzB3izDw4Ev6sWBL-rFJTIQyCUyEMjINF7MEDpezLM80tKeRNLSQkcf1-VJ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/EN']=data;}

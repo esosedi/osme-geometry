@@ -1,0 +1,7 @@
+var data = {
+"_ring":2521,
+"_params":"-2521-en",
+"regions":{"2804756":{"level":7,"name":"Escaldes-Engordany","index":0,"property":{"openStreetMapId":2804756,"iso3166":"AD-08"}}},
+"paths":{"2804756":[[1]]},"ways":{"1":"3buHAmI3FwCV3IgCPGEZAFNBSzLvUuhDtG7MO-x6ljmThfYzp5ClMHWa0Cihru4VEsQBF2LNmhYS0BQW39FiFcDS7xWd3s4S3-BfEUnj5A5o5qwMveavC-DpCQj77cQFcvD9Ay3zmgM79twCRfdvAlT4TgGc-bkAxvwAAAr-qAP2_wQNW_3aEtb73xlE_M0i1P01Jvv-Nyr__08s0frMLAf3cC1i8n4ttPD2LSLsJTFF5kwzN9-YOOjfwUOQ42NG_udWRkPsEkjr7PVIte2AT4zpO1Kj7LRXte1vWHjuyV0o5FVoYNWWcXS9gIFPufmEqLehhjy1bIsvs0aOkbFFkUOub5QJrTyWbqnDnqyofqKmpmKm6abEqN2o-aoTq0SvPK1TsYyuP7PRrp-1CqkGxZ-hrNZ2oHLbqJ7J30edROSfmBntH5mq8IeYdfK0luf1OJO0-teSpfwPk7n-LZEj_32LIP7ch0D-PYPA_od2W_08dYz9l23__8Rn5__kZJn7Bl_M_Fhdhv2_WOf-MVZj_nFTkf45UWf9pk1v-sVKkfhcSev3jUIC9klAsPRYPHruqjuk6ek7R-eAPLPl-kAU4nFBVuAMQQzfaT1y3Oc7AdsVOlXa0jni1io9XdELPwrP_jsAzZE7q8tGORPJyzdzyFI2Icj9L2bHzy3axo4s7MaFLTrGli76xKcviMTRMJ3DyTFbwiUyVsGCMbLAIzFuv0UxJL7zM7i7LTbrt7E2d7bJNkO19TXcslozyq85NIesszQ4qV81mKhWNbKkjzXMo0M0aqJKNbOgazRUoP0yXZ4sMk2ZeTM5mKAzopc7NoyUajjmkF85QZCzOsWOBzvLjYQ9bouyPbaKbD1oiVc8F4j-OY6GbDdIhFczzX_nLkZ8iS2YejAsQ3gUKbp1EievdLsk2XP7H5VzIxvacJAYBW_vFldu_RMebvkM6GypCZBsoQeYbBABzGsAAItntQBDZW8EbmOQB55fRg58W8oUflnwFuJXVBrUVpsdvFQmH_NShh8cUlwfAVEGHklPmRyFS3wef0hhHo9HqCAKRyMkO0WKLJ4_GjRxO1NBSzI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AD/08']=data;}

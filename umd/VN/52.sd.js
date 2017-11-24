@@ -1,0 +1,7 @@
+var data = {
+"_ring":1873,
+"_params":".sd-1873-en",
+"regions":{"1873632":{"level":4,"name":"S\u00f3c Tr\u0103ng Province","index":0,"property":{"openStreetMapId":1873632,"iso3166":"VN-52"}}},
+"paths":{"1873632":[[1]]},"ways":{"1":"IAWNAOx3SgaUpJcAHxNWBv__23ag_V16Cf1xf-bxSo067fGQvuujkwvmspfE4TWZ3t3Zmx3Oy6rkxDuxNcANuUu7FL9PoTLVQ4rJ7Id9___UepL8wG22-epjzfR9YbnyklyA6wFd-ucjWzzg_1Ab32JNQd1nSF3Xy0Pl065AXNQRPt3Y9Dqs2Zg1wNg8MnHZxCiz0VQj_MZ1IQ_GNSF5v_Qis7xgFHyRAADXX2wLwFzSDAFf1CNcWpQpu2Z2K-VoSSsNagItfWrwLWtpDDCAabEyCmgsNFppGjavZpM5FWbwOaNkyjstZIY6w2JlOrpguTkXYgw3JWGQNuRfzzdUXdU0vV1nMrBcjzHaWpYvTVxGL2JaTzExWMYw9lXaMdhTTDT6UtUzZVGeN3tOVjpZUQM7A09jPtRMcj3SS7I9mkopPzdJRj4cSUI9o0YqPvpFijz1RWU8D0SAO1xEezrfQrs6DkFfOEJBjDgrPpA2jDxDN4g72TYVOkY56jfpOGI2IThXNxEycTbKMtExJTKuL2U0rS5SNAottjaQK8A03yWPNbcjaTjwIu83HiHHOEkf_DrBIJs81yCBPfQfhT-2GYQ8ERiLPq8WWUCoE7xB5BP0Qq4ShUHjET5DFQ8jPl4MtUx-ABNUAAA2WBABMHUPBLV4ogPEeX0CX3uWAph-ygCmgN4BbIIkAVCCiAQWhf4EAIZVBuWElQhFh6gKL4nsClmIsQ4Ch70OzIRUEeaGeBEUi0EVvYqzFs2LNRgLixkZaInPGLSJpRspi9Qdo4rUHmKMMCAHjbwiVJCcI8WQGic6ktknGJOsKemPVCpemWkz3pwJOHu63mTUv0plLs_faNPPqmZA3CNp7-DPapfglGv76MZt3uqSbfvqW25t7FdtUe5abr_uaG1L8idvyvJgbv7zZm8l9dNuTfgmcNH4fXE5_FZy-fwBdYP-Gnb__9t2"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/52']=data;}

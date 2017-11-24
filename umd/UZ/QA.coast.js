@@ -1,0 +1,7 @@
+var data = {
+"_ring":1352,
+"_params":"-1352-en",
+"regions":{"1670974":{"level":4,"name":"Qashqadaryo Province","index":0,"property":{"openStreetMapId":1670974,"iso3166":"UZ-QA"}}},
+"paths":{"1670974":[[1]]},"ways":{"1":"IlFDAohR1gMJCFsCyeYIBEf70kPU-vxEXPlPYt35zGRg-_xmWv5eaRX_sGn__8Bpkv31cAzzeXYx5ht7EuJBe3rhn3vL4NJ8pN74gbzehoST4jaIMuevjV7sTJrp61mb2ulMnYTnzZ6t49OhwOHzoxLi5aQZ5omqwejoqynvZa5O8CCv5vABsEPxeLJI7S3AAu3HwN3rk8FM6IrC3-Wlwj7gycGB3rPB_tz7wVnbT8OG2orFhtoQx3zbfM7C2-rOFt2fzwzey88e4prP2-P9z3Tk3tAK5APT7uBR2endnN2e2gbkv9nF5l3acej_1RLpT89m6zrNnuzFyznuwMor8Z7JNPLLyKDzwsj19FnJrfbTyHv4hMcu-ujCR_tAwjn8BcLj_jjBW_-jv1f_O77B_ku3Zv7MsyD_Gq5a_4is__9Bqqr-pqgJ_Umoc_sDqF32R6ft9JemEfT9pPTyqKI08o-hGPLSmP_y95K29K6RVfU4kJf1gYTO9YR4k_MFeazyAH1Q8Op9pO4ZfkLsL31a6jl8melwep3o03ZD55pwROXBV2zWYE451R9K8dQwRlLUw0OS0ws-P9BUOXjMKTSSxh4SOLOYDn6yjgLBsAAANbHlBzWt-gk3q38L_6h6DKmjKgpDn_sJUZ7vCjWc8g0ompASfpVjGHCS9B5HkM0ff48XIFOMAiN6hiIka4XaJpaE-ieiglooL4GaKud_Eisff-Eq1nyhK3J7UC3wedYywXZ9M0B1fDN3c7oy2XHJLqBw-C6tb7AudG_oLC5vbyyRbm4srW0bL91lKzJJYUg1e1s9NcZZfzWhWUM3t1ldWFA9SlsfPFtp_DJ3agcy8W13LatxnCeBdbQiAXnRH9t6yx6kgv0W2YRIFVaKyg-njz8L7J3_AZKhAACbonYA5rJfCVfFpCcIxx0odMi6J7PLWiYgzvskd9HHIwXTkSPC1JsjatdyJJvjcyzb46Us5-MMLobr_i8u7kkzW_O-Nz_0Ojhl95w7Z_jtPYD5SEKN-oxDR_vSQw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/QA']=data;}

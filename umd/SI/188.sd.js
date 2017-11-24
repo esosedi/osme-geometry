@@ -1,0 +1,7 @@
+var data = {
+"_ring":1504,
+"_params":".sd-1504-en",
+"regions":{"1676361":{"level":8,"name":"Municipality of Ver\u017eej","index":0,"property":{"openStreetMapId":1676361,"iso3166":"SI-188"}}},
+"paths":{"1676361":[[1]]},"ways":{"1":"gn7GAmUT9gBnHMcCQTT3AHf1tj4_9B09gei7Q3jg6Enp3ddQB9ySZNPY2mug0oJzPcwieQDF4n1QvnSFwbkjkDq4zJoMtbOiEaRUtNufCb_Eny_Ar6FvwEaFHOV2bIf4j2sn-bVqCvgpaEj5gmD__0tZwfhnRPDwzD5S78Y87u_qM33t0DwT5Vg6BOMXOEjlxTFl44IudOQFL__koi2-5ngoqOspH3XnuRzF6aUYeOjsFlPrbwxT57IQFeXkGgrdHBVM1joYO9V7GIjTZxXWzyQVfM1YFnDLCxu4ySQeL9DIIs_PoiNhzQolgswuJzHMayxTzesvMMzUNezLtjgWyW08lMGxQZC-kD3PvQs9nLziIc618SGntFsdjLTTDG2weAvbqw8K7qolCtCnowy2pasMhqSWEbuhvRGbn40HG5NaBeyRlwGbkjEBSpBGA4OMAACHiEQAgIaFA9OExggAhXIL54O7DISEeQ_3gs8OV4BbCY593ghVeqkJWXiYDqh1CREMc9gU9XGGGMptPhyIbhMbAWhaGplm6hc6ZpgX-WR8Ft9fiRcwW_gUBlrmEEpTHhBvU8INbUgKDPRHCglhQNAUJ0VhHJBL4iAjThwvo1MlN2dakD2jXYtBNl5bSxpmuk8rZetMYV-OThhb41KsWTlYLFs4W9JeEWM9Zc9k5mXqar1j9GpJYNxmFF6oZZBVW2cnU4xq6FHecBtTWHDUWYdyFF1rd4ddfHwnXACDQV-VhMded4WiWyuBy1dDfo5XT3_EUZl9W01LfqtJa4DLSHqFk0iPjkJOkpRBTHuWY0oOlANIcI9qR_uKPkUJioBDIIofP1OMwTwZhTM0T4lmLvyQwigFlpEf05hGHf6dexvDoG4ZbqgGGTquLBOWrt8Q7bLFDRm13wh2uAkH47shCfO89hHKwswUbsT6FvfB0Bxzwnsf0MAmITzCViKRyzQhkMuEGp3NvBff0aAXDtJyEinPFg5bzn8K6857CMXVdQNm3fkEkODMBKLnkgMM7gAA0_VjBQX_swT__6YP2_WIN3f1tj4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/188']=data;}

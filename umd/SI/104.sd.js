@@ -1,0 +1,7 @@
+var data = {
+"_ring":1551,
+"_params":".sd-1551-en",
+"regions":{"1681536":{"level":8,"name":"Ribnica, Ribnica","index":0,"property":{"openStreetMapId":1681536,"iso3166":"SI-104"}}},
+"paths":{"1681536":[[1]]},"ways":{"1":"8Fq4ApyF3gDFK7sCkh_iAJ9sVEHCbWVCv2ugREBvGUrgboxNmm8lT3VwZk00c5FP6XY7T-B4_U9Weq1RVX2qUdOC2FfmhKBVhYfRWICHcVcYiw9Y1oqrWQKNWVveiwtdhoxVXvyRAlzWlG1e05i_Xieaa2C3nHZhv6BCYZWhtGLzoFBj7aI-ZnyiQmhQpSBnJqrlZsCqPGxvq6xszq_jZ--wgGjvsdBnFrOhY1e0u2Nus5phObQFYcOzGmBUtHVcKrOrW96zQFrrtS9cJbmNW8m5e15Tu79eD7ucX2W8n1_cvBtiLL_VYTHAxFVEwf5SdcBsTorC6E2EwrRLYsH9SYrCekpcxDdJjcL_Rn7DsECKwv49ksKiOq_GfjZYyIAzbsgbLpbJ3CsHy78rasscKfbNFCrbzTUnqsvmJ07MAyfGyx0f4cwkG3DOLhpRz_gWks7vFaXPBhTqz1sRYdDfEbXQ7hAB0W8O4dSbCePUxAYS1F0FNNXrANHWAABd2iwBu9qLDH3dQwzB31MNeeFTDNHksgxT5ToO4eIwESHjQxki5Q0bROgyIyrleypr5pQuM-WtMKvj5TBS5Ig06OG5My7kRTfw5FE2T-ZTNjbo3DlD5488BuZiPO7ktz2B5o5E-eThRn_nTEnq6ZNOUOujTqzraVHz6gFTNu6FU_TvyFQN7sxZlu-1WQr1Gl18-nZkIv-0ZP__uGW1_55sdf3fcb79VXXn-yh4d_hweY_2O3zd9HF71fNAfv3wEIJc8cmCK_Dog2PphYVd6UKHNOejhm7f3Y_m2YWZFdMnovrN-KxGwWqyALIawqGvz8QEsGbFSavoxsuWuOBBgf__dXHw8sFtifiybZX342oF9oBrtvWvTjvYNE6g1wJPrdW6Qz_N4T5D0FEw39TSLeTUeyoT14YoIdoIJdTciyNW3O4ipNoIIrraMiKE2WEfmdmUHibZqx4M2AAagdYDGnLUjxP20iQS9NBpDBDTcgfg0gYHDdSsBHDTJAOVzx0Eac9YAe_NPwGOywAAl8v7AY3AwQEavMED0LdlA7Gyrgv7qKYRFqX3EDOiPBKGn48V96JFFm6ihRh_pCseaKFRIbekyCyRoPkv0qEELbaXiTkDlvY6soXoPeCCHkMGU0lMfVi3VotMd2JNR59sVEE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/104']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1380,
+"_params":".sd-1380-en",
+"regions":{"1675047":{"level":4,"name":"Paktika Province","index":0,"property":{"openStreetMapId":1675047,"iso3166":"AF-PKA"}}},
+"paths":{"1675047":[[1]]},"ways":{"1":"8j_iAXJ3CwT1rP0BDrgkBMbJ7_1Ixzf86MRj_MS0__-es-H-CbLl-YGvWfhyrYP1y6oC9HOp-O-FpmTt5qSQ7VSiJPCWoBj0b5zI9GCai_bOlzD3iY_18D-Juup-iJ_olYcb6ECFxd9Fg8Pc_36V2YV3qdbJcW_XhWVd3dBV_duGT_jZ_Uxb2sVHYNzrPcvdAjKN4-wuguOrLF3dQiaQ11wkPNL8ITfQ6R2VzjgbXMsvF7rJXhEvxCAORsDTCEC30QXjtL8E4bFKBuOpOQXhpiADzqVWAr6jAACKl4QA45OpAZyRtwdCjioOOYaHEa2EzhjRg3AZPYFcGTx6lhrodNweiW_4H0tqBB_AZIwan1lVGCNavRe6W94WCG6kFQhu0hOdbF4RymgSE99hoBNPWigWf1VsF09Pxxe2P9kYQD41HEY8wxykOkcdMzuuIDMwiB_4LfAXtyk1FaomuhiQHpgcOxpFIMAYtyTtGMgpiBt5Md4hwTR3Iis4gSRTP3ci5UNzH8xHViE_UB0jZ1VDIn1Z8R_8XkMf1m9GJF92HiH4e7of534lHSqDcRsGhkMZSYq4DVCPUQeblrgEwpwAACOfngBeos4D56UzBTKo9QhFpugNMKHMFaygxBv3nmggvZ4bJ6Kfmi0-pu07H6m0PUutMj1Vrtw9O7PNRl3A4VIVxMlamsbtXejJYV-P0Phf_NUiYh_Y2mOm3MJpMuUxeADotnqR6lV7R_AYejn0vXxo_WOM___FlHX9A5_I_CijEf0gqTv8O6s470OuSOyGrTnl9a2k34Gs59x1rRzb7q9k2xGy3t_8udLj-b6s5qzMmO6o1Dju0tbU6ynXB-tQ2D3q9OJe7PTl1Op_6h3s-Oyh6rDw7eeX9JblePbO35z4wd0v9yLSUOc00KrmOs6J6gHO9u1pzL_w1sxH92nKE_zGye_9"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/PKA']=data;}

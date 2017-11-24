@@ -1,0 +1,7 @@
+var data = {
+"_ring":906,
+"_params":".sd-906-en",
+"regions":{"389891":{"level":4,"name":"Alto Paran\u00e1 Department","index":0,"property":{"openStreetMapId":389891,"iso3166":"PY-10"}}},
+"paths":{"389891":[[1]]},"ways":{"1":"zAFv_hgdsfy2_Yr-ZQrD_O7h__-p2iL7edZk-fvS8fOc0DPyp8gP7mXBGey3uRbn_rPf5ietKuMVqoPijKhi48ek8uJQoNXoZ5x86QKb9edzmpDlhZdL4hOSX942jGncAIk72qGGT9bigUzRX39JzNt8Bckue0bHBHapxM5yTcAicb3ACm9xxLxpccSqZvjF0l_UxZ1b2cQaVojIkVXqxyJVTMU5VfrCmlaXvQBWjblFVMG3t1IOuPBLxLxbSDe9P0WJv2pARMauPkTH2jqFxTgzib-vL9W_Ri2awisqTcICKa-_4Sn1tjAofrPEJjGzCyVqs5AcObq5Gea6RRYmuQ0TirT_Dza17w37twILPL-7CFzAnQc8v3ED9LQhA0OyjAMNsdIGW6_vB1SsBweyqDwHo6YeCayh-gitmfMJHJD6CBWNeAZUiTgFRoM-BJyAOgIwflIBMXroAGF0AABacZ4Da2vxBFVmxgVtX3cJxVQQC1tKWAshOocMzDipD_M3rBQyNIwZfEIyHBdDYh2EQfAdEEDwHQo5Dh-9NvAghzWKIhszACeCKhInVSStJUYevyU_G1onVxgqKdsXACpnFrgs3Q8pLyUH0DEXAaw0AAB_Qv8Dzkd4EGVNthBsT74Pq1TkElNXlRiuWhgcx1z5Hyhf2h8tZVYcI2fjFk5p1BQ0auIMFoH0HvWBRiSHg0knzI83Ln6QOC-rkNs4k47fPC6NGEKqi2hFPIiHSjyIJE4Th1pR9YabXuOHumOYh25l_n4QbZZ-xW7DfnpwP4JNd56FNHfRiLBzH42Wc86OSHKfj8NsmZEMaSmUi2gyliZqAJjyaNmg9lJpqeZDRqsxQt6qYD1frSc4yqzsLw2wMinztHslsLdFIvS6qiEuvEUjJ7_3IePCkiJFxvUfLMvBHq3OeiRd0a4lsdSuJX3YFidc7MsoofD6JFHzoySv95I2pf5fQP__iUWL_rlSpf6-Wtv2GVuP8QFkd_Rjed_xP4kK5pCLcuN4lHLjV5-z5_aoLuf7sHnh2bsH41zGtt8GzkvfTNKn4-Dv7uH__w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/10']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":428,
+"_params":".sd-428-en",
+"regions":{"196254":{"level":4,"name":"Jizzakh Province","index":0,"property":{"openStreetMapId":196254,"iso3166":"UZ-JI"}}},
+"paths":{"196254":[[1]]},"ways":{"1":"4ZJaAqBb-AOfZ3QCfA4dBKr5xQ-f-B9Lhfd_UMz91GZo_t9y__-_d734xYVa-6uI__p7kPPwzJId6FqSnec3lR3qApYo65SYuuqVmXnwr5uB8EGdg-_1nefvMZ8I74Oegu4coDTpsaHO6e-f0OcTnGjnJJkv5Uiai-Vqm4Tk6Zyg4BqdPODPnVXeUZy22nqeFdmfnfDY9ZtO0JKandC3mMTPLpctzpSWZ89DkZfMro5HyUyNEMjIjvrHCJJ3xtyT5MbXlZnEGJzcuQ2mDLVYq0azmq4QqQurpadQpmybOKXAmpOlUJ10qg-dk6shlnOpiHoQnrV2l50Mcreee2_9oCVvmLpMd4bZk3U72oZmSti3YtbMd16vzEtbZ9JrV2XU-Fgg2G5bf9k2YxHxBGQx_GRiI_7PWv__ildf_09YCvheV9PyJFUj8D9SS-_kUjruI1aN7elY3OsoWWDq8ld56C1VNenSUmDrFU2h6nVEyPGePlX1ATv59Cw5VfO2OQnwEzyk7pJAfu7wQ2Tto0hk6wlLzOh8SW_nukag5yU7-OskOR_r7zZ951Qz3uaCMkLlkDP248Y2P-NSOWbgPDYC3V03EdlAMI7Z8CzQ2BAnbNZHJn7TACWK0pkcftdEGNzWdxFr0fMOD852CNrMoQb3ypEHe8jqBtTFHAgAvwwGvLrnCNe2tgmPs0AKfK82CXOqDAtmpjYLi5_lDJ6bDQ23lyEQGpMZENONNxKCiW8UTYelFCOE0RiHfgQXJXolGcN0kxa-cnkUwG6ZEJVsGRD1Z1cMzl6KBv1eQAUNXlwG3ldYBA1XAABmV2kJUU1-DnJJbhvqSOUrUFLYL-FYMDFqXyJByVu7Q7NYw0n1QMVK3zXJTP4wqFaRI_xfxSLdYAIjAGJoJmBnlydvbkckl3L-H-J8Eh62htUdOY0UIPSPDSBqldUdqpU4E_OXRwHvwP4UStPbEHvWcgbp10IED9uaAnH1AAD89XAPqvnFDw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/JI']=data;}

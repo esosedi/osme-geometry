@@ -1,0 +1,7 @@
+var data = {
+"_ring":1802,
+"_params":".sd-1802-en",
+"regions":{"1802548":{"level":4,"name":"Lunda Sul Province","index":0,"property":{"openStreetMapId":1802548,"iso3166":"AO-LSU"}}},
+"paths":{"1802548":[[1]]},"ways":{"1":"RdRQ_0TSGQHf7oD_Z7NUAX9XAADjVogMzlsBFvpi_xrOZA4mH2i6LABvyjJNcWY6LngNQZR5lkmOf0ZQS4FEWe-GMF6kjLVh-JDaYn2jxGQws8lzHbRadYu07nvOtV59lreWfsTA34CpwmWHg8eljE3IlpGDysGUtdRklzbdvZvK4TqiZuWJo17psKnS6YmuXuwvsqvr57Zu7Ti6bOu1wCfuZ8029ebRH_hQ2HL3QN1y_Ubg___B5Wb-lOSX-s7k0fbZ5pbxIufh75Tlse6H5iDtaeaK7EnllOrt5F7qxuUI5wXkkeSc5DrhC-PI2k_jode_4ZnWLuJY1QbhctN-4UDRmOA3x9nfocWp4GrESt_qtufga66D3Rarp92Op13cTqQB3zKgDd_Sm0_hrZZA4ZKU4-GDlLjiBpNP45qRBub1j_DlX44c6I-LvOh9jBPqsoYg6_mF2uxVgs7uxoFt8LGCrfEKgbryWoH682N_JfbPfev2i3m49254EveAdmj43XTe92hy7fhTa4T4CmqK-bJmzvn8Ypv8ZF_t_MJdgf6SW3D-uVj__-NOQfz1TK7-ikff_jRFrftiRXL5S0iz84tI4u9dRfTsEUVa4xVGkeBFReLc2D7Y2SU1N9nML2jU3yj306QmBtM4It7UGyJO1r8bMtYXGIzOnBiey8gZ18rzGJrKWxm0yIMWb8dDFobDpBQ4wh8UO79kEfm6sRARtyUORrYMDJqzhwjfsWAHSq_xBwCudQW-qRkCqqoAAOGocgEDnW4DpJjGAqKWkgVFlTYFgZLrBzqPzAi-i9QKo4p7C36GoBChgDQPaH0sEJF6DBJVefgSZHVsFq9x_hU_cPIPAmztD9FpIxIuZ0EROmXMEQljBg-dYV4OTmCMDrleahFqXZASF1swEcpYIw-zV9kNOVNAEqlMYhJXSggRR0g-Db9GDQi3QQIF9zs6BsY1aAN4M_4Bri8qCyExIg-CM8AUMDFxFg8p6R3KI1IpoxOLLaISljN6DI466gnfQCQJ-kEZCoFBIAyUQ0cLZkZmDSRHJQwuSP4Mq0lyC3NLGAswSkgKiUycB-1LMAfGTeQGu027BVxRTwWYU5ACpFPiAD5V4QGYVi8Af1cAAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/LSU']=data;}

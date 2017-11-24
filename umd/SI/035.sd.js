@@ -1,0 +1,7 @@
+var data = {
+"_ring":998,
+"_params":".sd-998-en",
+"regions":{"541741":{"level":8,"name":"Municipality of Hrpelje","index":0,"property":{"openStreetMapId":541741,"iso3166":"SI-035"}}},
+"paths":{"541741":[[1]]},"ways":{"1":"q_y1Am2c0wCRergCkaHXAOfgdCSb6PsrQ-u9MOPuFTEN_QIiZf6YHaP_3h4l_Zcms_0aLf__jDFk-288ZP6MQWj790MB_6xMv_xqTM34p02f86FMrvZmZXrzVWu882dvRfGKca3ygnFQ6x12--gLehPpk3sz59t79eTfetvhF3x74KN--eBTgLDfVIRX3t2FrdhSh4_UhIrN1LqN89KRj77S_5Ed0KOVec9DmP_RN5qZ0vyd5NO4nrjTvKGs0aej19KOponQYqks0q-v8dCqsrrTE7VB1bS5BtSfvF3VMsRh0bTCss8XwDPNIr9zy-K7xsckuujE5bn8wou48bw-ubS6EsJAvLPDY7zuxxe-5ckfv9nJB8B8y2O_48y2wcvOkcVQz9rHS84LzUnQRM-k2WXTcN4_zqnfN8wO5KbKFeT_yrnlKsoE5_DHP-i5x4TtqMR58Lq_feuqt6HoabOP5V-ys-PLr97iQa5w4dCvrN3PrMXcMqiN2SenzN2-pLHbK5uo2eeXb9tgk33ciozW2h2Kbd_MiE3ghIaP4MyHmeJvj5jnb4-s6TCMBu26jLHwFosB84KG0fCchRLvg4M-7rqBiO5-eqnsUXTU7dJwFO3LbGjqJWxY6QxtGuhwa9TlAWcy4yZjvOIfYt3hA1oE5WRTheKPUMTjVUkg4cJEk910QvLYZjcZ2Cg6z9rmN-DlhCq6618oMPDVL3bzZzNF-Q4ow_fLDf__rhDH-ZUNNPq3CyP8Swav-pEEQPsAADPziwIV5hoBS9leBETOUgVex5EGDsV5CjjDrhPOuXoTLbdXGzawmxqGqssbKKkdKPGdsS4UmsE80IrXPBJ9SEaucgBOtmwSZJdgQGqvXU1yilvja-VFkGnVO6RprDd5aAI2LYHnKeKCLyaUgV4iRYIvIpiAkR9pg5cdYoW-GsqK-xb6kP4VMJbnE1OXTRQsl4QTxpq6EgygHxCZpMIOSKh6EdG1uAvbuxQKyL6EAsi-AACyxicA_MjhAFTMcApS0XMP3NS9FfDZXhki3Qcg5eB0JA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/035']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2230,
+"_params":".sd-2230-en",
+"regions":{"2315070":{"level":4,"name":"Saint John Parish, Dominica","index":0,"property":{"openStreetMapId":2315070,"iso3166":"DM-05"}}},
+"paths":{"2315070":[[1]]},"ways":{"1":"JqTsAM7jVfwSo-4A4hpX_EIqIxHnLDoOCy3LDIstVg2AL1wKMDGSBbM0swEhOAAAgT2JAXNCnwhvRR4LN0eBDlxINhV9Sf0VBUlgFehJJBS_SioWQkreFpBK4heLTOIakUxUH0pNqSMGTaQmVFXNNCdaHTopYoM-PmlCQH5qVEKfc1NIFHVzStB5e0wIfzhM3IKsSdeEiEfQhN1GEoWJR4WGU0Z1iUlG8or9RFmTODi6lGYzt5OpL0yVVyj3j8sW7o8HDdKQxwj9kqIFk5R6BMCbnAVBn1wJT58aEZ-ewhRNoKUeAqCTKS-jXDChpjA1SKoYONGvIDtXstY6drZHNjO96TFHvgowPr69LLy_kCzIv4UrjcAdK4TBCyzrwW0qi8KcKkjCMy28w80x6MV7MoDJKDFSy4Ys7szeKmXTnCsC2IUsrNpYLObaPiuY2zwsO9xpK3TlCDKz7r01Bfa-OoL6KkEF_VlDef2iQtH9JUOu_rRGxf3bRT79u0ZH_edI6f1zSSX93E3e_ddPNP0QUFD-CFkd_oxg4f80bP__6HE-2GGGC7w2l3u4RZhHsKiWdKqfk2elI49VoyOR36AbpMSeoKnTnGKsuZgMr8mVkrObkpq9JpEDxXSOA817jJrOFYoDzXeI4Mj6hvrHjITpydOAz8jqfaPJXHtTyIB1d8oaclzJYW6Sy_tqH8zYXrXHG1YFy3lPvsrkRvzHVUOAxcY_DcbbPOzJ9jTi4FA0yOeyMlbwGi-T8w8rgvXZJoL1KCIy8lQc_e8fGOvx3Q9E-AAA__88A37ocQSYzZMG6MbjCNLBegt_v-USEbsaGFGwah3xkrEjaXuhKNt2mSnBcTEs_2r3MGBkLjJwXko101U1Nf5EBzZcOSE19TQvNtEybjYOMBE4Qy91N6YrbjgFLOo4MCvnN0EnzTfNI4c2mCAyN2MeuDbzHNU2bBqHNUIYXjQBE3Ew5hKbMMwQty91EMUtNxFXLC4QQSolEQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DM/05']=data;}

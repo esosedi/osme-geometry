@@ -1,0 +1,7 @@
+var data = {
+"_ring":880,
+"_params":"-880-en",
+"regions":{"383903":{"level":4,"name":"Al Mahwit Governorate","index":0,"property":{"openStreetMapId":383903,"iso3166":"YE-MW"}}},
+"paths":{"383903":[[1]]},"ways":{"1":"LqPlAJLNkwLkmO0ANRaeAvvtGJTN7dqVDOzJlSztSpfN6sOZ5up1mwXyRqLh8zmiSffnpEr3wKX59WSp1fSiq6D0BK838fKwFO3Is8Psobkn7qK6QfOLugn0jLvj89S8evLGvkfxwMIn8fbFhfQUygX2YstN-TrLe_2_y2j_RM3___XO9_1x1JX6hNg2-wzZLPoM3nL3uOCq9EfiuPPX5MjyKekN8F7vH-4D8X_tVfLb7aH6Y-nA_rfky_0G3v__TtzY_2fX0_640hv7YswT-efDofpswOb8XbtJ_nK5YP5irPzyqaJp7Yefrud2nSDcWJXy0m-PI9BFiu7I3YL8wrRzj7Fhb5WqqnB6p39zqaZIcdmfz2xem1RtcZowbJaYpGcBmnhjBJlSY1uUbl8ukQxdDo4MXCOLoFoegklV1n8dU2F7YUw0d-NJanOZNdRywjD1d0kqinzvJYV9dB7we-EdZnpoHtR4RR6zd7EbbnafGJd2chcJdvkVj282E4ptOQ0ibKsHwGl-A3xlAADMZCsAJGGXCEFZlgucVHUWgUt6LtpFsjh-QOk_IjtqRv82zkYKNN1GGy-jRwgtulPBLDNTmijtVKsjh1ryILhbdR56WzcaJHj2C017tAZOhuYDBYiNAZCOVAAXk0kBbpXbACSXkQOimH0ESJygAx2mAgXnpxsGvLG9Ay_DpwehxLkGo8PIA_PJgwMAy-8AWMwHAOXgAAD94ioA1eOOAFbkhA1w40IVaex_HkXuujWy7ZA9AvBfQpvxv0oh8Y9OUPZ2U8D1LFd285hcIPMWYvjz4WRN9yVlBfc5aJn1fmvl8zhu4vQBcDz0UnOX8et4zfHAe1bycH4R8bmATu96gS7xVYT88YCJaPDMjR_vJY_x7aqPUOxBk_vtGJQ="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/MW']=data;}

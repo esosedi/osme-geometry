@@ -1,0 +1,7 @@
+var data = {
+"_ring":773,
+"_params":".sd-773-en",
+"regions":{"318852":{"level":4,"name":"Western Province, Zambia","index":0,"property":{"openStreetMapId":318852,"iso3166":"ZM-01"}}},
+"paths":{"318852":[[1]]},"ways":{"1":"Fw3z_v2qTwFJvy7_vDqFAU3I___EwVv8iLvo_Km0W_kFreT87Kmw_IinjPmto9v4tqMT9gaivPPomSrzYJaM9IuUu_Jgjsfw2Y0R7hKKou4MherqI4Li77t-dO0yewDxgno88t98WfX5e_v32Gso9GRmH_bIY7f57F-Y9UFXkPCIU0XpKEnC38xHBt1nQ0DiGD8Y4xk8Y_A8NVDwPzD78d8t5_AtK-rqvSh56DMkUujzHYnjUhp95MITEd4eDgjfPwn52nkCldqzBHTZuwPg1h4FwtasBC7UcwYo0uwGcc7WBejLogcMywwHlMlrCKPF7QbuwGYHx7_hBSO-pwUbu6AHxLleB1O3XwnCszIKs67FCNGp0witpe0JHaQAAMZrqAAxapAJwlc7E8tNPiZmNbo3siNTQoQVvkK2ExdFRhK1RdIPb0kDDClKQAoRVPQIxlf6BUhb4gSSXt8A-V4dAPr9AAA9-jwIK_vOCv__Fw6M_wcTkvGsJV3w3yt47M4yWewmNHzwJDVs8b85OvVuPVzwEUX16pZKXe0LUO3q11Th65BZyOhYWgnhBFYp4dZXQuLJV4bi0Fim4BpZ2N9ZWjXhr1u04N1dmOH_Xk7itF4q4oJkL-aNZ8jmsW_e6md0ver3dj7siXqs6kx8GesgfvHtaYD07RWDS-_egw3vf4Wz7JiGZ-4Iie7sOpJt80Sjl_BDqHrySaf09KSoGPHxqwfyuK5K8QWzT_Qqtjrvs7v577S84PDSu8nwRb7Y7Zy_VPCUwGrwpcMn7uLF4-aUx67kxtBG4Hza9-Bz3RzgwODV2zXh2dLC3kLP29jkzXDYV8my2LLFqNsWxZ7k4cb18pTF1PlNyP__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZM/01']=data;}

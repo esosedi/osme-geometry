@@ -1,0 +1,7 @@
+var data = {
+"_ring":1372,
+"_params":".sd-1372-en",
+"regions":{"1674816":{"level":4,"name":"Gh\u014dr Province","index":0,"property":{"openStreetMapId":1674816,"iso3166":"AF-GHO"}}},
+"paths":{"1674816":[[1]]},"ways":{"1":"kz_6AYcqwgOCRxoCexX7A-DVruRx07Ho6Mkn7mPF3PImw1jz-76v8QC94_F-vab1zrks90W5YvmPtMf-B7L__4mvuf-iq4b8cKfy-lGlePuJpHr-WKJP_pCZLPeKl7rsAZkh6hSUque2lobmtZhh44SX2uAMlO_fV5Zk3LSQqtSDkn_S2pD5z0qSeMzbih7HXY8nvYqOUrdwj_Cpio57qPqGIKkxfmyld3e1pHxv5qUUZo2pj2E6qkxfhqjHXbij9FkXo-hUjKDUUpOgqU51oRhIm6ZxQX2lajstp5Y3Naf0MzaqRTB-psgrvKTUJAKffR5MnXAaHpeiF5WVkBjBkuEWL421D_6IpAyAgTkJX35LCml8hA3bel4LI28ODlVsGgo2algL2WiVENlmyBJ4Y7sRgmLbC61i7gEbXwAATFHgARlOvAbHSn0JhEqVEL1MZBJ3TLAWOUhFIaFEDSjFP2UoAz4lJJQ4Yx_cNrAcmDTHGzUyfR3ZMGobaC4lG14puxE4ImoQOiA_EWcdBhCPExMRog8ODgYMGg0tB9sOSAVYE3cGwRZYBu0hzAH1KgAAWC18Abw1NAzIOowWcTtwHYo9CR8-Q1YfwkvNHedbUhnUZFcbBW35FcFv6RYGcmEZX38zHz6Cah_OhuUd1YcnKs6DHDAmg_czH4OEPaiGcUGWhAlKB4XoTB-I4U5XjVFNz5ZDTkufYk3IoPBP2p_SYD62s2ABuTVi-rwYaKO7gW68xC2EOcMliKPE4IqPyFiLds6uiVfXUIkY3eKFleEkhiXmW4Qg7sh94Pf6cUv4jnRX_FJ5lvpifpb6WIQF_0eNiPpbk6j2DZZ-9nWbovnyoBP-k6V8_o-s__9jrz74hbSj8u25uutpvErraMCi51fIBeiyySzq5MpX7KfPzevB0D_nQ9LU3jPTStfo0ZbRe9LB0ELW5tRp3NTVCePg1a7k"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/GHO']=data;}

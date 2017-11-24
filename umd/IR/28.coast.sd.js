@@ -1,0 +1,7 @@
+var data = {
+"_ring":600,
+"_params":".sd-600-en",
+"regions":{"241471":{"level":4,"name":"Qazvin Province","index":0,"property":{"openStreetMapId":241471,"iso3166":"IR-28"}}},
+"paths":{"241471":[[1]]},"ways":{"1":"Ea8cAixY5QJ2vDECXCkHA2clKBk6MssRrzkwEGRENAPpSTgAc1EAAPFNwgXoUeIJZU6gD2hQZBIuVEkSA1iXExhaxBfOWj0nsFwxJx1ZgCttV8Mv_VEcNCFS6zaQV5EyKV_IM_JkczbNaoU65GyvPhtt5UI5dfJNqHOaU713IVkQeL1ex30DYHSBh17GiuhcQ5QUXp2ZVVjPpDxVcaxvVvuvt1D2rfZNjrW_TU-1H0hZs8VGFrdARcO6UUKkun8_erwGPkfA5z3sxU08l810PWbaMDD048wva_uBO9j_XEz__51QI_4dUj7-8lRW_AdVofgEWLr2GVjE9MRWG-9pWJjcwWXP2p1o7dpoaxjZ3mwo2UNuHduXb3XXhHKp17J26tWMed_X33oV2Ax_YtSSgMnSMob50KaHjdG_koHTEpSb1SqYj9d9mXDZbZmD2c-alt_xorzftqWw4Qmn1uHOqcrjIqvx4-et5eU7ryLmYrM96Hm3nuhYvjDl7MNY5afG2NGF1-7R39iDzLvbf8Wy4lvAmenDvrHtmbfz8UC0cPe4sD36Sa1h_mGtuP8cpP__CqWB8ramwu_wp0fmnqmH4yypydzIpr3U4aIl0k6dTtKKm7fT9JnU1y-YPNm1kr3aCZF_3S6PjN0PjmboZIwl64qKMuvHiJjsOYO_7GJ92OjXcwblVmza47xkU-EvX3ThPF0j4DBbd93kWmPZylIC0H1S6ctFTiXFWUZvvqVCgr6wQCu91j40vRY9nb6JN7m-3CxtxAMrdsTMKrfBbyzvvgMsb7m3JeOvsSHPq3ohC6mFH7Knrh6enLkcRZtPGKWRWxZMkAEUZ4n0EaqGeBG5f4QPYH47DzV6MQDDdwAA-3RiAfxtDQMpa5cCM2SjANlifwLOYkMEX2HxBYpewgXBW88DZ1q4AwJZQgciVisHvVTxCExTgAhSTIwG-EocBv1DHAf4Nc4IIDNfDDwwGxAkMA4SfzGOEuM5ghQ-Oz4YJjsrIewz1CRuMowmlS8kKrAsyytwKDwrOB1IJxwZZyUoGQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/28']=data;}

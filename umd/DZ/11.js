@@ -1,0 +1,7 @@
+var data = {
+"_ring":1158,
+"_params":"-1158-en",
+"regions":{"1279667":{"level":4,"name":"Tamanrasset Province","index":0,"property":{"openStreetMapId":1279667,"iso3166":"DZ-11"}}},
+"paths":{"1279667":[[1]]},"ways":{"1":"Um4hAZ08DgBYE8YBWbecADYEZVsAAHlCpgC-Qc4AxkCMATtAAgOkPXEDOT29AxY8cwTQOyYFCDzBBeM8hwZQPVQHKz7_B0Q-qQi8PUYJjj0bChk-kAobPgILaT4XC70_ZQv3P5EMeD9BDfk_nw4GPygPDz97D3I_ARCVP9EQDD-wEfk-XRJuPyoTXj8nFMk_hBSwP7wULj-7FCM-FRXBPDIW2jp2Fqc5XRcROFwX4Da4F7k1chdHNdcXvDSZFw009BdFM_cXdDJvGAAyVBhnMRMZyDBGGd0wDBplMIQafDDiGgQw0xqwL7AZfi-BGaouphmzLsIZUS6EGbotPhmXLUoZniy6GoIrjhpMK6oa7SqJGmwqvxpOKq0a7SpZHWMqpx9oKT4k5iZEJ2AkmCj_IwMqASTtLHEkVjKQIgU3wB-KOVEd7zuYGcE80Rh3QxYX1kMrFedDBxKZQ78ORkNDDVN3iw1Dd9EN8XfeDYSO1w3wjosNmJt8DdimRANxrAAA8rEJB6uz8AiLtJ4JybUdCqm2dgx_ttIMqbZaDYu27g1UtnMO6rV1Dua1qg63tY8PH7b5Dxi2mBB3tX8QVLXDEMu1LBHktS8SW7YgE-S2khPLupITJ78gFCLFNhe4x_4UgM3vFHPQLhfS1K4XXNYLGNLZLBh-3gYcweFhHZbnqh2a618eF-_wKuzvjjh84rRNG-KDTUDp2ln__0qDjOB9g9fYAYFiyM2ErMK_hEjAfoRxtTOT77QIk5y0ZJMhtFuTprOck3qzJJPsssGSq7IokuaxZpGQsSSQ2bDtj5uwZI_mr8aPg689j8Guvo5LrhWPG66Fj0WtFZD4rK6Q7qwukZWsjpHurACSo6y7krOr2ZKoq3STFquJk5eqn5Q1nPaaYpvmmuOZ4pxGl-iefZWToHCUOqGOkUmi3pD1ok6P1qMVjuGknotOppiKUqd6iYapLImhq26JXq0picaudoHitPZ9ZLTGc_20EWjEuhdmWri7YVK_EWTwzbhkddPobBDj1WxC8ztsDvTLaxr1s2us91FqhPn6aQf7eGgh_lxnhP9OZ___r1Me_y9DkN6tQhTdeCzvslwLuYUNBNRbNgRlWw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/11']=data;}

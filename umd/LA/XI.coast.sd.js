@@ -1,0 +1,7 @@
+var data = {
+"_ring":597,
+"_params":".sd-597-en",
+"regions":{"240204":{"level":4,"name":"Xiangkhouang Province","index":0,"property":{"openStreetMapId":240204,"iso3166":"LA-XI"}}},
+"paths":{"240204":[[1]]},"ways":{"1":"7QofAbh0HgaWpjEB1-o2BjoasYPtIUN79yTEec0uX2sWNqFmdUFkY8hATGE6Qn9eW0JcWNpFYE5cRuhFRkdzRJxL-UH_TkY7TFMOLrNQmSqlUAYpVVVMJF9aghx4XaEcaGAwGwBi7RS3ZwMQB2k_DRJtngsgdkYKbYD1Af2EuQANiS0BtpAAAAmW4gEOnIgIlqN4DCimOBG8sjkeVLU9H5m3qiGHvighQr6uK6y_gy17xZAuHNNvLljZZTdD3TU7bd8EQRDfy0Yh47hKTuimTGjrcVpF5EpfdeP1Yqbnq2ol4BdztOL1dnLgPXpE3d6CGt_MhbbiPIid5V-PVeW3k57m4JbS6FCZruwSm13q6J5L6T6jHetNpGTvk6NN9gikOvtwqkn_T63__zavCP8Nt1byJMP07U7EWOj8wjHi68Va2nvB89hrwl_ZCsZB1nLKDdGozVzNYc84zCTPuctr0QnQIdl00JHcK9Ir3hvZ2d_73E7jCdrb5YXXK-x72tjy0Ny49CbjTfXz5NP24teI91jNjfNCx1L068JQ9h-6WPbXuIn1Krmz8hq4tvFzuTDwnbkX7wC0bu5JsgLrlLOl5PG2JuHdsprgiLAF3yitmuBKqmffKqjI3-Khg-Mjn9jmgZcP5ymVR-ZAkUnpZo5N5y6QseQHijXjxoYo4OyF0uH7fkXhjX9q3hmBtN3mfrLaIX9j2UJ8zdfjfD7VPXsr0vx3-84FdXnPtnJNzlNtnseubOrD0GoRwtNoxMEEZ8LDhmhWxTtnk8h1Y_PJtFyxz1haUtRaWAfWm1sn4bhUOOZ9VtLnllJe6glRt_KxSbz1cEiu-b5CAPgKQV74FT-H_YJA8P_4O___pDSz_Ysjk_4xHcn3ARQv9isPK_DZBCbqrwDu6AAAXNyYANzZTwTY1hMORcWrDSfD5Qryv5MJdrtVAzq2VwP0r44H1KxDDN6jGxKgn2cV_pYsG7STMh05kXMdoo6IGnGHbRr3gzoasYM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LA/XI']=data;}

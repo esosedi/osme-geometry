@@ -1,0 +1,7 @@
+var data = {
+"_ring":1938,
+"_params":".hd-1938-en",
+"regions":{"1908765":{"level":4,"name":"Ang Thong Province","index":0,"property":{"openStreetMapId":1908765,"iso3166":"TH-15"}}},
+"paths":{"1908765":[[1]]},"ways":{"1":"o07cAKDa-AU_0eEApMj9BaevA_4YrZT9WqkL-iCexP8sm___dpWu_hmTlP2GkQj8zIxE-n-G1Pk9fRH4G3nc9ZdzxfSUZ-XzamXL8rRft-0kXYjpMFpS6VhQBfH7TSHyd0gD849CPPEAQDzxPj1d8Hw6lPD5NFfydi8x94kqhPieGL_23BXc9fQPpfVkDRz0zQzn8eEHbujCAjDf_ACl3QAAAdsjBDrQTgbax04GG8RVBFG7IwQCuBsGQbaeCyi1uRHPtUkUKLW8HV61SyBBtlopz7U_MEqyATPjrTsxFqUFMg2ebTHZm94uOJeEK0GTXijFi_EpYoVaKZJ-_SZudmol9my7KlhQJCrtTZwlikdAI3lC1yMrP8smfDdmJiw0OCXBMUMirS5DIp8n2iJRJDskHyKALJ0cMjOeEao7jwzkRswKDknqCfpNfwdUUTIERFVSAdNXOACVWgAAVl3iAE9fawIQYiwGL2fdD7pq7xLhbe8S2W9kEZ9xMw82cskMKnWaCH95uwVrfiYImn8iCn6G9RDbiNYRmYxZFbCTbhjLmRgZjZziGLeeyBfCqBUQfK3DDnCwMw-LtpkTqrvpFAO_6RQWx-8Sx81rD_LPbw0713MLu90fDEvgrgvC6OANdO_VETLzWRUa-REde_q2H9j8SijU_TQymv_HOpr_hj45_rlAov3PQ4P4T0ld9QNRJvbUV7r3q1xN-RlfbP7zY5r_zGb__xlq0P4McD39r3Ls9093l_O7eQjxYnr16FWA_eZjhf3m6IjG58WLM-ZmjkvgX5LD242Yx9qfm_XbkqG33kWpUt4ArVbd36_129ux_dkss8DPQbYsznO4xM7gxTTMutWZzFTcRMtq3z3Ku-BIx2XhycAj5XC9N-gbuQjvVbcc9Ma09PinrwP-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/15']=data;}

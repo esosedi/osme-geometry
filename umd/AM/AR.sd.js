@@ -1,0 +1,7 @@
+var data = {
+"_ring":862,
+"_params":".sd-862-en",
+"regions":{"364083":{"level":4,"name":"Ararat Province","index":0,"property":{"openStreetMapId":364083,"iso3166":"AM-AR"}}},
+"paths":{"364083":[[1]]},"ways":{"1":"1vldAt81pAIzR2UC1XWwAvOq4QV8xCAIKckjBcjWOAA72gAAxd1gAcnfLQZs5CwLK-ENEPbkwhiX49kfY-CTInjfTCVL4oklet9NJQfWPi5_0yYz3dKQObPPdz55x4BENMbERnnHp0j30BBPmdF6VX_T31g75WBgbOF1ZgfvDm0-2E5sBNB0cNrMwHh8zSp_wM7OgRTVzoGc17GDnNc4iK3cnovw3QOPTt2Kk6LjDJWy6LCXSOojroLyZrB4-WuzovwTuQD8Hb_M_-fFiP525P__6-XZ_qvnCtwk45bLJOMOl-39X36M_Wl3b_8FbG__IleM_UZQ__9QR2H2dD478ts2WPB6KDDvNiuC7UIpxOlxJV_oKiJx5NEgC-GUHcXhihqB3WEWG9zQE0Tc0xCj1F0JwswyBorGNQbww98Irb0NCIS8-AnAu20Ogrv6EiS2zAz5suULYrApDP6qEQpSqOcJHaXKAbuRAACykK8Aooq1AZOJjQX4iWoK64cXEL-ImRFBhvUO3YNlD6eBnRS0f1we131-Hyh6KR4ueAUgGHaHJS52AygaebYqoninLPx1LyyHdOQnNHNoKqlwTiqBbI8ucWoeMfZn7TH-ZII1xmM3Nk1exTeQXto52WB-PQFg-T19XgY6mVt8O8dYM0DDVu5FJ1kHTvRXtlAtVZBPT1OeUYhSvlNjT5hWrk79W6NKN2S8S_9lF0sSaL5IEG9BRt1vVEXEbg1BxXOnPx10rT1adsM7J3zROm1-ozjTgsg3voYbNWGKcDC1ijUvRYn1LB6K2yv-ig0rJI-KKkSTOiQsmr8fl5oJGyKcLhhFm3EUqKL2DcinoAtVqH8H4qo4BvOq4QU="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AM/AR']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2207,
+"_params":".sd-2207-en",
+"regions":{"2279556":{"level":4,"name":"Hardap Region","index":0,"property":{"openStreetMapId":2279556,"iso3166":"NA-HA"}}},
+"paths":{"2279556":[[1]]},"ways":{"1":"3TR1_u-J3ACHep7-5CoxAbJ8nQZeg5UHg4cpB0ycWQJXrgAAC7Z5AKa51wJAyA8CZ9S0AoDZ2wFH24EBoNbgHPPTiR_H0q0jyNDaJU_P5y0UzUou88SLOwW1qDp7syg-H7QFRFC3U0TZtytHjbwRTte7BVDRv4tTD7zCUoy3S1MjuDNRnLX8TraxGlOLrRlU76zSVsy1aVUTu5JYHL5FWbq7IlppvIZbKruRW7e6tl3lu5lds7tgX0zBr15-w4RVLNG4Vl3WzFh_1QBayc8VWp3PDl380Rxf-9evYbLXQmK83TVi8t_aXW7jIV4h-zxkKvkaZo32p2ZQ-IZqA_T-axb3t3LU_2l1__-EegP9WH7I8JV-YvS-hdDyA4nA9DiMTvKei-TvDonb6LqJ0uf-hm3fSIgD3kKKCdUAioTUhZOC13mT_9dcnJ3WNp_t0ISiRdP3pNDRiqUZ0q2n_tSpqlXWCa-N2zWuUuNQtn3gy7ctzX-8qtDovvLIwcJzx3jHSs7EzxzOi9Pjyj7S1crO1inJZ9hB0Mbb5M8f3uG9IN5Hvvj_9hj__08XifznGSv82hJO9CIW8_EvF_Xraho_69Mblua1GyzkEBZd4aslBdzzIRjawh2V1asfWc8XINy9higAvjcpDLqAKIitVSVqqRQjLag1IFKivxtUkxIclo80HtSMsB1ciS4f1YjgGrqEuAu_hK4Sj3xnD3x6gRDjeJMNCXRnEjl03BXucIoVeW2qGHpsKxuEZ2UbrWHBI7xfxRXKXAEV6FneF4dZnxqiWkIexVgOG-RTAAABV5kEp1OLAKZQSxu4RWIZN0JsUv08OFLtEadawQ8IYvUP-2iLDqx8oAayfJ0G"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/HA']=data;}

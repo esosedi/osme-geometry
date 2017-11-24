@@ -1,0 +1,7 @@
+var data = {
+"_ring":2387,
+"_params":"-2387-en",
+"regions":{"2583425":{"level":7,"name":"Makedonska Kamenica Municipality","index":0,"property":{"openStreetMapId":2583425,"iso3166":"MK-51"}}},
+"paths":{"2583425":[[1]]},"ways":{"1":"9vl_AvNZVgE1XYMCod1ZASUUPHKjHbBy6SKtbUgtQ2q3QvFqRUr4YmpQPGDwXe9TqmUTVRl4qFHaewFPhYenMnGSfy0rtpArGb_VIxXBER1Yv0QXaLccEi-0Rw2ot4MGUMNTAu_PAABV0gAAntVgB5DahxOo5_4exvTiHOv3fh_7-fkkKPovLQf8WDBu_9EzC_-xN_D82UP__8BSHP48VGX7N1ed-ctYOvlJWMv2DlNE9pZSG_XOUo30cFPr761aGe-dXQjurl9s7V1g-OxIYdvrvGHi6ephB-k0YofkvGUd5G9mj-N_af3hVG0w38F1St_xd-DeRns43rR8HN20fWrbi34f2EOCuNd3g1bXfIXs1hOG0NTqhvXTlodV06-Ib9JWi-_RPoyZzuqMks2FjTHLlI8QyiGRwMnYkQLKxJLkySaTDcc1lyDFGJuzxFGcDMM2ntfATaTiwKmkKsHdpJTBraWfwcqmRMLZqGzCiaobwgyrZcGYq9a_iq0LvsauAb3mr368JrB3umCwyrZitAa2jLRetJS11LNPtye0Irn1s4-7iLNYvdKyYL6GsR_C_7ALw_ewu8NHscPE1rGdxcqy9sfZsuzIprI6ysSwfdDer1vWlK821ymucdiUrE7Zq6vV2n2qBNzRqTPdk6kJ3pepG99gqeDfqqiz4LumGuJKpgnjSqYu5ROmweVzpWrm7qC36W-gfOrzn6vsep8x7Yaee-18nHnt0JsV7iabeu_dmR_105al-wOV1P2SlNz-t4___zOFy_32dLL7UGQA-IxZzfYEUDP3okxo9ARMbO61S6TnekpA47ZD2-DeMvnZ1TN11802OdYbPMPWRj0Fzoo5zc4sOeHKkDx2yMM-0MWyPz7CojqEvRc7GLgoOVG2gjcts7Q5dbDqNWKxyjPXr3gw8rPKKsK1eh4qtLQT-6yPB8qi5QCtlwAAppCLBX5_JhQ7cg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/51']=data;}

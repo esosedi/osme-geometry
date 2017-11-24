@@ -1,0 +1,7 @@
+var data = {
+"_ring":2132,
+"_params":".sd-2132-en",
+"regions":{"2190479":{"level":4,"name":"Central Equatoria","index":0,"property":{"openStreetMapId":2190479,"iso3166":"SS-EC"}}},
+"paths":{"2190479":[[1]]},"ways":{"1":"DEM1ABeqxgEiemAAZXTsAbPZcPv70LD7fcu19yrF2fDHwnrvJsB67_mzovL9sDny4aX47fCh-O1BjjTzV4Xx9hh9h_1keU__0XL___Vs1_z1ZGv1-18E8pdSne6QRujpIEGs464919lPOz7WFziF00gwctDvJ1fOlyNIzkcfYc9yHlvO9htPz0AXx8i5F-zH_BVLxwUUH8WqE3jD1BWPwYoR-reuDlK0ZxtlmlIbLI54Fz2HKhbEhu8WP4SOFiKDqhSdgoYSHn-ZE7h8vRIyeq8O-nbpDB53awkVc04HHHLGBb5wXwCVbgAA-2wXA_9sQQVMbkcHCW5yCJVsIQg1a1QIQ2o1CT5qSwk1aNMLO2foDnZnbxEoZZAQpmMsDU9jmQ0IYf8LK2DQDeJbdgrEVaoLHE9_DIVOSxBZUK4W0lAOHd1OSx32TdQfDE6qHztMACHBS0Qf-kftHj9FayMYQ88haEHmIWc_QiTmPUkkeTwoJ8s4jSY0N1InSTVNJqQzpSh7Mx0qozEeKegwWinaL_onhS27KNss9yeJK1ks8CgbLugpOjAoKXcyqSWwM4wm3jirJeg3MyP5OUAbXD6iF9RAwBd6QdwTBkFDEhpEPA8DSKMRFUpAEHhN-ApcTJ4EQk5eAwFQMQBXVQAASltWAclbNgAQXUgAPmBGA91gwgGLZpcGW3S7Fsp16hksdjIegXXtIYpyhifNbI8tg2zdL2t7-0bjhNdaXIkpYtCPg2faoclnWKeSaU2wwG8ru6FyWL8Vcu3C429jxqJrt8yQX2nYq1Jo6kw7zfOcNOzz_VPo9vZYofq8XP___l8S9E9rWuVKdnnh63qJ39aJct0hrFHa_bLe2dG49dspv9rc4cZ32oTps9lw-w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SS/EC']=data;}

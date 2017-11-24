@@ -1,0 +1,7 @@
+var data = {
+"_ring":1749,
+"_params":".sd-1749-en",
+"regions":{"1781259":{"level":6,"name":"Roja Municipality","index":0,"property":{"openStreetMapId":1781259,"iso3166":"LV-079"}}},
+"paths":{"1781259":[[1]]},"ways":{"1":"CWxrAwvgVwHCEnADOPpeAaAU__-tEPD8ThUx8JgUu-_oFWbtwBjA7FUco-dbGjrmEhpG5B4c5-JGHZDgSBzT34Qd1ttCHL7W-xWw16EUidY1EgLY8BJA2xsSZd02ELfejw6I3qEIdNlAB7PZHAdS2HYCX9kAACHB5AFxwaUC6rqQBYK7pQgDuwQIIbWuDAO2tAxjtSwRW7RuEF6uzxSFreITo6KvGAyjBBhtnJ0bC5v5JUia1kVweElFr3faRs51HUg7dt1K9HQ2S_Bx4kltb9hKX279OVhXekctSaFKIE3PTjJQGU0SUvBQAlT2U6dW-1eHXVJlLk9nZeZKimMISRNkqkC0Zh0_YGj4PLlpMT_6abY-SmwHQfxsqELZcjNG63JhRDZ0jkIKclg90HEdOuxwZDhPccMzM3APMdZv4iv-knAh_ZOeH5qW7SHtm1ge1pnXE--cBhPtnGMU_qKpHsSoQSTfqgkhGKzOIXussCArryUhe6-UHjWzwhwhtIodqbPwHpW0giHgr3ElwqqPJ7KpzikgqkMrua9zKiu24yS6th8pasirHFDWJRbk0rINttNqC6vVFQtT1p0I2dYKCYrX-wdx2EsJaNq2B07bNQm73BoJW-FpA3viiAS14hEGc9-YCKPhqgo55ScIeusAAArsdwlN_-gH__8fFZHvxhdV4SccMNU7IUfCTysDr_E6iqErSUeYelTjidNp93rbhz945IpbdOSSpHOelA512pd9dLiYxXFSmbBvbpj3ae-fEWXUquViaKswXkWvQVoos2ZXcbcvRy3Cm0OhxghDNMjfQxXJb0ObyVZC18diQSHIVT2XzGs22c0tNALPUSpL2P4ikeLAFUv9oBT__w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/079']=data;}

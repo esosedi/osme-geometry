@@ -1,0 +1,7 @@
+var data = {
+"_ring":971,
+"_params":".sd-971-en",
+"regions":{"422607":{"level":4,"name":"Cabinda Province","index":0,"property":{"openStreetMapId":422607,"iso3166":"AO-CAB"}}},
+"paths":{"422607":[[1]]},"ways":{"1":"pe6n_2Q3twBPAL3_RA3IAIB912kKfChqF3uWbK54ymtVeIpuGXXEcT12lXa4dLt5pXIAewJwAnqZbrl37wW-d_YFJz1zAwo3sANoMAAA3CzGAzspkAhTJfkODSJLGPYf9R2qIwUlYCUQKWkoMil8K-Qn8y-9KU0zCC0vNIo2oTIyQN4unFEiJSFSOCePU-InJVdiJgRi-BwgZvceLGjiHe2JAABfouskwrszLu-61zIlthA41LP3OHS2DzwdtdRAOreRRP61h0l0thtMsbe3TSy8nk6lvuhRlMERU9PE_1ZOyf9WEM1JWmnQB1qo07VX5tYHWsHYFl7G11dkqdqwabzgIZW953uY1OqKnMzuFp5E8WCh4_FepffyTada-Rup___HsMr_ELZX_KK-qP7Sxhf-Zsl3-yrODPTozyjvc9Nu50fgMtqn7ILVnfNH0mn9EtCA_frK__83yBj9IMn6-rrIE_gLyx7yy8MW7frER-kYxlzofcUz58nF2uJqw8TfrsMA3izC7duLwjTZyL2D1MO-OdNBvi_StL-t0QzAN85SvTrIsbxtyMC8l8kIuybJ5Lphx-68wcX7vAbEk7sAxOa6f8JvuqDDJbh5whu5kMBUt42-Z7V-vzOzUL6psG68XK_7uQGtdrlxrQq7yqyhuxCsUbprq_q6zKpFtxymk7TxpoGyTqaesQen_LDcpTmwTacRr_aksqyoo-GsgaL5qZifo6fnnNKnTZiOpTuXCKNLmGWh5ZfInn2WUJyOlqKZWZjCl0yZ7pTMl6WRVZjNj0aW1Y56k-2PHo8njeyNOI0QjXuLf4poi3OKa4ePideGzYqPhvmId4TBiUGDgohkghWI2ICthmSBKojNfuCFmHwmhcN5FYRjeYaFNXn_g7lxhoF9cF5_Rmtzfo1r2X3XaYB912k="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/CAB']=data;}

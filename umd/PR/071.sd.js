@@ -1,0 +1,7 @@
+var data = {
+"_ring":736,
+"_params":".sd-736-en",
+"regions":{"254104":{"level":8,"name":"Mora","index":1,"property":{"openStreetMapId":254104,"iso3166":""}},"311222":{"level":6,"name":"Isabela, Puerto Rico","index":0,"property":{"openStreetMapId":311222,"iso3166":"PR-071"}}},
+"paths":{"254104":[[1]],"311222":[[2]]},"ways":{"1":"Q6YZAeYVAfzzxhkBRkkB_EbUeubpt5r9f3z___qLN7IeRcSfxhQ-fAAAAABGePQImtZgAlbXByeU6iEu0vNRSh3jJGrV8Y-O98nDkgrVXLH__3LNQdiz5UbUeuY=","2":"PmIYAbwPAPxCUxsBZNoC_N4Xz_-mFi71fxVd8wUTyPHDEvvv3xAA8GIRn-02EOfsog0i7XcM1eo8C6TregiO6gwE4etTAmjrAADU3usC-NmWBSbYPAbh0goJts5kCf7KowtSyK0Opbi_DoSvCw0nrR0NrKhhD3-jJxGYoeURkJsdE2CaDxJDmLsS9ZYeFfqVZRS2kq0Xu493FyeORhkrikMZ3oZsGueFgxkIhFgZ0oBsGlZ_Oxn_diEaQXb6FqlxVxbIbRthy0jhcZ1DQ3zFQ0V8n0DLhc4_HIvkQBCMsDz5kC46UpBaNC6TZjFolfYrnJYiKwqX3Sa2lckjdZc4H3qYcx9fmXgevps9H1yhsh5eotsbZKRNGwulbBhKqm8VZ6otEleuOQyBr7gLd7HbDGazkwz0tSYK1LbVAke4-AF5vKUBHv4AAP__MBcJ_xQx4vjGekvzOJNR8DiTku74mATlcq7X4p-1yd6NvgzcHNPS2pTWXttX3kuV4c2Hk4fO2o_50dWPNNcvj_LXj4pu1MaG7NTFhsrQ5YBeyWyCA8crgvPFeIARxn9-lsozfe_K9nkwyal36ss5coTGV26bxZZqycW2akbAuGm8vkFoxr4uYy3BpWNixdxehsiuXo_L_FxQzKhYyMucVhTN6FVR0OFTatJvUtLVf1MN2mVSatw_Swvf-0j-4EhEmOELQ4DigkDj4S0-7-NJOqDoODka7e05rO-JNdPtqzRq604vNuceLnDk7i284DEsbd4iKiPecijG2z0lLNs9IzPcKyAD4xogIubhIZTt9h4y8wYed_rrHhP8xh4n_k8c__8TGdn_3hfP_w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/071']=data;}

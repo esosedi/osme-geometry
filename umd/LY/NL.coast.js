@@ -1,0 +1,7 @@
+var data = {
+"_ring":2088,
+"_params":"-2088-en",
+"regions":{"2060182":{"level":4,"name":"Nalut District","index":0,"property":{"openStreetMapId":2060182,"iso3166":"LY-NL"}}},
+"paths":{"2060182":[[1]]},"ways":{"1":"MRK4AelLjwB2r-0B3kq2AP__Wcvv_L7Q9fmD17f55d2A-mXvg_fS7PjzLOof8NXn6OxI6PTnf-km4OTrK9wY6hrZQupm1ifrJtPy7SbR6-zmzjrt6Mor69HFyem3wEPr8LYc7USzA-uUriHrcKxi6jajpfNcoTr0l6Dc-tmgkf6OnCH_FQn__48DopWyAUtj2AApQAAASDKjDSMwkSr0JkhNyQ6BVEkGlldiAlpbAQEkXwYAqmAAAH9hyQAlYm4C5mHsAwdiigQdYy8I72MgCkFlxBAjZnYQ-GfSFkNpNxrfaSodP2slIoJreiL0a1ciR2wtJHtspiTTbG0kRW2CJJNt2CSobcwpMG14LnRtJDDMbTIxSG4WMoNyijbjcxI5wnQhOlh1tzqAdmI7F3mGPs17VkFSf19FvoL8RyeFdkqrhulM3YexT7mJZFLai8FTxo2lVPWPGFbskcNXXpLZV9iTy1iJlhpaFZchWsqXr1m0mvVXUZ3fVjagw1ZQonxXGqNuV9qj_FZxppdUmacXVNip3lNArNZSHrxZScK9vUmMvihKzsF2StbCTEv-xdxPv8iBU4zKV1XEzZFXZM4uWKHPhFnfz5BaVdB0W8bRflxh0rFemtK5YJDSD2NS0glm0NF9adDRvmu50kZuz9QrclPWwXM12Lp01thldTTbtXm723Z6cNz2ekTdRHs43kt74d-oeizhBHvn4Yx7pONhewzkk3uI5Gh8suR_fq_jx4F24_mCuePshHTkQoaW5a2HDeaDiNfm2oum5-mNYegpjzXpMZBN6uOQI-umkt7t_JZ27iqYqe_XmY_xEZ3K8w2jvvQWpJT3DK53_c3BEf-Bxur_tcr__1nL"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/NL']=data;}

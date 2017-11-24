@@ -1,0 +1,7 @@
+var data = {
+"_ring":2383,
+"_params":".hd-2383-en",
+"regions":{"2580154":{"level":7,"name":"Municipality of \u0160tip","index":0,"property":{"openStreetMapId":2580154,"iso3166":"MK-83"}}},
+"paths":{"2580154":[[1]]},"ways":{"1":"HAN6AkzrTgGYKn8CZO5VAQuV2CrGkigsNJCQLdqQ5C8wkeszxo80Nj6NjjWzipA1uYjlN5OKiTlDjTc6VZC3O1eR4zgRlAw3p5boNlyakjfQndE615-3O2OlhDs4qUU5eK36NsawEzY2sww3W7MEOhWzwz5Ks-pBrbtURb3B0kjox-lNp89MUoTR-1Rh06lY1Ng5WWnc9FdZ4JtVlOT7U-Dn3FEt7SdRVPBsUozxv1We8wdYd_Y7WcH5BFqd-yha0v54V___Q1rl_11eff-QYnb9EGaN_HZpp_x2a5D9KW0s_nZuWfz2cOv5Q3K0-JByNPGQaWDn9mTV3PZkpM-gZivEcWojvfdutLswdbS7OIBFumyIG7XEkBCszpqYoymiTaHErK6XFLjHjpDAc4ZcxpiGPdLAiRbheIrT7HyNT_Uzjc78mIn__9CFh_4Ggi39qXxp-0ByX_qWaT_4nmZo9a9mTvXcZPDxUmXr67dl5uV3aOnhd2gc3QBpqtmIaA3V02aJ0u1iis1WX5DJQVt7xrRWWMeaTf_KJ0rdyqFEwctvPDLODDf_zfQxPNBoMn_VKjHV2EUus9lKKpPXrif91CYgH87lG3XH8hGywH8PUb5ZC1i8kAlkuTcJTbcaBIKxxwLErwAA3KTgA96bigR3mBAIt5LKDFyM1REbh7UWbYCaHt-DkyMYh6AnMYC3JxV4DSj9cNgoE2lDJ1hkECr0YFMxjV6pObRdikLIW61HqlmNS6NXG0zBVJZM8VAVSXpMz0EzTY095kp1PJVHPT6CRFdEoUC9S4g8Jk95OwRU7jUKV_8uc1ouKQJewR5dXuoYfl2TEF5ctQ0RXm0KoWBHC15jFgrraPINhWuEC1BqCgcwbfADaXUAAHB6wADOfgsC84FxBKyFXwf8ig8KkYy8DbWMtw9piogTrIWiFzuD6BjvgGkcTILZHDGDfx7Ggukhg4TDIXuFfx_ShhYeIYkeIFmLziHwjU8hPo0mJLiLIiQTil4lLoq_J3iMNiljjkUqKI-EKdePaSb0kU0m4pM2JzaVcCkLldgq"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/83']=data;}

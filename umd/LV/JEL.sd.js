@@ -1,0 +1,7 @@
+var data = {
+"_ring":1741,
+"_params":".sd-1741-en",
+"regions":{"1781249":{"level":6,"name":"Jelgava","index":0,"property":{"openStreetMapId":1781249,"iso3166":"LV-JEL"}}},
+"paths":{"1781249":[[1]]},"ways":{"1":"fZlfA013aAETDGEDEydrAef_1pnj9mScre1snRj03soO57zmhuWc5nrmvu7fyTbwg7eu5PGf__8ol-X405Uh9nePg_X0jRzxb4X360OH8OlWiQfk1oiZ3SGE69EGfafHDXkyywV6O89ucgvaCG7R30trSOF-aWXjKWX04z9hl-Y9XEXoblpQ53ZZJuQTVlPhtlB64dxOzeBVTWfdf0pZ3IBL9dl7RH_WkUPC05FOF8w9TmnHCklVxyFJZ8FBTpi5vFEPthBOpbLdUOKoGE9UpsxBTaX5PdWnKT2knCg5uZvCOBeZezfamME4bJJDNfyR-DDwkj0sL5FCKGmThifTj0ATjI3kE9-I-wdjhesBGIcAAF10YQGebvMB915cCJ9TrgsKS20NBkyBC1pN7gtiTgUPoE0VEcNOChIITlcUb0_sFIpOaBSSTCMVZExYGKhOfR2FTsQhRVFIIPZS7yMaU34kmlVqJ6JTiygUVJ8oDlWmKf1SZCu4U1wtD1HNLxBSfzFZUH0xslKlMqlUeTO7VNwzcVMDNoNVYjcSVUw30liPOElZfTgLWv434FqdOjNcEz29W8s8iV2YPsBcbj9OWzxAsFx7QKNatUH_WgJCeVxHRGVavkdmXPFKD1iKSoNVlVE3VrxdZ1T3Z2BKG20wSU1wREpOcg1KxnhiRk99ekhhglpHNoGzRceDXkP_g5lB44LrQCOFlzwghOY55oR1Nf2GxzMohY0xkYbQMO6IWjHBir8unI05LwyRgCq1kNcoOI9DKION0SXpjfEiM48_InmNhB3ckOMbcJBMGW6VWBjzlN4XP5h3FUqcEBWHny8T2aY0Ecq0uQiIuGgIY78rC2fDswrJx94HiswqB9LNVwYT0TkAmdQAAOLXjwHi26QGleCSCLnlxg393GoRPtTZG6XgkR-R2MImEN13LFfepjEj2D40SdPvOzzUU1uP24BhKNsgYnngBWcA4WJmzujodFHqInQx8FxtBvOEbX_zkWyu9ABvivQldWLzvnej8Jl6RPDBfSr2b4Vz91mPDfpwktX_15b__5KZ5__WmQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/JEL']=data;}

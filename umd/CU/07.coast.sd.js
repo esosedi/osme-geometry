@@ -1,0 +1,7 @@
+var data = {
+"_ring":2007,
+"_params":".sd-2007-en",
+"regions":{"1923793":{"level":4,"name":"Sancti Sp\u00edritus Province","index":0,"property":{"openStreetMapId":1923793,"iso3166":"CU-07"}}},
+"paths":{"1923793":[[1],[2]]},"ways":{"1":"VvJWAbjjSPuh5lkBkehN--jZaQrs14kDTNwAAITgQA726coR0-pMG07sdw918eoRz_27Df__CRFD9PM2dvr5bw3kHnZmyKJssoi3c6uDCm_5hXxkdnaqW-RcqFdARhJeUENtaYpMT3GOSPtzzE12e1U_vX-GNvyWO0qnlwVKVZ6rOd2cEj4BofUye6ZsQTmqK0ChrBIxn6imI8ayqh8wuUwtzsJQKa3EniuB0TsWx9WaFVLa_R3c3L8YEN51H9Hn_R358yY3TO_5SNbx_Tf69WBA___YNB76Oxbs_AAAIN35FCLAGg_Ysy8i8aNVMoqAZTz9d6s5X3C4LRxykiqtYdg0V2ChW8NL1XUpStKPLVJZsQ1WMLItUt2zH1dcujFY9urbVlXqG0-m3xtPCttbR3LoAT704ck0PtI_Mn3K5yy9wvsxrMXLOAm8LzWHrJg5TcZvKxfGNBySyWMfd9TXGITb6CDw1v4Z59gTFTfd6xVF2P4R8t8MDFbe9wc_2U4M6NlpCg==","2":"rqFXAbwrRvsaj1kBCr1J-3XiesaxxwvThrok4T25x-b9y0Dpd7949bCwr-hintDp8qlp3WCnRNaRmeLSWZ-R0UiYB8E7q5_NdciYwZHF8bXSm-usHcApqYu9laKUkIGdRX52pAV8aqtcYS2vJV5htUFbbK5fPV2vczJTuc46asSQHczHfh_y0b0qt9hRGwvg6yVx6RoYZfAIGrr3Gw-K9-QC__8AALr3pBKn8iMX4-utEbfYIykcrbYZBaLjFBmO9RvvfUYuSXXZJ-VurBqWcGQHyl0JCKBN7RNuSv4alz4qMXpDxTt4QCEpPxj1GxkOIiAhAWErAAB7OmIDw0QqEBY8ZSILRvkoQUAkLNhlqEBThSxhwIt9YmyU-FqmhZxHwIuIQoG1zEfbvd9ME7j7YHqtaV3OpCthi7RwaanLbmbw1Sd0bcxrd-zX0Hzv1kGPY-QblC_pvo4777SlP-MDqpXwaKj__7yvGeNBt3XiesY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CU/07']=data;}

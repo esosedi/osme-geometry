@@ -1,0 +1,7 @@
+var data = {
+"_ring":999,
+"_params":".sd-999-en",
+"regions":{"541958":{"level":8,"name":"Koper","index":0,"property":{"openStreetMapId":541958,"iso3166":"SI-050"}}},
+"paths":{"541958":[[1]]},"ways":{"1":"6iG1AtxxzwA6SLgCT6fVAO0AtLcGAt-xAAC4sRQCMrHvAmiphQEHqZADvqdOAcSlswAbo1kErKNqB_egPAnqoNQMoJFrC0-KrhPRiYAXtoI6GySEEx7KgwgjPIY7Ij-CsyXXhWcnl4WrJ3uECyrXg7cqOoKdLn1_PTM0eEMy4nY6M-h0DzANciwyPnBdMcBtzjPAbCY0jmv4LRpn2yv-YfcsEFvBKahVJCudUgcqUFHaJdhRgSZ-UM8hIkeGJS5GciYHRxQofUahJtFDrSPOQtQjNUDAIXk_wRxsO20b2zipGak4sRenNgQYXDN6Fg40chVkMkYZQy_HG8YvHRxIMSceTjFIID0zhh7EMxAgITihJTk1wyi1NDkldzd_Jbs4GSe4OGEpWzotLHQ5CC08OGMuZjncL9E4XjTCOig3GzrVNKw71zmNP649-UFTPNNETUe8R4JLxkkwThVJ8FCiSctTmkUiU8dCilXPPFVW8zafV1Y2ElbcMnRggDbzZOQ2s2i_OblwID3EdAU9EXWlPQ54lTszek07FHt0PHiEMjwMhkY-7YvtPLeMhDvHjvc8y5JxO-2Yzj3gmp44yvQAAP__KBV-15RJU9LGTfnSAlUe1DJWNNMpV0vWhV-hzNBq0cuFbKbMBm1HyyptBcXwdInCU36twhOAc8P5f_TBk4EpwUWH2sJ6mcnFFKBfxoef48USoU3Lx6Afz4KiLtPKpmXUC6pi3MirY9xprRLaTrKVyhm3q8dWtSu97bhBs6m6L6s4wP-sgcSlq-nGG5jAzuGfDedrlf7pAILT8sh1g_y6df__NXAw_epm8v_UaO_232ss8y5vIPF5b2PvA2wK66Nni-lRZPDmIFgf6eBX4usyVTTw8lAH9BVH_fn9Rhf2ezq7_L03sPgzODD34jVE9X0zZPY8LXz1-imo9j4pkPVQJj71-R6E7dwbUOzEJavjHCYM4uImM90HJInbrCMS0PIhE9CcIcDO-iIFzUsjF8lSIJfFCR4bxtwagsS5FCW-WhBvvtUPP7vYBba3VgLGt-0AtLc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/050']=data;}

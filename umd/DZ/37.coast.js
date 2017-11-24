@@ -1,0 +1,7 @@
+var data = {
+"_ring":1139,
+"_params":"-1139-en",
+"regions":{"1258651":{"level":4,"name":"Tindouf Province","index":0,"property":{"openStreetMapId":1258651,"iso3166":"DZ-37"}}},
+"paths":{"1258651":[[1]]},"ways":{"1":"Ck6FARO5e_9Z4sMBa4bS_6CuAADIxwAA_MxcCSLOkgrj0WINaNSaD6TaDRZ22qkWr9pDF8Pdhhr73SAbvN7ZG3rhsR-A4gQg7-MYIU_loyJi5UMj9uWjI8fmFSWa6bYnN-xPLILsOi1J7M0td-73LvDv5C6T8EQvH_EdMO7wsTF08OgyZvDTNHDxkDhT8YI5EPIyOjPyJzu38gI89vZPP-73T0BB-lxEP_pARrv5dkcT-UJIcPgWShX5lEt9-LBMrvjpTuf3A1DC95VR2PaWUnn2IFXJ9gpWMfmpV8r52FgS-rJbKfoFXIb6BVyy-kNcRvovXmz6dV8u-lxgEfvoYA_8K2Lv_OxjxvyxZZf8NWYJ_Ilmsfy0Zhj9SGc1_dVpA_10ajz9EWvs_PhsZP0qbrL9Km6i_cBv-f2qcC39yXI7_W5zvvxIdWn9Z3Ze_Vh3qf2Nd3X-BnrY_pp70_6EfZP_P37__xyBH_-Mgzj-j4R0_YKE1_ueg7r6UoP6-WOD0vmsgxP684RO-xyGbPrBhh_50Yfu-MWIZfg8iST41okw-BiLYPeoi8f3MYze-H2MgvkojJn5tozF_JuOPPMnmYLzGaqC7CC2lNmdu3i50sNIm4DSnYhe0-h3it9PcqvljW_k_09v___3bMn_Z2tV_7Bmjv5EZLz97mAf_QxgpPyVXJD7I1wP_OVbBfyqVn76dFQu-tdRQPexUcT2pVE-8OhRvu7qUWrrb1K06UtSoOeaULLjQk9q4qtO8uADTi7g60jO29hGC9sFQ8nYwjRF0UkzEdBcMJ_OMytwzH8kNcuYH1HJbB6orX8MYKAAAAiHTiyfUnJwCQAurgAAoK4AAA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/37']=data;}

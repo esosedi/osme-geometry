@@ -1,0 +1,7 @@
+var data = {
+"_ring":2215,
+"_params":".sd-2215-en",
+"regions":{"2279623":{"level":4,"name":"Oshana Region","index":0,"property":{"openStreetMapId":2279623,"iso3166":"NA-ON"}}},
+"paths":{"2279623":[[1]]},"ways":{"1":"igXZ_nQo6QDfWfL-or30AP__bn5T_dDy5smO8qvK5_bEyTP2A8dp-8fE6vwcvf__p7IC_zSwFf7aqab47qQg7oChROuCnqTgYpeO4TqTV-Meku3kGpKN3ayR796ykZ_g4JDm4YSQ5eNUj5DlD45o4VeKU-I7iQThRYdG4uCGx91nhY3cCoTq4xmDi-OagrzkhH8a36t-l9_zfQDilH7m44J-MuXrfcPl_Hwh6f17ZOgAfBbtpXsY7v56s-2eehTvdXlh8BR3SuvTdYnrG3X97Mh04-9GdSTx_3RK9O1zvPc4civ6L3Ca-dVtifdKbA74-Wkb-2ppWPoqaJv782Ts-2dmK_mtZyfz0mWP7odj-OodXQvWhlYlysFOacDASuW9jkPfvDo8EMAzOBPFizKfyY4vZcrdLKbMTSe001EjbtqEIT_cSSCc22UfM922HZjjLx_V5NofNem2HhjoiRxV6bAbpOULGgnjtRhh3Q8YAtjTFfDWvxMm2WERedgODFTaJwoX3DIHq9voAcbfZQHT3gAAod4FBwTAEgfxoQwNU16EDgtbCA23TRoOLi_KDIMeBw1kC-cVkQwvFwkONBr1DuUbmBfbHS0pshyfLLYdeC4iH2cv_x8nN74g0ThCIWk8rCE7QWAiHECWIo9ACCWES7Im4FjUJxFfjSe-aHQp-WyqKyNolysXYrMsWF26MxpR8DX1Tto4LVePOpZZxDtiXd88u16wRYxf41kkTLNbg0t3aCFaomcJYC63QkkAuFFIlrmWQ625NkGRugJBWruwPj-8qz6cvB89Q7y_OtW6JzuGvaI0Vb3jMxC-uTCXvTwtD79sK5-_uykFv_AlWb8aJG3A0iFIwKocNMGCGgTBKRm_wUMW1cExE6zC3xDBxWAMbcWjCgjGUwfPxogDHsgAAOH1mWf__25-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NA/ON']=data;}

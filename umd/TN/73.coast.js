@@ -1,0 +1,7 @@
+var data = {
+"_ring":1236,
+"_params":"-1236-en",
+"regions":{"1434950":{"level":4,"name":"Kebili Governorate","index":0,"property":{"openStreetMapId":1434950,"iso3166":"TN-73"}}},
+"paths":{"1434950":[[1]]},"ways":{"1":"1lbwAU39dQAGAgoCEYyYAJN18N6KbhPlQGy95_xrMOnIadXqL2nF7FFoRO7BaCzySGh29a9mZ_e7Vkj3CVaU9whUN_ZvUx71xE9E9GBO0PX6Shf35kkx-sRGxv7KRP__3UOX_8lDwPp0Q7n5VkLz-IBAHvn6PAv5Rzua-eQ24fnFNVj6GzQN_RYzhP2MMHr86y8P-wgv2vmULU_5WixP-J4r0_aAKhn2fChu9uQmFPddJQv37CGH9WghevRyIKPzvx449EQc1_ZEF-_6yBXb-0AUc_v3ExX6uxTk-CkVrfcDFsrzuBc58vMbgvC2HZPtGh4E7PceKOqtIJDnwCbN5IIom-RjKrnjMytT4sUpsN1WKkDaQikG2X4of9fGJ5rV4Sat0aggMskWHP66_hgZsMQUYqU-FDeJbwkDZeMA1kkAAD9G8yyyQlA8LDqSSFQxC0mbMGZPXCvVTyUrH1EmKwFXfCszWdYnx1rOJPVaCCR5W6kjp1v8IuRjkRNLZJkPoGTUC3FkQQtscnMGEXkcBaF54gHWgAAAcIh0AJSKlQZNjfoM4ZLuEyyfdiHGprAoWaoZLRmuQDGksLw0Q7QbOQ68BkG0vFtCyMVCS8bKxlAfzi9VY9QHXMjW0l0W2yNgB9-ZYkvicmWy535nke2yaCfvsWti8NpwsPAxc63wMHkI8EN98_APgHfymIHZ8iuD9fAghfTv1YY974qJ3u5yjCnvlI_V8DuRj_LzkSr03JHh9y-QPPndkKj6ApLJ--CTF_7BmYv9EJub_HicK_zfncT9zqC1_baiIf7wpF_-f6gB_6Gq__8krMn9nq1m_CWvtfcZs2b2jbQO9YW11PPztXTvErN57oyx1uwIsFjrDa7f6dasbugQrI_mzquM40GsjNu3q4nZTKtU1iyrmNM5qwPP7KvuzNmsscnPrnfGO7DMxPCxCcANtM68YbU8uZq1UbWutk-0V7eYs5G5LrLyuuOy7rvlsoe9g7JVv_OuTcJOqr3CKalMxKypNsbRqWDJ16hyypKmUsuFpITM66P_zUuin9DMnzHO-JwwzG2XU8xylt_LZJViyiOUoskTkLbMJY5rze2JN9NNiN7UWoHh1lR9j9leeVDbVHc33ZN18N4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/73']=data;}

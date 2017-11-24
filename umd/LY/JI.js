@@ -1,0 +1,7 @@
+var data = {
+"_ring":2082,
+"_params":"-2082-en",
+"regions":{"2060176":{"level":4,"name":"Jafara","index":0,"property":{"openStreetMapId":2060176,"iso3166":"LY-JI"}}},
+"paths":{"2060176":[[1]]},"ways":{"1":"hj3sAZvSwgATPfcBTBDMAD_UzH1U0Rp_HNKegMbNUYJOzqWEhL-9hPi9hoQhvLyEXLzmhla8sJB6u3-Qtrk5j4m4po8Itkqc4q9OnkKtyJ64qq-faajun8egvZ83pKOl5qSOp0imPaqMpmmwGaaLsv-lzrMdpXazTKRvs-mj57Mfo1q00aLutOShe7VRogi2W6PJtpOlFbcxq_62Ta04t7qvBLYssca1xrfwuqu338Ret1bMErUAzIWx6st2sSTg36dS5TenWuVtpv7knJ805-qe8-eAntLnOp6c6IKdYunenK3pt5wN6hWcpOqSm77qYpoB7IWZpOtEmcHr7Zh47N6Yau2wmKrtTZeP7b2Vf-6YlSXvIpVK7-WUYvDtlFPyuZSc84aU_vMblC_0CJS59DiTEfUok3T1r5K99W-SMvU_kq_1_ZHJ9feRX_akkaL2upH09p-RLffykcb3KZEY-LiQ4vi_kCj6649S-kOP3_oPj9z6_o6S-gKP0_nbjqz5SY4Y-iqNW_o6ilD8Gojl_CWEcf0Cgov9wHpy_Kt4ffz3c-38RHLh_EhxPP0YcFf92Wxl_qNo5f6-ZNH-zGLD_bhfBP10Xbn9Sls__5ZX__9cUpH_sUIE-R5Bsv1DQOT8xD8a_V494vpKPHj6nTpV-vc4xfo9OGr8FzWj_joyif6TNRn63Dan9yc5C_GSOZTsDTmB6Qw4g-XwNQngoTNQ3wIwCOGiLg7h_CLY2nQhdNn9GlfXyBS51j8OOdifDajYGAtx2d0Jy9UnB-HLzgNHvKIAFqcAAMqVHAcDcccGp2Z6B2FgYQhhXUsKKVtCEDFXdhZLVPAdNVJeJIhR7DPIUEozWy-lNi4Ks1F9DF1VPQQUX_0Dh2gAAAhsQwEHcw0GinR5Byx1VgiTdYYM0nW5DaZ2FA6Zd_8OF5cnD1KXww9fmKUWCJlaGOyZCBlTmrUZupr1Gu2aZhwCnM8aF55YGb-eIBm1oFEWO6EoFniiOhXeo80U8qj2DwarUw5ir4wTG7SWEwa1KxTruLMT5rhgE9C6JhNxvG0ZHMBpGVXqKx___3BvP9TMfQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/JI']=data;}

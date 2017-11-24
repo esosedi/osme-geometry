@@ -1,0 +1,7 @@
+var data = {
+"_ring":2279,
+"_params":".hd-2279-en",
+"regions":{"2359152":{"level":8,"name":"Nor\u00f0oyar","index":0,"property":{"openStreetMapId":2359152,"iso3166":"FO-NO"}}},
+"paths":{"2359152":[[1]]},"ways":{"1":"-720A7gLnP8McLUDfbSd_-7hPQA16CIH__-OI6vxhTBG191HjM9DUyDHQ1jksDpgpqAYbLSZs3VokFWBBGAAqR9EZb7RTKLlVUz25QNN5ubTTBTo1Ub77nc-KfilPLn6Pjub-iQ6QftpMrX9bS8F_pYs4v_KK___symb_1EpPP-fKer9Ninh_RcplP6tKNL-pidL_kYmqP5GJJP9SSNB_IsiAPwsId77TyA3-3wevPrYHaH5Lh1P-eEbYfkXGkT4pxjA9x8YZPe3Fr71xBXW9TwVYvW6FZT0oxU59GgVMvQmFXb00xSQ9B4UdfSbE5fzvxBX8QYRJfDED9zvVQ2m7BoMPOycC4Hq2Anv6SkHZudKBkHl3QMx45QBdeJSALDhAAAd3bUAG9y1AP3aVQEf2toDH9hFBG7XMgR21rYEAtVSBDDUlgdU0TkJ381YCd3LHQkZykgJAMnVCffICQuEyTALPMkWCmzI0QpZwL4Kg7zGCTm5Wgm_sXQJrKikCTih4gmQn-IKlJ15C1ydvQy2neEMRp3ZC6GcxwsanNINCJYKD7OQfw-ahAYPzYM-Dw2D-g96gsYRSnxtERN4ORL3dXETk3V0E5N0lRXScRsW_XFaFjZzrxYpc5UWV3EMF4Fwvx3sbRUjfmwbMH5mEjXjYl45614hP4Vb6UEZWcJDvlafREBUbEfLT0xPXUnNV6BDrlxvQRZjJjx0a3szU3E6Lth6Jikde0YouXsZKAp9LyhMgdEmiYLTJWeEjiWdkkcg85vyHYyibhqdpkcZlK7EFfm2ahJLuMkSELkcEoXADBHSxBoPoMjpDATKxQsFzJILr88uCqPRIAoh1igHjdgTBKTZPgPo24MD5d3xAdve1wCJ4AAA7uE9AA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['FO/NO']=data;}

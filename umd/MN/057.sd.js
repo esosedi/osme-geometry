@@ -1,0 +1,7 @@
+var data = {
+"_ring":643,
+"_params":".sd-643-en",
+"regions":{"270057":{"level":4,"name":"Zavkhan Province","index":0,"property":{"openStreetMapId":270057,"iso3166":"MN-057"}}},
+"paths":{"270057":[[1]]},"ways":{"1":"lbfGApXZjQWTpPsCEejpBbX1jGIA9cVjyvgkZWX50Giu-rJrz_v9a5n68myn-iZu7_x5bdH-9W3__1BxcP6hcy78unNB-r12w_yReE_9ZHp1-5N95PrMgjn4uoR4-MiF-fVlhjrzUImB-LWNOfgDjyTzhpE6932W0vT9m9r0IKHy8_qhLPCJolvwEaR47ninCOp0p5zjv6VW2LWc_c3LnMPKP5_exSulG79zqTPAqa-6vta3Ibrvv1SzeMaysgjIzrFT0P6zYtUAtIDc9a3f46yz7-tAtSLtBrmS7Xa6-O4uu7H7c7cU_XCtpP0Aof__1ZYw-_uRFvrWhDD72H4C-vJ3WurodGro4XCD41lwp9kLb0zXfWzu1bFo99QtY23VE1b203BSL9WvT1vXjUwb3gJGw9z5PzvY0DIS1y8tjdEBLB3PAS2uyZkqFMdPJD_GjBylwSgUHsErDHC_eQEVugAD3LWFCKGyAAAXqgQBNaGuAV-f0weCnk0SsZjFGBmWsRnxlEkZrpBjEhqGdBvkg-MnooNhLniBEzU3fO01qXgIOwZ0nT4ebxs_DW0VRVVmvUaVY99IdFkfRzZQW01aToxP-kv4UH5EglCYPoxRKTcCWXArRU9WErZcIgVyZgAAzm42B1V0KgoIgQ4N8oPBDE2IfQrLjAwOEpCaFGWXxBWwmmwYNp-gIjmjzyZ9onkr4Z7vMtCdczn9nb9A_5qKQfWbC1BBndVSpaUPW6OlLmC3p2VifqpvY8K7umRnwCxmIMRAaUPN72uJ1iBiDdqxYMbnmV5i8Ttih_QYYrX1jGI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/057']=data;}

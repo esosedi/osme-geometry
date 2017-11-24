@@ -1,0 +1,7 @@
+var data = {
+"_ring":2456,
+"_params":".sd-2456-en",
+"regions":{"2694027":{"level":4,"name":"Lim\u00f3n Province","index":0,"property":{"openStreetMapId":2694027,"iso3166":"CR-L"}}},
+"paths":{"2694027":[[1]]},"ways":{"1":"60SKANgj__pUF6gA2w4V-8zfpiBO4tYn4uF_KlTipC3i4iUvAOUbMVzmhDHj6dgvUO_OMH_wQi4x8WcvB_LlLkzykC9Z9TUtYvW2Kxn2iCt_9a0v__8_Lcj_8DbB-aNHqPDPUCnfXFfxtjtxfK-2e2CEaqiIgZaxvX2Atlpi-dMZYGXYX1bR3GhTLvdkUX74lE3__wZDlfWRQWb1nkBY99s-mfeYPub19UDh8gdB_u46QJ_uCz6x75Y8me5gOpvuIzl27Lc5m-rSNw_pfzkm5c44tuMUOlTiuzom4KQ9W9-3P0fdvD7924k_D9ojQYbYSEF_1nJEttSFRA3RwkX4zvBFaMtlRxTJDEhPxmVHlcOvRf3CoUQewIlBI76qQGO-hEACwY0-D8FRPVHAFDz2wDA6OMUSOaDFtjWYswAAl7QPASGwYwK3rfwE2at_DASqgQ10p-8OQ57FEYmeCBVSnDAZApyGHZOOfyG5ijYjBohqIn-B6CKFflYlLXyjJkV2uymkcR0rC26OKdJqYyalaZgmF2aTJH1hLiYNYWgnZV9JKDFcgCr_V2QzXlJ0NyZRZjkuTl09q0z6QKZMvUQ0Ss1PHFuTUj9czFVnXP5XJ16bZd9sNWh-axpsyGtbbndq63OfaUh0Imwqd_JsAHhVbzN5a3AzeQ87PYOrHIiOAAAElCMDvJWRBlib9Au2nlcNLaOsEJSqfw8UreIMi7AzC3Cyqwv1tfwO8LXHEeu2yRN7uDETLbuMFGDCERH4xCMRychrE1bLSRFaz60RbNEAE1HRlhWl1PYYFNUjHZPWSR9w1gkqOdj0KELckyLe3mUjzN-mIA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CR/L']=data;}

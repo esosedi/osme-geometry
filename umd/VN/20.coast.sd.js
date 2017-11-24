@@ -1,0 +1,7 @@
+var data = {
+"_ring":1914,
+"_params":".sd-1914-en",
+"regions":{"1901019":{"level":4,"name":"Th\u00e1i B\u00ecnh Province","index":0,"property":{"openStreetMapId":1901019,"iso3166":"VN-20"}}},
+"paths":{"1901019":[[1]]},"ways":{"1":"sLg0AeIaUwYPTDwBY3tbBgAAHOaVCN_eYRJ52R4fYM5eJpbGQCvpwlcrqsFJJ-q6KycNtUAgx66CHhmrQB0bpvIdV589IAOaCSQqlaYt8o2oMliLADi4hL45iYFHOv95Cj5Dc2RDVG-6SZps20oia9RJ62gmQ0tj9jOxUY0xWU2eMFJJITPfRI45dULzP31DOUwKUR9QclJ2U9xR31U0UPhXM02dWaNGYlmZPUJaEzegW_UzCF6tMQhiaS9jZaQu-m9sNFx1GDZgea41PXyfM79-WC-yf10lA4PDITSICCBMlWUg96EIHa6rqBYZrf4Tca7sDIqwfQoctSsJEMHUCcTDUwhxxjcFucnfCDrMyAhY0D0EftCTAC3SAAC51FEBC9ZEB2bb3gtW3HIPHds7EsXUARmV1eIb5tloHJHbcR6q2swhLtRGK_3SXzXV1IE13tn1MR_cSzkK4jI-qObtSELpi0rn6sNJJuxtQ07v-UDf8l1GU_ONSG3tOk3l7cdSVO6TUyTwhVO4875Q7fXNUAz3rFGq9CRWme_eVcHrBVpC8f5iqfY0aLD252tj88xtmPEqcLPxyXNJ9m16N_cmfw3-DIf__yyIyP8Ki2T84IvU-WqPffmIjt33Co9t9zONnPRFji7zVozC7XiII-uwhxvq5Irf5BeRQOLfkqndOpnx1ymcodEFocvN1aD2x7yeTcbxo4_ELqaYvNKoRr2PrcDB3rAjxs6yK8Wqua3DDL3awYm-3b4Wvx6_6sPewa_IT8mEyWLLo8s9y7DR_MfK1NfHLNYIzBneU9BM4T3SXOWSyzvqycpN7QrLVfUtyX_4tMPE_Su___8zuoD6E7hS8e-xp-d2nhri23ST8axn3vFIYSHvdV087Gw4R_QpLg70lyAZ8QAAHOY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/20']=data;}

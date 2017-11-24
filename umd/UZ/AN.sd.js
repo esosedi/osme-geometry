@@ -1,0 +1,7 @@
+var data = {
+"_ring":382,
+"_params":".sd-382-en",
+"regions":{"178016":{"level":4,"name":"Andijan Province","index":0,"property":{"openStreetMapId":178016,"iso3166":"UZ-AN"}}},
+"paths":{"178016":[[1]]},"ways":{"1":"V3loAucmRARDmXICGQZcBIpBUsCrQZC_50Vvvg1KWbWyRzW01kILtFk9dLBmNLavli2urdks0qn8M-WkZjSwn188ApqBPTmYsDvNlSA-WZFrTTWMZFCfiblT44jbUbWERU06hFtO1YLXTSh-FE3ffaZD-4OmQleGwUHuhIU_S4XfPUWKDzqViaw2KopfNTSL9jJtiDIwz4fgLhqERi1UhGosdYOpKm-DwCjwhU8paImdIMeM0BumjdEKmYl-BZSKbAFcigAArIhxAbuELQTXgUoRD3ruEQR5_w83dj8XQnLfFyFuZBp-bS8jc27vJNlslCRxaoQ7CmrgQPRoBEnEWulL0VLWSsVQzlQLMPRu6CXReDobrHyADHRzxgvejw4BkpfFB4CoAACBtC4HlLlpC3rH0SlDx9E2HsJzO3C8aEw6v65d1cPzYPDoamUR6KZovPFvdY73uHlj_7l9__8MfzD6AYBn9gyEV_RWjuLvb5dO53iXRtyYlATbxpXs3zWYk969mmrJ9aLAvKujSLlkpvmyUq9Nr-e0jbDatq6uSr12suLDFbFFxqe0Gc6EtKnQqLGQ0xGn89htoEjac5433VKgUuE1ovzhwKKq5dSo-OhYq8zoB7G27emwXPBTrKzyu61b9fOs0PfxqGH40Kas-mWpsv24pkr_KJT__zCOvfI8jL7xxY0E7zeMq-eVf1XgUH9a3pt3T9Thd8rRkHPq0YdzItO7aALQ2Wq0x_Vps8ELZZTBF2KCw3ViXcauYMTGA19BxWhT_sCGTzPAIkllwHtC58GSQV7AikFSwA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/AN']=data;}

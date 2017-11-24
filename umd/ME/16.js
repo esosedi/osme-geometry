@@ -1,0 +1,7 @@
+var data = {
+"_ring":2240,
+"_params":"-2240-en",
+"regions":{"2319360":{"level":6,"name":"Podgorica Municipality","index":0,"property":{"openStreetMapId":2319360,"iso3166":"ME-16"}}},
+"paths":{"2319360":[[1]]},"ways":{"1":"wpmDAlrBIQHdr4sCi-krAYUz6S45P3tEMlQFQlVmESXmap4jB3RJIGJ3FhxPdsIYs3QjFe95QhPagc8RAIRSDZCIIwpFjwAAo5RfBuGQJgsdiy0N-oosLfSRwkN0jN5LposyTwSRaFSkoVtblKK2VamlaFTOtHZY57tmXuLGVWQw5JptMuYXcqrng3ze6PeIVugxj1LkzJGD4biWQeMxmkTn8pxm52ugrOkDoq_t056Q8T-efvDlowXvqKeS9TCvU_1Rrrn92bX__wi5_v3-wP79m9kv-z3eMf1w4pL1Lu9X6p3v1PEe9QLy8vtG4VT9C9X__8rLCPkZyFj18cd_9S7H_fRAxGnygr-77pe-ue7nvHbva7x27-m5lO4kuaXu87du7--zevDvsofwGbIK8ZiwkfCcr4_xIK6i7_KthO5VrevsO6y87durwOx3qivssKlt67-mYeXIoTXcpJuR3NCUotjRlEHXl5TV1uuR4dUTjpHTf4rM0VOJcdEKiADRAodW0JeEdc0ognzLLIFiy06A6stlf-fLnn6ryuJ8zcW8fKjFYHvFxZJ60MSrejXEDnrMwxV2rsMVdkvDZnYPw392gsI1dlPCd3a6wV92g8H6b32_y223vXRsPLw-aqm7jWkyu5xo9Lr6Zwa65Ga8uSNmS7ifZQG4nmU6tzllL7YsY4aym2MvsM5hpKz7X4GqtF6jqehdVqgbXaGnpVywp7RbWqcaW6KmwVqJpshYpKYbV0enslXZptVUDaYDUy-jTkqXpLhIu6VqR2KmSUBgn1U225fkMcWX4Cubkxsd-IkAAOxvUCSrOZ0qFTLXLdkvgDFnLoUz6S4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/16']=data;}

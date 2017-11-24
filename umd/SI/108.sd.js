@@ -1,0 +1,7 @@
+var data = {
+"_ring":1460,
+"_params":".sd-1460-en",
+"regions":{"1676300":{"level":8,"name":"Municipality of Ru\u0161e","index":0,"property":{"openStreetMapId":1676300,"iso3166":"SI-108"}}},
+"paths":{"1676300":[[1]]},"ways":{"1":"zyzFAmLz6gCge8YCJHPtAMP94PKZ_vv6GPHB_GrqiP6M6Zf8XOX6-xLjvvnO36n7X9hw-hHTfftUxdD2_cGt9A-7nvTNtvb1OLF88qivUfBEquzu_KW37xGiae8HoeTwJZ1X77-YLPG3ldDw7I-o8veP2PCzi03sU4XV7fh8Cuvldvfq2XSm67RvtPVbZsP9x2H__wRZwPP8VWbkp1Se4y9RmePUTOjgDEYp3w1Det3CPafZOTnq0io37dGYNrHMmTjgx-w4J7s8N020RDgJrRc2kKkyOeWkuTuKpHE_NZ0CPnqXjTuekvc2OI4hMKF_6S5CdhotDXR9J3xwLiEVaYQfiWVeH2dgBRy4XtsZilmfGBVZqRnzVrIT7VZWELdTuw88TikKx0e9Cy5FeQmbQrEKzDmgDZM1hgnGMKwC5izfAAspcQFOJCUEXCJ-BNIefgZNHR8KAh17CpEb3gfJGEsFORjqASUTTwKFEAAARQ46AdAL8gZ_CIAHmwasDVkEkxDFA68S8QGjEqkAmRUAAB4YogSbHFAIYSyRDNUu5Q_uM6AQgDb7EQ89mREvQ9sNUkl6DL9Psw81VAAQdFi5E5lXuhp7W-gk6F-CKSNkpSu7ZlcxvmqTM6xraTWVbx43knJKOlZ4BjyQgcc6yohJN2SODznZkzU5DJL8P62UukC4lyVDc5idRjifr0Z9ogtIpadpSLuuK03jrzBQuLJcUqW3FU5GvKFQx70STaS92UnDu9JJkb2SRTO9LkQOvwJEV7soQS-91z78xBJFsMhjSULMDkpt0GxJ79dIT1_ZQE0025BMptyCTZXdeE5O2yxRON4kU3TfAFcB6gZY2vvhV4b7nViM_z5Z__9IWnz-GFtz_kZc0N5cWaDXrVcJy-9SXsVXUue5xViwsOlbLqy-XhervGChqphrFai8cY2r_YSsrAiGG7PGh-bBm49YxOGSy8YBnJnLQaaC05yx99letxfuvcOj8k3MQfaN3Hf9LvDD_eDy"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/108']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2439,
+"_params":".sd-2439-en",
+"regions":{"2634498":{"level":4,"name":"Vakaga","index":0,"property":{"openStreetMapId":2634498,"iso3166":"CF-VK"}}},
+"paths":{"2634498":[[1]]},"ways":{"1":"GwaDAHjoPAEs3qcAfpNpAcoAvo0HCJmMdAo8gNgRkHVdIRpylChfcoosgGy0MQprLTZOZRc7kGJiQB9dYEayW3xKhFnYVXxXBlz-UXhfq1DEaYJIb2nmQWF8gT8aezU66ncIOWNy9zDyb68uFmsQLbNo0CmAZkslumS9G9Ri8xfiWpQT81jdDWhUNwvWUvsInFStBctULwD7VQAAZljLAuVXqgRRXgYGHmMaC3Npeg5caiEQA2xmEBJs5hJlbhkS_G74Ew10rRMsd74Vh3rKFRd97ReeezAatn05HfuCSx4phZQfX4hfIn2J_yT4jk4nCJOiKsWTYSxpkZoxEJO9NLCaizorogY8tqtLQoGsdUM-rPNIeq0VTCiv4E4EtFtQorTJUp28llPywJpVc8XNVBrIvVJfzIxRn9kgU4LaHFdz3ItYv92hW4LcM19d3t9hhOGSY2bjXGcb40xrOuQ4bI7qfGyf7W1vU-50dFPseXsQ7-h8r_ENfZnzrX9l9hCBv_Xbg6r544df-zOP4P7Gkf__bJSO_v-WYf-TmCv9bJpY_Y2eUf4noEL8xaSk_F6nnPsLqRT7x66M-FuwbfdsuGTzirmL30DE4tYJz3fSDNJBzZDXuMl12XvG7d3Bh639AnP__49kpfnDYeL6_VqL-khaLfvuWuz8BFpc_dRPB_sGSfT750Z_-QREMPhdPy70oT6R7p85gOwAPT7pfT-R6Ng_muV0Pm_hLS1V3uwptdiVKPzRVyE8ysAR98h6EXTE1hIUwogQIbo9DGix_ApTol4FVJwAAGqYygC-jQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CF/VK']=data;}

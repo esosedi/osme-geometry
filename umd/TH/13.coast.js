@@ -1,0 +1,7 @@
+var data = {
+"_ring":1966,
+"_params":"-1966-en",
+"regions":{"1908797":{"level":4,"name":"Pathum Thani Province","index":0,"property":{"openStreetMapId":1908797,"iso3166":"TH-13"}}},
+"paths":{"1908797":[[1]]},"ways":{"1":"c1jUAD_w-gVl1dkADmgEBjj91f8F_P__HvuA_735LP-X9mr_XPa6_6P0gf9D8wf_3fJx_gTx7f6F8Hz-S-8K_u7tBP4L7Ur9jeyF_VXrY_2K6cD9buTG_ULZS_DQmCLwDWqi8E4VWPAPC_S-NwGurAAAkJK-AOCSOwOxksoGlZN8CseTBAoJibQKnn99Cw1_8w4lf28PTXkyFj95eRfseLIbBnSXG75xoRrKcXsanHCxEypxnhibajobBWTBGA1hORjzYHMYlmDXF-Nf9hcSX5MXyF58GEheXhiGXdkXCF0qGI5cEhkuXEkYxVv-GHdbzhgbW-cZZ1nOGWFYYhpAWAsa5leOGpRXJhu4V4oa2FYzG5ZW8RvPVhUcrFUgG7lVWhlQVWsWAFRQFDxS1ROdUVwTxk_DE8BLohODSb4RrkfBD7JGJQ5ARuAOeEU5EJRElhCaQw8Rf0NgERNDIxHQQqsRWUJ_Ef9BSRKOQZwS_UCQFFFANBXYQEMWQkAhGMg_0hgjP3IfsDtUJdE3VSj2N4snAjcaKNY2cyflNdEpnjWfKSM1wyoINb8qVTS8KyE01imbM_UmkjP7I5kyMC6VKuU3bRSiMy8UFDalDaY3MAyIPXYJR0mcBZhPGAR2VhoCglziAK1jAAAva0wAhnJSAaB9nQM5gRMEIIhvBJeOYgV2i7EVDoylFw6MFh92i8Aidov5KW2OLDTYjDc5RoqSPXyJIEFEi9JFnY_7SpeRIEyOlKxPG5N7UOqQaFIjj91VQY12WMiLf1knigxauIqMW-yKsFsjjEhbjIyYW3mNxFv1jj5b_47nWqGP6VqYj0ZbBpBVWxeQqVuhkPhbF5GYXOCQF12jj3BeB4-pXo6P914TkadeWZIaX7SS11_FknljLpNCZBGXOGfdl7Fp2phFatWZIGzGmcdtGZtCb6Obf2_ymyhwv5vqcH2i_HXcokp3i6INeEu7YpP__wHn8OgL5zj91P8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/13']=data;}

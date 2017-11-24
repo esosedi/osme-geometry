@@ -1,0 +1,7 @@
+var data = {
+"_ring":191257,
+"_params":".sd-191257-en",
+"regions":{"307584":{"level":2,"name":"Saudi Arabia","index":0,"property":{"openStreetMapId":307584,"iso3166":"SA"}}},
+"paths":{"307584":[[1]]},"ways":{"1":"Mqz4AMKHDgK9zOsBC2hRAw0A0FVHBnFSVAv-UL0OoFMMEdNbZhYpVpAU0VNJFlZS8BK9TxgUu0zaFk5M8hgcTZkat0nTJCVIqCUNRuEn60SWLFJF_i7jQX026z70Okw_BzsrQXo8YEE8Pr8-WDw2Pdk9Izp8Q9g6I06nNdVQLDUqU8M1Z1sSM2tiGTXtZQw04mSxMgZmlC-4aa0vJGt9MWpw-S8gcT0swXPbKOR3qyaze_4mxnwgJJt_cSGYieActYzcHFCOvh0wj1cbTZTaFbiZUhbrnQgUk6EdFNShThJHpekPwKj9D6KrMQ1Rr4QMNLM0Cka0fgfDty4FFbfdANC6iwFzvQAAvL4kALPQCQRU0tgEEc_qEiDULBgM2i8bJdw0JIHhNyY05DoqQ_QtHjP8Mzb__wE6Rv19Qhjy1VPa53tm3-N2ZkjPlns9zT6VGcy4nHHErJ-9xGGrg8FBq_O_W6zEvXqsj7xBrhO6da8OuG6vYbXas1GzxLT3sSW5F62Zuf6pLL2PptG-GaRzv2GaHb_-k-TCdo2lw9OG7MULhSvHsYTjyOCF8sprhJ7L24VVzPSFpc5DguDMyn-YzqN9mM62arHa0GWl-QZndPqgW___fjvu920ro9PyJ-vERSXBsAoedqWGEmieKw3LnH4KXZl-CiWX2Q8flFAPQoymEMqDQhKSgUkSjne9ENFwMBEFb2MU1GsEE6tpfRGDaS4Q02p0DzFpIQ2qaIoLw2nPC_Fo3AlraAAI-mmuBZVpHgZ_aMYDJ2gZAxVmsAE5ZrABb18AAFdYDQDQVQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SA']=data;}

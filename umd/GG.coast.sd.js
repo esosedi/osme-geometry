@@ -1,0 +1,7 @@
+var data = {
+"_ring":191223,
+"_params":".sd-191223-en",
+"regions":{"270009":{"level":2,"name":"Guernsey","index":0,"property":{"openStreetMapId":270009,"iso3166":"GG"}},"1711291":{"level":4,"name":"Guernsey","index":1,"property":{"openStreetMapId":1711291,"iso3166":""}},"1973199":{"level":4,"name":"Sark","index":3,"property":{"openStreetMapId":1973199,"iso3166":""}},"1973200":{"level":4,"name":"Alderney","index":2,"property":{"openStreetMapId":1973200,"iso3166":""}}},
+"paths":{"270009":[[1],[2]]},"ways":{"1":"ZQXyAhsu1__WcvMCnMzZ_9A23Q4bNVsbH0pHJfNiLCUuayQhEm5GFyV2axoZciwitHyFMaF2ujojjmVEjYItT8SGfV72l5dmzaH2XGWjjmaXm7xqhaLga_imW3zDvNaDRseQf33DEY5vyZuNQczTlRfU9JP81VmcPd5fm2HebKXx2Mmoj-KBtsrXPrbPzuLC2dLixjvvccit97u94_x61t_yfNIf7Gnh__976Vn1F-6691z9tO7__xHMsP8pzDL4K8dl-ze1cvOBuNvniLCa-cSnd_TipOXeTpjw0s2Gh8-3fCvYoXiU0th2Ztp3fjPZXW8F3p90-NHoZbTQM2w14e9jxd7IZ7zbnmQa0LBSRNmnT1bTVje90lA04s2PEP_aGhVM1sEJJNaXDYXTtQXVymILwccDHLzMrBubwvAgCMAoFYu6LBiethMRwrYgFYOu3wuQsu4LdawAAACnwhk-nFAVQZrxGkWQ1xNEj_AbU4vpDQ6Jnw30e28CvnzgCGF4uwbJbVoNWmT4BbNe-AzSW_sIqVPpFZ4-xxMrN9Ad0i3OFN8TnRrNEf0U9xAXIIkE5S4AAKI7qwWDNnoI0DbdDg==","2":"-2P2AvHo3f_m2vYC4wvf_37Qx29XtpNrl8fcdZCjPn7NoxeZ-bhNpaTXz5z53Ciqne54qN_mdb8E-m657_A6wf__YsSD4DHSCfA33efjZfs5zv__oqVT696YVcoRh8bS-2tPyjNsHrUjWe60wijTj_QfTGgrActNAAAFB2pCAACPd4wn-JtSLDGtK1ono0RjasgxYzDvKIh-0Mdv"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GG']=data;}

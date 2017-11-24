@@ -1,0 +1,7 @@
+var data = {
+"_ring":1994,
+"_params":".sd-1994-en",
+"regions":{"1908824":{"level":4,"name":"Suphan Buri Province","index":0,"property":{"openStreetMapId":1908824,"iso3166":"TH-72"}}},
+"paths":{"1908824":[[1]]},"ways":{"1":"C4zWABbg6gVeAuYA9Tb6BZRrSvg1ZF34i2Ej-SRY3v6hVP__VU28_e5DBf4fQRz8DT1m-4s5__jONjj4ACg4-HkhL_R-He3vNhiQ48oTvt-UExXa2BQX2R8Vmtf7FMrEuBP9vmcVD7hVFZ2yUQ4Dp0gAPJcAALuQMQFyiTEBPYhIAJuHlAPQh8EFi4YsBm6DVQnygZ0J9YBHCJ9-1wgyfnQaOntHKKmJiy3fiSwyE4u4N82J4D7uitdEqogaSnCK0lXNiWJaN4uTY-GIt2tLivZxXor7dBCMznZwkZR7tZrAfTGc0oFtmZiGSZIfiRiQXovfkCyOUZazkL6W4JYGkLeXqYnKm76ALKJKfDWoXXRnubllXruxYXC7_VgjuBlV4LbHUX24_Eq3tydIrrl3RQi6akOBtzdCt7PHQiOwXUG3qydB26c-PxqmWDx4oZU5R6DLMpieaC7gplUn7adDJ2-r3ir6rIErvK7wKjqzDCeztGQhGrJ0GiyyWBditlATPsKGDCPEegliwlEEXcPUArzGfQFvy6MACNIlBxbX2gcV40wG6egJBLPsAABi7sUB5PELAx75LwOT_7IJ__-sC6r6-hBU-WITs_g0F7z2hRuq9i8gk_P0IVXtgyNL60gldOoKKEPp7Tqh5DZCj-CcTDXg_FGm3eFZ9uFoWm_plFjb6xZeVOlMZbPkpG2q4qB24OJ7fvvYypiu2Rafa9jUoyPYnqrk1QyyKNe4vY_YL8FM2ynD5OG_wX3k3sOu4anKMeE500LZ6twI2tDfYt4b5vThce3k3cTr-9he6HTWXOmc1ezqQ9bF8bzKNPJVxYHwlL8L7VW99e0suhDyI7ih8rO0Be9MrwvteKmb7XCjAvAxnQjuLJZa8XiRJvCqiiHrOofh7meFYO9VgRHqqn5c6Wd5euyhdFPtnHHz7jpvfPJHbEH0k2sG9pRrSvg="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/72']=data;}

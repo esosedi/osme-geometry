@@ -1,0 +1,7 @@
+var data = {
+"_ring":2457,
+"_params":".sd-2457-en",
+"regions":{"2694028":{"level":4,"name":"San Jos\u00e9 Province","index":0,"property":{"openStreetMapId":2694028,"iso3166":"CR-SJ"}}},
+"paths":{"2694028":[[1]]},"ways":{"1":"mIyKAEI39foig5sAjAgH-1v2lo5f8X-Q-uUHk9XjdpUI4gCav950nUTbD59809mfJdBjoQvOYaDCzHKcG87YmPzJuJQuycWQ2cmEjYvICISsx4iCEsRKgk--SXzquvl7W7vIgRO63oIctumByqsGfB2ndnWupAlwg6FicFifYG8Znrhx251MdfCe4Xtdo16Dw51thY6ZC4gFl5eNNpF5jeyPTI63j56Q94vPlP2MxJakiNWbTIgMo4eGBKQtgv6j934ypcR8B6iyeKSz9nivtfh1CLV5cvm1anGWt0xx1brFbtK7Fm5qvkBv88LhbbLFQ3A2yTZ0F8yPdHfOiHMz0VtwytO9a4LbY2m24ghj4OmuYMPuRF1q8h9W6PN_RtX6mUL__7c66PpzN8D3TzB-9E4s1e9aKezt6yLC7cwdC-tbGmvwaxoM9TYVs_YwEOn0xwyw8QIInfFNBP3vjABD6gAAleVFAq_ivwZS2PYLr9TYD0LLsSElwhUnzbrdIN214SEnsNElx6j4KtSijzYjos87c6QePXafSUL5mQRIYZcBTK-Wzkwok5JIBpDDR_OLykuuhx9RoIVWUEaCz1U3gD5bA3gRYAt1r2ErcUVuYXFYcJBsbW5AaFJvt2Vlcypjm3r5Y0V92WJBfglhv35UXDN8YlXDfp9QgX4FSsCA4EMhhLM-QoHwOnqAPzA7gSIrWn59KcZ5UyvnbjQj2HD4IA905h-LclIRdnS4Cz94tgikgIIHcYZWAnOJRAHsjsoBVZQAAB-bnwAinB4C3ZtqB5OfawsFovcJ7qHdBjSnEwUYp04BJKpuAdWsvQPfrJoGIbfCDAu4xw-ru0ETAsKMHNLBmB8TxJgoBsQELubAozQewfw57sJcP6nDEUgmxcxLs8vXUj_NG1aHy8BdsMyHZILK_Ghfz6J3jNEle_DU-X1b2CR_1Nu3f0biuHu25199lujkgw7rv4Xn9fCFg_jbh___cpJW_TCRW_aWjg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CR/SJ']=data;}

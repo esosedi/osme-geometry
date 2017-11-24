@@ -1,0 +1,7 @@
+var data = {
+"_ring":2455,
+"_params":"-2455-en",
+"regions":{"2694026":{"level":4,"name":"Heredia Province","index":0,"property":{"openStreetMapId":2694026,"iso3166":"CR-H"}}},
+"paths":{"2694026":[[1]]},"ways":{"1":"yfeXAINI-_rfqaQANr0C-3oDnQOFCgAAng7aB50ZeQ7cHXEOcCIwEmAqThKXQdkPgmXuEEWMQxF-wPwQwP60FNf-NBk6_1odBv-ZH2X-BiGu_ZohY_x4IYH6yyFd-bsjy_cIJZr3fSef99oo-vdkKZD4JysN-m0tFPuaMIP60DKz-QM0KfnzNQH4ezcX97k5xvalPpT2mD-u9khAmPbiQa72oUMG9_BEp_dhRb35XkXH-txFNvuUSM_7c0kR_MJKUvwbTuX7BFEK-zNT9PqDVDb70lWj-9dW6_xLWLD94Fj4_lVafP80W-n_OVz___hd0_9tX3X-oGIt_RVkPvlpZvb33mdz9-JoHPcMajn1_mrt83xtiPPbbkfzWnDE8uFxRPLQcsPxsnWt8H12O-4Hd63s8Xcv7Kp5DOzKe4PrjX5W696B1eqvg6_qO4YZ6h6IcelkiPvnA4hd52yI2OY3iZDmTYv15m-RXOd5k1roEZZD6YCbPurrnSTqmaEa6tCjpulpp0np36hW6QyrI-mSrE7phK4_6q6wv-pgseHrGbKW7-O2ZPEfuhTz58KI82rH3PPyyKTz68lS9CvOZfUJ0N31_c879pzQDvhF0cH4pNI7-Y_UDfra1tz5tNj0-S7alvkv3tj5iOF5-WfkS_d47Az0q-sq8Q_qmezL8tXp6_iu59D8fOP__3HjoPHQ42PgTOAS2nXfotNG38zNZtsfyHXX38O010i82NJjuGrJO7fExu64bMOAvXW6zLZdtJe2P6t6vXSj08Aende8dJmWviWXsLgyl3ew7I66pnmKWaVWgkqqdnz7sRp0j7QTa2-1NmZksZVgpKutWJGnXFQuo5FPjJ2BS7qXJkMXg09BpH14PVZ0_DnBb-01GHB9K0tvMCjcalonlmQEJ0hbZSQGWbchrFjCH1ZXqhxSWiQX4WCBEoJf8A23XGcJ9lWABpBNFgTMP-wC0zkLAm82KgFnMVMByy4AAJEq2QBbKCUCaSPqAukfzwFuGl0Btg-xASsNkAKnCXoDnQM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CR/H']=data;}

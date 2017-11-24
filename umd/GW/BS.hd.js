@@ -1,0 +1,7 @@
+var data = {
+"_ring":1717,
+"_params":".hd-1717-en",
+"regions":{"1761580":{"level":4,"name":"Bissau","index":0,"property":{"openStreetMapId":1761580,"iso3166":"GW-BS"}}},
+"paths":{"1761580":[[1],[2]]},"ways":{"1":"Bsy0ALl9Ev998bQAbZwS_w254x_zvKIjPbtmJjG_qzGDwUA1OMH0N_jFvUlSysRWW9JyZAfZj2nD3H9wvuLndR_p4YBr7ZKCgfHsiNv5dY7c_bGS__8LmZ_9DqEc-RSqqe91s-XpmrtY5NvBit_uyQ_df9J13frYRNma1vjU0djZ0RHf-sv44UHJRuBlxD3jRsN25vy5tevcshvtRK4Z816m5fjbn-r6h5lN_sOTzf_cif__73LA_RNuQPz9ZRX4U1ya8fJVPeqcUgLj7U4o3nRH2dg8QfPVHD4X18Y6vtT9OiTP8jcfzWgzVM6uLKDL2SXkxQAeHcL_F-27wBP7s7kR66YBEdmY7w33kN0KZIBsB0J5qQWZbewBsmMAABpYWQDMT-YD9kw6AYVKBwAoRj4Cz0MwAlc-Bg0lKmUWEBQ9GkQO7x6CDJgx7gwoNo8OETsmDJNKaQwsV9QImWJGCJpm1Agubq0GXHF-BzF4nQYCfrkELYQAAAWIwAAGjOkDcI3iB1aRRgg4lpALmZpNC_inmRKZqcYQLrW3G1W6ChUYvpEZNrnaHw==","2":"CfuzAAcFEf9VRLYAMOcS_wTs32lL8QB7DflGgcP8coI1_xeF___zhsL_Zoma-ceTvfVRm63wKad36zGv0OOJtinZoLt61mO92c8gxdPIXsyQxDXPW7lm1DK2C9fistHcwbDZ5Kavf_CYrfD3Bak6_Xqh__8umoPmAZSv2BWNE86hgzbEIXr9utp35rf8cyC1YHD0swBrdq6dW4-hk1MHnXFMw5iuSoyYSUMcj_I-m4gRPGt-VDstci45rmOwNURX3DGFTmMfBzfqDIkhzQYfF7kFwxEAAAAAq1UGB5Njfg7sd0Aat4q7J66fMTXQtE5Fb89HWXroa2gE7N9p"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GW/BS']=data;}

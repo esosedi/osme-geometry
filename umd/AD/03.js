@@ -1,0 +1,7 @@
+var data = {
+"_ring":2520,
+"_params":"-2520-en",
+"regions":{"2804755":{"level":7,"name":"Encamp","index":0,"property":{"openStreetMapId":2804755,"iso3166":"AD-03"}}},
+"paths":{"2804755":[[1]]},"ways":{"1":"yleIAj-XFwDdZokCq4gaAAo1sO4OMH3nHicf504dK-QNCW_bfgbQ2KMEKtZYAnTUAAAh0QoAeNAVATTPpAQfzQYO9sOGEk7AEROgv7QT8rwuFU25ZhEqtWAQXLP_ERixFxm3rYYcb6zELWynqjDCpv06UaMaNWWj8SR9oeggSJ8RIAyfpBjunlYWcp7AES2cbQ43mmALYJphCa2aJQkmmYwJuZdCDTGUNA-pkdYPWJBND7mNQxQ6h7sV74OnF7-A5Bg8fcogQ3DxJvFkqCYxY0IlyGH1IkVgmiAdXYYefVs-Hr1ZZiDhVjQhI1QLJd5NWiaLTN8pN0qZKwRIxy3rRVwwZUIeMi5BiDagPgNQ7TLBXx8svmpfJO5pcCDJaOYff2XgG-5p3hkWaQ8VY2hoFNhjIhMfXywTOls8EX5aCAkBYiMFQGiOAx9tNwHpbt8A23PUAOR3WwBnfQAAWIRyAkyHSwPhitQCdY4kAnaQkwEKkqwBuZdgAwWc_wPvoc8F8KlbCXisFgtLrrsLLLSODF-39A0ovKoPxL2jENbBQxELyU8RYNAxFUbRPiyZ1PY95tOIT5LMOlNSxhBVo8ceWA3HdFqYzVJfQc8eZQLiZm916Ed85eSef9PZ2YWc2ZCJPdTPjELRxZEJ0HGUitrwn0f0iKz__7q1HPwEtkf7QraG-tO2h_rFt-T5IrhG9ii5z_Q3ulv1K7vz_ZfDov5Eyqf9hs2z-gfQG_iE4xvx__9W5Z_9sd2t-6XZY_v8ylT8ishB-5_FrvtbwQb7x8BR-vO-6flSvNz53roq-tCz1_hnsUz5Yq9E-VWt9_mpqgn6qqbS-bKiXfoBntD5Y5zQ-JyUrPiUjSn4h4En9tR-IvbheyP3HHr09qx1d_XqcXb0-22F8etpt_CcaoLu1Ggq6hJf7u43VHzvGkRp7g01r-4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AD/03']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2003,
+"_params":".sd-2003-en",
+"regions":{"1908872":{"level":4,"name":"Yala Province","index":0,"property":{"openStreetMapId":1908872,"iso3166":"TH-95"}}},
+"paths":{"1908872":[[1]]},"ways":{"1":"w-9VAEDFAgaU62UAIY0OBq7h7PqU3f__4Neh-LzTUfXn0W_wZ8xD6pHGl-d2xCfUocIkzG3C5scAwTrFP7y-wkWnqbyUmi26U5BYubKODLe_jViyY4xUsZ-KbLEIgCe4q3o0ww52EceFbtPI9Ww3y09qN9LHZsvUIGAt1vBc5dXPVYHTWVLi1OpMltmZQmDXCD0s3Ec6JNTjOEDN0jjQwLw3kLucNJe2_y9XsTsu66wbKwqo7Cs2oNYq3prsK1eV-SoektAlm43KIB6L8B1KitwVG4oPEluI_A0ogB0KaH5NCTZ9IwC5ZQAAw2GQAUdffgxbV-0NTlRQEXlSMhKXT4ITAFDtEshOTRMDTpMU-02SFf9OlBcSSu4WYEkmFxRIRRhzSPUYDkf0Gv1HahtJRmEa-UNfGsdAkBncP3QaFT5IHOg8FR0pOyAdajhmIRk1ACXcMNknTzDfLMsyADQ-OYg3XDsuOl88hDzdORxAaTqPQFI_ZEKIQcVEVUenRSlPSEfcUx1J-lUxUUFWJlYLW1tafloyYP5WDGNZVvRoulftbiNb-3E6Wzh0wVlNeMpPbXvRSoB_nkkDgtFKy4TyTb6FLFGZhbpXtIfIW1eNTlrGlsFZ3JeIVu6XOlSFlw9On5U3RY2Vfj7Ylos7zJuqNjmd_jPEnQgwrpz-LImUUiNDlC0f4JQBGVGX7Qsul88J4JRtCGGT2QU-kzEESJVxAlCjAAAGoeQCr6ACBW6hBg0mpNoUIqfSGSeokBrTrzEam7JGGcm4XRlVvRkassI4HK_F-x6JyLgmecxQKsPNKi0IzjAv4cwzNoLOeT021FlCmd5QRnvfJ0g13wZM498NTkTmXlEI6AxV3en7VsTroFcI8xNXuvRuVtD181S285ZblexaZSDtRW0W6xh1KOtWeSDtEoGx8jGKbfb4jbn_Z5P__7SVxv4Wl_D455YD8nqZme0ZmNHqpphO6GqbS-DyoFzgAaZZ42ev9eOwt5vmfsSb5uDFgOTYykrrsNkK7ADdeurH4J3fE-pk3gbtNd9J867h7Po="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/95']=data;}

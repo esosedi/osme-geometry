@@ -1,0 +1,7 @@
+var data = {
+"_ring":1252,
+"_params":".sd-1252-en",
+"regions":{"1435833":{"level":4,"name":"B\u00e9ja Governorate","index":0,"property":{"openStreetMapId":1435833,"iso3166":"TN-31"}}},
+"paths":{"1435833":[[1]]},"ways":{"1":"bBYrApHdhwCq_jYCJDuWAP__ADJX-kA0RvfGM_TuyS517LUue964Monbojh03W5EodyxTunX1lFRyHxTPr4wXByzX13HrU5l0KoiZ6ml-2xvpsd0m6WbeJ2iK3x4nbJ_t5q2gO2Hbnjif0t7oXopfMx5CX0her9_2nfLgQJ3J4UheKCKzYA7lAiHlZ2Ii2SisJPXqIibd7HVk8-35o5Vtz2Ojbinj9W7FotDvRqGbMBpg7PFyoHNzRl24t3hdRniWnjb5DR5begFePTooG_N539n0umxXyTuIFt78zNTVvftS2H9A0b__-dEE_0dO-nxBjap7lYuEewwK6vpgiWg3X0igNwrG9ThPRgl4G0XQ9vGGL_PxBQizXISNs0iESTJPRNOxqES_7zGE9W2lxpsscogQanwHc2h8B6JnR4frJSEHZOHChqpfdAWtXoOE9R5Eg63eaMKu3p0BzF6ZQRMdzgBTHEAAPNsagTrZjQIHGSBCRth7gpjWekLcExMBhBEJQOROjcEvDcJCLczFgjmMA4KPTB-DicxrBDML8wTJyvpGD0pqxrMJhcbDB7OHU0bbR9bGqIfYR5JIh8o1S-AKOoyfinROx8vKkf-L_RKxC98TgsuKlpNJGVhBiFaZbwgr2nhIT5zWiZ5gYAfqoTQGPCFewa7h5YFrpbjB6SZcw3mnbMS2qQbFzCscBhwr3YThrLvFIazgxT5szYSHLaqE0-3QRPduLIP9r5WCvTBQwosxUwM18qcDJnOnAiz0wAAB-EyDijl8A-s5gcS-epiFDzs8xXB7d0VF-41FFjuChah8dYaMPPiG_rylByX9V0d7vWiHwz5NCEk-t8kV_22KGL9uCpH_yAu_f-0Mf__ADI="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/31']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":705,
+"_params":".hd-705-en",
+"regions":{"253884":{"level":8,"name":"Songsong","index":1,"property":{"openStreetMapId":253884,"iso3166":""}},"306003":{"level":6,"name":"Rota","index":0,"property":{"openStreetMapId":306003,"iso3166":"MP-100"}}},
+"paths":{"253884":[[1]],"306003":[[2]]},"ways":{"1":"UJzXAN6Vpgj959cAxPqmCIiwujYlv4I9XcQKRH3Pj0pc1khSFdbHVETST10i4hlhheO0YkTiNGhi6P9rne_zbafyOHBV_o18__--gMP9I34QxVddvLjUV9WsXlutrdleco_FdAKMU4BUicuNf4WllbF-uaDGfAal-HtoqTR4oa0xZkfIKkn-55lGC_Q8RHv2C0PT_P1Bgv42P___kjyz_-k7CPyHMnDwfS865v0S7L5VCrOwhQRzogAAEYjxAW0oUgTEAokIAACxTCwZF1S3FC99eTo7iKcyeYm8M06N3DCSlLc1QZ2xMBKt_jWIsLo2","2":"VS7WAARppQggstkADz2qCEhivQCfcAUEMYjnDeSSBhtXnlUZNKUrGjanehqNrmsbPr1dJGzIgy3yzhA3rtD0OHLYzES03ApQjtxOYSnlY2gz7VVwX_H3c3H6bICl_6mP__9wmqb_np42_3am5PpUrP3xzLBP85u4MPRnx5DxRdOB7NHb_eaS7TXTU_iNtv__n5xg_m-UhP1vkwz9L5Hr-_ZuiOtIYmXtHl4c7LJP0ONGRWrYBkB9zYs9DMMwNVDAZCZBt3wepa6OGPuj_BYmn-oWZJ3DFCmWvhGOje8Tg4WVFaqC3gadcAAACGEuB0NS-waAS-QC2UEXA-k8YwgLOIgIKTaoC28fgBrvD78u9QUtMjAFqTMqBXZFQAGBVgAASGK9AA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MP/100']=data;}

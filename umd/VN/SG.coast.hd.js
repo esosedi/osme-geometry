@@ -1,0 +1,7 @@
+var data = {
+"_ring":2039,
+"_params":".hd-2039-en",
+"regions":{"1973756":{"level":4,"name":"Ho Chi Minh City","index":0,"property":{"openStreetMapId":1973756,"iso3166":"VN-SG"}},"2587287":{"level":6,"name":"District 3, Ho Chi Minh City","index":2,"property":{"openStreetMapId":2587287,"iso3166":""}},"2764875":{"level":6,"name":"District 7","index":1,"property":{"openStreetMapId":2764875,"iso3166":""}},"2778323":{"level":6,"name":"District 4","index":3,"property":{"openStreetMapId":2778323,"iso3166":""}}},
+"paths":{"2764875":[[1]]},"ways":{"1":"QDyjADj1WwY5c6QA8yBdBgQwyczWJLvMER9szRkVrM9uE0jDMRM4vrkRgbY3ElqaZRBMlw8MAZVDAk6S3QDokAAAGY8WAMmLLAGFhoUEHnu3BvZ3GA1xeA0PKnjvESV3GhckdHkaW3MEHIJzWiW9d_gmBXh_Kp93Ki4mdio1UW8XN3lu6Dn-bZA8qG7YQr9zfEYYdR1Jj3RiSjxzp0yhbhJORWsmT6lmhU49ZA9NsGL8RThgi0QgXxREPV1tST5HWEmKRV5GA0AVRlA9G0dbO0RJKDqTTmw5sVGnORBVyTjoVQA4rlfAMwBZvC7hWGQsQ1YAI5lVYhzWVZ8XYlkyCAZYAABYaY0BRGvnAv9tTgebcHAKVXOTDOZ4uw8NfCQQ7n6BD2-MxgYekOAGsJRzCRmaegmqn-YHYaH7Bg2o_gGSrjQBja-3BWKv0iXsr0wyHLDwUbGwT1qescZdmLURY2O5vWVgxWprncQ-cqXFTn6_xk6FOsi8iS_LWY3DzrGPktPHkTzaVZN65FmUTOpMlF3zn5V6-SSYT_0ym9z-l52i_2Og__8mpfr_sKg__8msp_1esb_7ZLWG-c24vemeyhblXs2X4bHOCdxF0HbWKdFz0xbRv83qz1LI4c0Kw_TK1bxfw5y35r17q421LKc0tA2jnrMhnr-zNJXltVKPI7ssjcC-W4yHwbaMHclbkwnb6ZPj3f6TKuVzkwnp25HD7saI__9ogEb6jVLg1KhNTdLDSF7Q2UIUzwMwysw="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/SG']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1886,
+"_params":".sd-1886-en",
+"regions":{"1877236":{"level":4,"name":"Long An Province","index":0,"property":{"openStreetMapId":1877236,"iso3166":"VN-41"}}},
+"paths":{"1877236":[[1]]},"ways":{"1":"Dp-eAA_ISQY2WKgAdM9cBjjqoYjh5Z2IDeRvidPjZYu47RiYROv0nkftCaFL8M-h-vS7oBP4Yp5U-qCefPsPn1L5EaDL_MKheP2WpKH2v6sQ9HatnvDlrV7yB6-v5oezSOiCu5vb-sM8y2DUFp5ZzhCRE8ZlhuvKHIXbzUOBa8_eg7HRbYGc08x9HtOIdXvUeHT312dtiNhiaabXFmkU2RVmWNnXaCXb2Geg3DVml9zLZVXdemj43ZJnF-BUZlXgl2Yf4cFnEOFyZiXikWkb4zVlH-ezYm7m-GIY6MpcMugUXA_py1ys6iVgletxXwTtFmHL7K1hpe2oY6zt-WFh8KdmjfPraJ3zvGW59OBnvvaaZDj7zF1v_Y5dlPwCXHD8WFsj_bJYRPwyVlj951Z5-5NUgPqWUMz6LUqB_ERKVv26TC3-SEu5_h5J6v3JSRT_qEj__7NDNv9NMPf_SSn2_Y8erPe2EqvzXxFt8b8SFO_SFWHuICAl7gEjGO2RI9Tr9CEi6lsXFugIESPigxDR374QPN_cDtDeWwnd36oGUNzLB13bHweQ2XsLitnJC3_Xtw0H1zYKMdVPD4HTtAti0UINpc8NCFzNEQYay1sDvMq5A8XJrgBvyYQAxsahAV3GAACFxOYBHMRvAfDCdwMPw1oCNsTkA2XF7Qb-w_QHZcG3BhTBvwdnv_MF475xBja-1QxfvUsOD7zZD7S8ig-VvjMWq8JeFhPEZhmSwacchMGwH1a-gSH3vdsierxLJZa8hCbEutImqbm-I_e45iPzt3Agv7YTIs20SCX8ss8nqrM0KZayhywxs4cuH7IOMbKymjVVrv07YK6TPLmsR0aQqGZEn6YFTbOhwEn4kG9IunsyM_l7ijmGVMph0UQSaNg-4mniOcSuBRRBryIXbbAIF23HQBEL1C0DFOAAAGPemwGH38QHV-LvCh3tiCG982Yogfs8Lar9CTEe_Ro0__8JOTvoUT-t2AJGc8oPSxu9s0fjuxBITLQRUkeyxlkLteBZU7a2WOO7kVgqxO9dTMbhXC3JIV20znlbntGMW5nGLWK1thdqAKfVdb2lGHo7p-CIwZ7OjaKya41OxWKI89Atgzbb44Wh3raElulghADshoY76p2IOOqhiA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/41']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":31,
+"_params":".sd-31-en",
+"regions":{"290162":{"level":4,"name":"Wallis and Futuna","index":2,"property":{"openStreetMapId":290162,"iso3166":"WF"}},"1558556":{"level":2,"name":"Niue","index":6,"property":{"openStreetMapId":1558556,"iso3166":"NU"}},"1872673":{"level":2,"name":"Samoa","index":4,"property":{"openStreetMapId":1872673,"iso3166":"WS"}},"2177187":{"level":2,"name":"American Samoa","index":5,"property":{"openStreetMapId":2177187,"iso3166":"AS"}},"2177266":{"level":2,"name":"Tuvalu","index":1,"property":{"openStreetMapId":2177266,"iso3166":"TV"}},"2184233":{"level":2,"name":"Cook Islands","index":7,"property":{"openStreetMapId":2184233,"iso3166":"CK"}},"2185375":{"level":2,"name":"Pitcairn Islands","index":8,"property":{"openStreetMapId":2185375,"iso3166":"PN"}},"2186600":{"level":2,"name":"Tokelau","index":3,"property":{"openStreetMapId":2186600,"iso3166":"TK"}},"2186665":{"level":2,"name":"Tonga","index":0,"property":{"openStreetMapId":2186665,"iso3166":"TO"}}},
+"paths":{"290162":[],"2177187":[[3]],"2177266":[[4]],"2184233":[[5]],"2186665":[[7]]},"ways":{"3":"cq0k_wYf0fUXiyb_CWLU9QAAKmaQbQAA_____z0NYWwAACpm","4":"-0aR_8z5jgrAXJL_YDqPCo767nEAAP____8AAI767nE=","5":"u5W7_rJjefYMfrz-Or169gAAb_T__wAAExn__wAAb_Q=","7":"Nqi7_pGBjPXRnb7-MfeQ9bxkQH5rpP__AAAf0DeKAAD__8AOYZu_pLFg3nW8ZEB-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['world/Polynesia']=data;}

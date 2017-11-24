@@ -1,0 +1,7 @@
+var data = {
+"_ring":1422,
+"_params":".sd-1422-en",
+"regions":{"1675855":{"level":8,"name":"Municipality of Horjul","index":0,"property":{"openStreetMapId":1675855,"iso3166":"SI-162"}}},
+"paths":{"1675855":[[1]]},"ways":{"1":"Use9ApEz2QC-ob4Cy9naABOPDRMAlOoUTJVoFlWkPhNepQ0NtK0qBavDiA-mxCcVZ8E3GdvG4x08zN4fidd5J3ff6yUq4mYkG-TIJIbshixV6DowceYgN87n2Toc5iJBHedpQhnptELj6qZH1O0BSZfw9Egl8-pSUPZKVqH3d1nz-sRbqfvcX5P9mGH__2RnePuFbif7BXPm_GN0jPxJdnb6pXd49px38PNYeRT0HX7o8s5_8_QdhcrtU4mO7X2KPfKzkMn435Mg-QCVhu9umDzrIJjD5-aa3uNIo6bjGalm4cSqVOBxrj3hibLo37-0TeAxuo3jPcGo4VrIZelly6jqFc7U8KfUYO1R1ZLpg9ck567XGuTH3wfiLeJl49_i1t-L5JXbp-Os29jniti95-jXtOkz1crqDNYN7QnVnu6r0yPutdJQ8ALROe-4zE_yxcwi80LCb_Jdu2f0OLpj9eO5uviItyn4HbVO-Quw6PiirGv556t2-ruoW_oqpvf43aEq-5WXBvnilyf6NZWx-gOQB_7djmb-VowS_b6I__8KiJL_NYSf-7aIPPkig9X3OIDa9AB7HPbmaw_0j2nO9Bhoh_atX0P1_V5m9ltc9vKXWXXyl1hK6udW2OalV1rjaF3h1x5XOcSOVVXBIVSHwoxTC8IVVHa-_VJzvBZKO7xxRcG54EIvtXFBI68bQF-t8z6IrZ09xqgdOk-lajlKosMztpqYM56TIDXqidwzuINuNOx_LDd4fkQ47nW9NQd1DziRcow97m_sOktq3DYuaGY0uGWhMglmsjK_Z0EgCWnnHXBoNhcNbisRKG9jCXNy5wdXchQFV3A3Ap9rywAObJABk2UAADlfXAHbW6sEoVnGDA1crBKvXOAV11iNFtJTVB_ySdAcDUPIGlxC9hpAQOwXvD3aGtc6MB1dM7slHCRgKgIgOipjFwAwzxQpOPoLvjkpDQw-ogvsQRECwUe0A-VQAAA_U3kA-FX4A19Z5wWZWwoG-lylCn5kPwxJZFYPwmk7FZloBRg9ZgYaIGOaIa5i2iiiYB4tcWK8LxBj0yyjZfEqxmeAKhdr2itecAkpMXHoJZB1nCabdRkdHoZPGQ-PCRM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/162']=data;}

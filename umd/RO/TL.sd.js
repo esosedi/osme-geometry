@@ -1,0 +1,7 @@
+var data = {
+"_ring":2290,
+"_params":".sd-2290-en",
+"regions":{"2367044":{"level":4,"name":"Tulcea County","index":0,"property":{"openStreetMapId":2367044,"iso3166":"RO-TL"}}},
+"paths":{"2367044":[[1]]},"ways":{"1":"SqWnArwqqwFOxLUC43TKARDHetD4wCzQtrtU0Tu3h9Pvs7XT1a1Y9IueyPnelv__3TwE6zAzsue3KkDjCxgC1_APS89EC4XGAABwmUUmtnxXJoZ72CnaeL8qtnUwJclv5hvGaHAcNGjCGmJoCBb2ZaUWEGWaGQdmARvnZHAaCGP7HeBhLCVaYbYlw2CKI8hffSRPXsInNV6BKedcNig_WC8jxFgYIO1JiCGvRAYcSEQ_HOo_ABrVPccbTj54HCE9oB4dPo8fzDvVIcY8aiG4OVIeYzmLH_E1CB1SNaQe9TBoJDUziCeOKCQq-in9KtAnPSxeKEMuGiUuK9gilyykIK4vESPYMNUgtzQfIn01UyASPmEhrD1BHPM6khveOusY8TxVF41DTRe_R7MTVUgzEr9F7g4WSMQJBEzkCXlUyAxwWCENfVu2DsdddBHIYG4SyGOEEI1nQxAob-kQmXeCExh5ehKNgswQpYZ5EXGJvxP2kc8R8JqPETebpRbTnAYXMaHoFeekSRlssxgMEL_KEIHG_A77w5sMwcQJCQrINgQ8zgAASNMkAPbX0AEf5A8EbO0rBB3yqQXB-MYMUPiAEKDxqBYq8UAYi_r3GP__FRsg_SohvPmwI8X2cSRx7UUkX9qRKofXOSwUxLZGHMLbUNS8xVigwC1iP8KYYybFd2P9x_pfe82IXjHPdV_8z7JjvtLtZBDVLWVC2BdifdsLZOnbk2ap1kFqVNbIbWbO1nJ9zDt2hM_Nd23VOHek2nF58NrKe2vitYJ14ryEK-bRh3Pmior662OSzfDelNbzgJmY9jibJPXIoe36RaYe-EepkvgRrYf3b65W-RWz1_aGtEfwhcHW6hHHANt3zxnJM9Icx4HQEMd60A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['RO/TL']=data;}

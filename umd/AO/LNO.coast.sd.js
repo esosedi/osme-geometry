@@ -1,0 +1,7 @@
+var data = {
+"_ring":1801,
+"_params":".sd-1801-en",
+"regions":{"1802547":{"level":4,"name":"Lunda Norte Province","index":0,"property":{"openStreetMapId":1802547,"iso3166":"AO-LNO"}}},
+"paths":{"1802547":[[1]]},"ways":{"1":"quRg_5xmCAHKdZb_X6pOAf-wHXKIuGBwv8dXcxTPrHE70PNxNtD4dlPUEXhz1kZ6G9k0ez7bpXka3Qd6LN-GePrgC3nk4vx3X-kweaTtr3jR9Tt86_lze-v5b6X__3em__-Tt1_1qLU77_Oyk-3bs2XpCrM95VezYeUW-HPjBfhO4R_6ld4P-2zce_rK2uv7Vtgz-xPXFfzE0_j6ENHt-8jNk_s3zHv6DMpb-nbJYPkAxLX4Z8FL98K5Yvedt1j3jbXv9TWz7vYAsZv24qvy-ZGmW_sjpET93aKn_MSbxv2Gmqz_Hpn__9SWZ_twkd_4DJK79G-PW-8YiZfrpIbz4HKIhNvdhrzYfofI1DSFudHMhKnNPIGByP59aMfiefnBPnJUvhdpH7wbZ3e5ZWZTtQpi7LBWYHWrflaGqFxVUqclVH6gDEbok4cxWJFWJ0WKxyW8gmkgIX0nH_t1-hhocOkWB2q7EPJkwQ1bXx0MF1asBehR4gE4SzACt0CKARw-AAD3PHgI6jKjD7suHxatMJYWIDLaG140eR0mNHofpjHmKE8d8S1EFSEtHBG2LjMQAzJmEFs1zw4JN8oJNjiSCHQ7xQcpPBkFyD1PBNhCXwS6R9oBMlAAAAhTmALHVsALw1jpDCpc1Qw7YRIP9mkwDXJ12w4mh9MOTIlDDAyP4woYlLELUJefDYeYyQxqnwAMk6LYC1ykpgw-pg8LpandCnynQg1jp_IPnanMFa2oERoQq_kd1an3I_qpICvbrIoq1q5IK1euNy3ur7YtpLJCMfKxITXbr642Mq9WOf-wBDz_sPtCE7fGQhO3ZVADtHBQ_7CvUf-wUXH_sB1y"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/LNO']=data;}

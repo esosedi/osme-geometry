@@ -1,0 +1,7 @@
+var data = {
+"_ring":1508,
+"_params":".hd-1508-en",
+"regions":{"1676365":{"level":8,"name":"Municipality of Turni\u0161\u010de","index":0,"property":{"openStreetMapId":1676365,"iso3166":"SI-132"}}},
+"paths":{"1676365":[[1]]},"ways":{"1":"xMvGAhkn-ABnx8cC5Mn5ABl1cdbVc4_YrnKX2XpOjfmVRv__o0bW_ndI-_pcR4_660an-g4_-f9uJwXznDzt23Q5CtuuQ6zGolCfq-E7z6VfQHWcnzgKmf43HJlUMtebaDEOnMcv7J2wLGugTCVVnFInS5ljJFaYKyD0mPgd85dHGwaWSxkhlfMW8pTYFDqU4BKYlgAA2IqwDXd4LBSRfJQaZ3NrHj5wDiOZasIpeGVbKUllMi7PVT082Vf5Q7NITlMzT1NUTU3GfZVed4OrT6aGR0ZGg-tBmobjOmCHMTaIiBsz9ojVLj6JiC4HiTYtGI3TIWCNuB88j0ga7o9aFt6RJBKElGwPPJf5Cx6eBggZohsFZaPGA5yoIgbZpo0JKqcuC7Sn4gvWp5INn6fADvenaBF8p8US1qT1FB2k6hUIpBYXw6QLGNWkpBlyvQAAT8HDCI_SXCtA5TQuQ-pWQ___mEos_8dLM_n6WZzwTG1r74Nucunzci3oenQS2qmAsts0gh7aroKD0h6KFc_PjLnNTI4Ny9GPuMqEj07JsI_AyD-Pmq6IpWuunqWGq7iiwql1pNak16Wxo_Gm16KmqBmhQqhwnkmouZ2HqP6c9qjsm36rD5kNrN6WBa5jlRCuQZKRrVqQ7KztjhusYYyHq1-LEq0EjK-uk4q8ryaIPrJPhzW0v4WZtPyBobZmgYa3LoDZt0x-lrkXfgW6rX5UvH19Wb0gfWW-kHzGvjN80b-Ce33A9XuXwR99e8KCfSrDj3-mw9F_AcSDf3XEj37XxHN-tcVZfVbGg3z7xxt9pcjBfIzJ9335zXV73dGxenzSn3Zu1Bl1cdY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/132']=data;}

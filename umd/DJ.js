@@ -1,0 +1,7 @@
+var data = {
+"_ring":191204,
+"_params":"-191204-en",
+"regions":{"192801":{"level":2,"name":"Djibouti","index":0,"property":{"openStreetMapId":192801,"iso3166":"DJ"}}},
+"paths":{"192801":[[1]]},"ways":{"1":"WiunAEB8fQIZ5MEArSGaAkX-p86n9urRoe_J1efq79ww5Ev9KdT__-jCT_m2sH77nI4b9meGuuqQfvjnSErOyIYOmaa3DCSmsQmtpDYEXqFLBBWgOANxmjsDkZQpAzST1wKPkuoC6ZCHA0aPYATJirkEKIrEBdGJ5wi1ibMKPInfD32GzhCGhQsRAYT3D56CdA9-gRUPH4BGDzx_Pg5ofVIOznyiD2973BC7evEQs3jMEa93mRHkccoQmm3oDrBnwwxxZJ8LXF84CY5aoQfRVfIGKUwBBxo_pQUUODoEXimHAWQjAACZEaMD5weFAK4GjQAmBe8AfQTGAXkE6QHDApICygHaA3YBuQSKAe0FEgJjBn0C2wfuAq4PewMYFTMDXyQ0BMkqUQSkLCAEAzUGBGs7NwOUQDoCo0kWALtVAAAtXMIBV2X_AnFo3gNQbvUG6nAGCKlxJwnRc4UND3TEDut0gw_FeDAQmXm-EOR7ZxVOfuMYeoA4GwWFOx7-hr8e2YgGIL2LeiH0jtUjIZVTJ3OZUyuRnbItU55hLoyiiDBOo2AxYqN-MuCjAjNKqWw0dKtzNYetbzeCsk46KrepPPK6_z70vWJByMNiSDTFf0m_yjNLDsxLSwfPNkxg1jVR_te1UtzY61Is3VpVQuWCXWXl8l4a5R9gPOQoYe7heWaW4OpnVODmaEDekWu22thuXNmTcFXYYnHt13hxTtVqdKDTwHVP0fp4xc-QeaHNEnw7zTZ9787CfdLQaoD20ACDCtI0hFXUZ4VD1TWHkNUuiunW3Izl186NXdlZjgvbYo5I29qNIN0PjefdYIuD3uSKM-LFilzjEIxv5XGNy-bfjTznao5U52uQtOfckA3pqJHh6AWTIOlMk4_sIpO97cuTlu6ckxPvH5W871-VVfBRlZzx4ZTy80qX7PMvmNnyG5rR8n2bO_i2pAb4K6bL-JmmzP8qtv__57gL_-_ERf6nzg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DJ']=data;}

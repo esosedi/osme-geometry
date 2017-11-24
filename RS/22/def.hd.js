@@ -1,0 +1,10 @@
+const lang = require('../../lng/RS/22/lang-def.json');
+const base = require('../../umd/RS/22.hd.js');
+module.exports = {
+"_ring":2118,
+"_params":"0-2118-def",
+"regions": lang,
+"paths": base.paths,
+"ways": base.ways,
+"meta": base.meta,
+}

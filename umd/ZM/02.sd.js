@@ -1,0 +1,7 @@
+var data = {
+"_ring":776,
+"_params":".sd-776-en",
+"regions":{"318861":{"level":4,"name":"Central Province, Zambia","index":0,"property":{"openStreetMapId":318861,"iso3166":"ZM-02"}}},
+"paths":{"318861":[[1]]},"ways":{"1":"GUcQ_2SLggEeREn_f4rfAVGbRbwR9EW8jf6wvv__isGM_2rEt_Sax1nxMsuZ6ffYdd0q2Wjbn9vE037cCtMU3lHVk-Bh0mrhS9Ao5K_OHeT9yzTiQcWn40HBIuO6vQnrB77M7MS3B_O7uMb0fLyb9lK7sPuotWz7ELD__HCqivxwpAf_AqDj_uqd__-Um7H-3pm3-pGR_vVukTP0RI8T8t6IzPDqhe3uy4PK6519tumOeijnF3tox8x5hce9d9jJynIcy-dvVs_6a8DPa2klz2xef8jJXIzFm08SwntJ9cIxSPK-70XPvOVEJ7ilPluxkj7xrn0zlq5VM6eoFDoLpBQ6HKNyM5eeTzKJl20m95I4JSKHgimFg6gq_YBLKUl-aicifcQkpX2cJNF8syHZe68em3uzHUR8hhrCebMfM3E6HrFuBSI2aqAde2YNGI1nVBncaV8X3mtHGHlsbhPjbd4L-G1cCxxnrAVfZhoFpmEWCMdgcwwJYcMPul9OEMVdthIxXWARklssDJtZsAp1VoYByFMAACZSLwLdUGYRxk-AEXRGYBqtRWwepBruHQAAbyZUADQorQEqKEcDNCytA7UufAXzMZoF9TmRAydBnAWwR0sFh05kBy5RRApKTYEjfkrGJDVGSSrVRgQryk0aLHlS1jBNWG0zJFi-OJJbXj_fWlNEMGotRTNtaERCdO0_Y3b1P4l580EqhKVDXotEPwmLg1OofolWD35SV5WBLVqqhf5Z3oSIXNaPSWDDjIBkpY13Z2WLRGqMhpZsDYHwakR932tlf950bYEfeECApIEzgt-JEY0djHCd1ZnKnFqamKARnxOeCaEFm4uhf536ohmgjKblolOnj6GuqMCiIKlvpLass6s7shep97Rkqma2UKi2tpqlMbUEomy14KBzsxKgKbQdnsyzGZzjtLicSrZSmo-4GJyoukubOLxRm0W8"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZM/02']=data;}

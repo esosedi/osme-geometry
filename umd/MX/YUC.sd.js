@@ -1,0 +1,7 @@
+var data = {
+"_ring":2429,
+"_params":".sd-2429-en",
+"regions":{"2614435":{"level":4,"name":"Yucat\u00e1n","index":0,"property":{"openStreetMapId":2614435,"iso3166":"MX-YUC"}}},
+"paths":{"2614435":[[1]]},"ways":{"1":"xlMqAZZ_nPof90kBqFnI-qPGLSBox90fhchCJE7OgyvY0Q0yRtbrQYXdjEH-3alAkd2VQX7WUUKX23ZZ_NzEYVHcuGBJ3M9hIt3RYTvfPXT74wyIe-P7iE_j_4ZC4giHLeLSiGDilYuR42GLb-QEjhzjA5EP5NWQUuQej6zkY5BT48CSYOW0kabjV5V_5yqcd-olnVXtFqD98raxwfITtuDzErci86y4gPUtuvj057pG9ka7QfYuvHj19buq9hS8Xfi4wA76KMGY_pvG__-yymH-ttHx_YvacvRp7Vnv1__Usv__Iogx7ZFuu9mkbtnWBmsK1zNmYdMvZi3SpGQy0idaQcpDW9a-pFilvrdW57plVxC3ilb3sfxUhrItVG-x0VTprilPGajiTqqpHkkxqbJJC6OlRwmiBEiBn-FFQp9GRmqdgkLlmPlAZ5mxOAqYDDgVlpY52pSbONSUbTiekI4xS4-eMD6OnyuujdArh4zkKVWNlyjXjF4oAYhtJhqIRCYzhkYjdYbWHkGFNh9vhJsdnYO6HTKCYiBWgvUgnH9-Hrl-eR5ifUQb-HzZGxh7BxX8eMMVzX36Eo59dxOdeqoPHHrMEldy1gducY0HrnPZA59ztwMEcKUKbnB2C3tsJApjbI4Ke2kFB8dpAADrYiAMl1gsEmtVZRKeU5cXiVFlF6dSKxvxUrQbgk7pJwBJmC0QSa0tHUiwL0JIyy95RzE3AUiMTak6OkicNk5Q2TVOUfYxaFZzMqpWVS_tWqAv31qxMotz4iNacsEjAXGLIOprRR7ra0MbH26JGFxtqRNWcMwTgHFlD4N3UxCad4wPh3rWDz96ZQaTfmUGx3veBQN80QEnoHcCMqAAANau5QMstIIGFbdbCQ3Gxxu9xiggo8YtIA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MX/YUC']=data;}

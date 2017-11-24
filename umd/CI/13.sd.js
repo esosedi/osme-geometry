@@ -1,0 +1,7 @@
+var data = {
+"_ring":1300,
+"_params":".sd-1300-en",
+"regions":{"1609814":{"level":4,"name":"Sud-Como\u00e9","index":0,"property":{"openStreetMapId":1609814,"iso3166":"CI-13"}}},
+"paths":{"1609814":[[1]]},"ways":{"1":"AMVKAJ1FxP-TZF8ABozW_2ak_medpdRpEKdsalaqDmnSqWdsgacjb_KnxnBDrMxzCK7ic-OvOnXCuDt8PLyafzq8bIB5wUiBtr91gvHK6IiuzPSK4c3BjiDR4I-P0R6RE9SQkuPWwZHh2vyTzeGxk-fkCpZi6tWXJOxumUjvUZno8QuY1fXrmLf4b5wo_gOd___unxr_gKTY6zCvzs5qtGS1EsLtmIfA-5lrzrmJ7cuRiQPPMoe80KyGHNPHh8_YMokW3e-Mt-HhjNjiJYqi5YOKIeiRiFPqg4e47qyIc_F2h6Hxdobx81uEifRpgkL2C3gF9nlnp_opXoX_lVX__5VU4P-VU1v6bVV_9jdV4vNFU5n0bVG18wJMifQCSLDxU0Yu9GFDtfM5QzP2zUFy9zk_BfalPCb3ETr29Zg4RfcEORz5szcc-aY25PqzMx76YzKa-y0wqfvcLlP9jCxE_SAr9fs7Knz7SSgy_M8n_fgFJhn4LidP9bQma_S0J_7yViah8Tsnuu8TJiDu3SaI7SAnn-pWKX7pcScc5s8pmeGZKYDdZCak2S4nn9fCJdXUpyVD0H8m2cnqKfPBmSqgvgUqCLFIKcStAABRrOwLt0mKFpQLGBoAAF87mQsNQwgPakI_FA9DxBRuRuQTKkkmFplGBRuAS1wpCkpnKaFGUCd0Qi8nuUA8KbA8JSqSPwQuvz73Lz4_ojOgQ9o19UNXN-dEazfaQmw8fUU7QEBLRD7_TFo_vE5yPEJTjTqyXrw5EWJhNndj7zXFa-43pG64Nrlw8DecckU37nMgOrJ23Ts3eTA_TH92QSuA7kMagydHV4gURqiKL0dOjaZMjpTRUhuU5VP2lIFWo5qCW5ud3VuSo9xkUaREZ2ak_mc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CI/13']=data;}

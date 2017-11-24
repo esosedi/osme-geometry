@@ -1,0 +1,7 @@
+var data = {
+"_ring":1798,
+"_params":".sd-1798-en",
+"regions":{"1802544":{"level":4,"name":"Huambo Province","index":0,"property":{"openStreetMapId":1802544,"iso3166":"AO-HUA"}}},
+"paths":{"1802544":[[1]]},"ways":{"1":"9O8t_zW34QBliFH_qAr9AEGrriCLuLUnIrtUKg69tC3ZvXs2M8HTPSLAUkGBwZNEFMaUSZfFYVRGyEZSI9DbVLPSPFKX1LtVpNi7VbnbrVes3ThUu-LIUwjn5E9a6ptQ2uwXUCvvAVF78CRU6_I9V5j0uGHj9ydon_iwa774UnK5-td8NvtGg0_8nIbm_piILvtxksr7-pVS-e2cB_top-D6tKqV_PatPP_HsP__g7Ti-_y6nfwhwij8bcXH-XzIc_re1S_s1tn16cbcrOdV3f3k4uPR4fbjeuBf6Mrcme-v2sDwidWV8crNVv0GzPf-Tsj__2fEKv9Fwsn7t7t39oe1__TvsmDyqLEj8ryqTOcdqMngxKXj3Suixtx1nzLf_Zxv30aaK-Ovl1Lkgo674vKLveHBiUne24ZW18yBsdcdf1LZiX6J3CB8ed9ldtPgyXA_7l9v5vR_Yz70FWBv9YZdwvStWOn1g1EH9iRGafjSQuz5SD9p-O477Pm-LO_3eCsi7cktbOb4LVTjcCty2N8swdStLzXTRy-sz4Qulcs7LBbIACQuwbgiQLeyI6OzsiiGrU4p_an4KNqmFCeto0YfVpv9F2mRXhB4iXsOLIZiDXZ_GgzPe6IJlnlRB4F5CAWbdsMAXWwAAJdobQB0ZUcLIWZjDmplmg7dXvYNJ1jwDqhUUBHpUvcTUFImGZhSUSFxUYgmRE74KIZLCSpZSN8nNjoLJsczwylkJ0sspiSrLiIk7jGQGqU0gheWPwsQbEfGEw9SUBErX_0GOmTfBmZsbgE0b24BfXG8A-p2AABaeZ0DaH2pDR-A7g6fgtwSD4UXGleG7iQ8iY0nnYsCJf2N5SNHkMMllJo0ILyqkCBBq64g"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/HUA']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1026,
+"_params":".sd-1026-en",
+"regions":{"722201":{"level":8,"name":"Tokushima Prefecture","index":0,"property":{"openStreetMapId":722201,"iso3166":"JP-36"}}},
+"paths":{"722201":[[1]]},"ways":{"1":"nPsZAjCXFwhNTh4CIHwdCAPCcdu1v8_bSb7-2eC7QNmGuPDax7fA31a2pOIip0PuBVz__0A3u_8AANTobgZrmPcIjpbTCI6UnQ3AkZ4NLY2wD--Juw-IhXwS9X97ECh_Tg-KeqYMpXgYCUp43wgedQ0D7XJsA6Vv7gDGbDQCFWsSA-dm5QelZYcGSmRxBthgMQxTXfAPc14oEVZdyBKXWM4X_1HFGPROYBcpSgEW5EhcFv9FuBSaQ4oX7z_nHL0-GBpcOkkUoDiWEjAzpxC3MqoQizGyDy0xQw_LLp0Rpis-Frso_himKFEeVSX5Iy0mAiYPJYInACJzKXci-CyiIe8uwB67L30f3DJ5H3s1LB5JNkca5DskEiJAaREtQq4OSUs_C7ZKIgpTTf8GjU6pANtPAAB1UqYBnVaXAllX1wM_WVUDrVwZBIthJAc3YkUJbGehCu1oEgqzarMMm2yoDQpu-hEQcLQS63T7EZh13RROc4IX4nJMG8RzAR1zeb4e93tNHU-BsB5WiRYfAo0RIU6MmSQ6jrUpEIwnLdeLFTD2jeUxkIrwOIyKvTpqi0Y7J4nfPPuB-Tthf489enxvQO5740JgfSZGhH7hSYmBOU3cgwpUsYoDVu2So1VEmO9alpsVXLWbxl8AnqxjUaP2YxOmd2K9qQRjPapLYYCrxWDar_RjVrOcZG22IWSZvcplD8HaZP7EY2eexaVojceVaK3KBGqkzhBp7NF3am3UL25v3Uxw4t6scW_lfHMA6DFz6e2QdKzuxnfa7XN5zeWUfPjg_ny84HOAhdzQgwze0IaF22aKMc9EkL3Um5W102-YsNRbmpXTG5sX1O6dLdNSn8vVc6Iy2U2kCtuuo3jevqS531SkPOORpuDll6Y35gSqWO0OrIXwrK_E89itAPYkrp31TK9t-LC3LvdkuJ32S7uI-se8JfjMxMj04cXr9NjHFfOTyiD2ls3y9p7Pdvpjz6H7JdGf_7nS__-30yn9z9hD_VXa-Pkg3e_5kd5t-AbfNPWT4iDuPuF86Cvi-OaQ4T7nnuAx5hngYtvk3erZvd5uzobf28yE3vHJ3N7Ox1jcjsT63HrCatsDwnHb"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['JP/36']=data;}

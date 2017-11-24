@@ -1,0 +1,7 @@
+var data = {
+"_ring":191277,
+"_params":".sd-191277-en",
+"regions":{"535790":{"level":2,"name":"Comoros","index":0,"property":{"openStreetMapId":535790,"iso3166":"KM"}}},
+"paths":{"535790":[[1],[2],[3]]},"ways":{"1":"_9VJ_3OekwLwjlL_UwaYAsD9nHwI-22Uy_T6lV31dZmt8VWXzex3oUDhb6Zjz12ehsnjlsrBupeAvdyeKqXfmlWj35XVlV-VC5IdkCyHG5jEga6Uim4WtGNi4bmEXcDCuUjfyndEiMazMwfUXzG62gweZO-GHPT30xUh-3cV__9vEWb9bw1T708KMPIdBrztPwYV5msDSOYAALTWjgDNy40G67f1DWyvVxbGlcshT4rYJH14KiTMSP4oszS-MmwlIz-fHdZFtAoBUMIKOFHTBEtaAAAJaDQOJ2mjFHlxvBUMdzgh1ZJ5G6mmcSVes_cgJMMnLEHaHh_t6XElyvLYLNv4qDza-fJL__97Yzj-1nnA_Zx8","2":"1AdD_zSDogL120f_4KKnAkCuAACArpIVh6PtHuCfJzPQono_TpsOQGmXbU6KnaFW5ZhHWnufw2MrnlVwwqWUhty3mZWAuWGiTM2epfbWUq7o6uGj__8Bxr_818216BTb9dpE1iLMbN8ouUnh3Z6f7myFkvGNcLH6xWVd-Ahk__9kY-35GVNA85A6V_ntJYL38xyX_QID8_UAAI3sfwZ52iwXGtzlHmzXvTFvxsA7g68yS42ofVEUmMBqc4h_d9BnAXafVQmplQFArgAA","3":"JPVC_2mgmQJvGkX_WmedAgAA4v9UJe-esBDgnqcohZmANQ-DYSHFfAkz9HQ2Nj5l8iJBaa44WFaTNbNDryw9QTEu2zXBPDAzUTaIJOhJ0S6pbOcpQ3z-GwJ7GgqDgbYRJqaWC028AAB65uwD__9tI_LwQyiH9QI159bRYLHXPnO0sr2HSa_NmDGZKp6ekDevbHf4vL1z1NH5VXvusSr__7cE7PwAAOL_"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KM']=data;}

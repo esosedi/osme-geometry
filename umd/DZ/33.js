@@ -1,0 +1,7 @@
+var data = {
+"_ring":1160,
+"_params":"-1160-en",
+"regions":{"1279816":{"level":4,"name":"Illizi Province","index":0,"property":{"openStreetMapId":1279816,"iso3166":"DZ-33"}}},
+"paths":{"1279816":[[1]]},"ways":{"1":"mERXASsJVgA-S9IBmRC3AMeoX62bpyetQKZErSulk6ySpIesVqIbq9ihTaqcoTCqY6FsqD6hO6j0oDmo1aCBqNqgrapBoDqqdJ9IqgKfEKqInr-osZ0UqEadOqjknO2nVJz0p4qbUKc5muOmQZpSp7mY8aYkl9WmVpY5p4iUcqe-k0GoZ5M3qAOS1ahckcqohY3gqQeL06ucipWs14alq8iDGazAfxaqeHv1m2t4CZpJd6-ZdHVkl1Rv-ZzoWuGwZFQHsWZP3rBdTgixiE0IsvZLYbOZStmzW0k9tZdG3rYARo63aUWJt2ZETLilQzO6ykI9u8NCxbthQXi9ykDyvatAscEAQSHDsUCMxfpArMbuQEPHQkE5x_RBVsi6QRnJ3UFqyfBBA8y1Qe_MH0EczV9ALM7yP3POgEDKzwVBhM_VQeDQzkGy0V9BC9NeQcjTmkDt1S8_Sdd8Po_YOT302Sk9fdrKPPnaNzxR3Rs22-iKNgDq8DYU7Jg31u3RN2nvJTgs8Gkg__-sE6Dj4A3p1wAAMbk5Gnu6TRrHuTwbsbjJG723dhzatc4dLrNBHvewGyBBrjsgfKrSIPKonyHHp7gh_o_DFhR55BX5cHsTHGHEEoJbmRhGUT8b0lTqKldMjTh2Szs9L0yIRzVDt0dYQuVHsEDNR28_jkd1PvZHgDt0SUQ40krGNtVLTTYfTq40wk8mM9lR3DHEUuAwoFZRLwhYXC7vWaYsbVrpK-xd8ChVXhQo7F8GJgZhHiZGdM8ce3QMHNV0yxvwdDcbs3UYG8F1NBrIdjcaA3cIGgl3kxlod_YY8XZNGGh3wRd1dwQX83f8Ffp4URUSee4UkHlZFNl5LRTDetUUc3u5FRx8cBVTfCAVpXzpFZt9OxbZfbIW3H2VFw5-ExgVfzAZbH8RGiqAohplgFMbo4BZGwqB8hqugQAbHoJ6GsuCuBpOkSAFgJR_BSaclAUrsgAAfLynA5LmXAPu8KogsO-pJQ74pl4B-BhfVf2hhqf9QYj__2iajvXQnfv0JJsm9OaYM_QNmOvzZJeP8xOX5fIVl5rvCJgc6wSd-9u7pmDPbKrZxqir07fdqCCrD66CqhWuz6lPrfmoXK3HqF-t"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/33']=data;}

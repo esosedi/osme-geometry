@@ -1,0 +1,7 @@
+var data = {
+"_ring":2379,
+"_params":".sd-2379-en",
+"regions":{"2577610":{"level":7,"name":"Kavadarci Municipality","index":0,"property":{"openStreetMapId":2577610,"iso3166":"MK-36"}}},
+"paths":{"2577610":[[1]]},"ways":{"1":"KwZzAmQnTAGubHkCs7ZTAUv-OHcX_EV7ZfsXgqD7-oT__5mQr_wUlNv6spez7RSXEt-zmYLVRp0rwFOc77dKo86j76PrmtuvYpW1ucKOy8BEjgXDUYosxqyIg8n4h9zNY3yY0eZ4Tdncd4fe-HsZ5lJ7hvN5fBr86nRT__xt__8Ka-j9f2Kw9lxeRe-eXCnucFu662xOWenXSFviwUZ03cg6jtfbNvTW-S881P8rxtO1KEPV0ya5z38eUMtVGy_HshWYxKUTw789FO67xBJdut4UwrXpF2qzpRnasA4cYar4Giiomhs6pYceSaO7H4CgTCKxoSAkIKGpJiae6iapmoopK5i9JI6XTSJXlZghKJAjIPCPSx9Cjv0cco2mG3eJrBgYhzsXYnt3FUd5UhU3dUcUPXPIFTVxThWxbNIWhWuzFp5qfhKuZ4gRsWUiD-1jvA4zYP4KhV4KC1BceAc1VdcEplNNAQpPAADlSakEbEj_BklKaBCuV4UUPFX5FPpKpxcASS0b3kMIJBJDri5UP0Uz1kDfO7VA-D6IPmxBcT70RjdAakqWQ9lPEkZWV-ZM61-xRI5m0EE5aas8MWgrN3NlRDN8ZIMpJmh8Jl9wEyTFdhYhJ30HHBqFJBsJimweOo1DJP-ROifJmjonJqBKJuCnoCBWrAccwbOoHBG53h6UvBIi_cPsI93GeSC9xoUdOMRoG__AKhpjvm0aRr5RFci_shIfxZYNEcsAC3TPmQzx0BIIDtTxBCDVAADE1eMBUtq2BlXfigkq4skMmt_VGgPdbiAo2C8my9TUK7rRsC2E0Z43q8-0OqDUokl11c5Od9ifTv7ZElBm27ZOpN_1UXrfClbM3E9gYdnQYWrYgmTo2DhorN04aHbg0Gq35bhz5e8Edb335nPU_Nh1S_44dw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/36']=data;}

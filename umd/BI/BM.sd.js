@@ -1,0 +1,7 @@
+var data = {
+"_ring":1612,
+"_params":".sd-1612-en",
+"regions":{"1694988":{"level":4,"name":"Bujumbura","index":0,"property":{"openStreetMapId":1694988,"iso3166":"BI-BM"}}},
+"paths":{"1694988":[[1]]},"ways":{"1":"IG_L_2DpvgHspM3__vDAAawL5ma7Dh1o3BEtaKEUr2slF2JsFRldaz0admmLGSZmKRqhY8Ycs2EYH3hhVyBXX8Ifl130INRbric0XJMp3V2tJ5pdxid4X88rGWCILhhiljNjYsIzcmVwNqFnmTxYaI09FWi2PXZmAz-EZyxBxmazRMhoN0b1Z3hG0GjRSZFqGkyjaQ9OB2YzUW5oeFKtam5Ub2p4WQ9v4F6bcsVfZnIbYEt2Q2FZdvlh_3PiYlN14WTYc_1jk3URaqB2uW6CdKx0am5_dU9tTnWYa7Z2oWoeduVo-nSOaKl28WgXd7Jq4HhNaxp8SHD0fNBv43subOB5EGvrej1qaHpvaat2oGdld7lntXhCY3B9SGFFgJdcp4EhXOWBqV3ZhMhda4ZFYC-GtGHThMZiBYXjY_aH_2NbikZlb42jZT2PO2VVkjNiJpaTWgWZDlGkmP9KFJa7SVqVKUe5l7NFGJ28RuufZEHtpCUx-6huHpqqAQs8qWUF-6uxBI-sXAF-sAAAdLTpBE-yHwqVr4cXx62rKbKrcDNlrKI4h7gTNO245TZs9zws__9ZbbT60nTs98V0MPG-dqLum3j77k9-NO2MgmjsGoj17hOMsO7_j2PvL5Hn7QeSYe6nk6nt8JSe7uqW4-oCoIvpL6je5jiwUOkNtQLpOLkD6ta7gOm5vhbqc8Sr64DHeOpIyGHpEswl6sLOreha0OXowdIY6DTV8eja1vPn99aL5t7YhefF22Tlcd4H5mLixuNh5G7kGObO4_7n3eBf7H7gqvCM38bxFN6o-IDbKPtk2f__q9W3_k3GR_EBxLzrTb7U5LW6O-QsstHeXavB31ufBONrmkPj75ET4keF99zBe1bXsnqP10h3IdPoc3DV-nT61gR099hWcubZxGvN2bllEt3VYqPYbF5O2MdWHN_cVGjfjlEg3nFP6N4cVCnZ6Vbvz21XfcqOWXDEMVlivsJVNriOUSW230wqtl9J3LdvRDK9XkJOvoZBzr0yQdOzSUDAspo3KLdxMFK15SocsoQmd7URH_m08iAVqkYgJ6f3IIikhSDyos4Bwp06AfGcAAC2mQUAiZRZAwGNkATPi1gEMYPXBop9_weMdCcKW29vCwhuqAvuZg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BI/BM']=data;}

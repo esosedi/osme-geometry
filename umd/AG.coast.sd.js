@@ -1,0 +1,7 @@
+var data = {
+"_ring":191285,
+"_params":".sd-191285-en",
+"regions":{"536900":{"level":2,"name":"Antigua and Barbuda","index":0,"property":{"openStreetMapId":536900,"iso3166":"AG"}}},
+"paths":{"536900":[[1],[2]]},"ways":{"1":"SVwDAWlkT_zuCwYBZfJS_M75Pmd5-6ZyGvEwdUnrV38J2iKCAdGekRbICY9-yVSHnsamiiO7t4B7tUyCQLjshO6xHIP3uGSNwrCfjyqmh4yhqzmXPKRcleGlgqC_srefWLUTm6bMyKwjwhawx7ZGpvKpIqsKqxWvhKMFtCWlrMMPoYPAqZ5ExRCU972hhRm9Vo82wuaUX9ESjrLLioqyzgKRgtWciSHW15Bl1-2MVtmyji_cIJP12UCUDuDelJLcJJo83vaZdOSbklboypjh9U6Q-u8GmKf6iItW8byKK_XOfEz053zr7GJ_l-8Wh3_q53_N5vR89ukgeVbdP3OV3jprgtI2ZzPWInCt4Qdm0OVnaBDq82RV6elizvD5awD6IWaB-G5kfPwHYQz4Tl3__8Vc8PpRUbv-eEg_-1pHfv_YQVX6dkUA9oY-w_ROPC7u-jTg8eU0teqaML_q0TGs1NlB6L1-Q2ayhywAtk8e9sAPE7K8hRvkuzkX5bbaDX-9XQepvNAOoLJACRK3RgGRrwAAu6WVAxKgdhWUnEYTrJeFCWadDQVZlSsNfIvjFVKWQCOklmMjKYkdFSCCeg3chNQYmXQQGd1s0xDLaKsJ0lDAFwNSZxsXT_oV_EMvHBxDtxyYNVIkajEBKu4Q5U6ZCCJSNw9PYgYTTGs6ECVrRAt0bv0OIGK0Fy1yhhjCao0WKG7rE-5zxheAc_USSW-7ErxzLBJ9bXYR6nejDux2AAB6f5gCkn4QDL-EkxQSgksagJA3IsKcPiKzmP0KbpPrBaOVrwCTs2IJU7hpFfi9nhY_vy8SW8GNFXa73yQ-shcrOrSZNUmu-ELPtdNAQ7rBNHu8OTv0wEs7GcEAL7fggjqF5A03zukrP-z0QED__7BQc_dMXM75Pmc=","2":"LrMLAf2uT_x5hg4B3Q1S_P7xOja7_Oo3___WRm3alGzX3R57CNUPhsfXMpoosfe9R5YH4xeC2PEwV___1Rdt9AAAtP4hDKHqdA571VcAs8ZnEDDEuyBLtTIrTpLOQshrnUJTVCQzSTQfNMMshHSbPJqUSjYGqdAkbL1yHVfTAACa7VQb_vE6Ng=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AG']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":191246,
+"_params":".sd-191246-en",
+"regions":{"304934":{"level":2,"name":"Iraq","index":0,"property":{"openStreetMapId":304934,"iso3166":"IQ"}}},
+"paths":{"304934":[[1]]},"ways":{"1":"WHC7AV7vTwJDYzoCvtXlAs4a___-GWT7hh2q9hQei_Q2HhDyIh1K7zghj-1AJs_ueCeX6wgm_ep1H5HuMh6y7s0e_O1JHbTufB-C6GYfA99bHUvaHBBW1DsBN8oAAOjGOQSAmqkr_2xIMwtt5UbgRE5chB-FYT8NW2UqDMVjhAYgaQQF32mjB86EAADgpV86Z6wlPR6wtT9evpc_ssXgQCHKyUNw0HFDL9c8QHfgL0FG5QlEiefjTrDofFD89Thd0vcIXcP4p2LD_X9lE_67Zv__Mmja_lpp4v2QbDr_OG69_4Zxn_18dVv-CXe8-556M_xgfPX6X35T-zWCN_pEgy7744Mx-5aFRP2Chlz-K4g0_vmKpvu7jm_5844v-YaNu_a9jL_zO44h88CPCPVCkeL1CJGO9tqTG_r7l1P5uZuz-CCc7fcwm9f1Dp0D9WSfGPO6ntfwUJ8S7tCdsuwUonLqe6P65SGikeIzpBbie6XH4vqnO-EFqQDf3Kgl3qapcN3vqNfcE6pP2heqKthYq_HVY6q51AOrk9VIsK3TCLO4z7S1ZdEVvnvPisBp0J_DB9DHxKnOg8Qjzc7ChstOvJXIbby6yEi7SMf2uyzGZLtjwJu_Ib79vpO9wcCxu82_ObpFwIO44LytuR660rekuJ61FbnFs1y4GrTgtf6xtbUNsbCzVa62sj-sNLQYqZG0J6pCr22nca_FpRitTaJ1rsWis694ofaww53_r5uch7BNmuutppi5rTSXQaw5lk6tMpb8rveNsrOxjG21Z4s2tbGMUrmzixy5U4p3ulOIirhyiLm70oQdvTSBi8CHfqvAqny1vvB8QL1PfAe9NHu0v155WL4yeJm-RnfZxtBxEs-taHLZkGkH3RZpJN-qZi3h7GSi4HhhpeMrXxbjKVvW5x5Wduo7VGPsNEgI6LE78ueEO8LwlCuG8EYq3PPAJjT1OicH92QjjvpVIAv6Hh9Y-9YcwPtvGyn-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IQ']=data;}

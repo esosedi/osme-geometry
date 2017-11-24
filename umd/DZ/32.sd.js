@@ -1,0 +1,7 @@
+var data = {
+"_ring":1137,
+"_params":".sd-1137-en",
+"regions":{"1258649":{"level":4,"name":"El Bayadh Province","index":0,"property":{"openStreetMapId":1258649,"iso3166":"DZ-32"}}},
+"paths":{"1258649":[[1]]},"ways":{"1":"WHjUAX-n-f8low0C8gMkAGLmeaGA4jildeKIpE_hkqQW4eij3t-EpPzeUqjk3VOqTd0IrjLbSrCI2P20IdgdtyLahr612gzEP9kpxzHXD8l91unLW9JXzhDR2c220OrMzs5fzvHMCs3AywXOSctDzcfK084UywTQlclN0TDKhtOIyOfUjMcL1ELGm9V6xhDX28Tv2KzDhtYKwWfVxb_11Pi8ZdZuuSjUpbiJ4Tu2E-AxtKLgILGw702yk_jpp573OKjc55mnhuY8pT_pB6NS6CmhmuiSnevrhpnU7ZSYC-9blwLvaZQg8w-QLfSfj8P1lI8K9SB_CPiWav__KWYN9ShP7PdLQf3jMx6XiwAAv0lVH2IOTSDhDVUnnxFlK_QKfi01BSUwTgMjMZ4DUzJ_AV4zMgKMNZkAPTZ1AU43NgEJOFgDkDplBU08mQLjPwAAsUGOACVBwAFcQc8CLEMmBQZFDARJRgoB0kYnAoFItgGSSIUDJEuyAllLlQXJUMsDaVGOAsBYmQGRXNgCMV1zBDVeyAOJYVsHiWIhB8Rkvgs9ZXYPmGOXFAhlzRMBZkMUoGd1FnppvxY4a4QYVm9aGLF3ECDPfrEkK4W4IkeJUyQqjBcgMY8qIWqQnR1Kkv0dVpWvHqyXTSXum7wnD53YJLyfkSgZooAot6N1JTqm1STNquYmW64VJz6zqyj0s8onP8mlMCbR7Cw31P41ftS3Mj3Zey_12Tss_-D3LGvilinz4mAovuCvIHbhESKp4rwgVuWoIU7nwh-F7xQmCPBEKWTxGypg9KkoH_YHKfr38Cfc-R0opvyfJf__dCSi_eYtDf6XLuP5iDZ2-MU32_cvQUr9jk3n-FdUQfe7VT750luo__No1f4ha577iYag7r2DeO-sm1rtPJsF6_ickuqgnPjoV58a6DafiOZqoWLmeaE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/32']=data;}

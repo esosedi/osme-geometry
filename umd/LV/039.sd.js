@@ -1,0 +1,7 @@
+var data = {
+"_ring":1813,
+"_params":".sd-1813-en",
+"regions":{"1806936":{"level":6,"name":"Jaunpiebalga Municipality","index":0,"property":{"openStreetMapId":1806936,"iso3166":"LV-039"}}},
+"paths":{"1806936":[[1]]},"ways":{"1":"Ku9mA9cGiQEbFWkDqkOPATLpgwlD8AEQ4_fcHQH17B5N9lYgxvbGKD7rNCrH50kt_98oMGPa-Dct0zM87c3UPU7LcD22xu0_F8X5QxvJcESyytxHfseISNvIUkqIx7FKGMgFTA3E800_xSNQvcDQUG3EA1N6xhFYPcrxWcrHVF2JxZlddMTVX7XA71_fvo9hEsLQZMzIuWT8zcJmpc4DaOPK42uS0PVx_tOzcgPSunY41-p729hAfzTeG4F03x6GqeItivPnuYtf8d2TQPshmH38jp51-5ee__-boLj-dqa__CqnSP2hqen6sK_M_dqxkvr5uWP8s8Cw9MnKzOdK2OrlQ9k73LfX5dro1ZPVxNaW0y_cqslA3Y_HOt40xm_djMPV31bAhN7LvKvfg7rc3oq2LuCKtgPiabQc46-qI-Ikqxbjg6XJ5iCgJu9ll1zzmIuE9pOIdvimg6n1EoKK9gF-T_Z6eMj4Qneb_RZyqv-ibsL_VWlx_ltoSf8JXxv_c17__zVTxfNjSuHxoEfX8udGg_D7R6_ugT2L61wpIewLH7jqWwJV3M4CSttGAaXaowJ22BwEt9hgBWnXuARJ1lAH0tVBB_rUQAxn1fgQM81WEwHNUBRiywIUUcjfF3XGqxk5xPYYpcNpG8PCYhv7wREeccAIIKzASB-ZvG4YN7cmGMu1KBRFtvwQPrQ2DLu06gJftwAAEqctCLyk7ge5mYgFHJnOC4GUsxk6jhcb5IitJOd9lizTeswrCneMKENzoCXLZjAowmOdJ4dhOCWAYH4fn1LxHidRWSBST2EkrU47J4dL8C0KScgv_UZzRWJEflkOO2dZQTlWU_k2h1PSNMZUkjQBV3EmAVtoJmdfKyi0Y44hvGSNHBds3xcwcmYV33YkDx173g2QeioNToLQByqFyAnsi1EI3oswCZeOKgnxke8L6pEGDo2VeQ41n_ILm6ANCCuf2Qb9nQoHxp3-BSuhhwSXp1YFQKjpBC2mNQRgquQBR647B7ex3QU4tPgDtLMAAPy56gBuvl8DuMXyAwbI-QLqyCYEgscGB2PSWwq0z9oHXdK-BQzYRAZt2-MI3d4-CFvidgoU3-ILqeAJDa_h5Asq6YQJ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/039']=data;}

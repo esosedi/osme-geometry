@@ -1,0 +1,7 @@
+var data = {
+"_ring":2408,
+"_params":"-2408-en",
+"regions":{"2591418":{"level":7,"name":"Bogdanci Municipality","index":0,"property":{"openStreetMapId":2591418,"iso3166":"MK-05"}}},
+"paths":{"2591418":[[1]]},"ways":{"1":"QoFzAkaBVwEtjnUCbflZAUqwAACBsywDWrr7CP6_OBK4xqgc_9F2HdHneSCL9Kwgov_nJ___NUNf-qBHd_MJSnfrS1kD6rhfA-q7Y73uMXJL55V1o9zfeP_Tf3nEyyeB8cGiiFu8y5LmujqbLLqvqSy6grBbvCO4ob-OvIq-M8jnvtbRLLp936CzIekTqZf55qT8_t2Z5_uKjlz814T__yp98fztdT_1XHZk9E128vPcc2ru7nJH661y8uixcjXlxnAb5A5vDuTMbbrjEm1A435sh-IsbKnhrmz73FpsLNrla2bZGmkv199j8dMgYYrTrGDY0gdg5tKAX1PTEF_X0mZeG9M0XpDSIF2R0rJc_NG_WnrRo1rw0AdaTtAhWdbOxlZ6zGpVE82IVDHNzFP_zJFSfc1kUWTOSk_azuxMhc39StjNBUrIzVxJMs2kSO7M_0bozYVF0c3VRPzMcEObzHRC18uLQenJpD4LyY49YMgOPN7GpDtQxy07XshqOQPHyzk5xoM4m8W_N4THdzj4xyM4eshxN_DI2DdXyLs2EsdANsDGdzWwxhk1IsY_NeXFKDXCxAU1ocTGNNjEtjSzxEA1VcSlNZXDtTThwqkyp8D_KYm4TykDuMwoxLgJKSW4zyjZtxIomriRJ8-4fScUuMAnlbe3Jma1MSMGspATUqhJE_OnpBKVpzQSqqdNEeym6Q98pGAP76MoD82jzg7wo5kOeqM5DrWjBA6do7UN_aKNDcChWw1yoWkMKKFcDJigaAqQnYwKTZ0AAISNVQd0he0SQnf-IWhfti3aRS01hTY9N44ZPTfgE7c5Dw4PP5sLUUQ7EJpNCRFdVGEYj1vxHOhlkxoqb3scJnk9I02ALyJpjAgcI5OxEtKZsAxon5cKnqoLBzWupgNKsAEA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/05']=data;}

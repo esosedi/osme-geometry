@@ -1,0 +1,7 @@
+var data = {
+"_ring":846,
+"_params":"-846-en",
+"regions":{"356533":{"level":4,"name":"South Hwanghae Province","index":0,"property":{"openStreetMapId":356533,"iso3166":"KP-05"}}},
+"paths":{"356533":[[1]]},"ways":{"1":"Lig-AgPxaQdje08C12KJBzno5Jp15PmbY-Icndbgmp1t2Lqd_NbnnYrT0J5Ny_WelcpLnxXKlqCDyfygeMRwofPB_aOFvnqj77GHoyCwDKSsq4am0qnqpteo0abRp2ymFKfepQGmRKQqpdijSaTHo1OjHqSVotykOKILqKufvqn-nQ2qvJp_qNqZbKjgmL-oC5ipqQeYkKvPmcusIZrjreOZw66DmAmwU5jDsOaYNLEZm22x8Ju_sU-c87Khm-yzT5qQtGGXV7Uoleu2I5Ekt_GPirecjxu4jY8uuTCQIryvitC8rIUHvZ2C5724fk6-aHtVv8l66b9mem7BunpJw8J6GMmae_zJgX7Pywd_dc2oflPPjHxS0TB74NHveqXSvXts0ziA69WGgTXX5ILP1y6D0NjZgrTZYIH72lqBCtzKg6Te44af4ESJ6ONwibTt_Yiu7ouDbvTtgmT2eoHq98WAvPlQf3_6G3w__vF3df0Ydgj_a3TE_4Jw__-qbrn_WW7o_odvBf6zdYv80HLm-j5yOvlYcWr4ZGzf9hlrr_bNadj2r2iA959oA_jBafv47mlz-aJp6vnXaCb6TWYN-vNjTvmEYiz5HV8D-l1cCPpxW-75klnG-B5YifhpVsH4KVVo-f1TgPqvUgn7XVEA-45OBvldTfL4H0uT-RVFcvh3Q5P4eUKa-fVBMfvWQAb8Dj8Q_PM8kfx_OJr5pjAm_FktH--GLEntjSwS6-4tUOaALYDkCCxp4nEqDOEiJo7gDhsh4EsU3txtEvjZARQ3y0oXfLSEFSetpg9vpjoO5Z6tA3aBbABSewAAM3e_ANNt-QHpZDQFgVttCbtT5BKBSxwiEEFiKqY8TjLoOiZEyjp5TqQ4hVcrMYpdjChkYMofnGKCFT9j8Q0-YxgAa3EAAGh-0gEUjKIHr5b3FHCeExrzo2EZZqyYE5y3dBDkwi4P9MyFD_XZnBBM5UsTLO6SF971mBz__9gmr_TbRe7xvl2Z8ddji-9WZ0buHGva7VRt0-14cafuznLm8O507PFWdm3zGHp_8-J9qvS3f2f3CYJL9_KDqfUXiRb1C41_8-OPm_H1kZvvxpJw7TeU4ucBloDnVpfq5xOaOejkmg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KP/05']=data;}

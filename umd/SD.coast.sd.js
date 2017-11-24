@@ -1,0 +1,7 @@
+var data = {
+"_ring":191194,
+"_params":".sd-191194-en",
+"regions":{"192789":{"level":2,"name":"Sudan","index":0,"property":{"openStreetMapId":192789,"iso3166":"SD"}}},
+"paths":{"192789":[[1],[2]]},"ways":{"1":"tLI8AYZpOAIvFT4BjAA5AhDSx9QAAAAA_____xDSx9Q=","2":"l6COAObcTAH27GABt7lMAgYGuhypCVMcphTIFgoZTBLWHEYQliK2EWwmCxEpJukOPypoC5gyngzVMSAKkDR9Cus5sQjSPPYJJz8-BnI9-gQ8PRwCQUAAAHlFaQJiR0UFgkpTB1JSHwTKVWcGwVhOC7taTwt7W5wJVV-iCbdgsggdYgIKRGOPDWNmEg3naiQRS20tEntzIxFVdgkU9XUoGGN3OxzzdVwh6MVhIdvFpTAD66kw_epfkNzuLZJV7zCTGO4dlP3qKpMB63qt4eV_s63mF7qs7qe8Y_DvxMj61MhW-cTM___e0p38edPn91DXxPYc3ILxd99A7DDmHuey5YHhCudr4BTo4t9_50TgEugt37vo6N7h5xLfvuit2bbsTNi962_a3-pj2SPsq9zg6YXZOuntz4Xrdc5360DOt-rdxZzq38Ly63O-LOtPvFDsX7Xc7Le1Y-1tsFvuTK6b73KuJ_KerUvzaqw082mtVfMIq2P2X6jp-AimVvjspFb6SKZX-5-l7PvCpSz7oqQS--WjWvyKpPX816Jd_QujKP60obr-3qLX_g-h__8KmAn7Vpgk-RWXzfhmmPT3dZbW9ReXVvQllRHzJ5So76CRue_Xjk_ucI4n6oWPxedfiy7oMYVA5pSAbOf8djjjWnF14sdrVt9HW-LgoFVi33FTAOBlTqPer0pd3J9EANtrPr7apD360-Ixk84PLsjKFSwwyg8pu8p5I8DIYiJqyeUdSMguHOzIxxk7x-IY18X6GdfFnRwcw7Iav8CzFo6-bxBYv6IHLLzWAqm71gIquLAK5bnWDpW5DxipspIahq5UKtmsWDVDr6o1q6ZdMOKmXTD5nNEreKEPInihgR-sojQYU5t-ER6YqQeJkHsHwonFBrSJYwsOhXoREXymDeh1ewfodT0Ham66AnNqAADMaQMACF_tBP5cLwVXUaICoUrTBP1ElAoqQ3QP3T5DE9c-pxODPSkUwToEEiMyNg8aMT4O1jFwDFsxNgpUMD8Ivy0SCfcoJQc2I7kFjSIFBgUdBga6HA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SD']=data;}

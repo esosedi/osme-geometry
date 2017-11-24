@@ -1,0 +1,7 @@
+var data = {
+"_ring":2243,
+"_params":"-2243-en",
+"regions":{"2319527":{"level":6,"name":"Bijelo Polje Municipality","index":0,"property":{"openStreetMapId":2319527,"iso3166":"ME-04"}}},
+"paths":{"2319527":[[1]]},"ways":{"1":"BNKOAqguKAHX6pMCIQAyAQAAV1_jFPde1hWlXAwWJ1i2INBQuST-TEMpBE_sOXdTvUUqU8pLqFHRT5VOj1AZRJ1YHz8rWIQyTmL0K_9rRCPvbd4d5GwHFoJqahAGcGEKhHi1A-1-AABLi50FvZIDAjuUEgOtlEkMS6DOE7ynBBTEvQgfuMMsJeLHciYzzM8lvtLMIz3quimJ6uIxy_38N5f9GjkW_7482__JPf__6T44_qxBj_2KRDX7oEbZ99BIx_XMSUjzWky58MJT_e1jVSDq_VYW5olX9OFdWXreSVr-2ahZHtjlWbnWtFrd0ixcGdH-XxHQdmVXzqFoGcziamjKkGuIyBFrJMY_aw3DQm6Rw5FvWMMqcRXEw3KFxKJ1SsU7fmnB0ICZu1yD9buJhKu7XohlvX6JjL_YixnBGY-KvlyPU7y4kHi7-5HSuaiS7LUAk9exppIzsDOTfq5Kk-asoJK7rNqRWaqskd-pupKbp5eUB6fQlCKl5pQxoL6WhJ9Tly2fn5hcn3KZFp9MmouexJqumFSdpJc4nqSX5542nFul6JvLppyaDah6lz2p6pUvqaaUnqj4kcum9ox-qOWHvqg4h0Wqk4nMqiOLtav3jfqteJE8s0yU4bJElB-1j5LkuEORULqejzy7_44ZvW-MVb5JjcPAb41nw3yHb8UQgy7JGYXhypmFk8xdhkTNiobCzymHNNFJjJ7UpI_315eTb9l5lQbbhJbi3GOWyt00kYPgaZC44AyMot9Aipff2oL84Jx_1OMrfjzk2HxD5DF6COO7dmbjMHQv5GpzLuUWcibmgm-t5fBsKOZkaano0WWy6-1lj-wzXGvz6lk49klZLvkSWO76E1bO_LBSUv7fTrv-i0n__z1Hwf9MRej_OC725wct1-QHMnHgnyNf1EskQcoYECy-_gdbuFMMa7G-DbatJBoDooEnHqLgJ8ScOB8al7gT8ZaVEDKVCw4gkjUL04t1Ck-FsgciggwBvX2ZAEt6_QLOd-IDNnU2Ax1uAABXXw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ME/04']=data;}

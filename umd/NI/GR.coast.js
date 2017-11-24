@@ -1,0 +1,7 @@
+var data = {
+"_ring":2143,
+"_params":"-2143-en",
+"regions":{"2194853":{"level":4,"name":"Granada Department","index":0,"property":{"openStreetMapId":2194853,"iso3166":"NI-GR"}}},
+"paths":{"2194853":[[1]]},"ways":{"1":"-gOxAG6v3foCAroAFQnl-s07__9dLO22USu-nVErmooGLEaIXS23h0wusYbQLZmEPyx7g68qV4McKC6EoCcQhSMmNIV2JI2EeiKzgZwgNX5sH3V9yh0Ae2sdfnmsG5R3RRlHcs8YxW1-GMJn-heQZDQWbl68FeRbTBNxWp0T3lZ2E19V1BMZUsQUH0_fFURNtxbBSrkW90j_FZNFRhXIQxcTXUBsEVw-KQ_QPFUJ6TrwB3o5-AaQNrYG2TPaBgswjAaPKVAFpSNIA2MfNQGGHAAAZxqYALsW5AH_FFACbhIqAsIOswFlCzIDFgujBrsITAqNBoALdQXEDaECWA9EATYRFAA1EwAAHhhUAj8aFAP6HC8D-x7sAmsm8QBHKJYARiqYAOUr-QDsLLYBfi2jAg0uYgROLmoGei4sDxkv7xBRMD0SeTEWE_8ywBOINDoU7TVXFEs4_hPSOhgTIj3pEUw-DBSZQ8AWckr4EhlNURRlUroPD1NZEdNUxhPTWU0TDl21EpNc4hXrXrUXEmHfGP1iUBrWaVcdJ2t0HfttWh5bdTMh63sZJqaBvivbg6gtzYTdLUCHhy2ricAtVoxML3CNUC97jtYwjI_GM7KPPDnhj0Y6fpCBOwWSADwZk8U8Z5RbPeqWLz_bmg1EgZxkRf6dBEfZoY5KlqcqTxKvuFaZsV1Y4rW3WHW7U1gywJZYY8FqWHrENlkIzc5eC8-9XrrQc1070uhc3dMGXerltkp45gRO7ecKUwLpKlZT6gFZ8-ppXH7sVWHq7hJrJu_2bP7vpnDA8HNyzPM1d5n1H3mM9rJ5A_nUeU37nHrt_HZ9hf9UgP__v4H-_q2Ck_7mg-n-IIVE_rKI5v4Hinj-uYub_b6Md_xijXb7UI5w-imSGflLluj4gpd59rOYCvVSmzL0-Jss8zKbdPEAme_tJJlP6eGYI-cKmYrl25lh5PiaF-OWnbbiB6CE48Ck-OKQp9vgnqws39GuiIlny807__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/GR']=data;}

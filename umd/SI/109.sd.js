@@ -1,0 +1,7 @@
+var data = {
+"_ring":1542,
+"_params":".sd-1542-en",
+"regions":{"1681528":{"level":8,"name":"Municipality of Semi\u010d","index":0,"property":{"openStreetMapId":1681528,"iso3166":"SI-109"}}},
+"paths":{"1681528":[[1]]},"ways":{"1":"DMG3Ap5L5QCtcbkCMRjpAJjTsEtI09FQd9VgUv7UN1R41zFWGNMKWbbXMF6c2t5fkt6eZY7a-2xi3pdx_-F8c8LiX3WH4EF46uFLemPlC3qf48l8W-TnfZzfiH4J4nOCc93zhNHbXISV2eWE5NbWh3fViYeM0euKN8_IjuHPVo_-zaSQVctMkInK45S0zpeYWNXpmQLYiZu62rOgfd6to0_gx6Z533-nKeNRqzTi-KxF5KqwXudIsZ3oxLTr6kS2we2Gtl3tsris9E23z_WVuD779bkC_Jq7dP6ZvOP7pb4W_U7ASv99wPn-u8He-frEP_vDxVH9CcV9_grGKP3Rxpr_jMi4_oTJ__-Hyyr6Fctl-LfLEvkfzR33zs3a77DM1uX8zRPjYc-c3yvPs9s80oHVvdCLzK3Susbt0g7GRtO8yLrTaMwR1pbNt9cHyvncssKO4hC_tOemvQHnwbs96Ce5buj6tGrrtqxU7gOgX-hnnwLqLp2e6YaZbe1Sk1TwW4-U81uNB_dfibL2V4pp-gd8___4c-j5gm9N-LVqIvW_Z97udGhQ6tlrEOknawXnbWin5y5mnORjX53g8l2t4ZBbceEaTEDdTEcL4SVCYuBAQkndYj-P2TRAWNerPp3WIj3j1_UxL9T8Mp3R5C9UzjomX84sJlfMpiokyQ0ouMcfJk3JiyNryY0hjMb1IvPAlyYmvi4oSrvILZ-4mSqht4YqzLatJhm2gieXtGwq3rJjMcexoDHuraoy-q1PNK2rRjbholI6Dp9SPnuUi0RNkCdJFI-7SVWNYEYbioFGDYNbQ9aBEEKHe6s-AHoWNgBzgCoUb0Ulk24_IuNsRh40b1cbbG74FyBvshOKbCYQyGwwDpRpgwpeZzcFiUxCAItMAAAfRosD30LLBPdCrQSxPcAL8Th0Gz8b3SJyE6cplxELLxgNHzS8Dss1aw6KULAFXlkAABV1Cwx0htYBIY5lAy-XkgamnIcKyKUgFRSnwxgHswgYjbxQGgPAuB0gwUchxcfdIKvPAR6S1Q4hcthKJfbbvibY1wArzd5HNFjZMjkX2TY6i9oDO9jXzD8V1vdB7NNHQcHO3kT-yNhFSce2R5rH0Ump04lLmNOwSw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/109']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1254,
+"_params":".sd-1254-en",
+"regions":{"1435835":{"level":4,"name":"Tunis Governorate","index":0,"property":{"openStreetMapId":1435835,"iso3166":"TN-11"}}},
+"paths":{"1435835":[[1]]},"ways":{"1":"WUYwAmZbmAA1tTMCeQCeADtqpSEAabIoXG-mLB93PjMnf5g1doQIOYWO70bIdaJS_XpJWUl-3lnQdThqzoH9dDCLsX-UhIGElIGXigV5TJLme0iVV6DWloWhQqDfoj-gBqh0p5urGag-rqur9K0YrdKdaKpGo0qzfaSGzIupHtLorgLN_bFHx863Ns90xNXJ7cduzs3pIb0f8Uu6f_dluWD8Vbf___a4nfbGwnvq_tEu5k_Z7uXb3AXoJt4t6KLgRuZ_4vLn_98G5r_eQ-Wt3xTmmuDI5ijgauY-4d7hYeIj4xvlM-Kf5nXfI-i2203oNtXM5T_RpuVtzTHoJ8de6dPA9O5qur72Q7Ra-_-yt_3Sq___cac4_V-pwf4aqlD986cX_Zqo9_tqpQH37aIp9j-fWfYLm6v0mJyh9E2a8vPemgLzKJiW8V-XIPA-kGvtwpEO7BCRyOqsjn7rqovY6rGKQetrjIDsdIbc7ECHC-uUhWPqWYbD6aqEUOiTgbXntICT6L6AhueWfpXmpnxH5rd8DufDeGzk-HdG5Vt4iOQId-PjynVc5Jx69t88ddLjV3bz4p51teH0dATiF3S34MJyPOF1cgHgRHGZ35NwPOCicE7fdm6K3t1qmd5vZ4rhcWRH4QFnceG5aNvfy2ay3kxlnOBUZFLg92UA3kVlct0kbLHW5moG1lxr7c_qWtiS1F9VkD5bupCPWmiOjVfgjs9XFJGGTwiS2k-nk_xYc5PVWT6XklgwllVT25YTUyWYk0Ktm-I7PZ4gN96acDAkmrYqPZhzIaSarhsQmlsYWJguETeRgh_ajZ8YlIchHzx9Kh8Yc5cjoGyjJEFktRzcXz4U-F28BptUGwO9TmkAo0UAAG44BAJRLwIGXidEDoYoQiO8JHsxtB2sOYQYuD8ZD01Kcg0QVHoKFF8AAJNm4gGVapMGe2xeDptrPxRSbJkbQGp8ITtqpSE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/11']=data;}

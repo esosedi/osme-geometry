@@ -1,0 +1,7 @@
+var data = {
+"_ring":646,
+"_params":".sd-646-en",
+"regions":{"270073":{"level":4,"name":"Bulgan Province","index":0,"property":{"openStreetMapId":270073,"iso3166":"MN-067"}}},
+"paths":{"270073":[[1]]},"ways":{"1":"vvzQAs7JDgZQOAEDjIQ-Bl9v_uwOYt_tDFsB7DJZeOrcVIPidFGi3xBMsNxXSFzZvkG94MI79OEZOUHqTTh99-Y4JPk7OF37UzUC_Dw0WfrmLf76TCH__6Ag7-xFHJfp3hu93PAaG9k0FovOohFgx40NmcmeCNPPdgbcz9cD1c0lAc69kgDLthMBNrAAAGKnGQf5pckTs5AEGPyLxyAAhU4k5YDUJUB9PSZLd3QsuHL9LxFxLjPoZvI0_mMFQypgqkrxWXxOvFUOUdJRf1EBST1SX0XqVPg_mFdJPCNcYDsnXig6mmLDMs1k2zB9c1cuVX7RKJ97FCIie6EflHs1HD582Br1f0EYg4EmFoWCWxMBgz8OoYRCCiGJvwNIjo4Bi5UAAEydqwOdoKIH9KADC_uhLA6Do1wQ46X4EeSrRhyisBA1YbJNOtW2JEHywJ1IwMHjS1XB2lSuxU1eKckMWZ_La1JD1eYtpdcSKEzahCYa3UknFN_sKIXk4i-Q53cyr-2AOzz2mD9U-WxDY_sCR___5FLQ_ttVev-3Wdn-lVt4_fpbO_zbXw36o2N4-VZnxfctap33VXJ9-Ix26Pe_e6P55X68-Z2Aefhsg8f1n4bi8o2E9vFrhtLuY4Ud7lyHAvC6kcTvZ5WY7kGaLe0EnMXsIJ9m6mailerxpVLp56oN7Hethut9sU_uoLQw7pa3Ze3ouF_tIb1J7C--8-pAw13q4szg7KXRGu8H2HPxJNkX9EjfNvBf5s3qhuze5rvusOJW72rfO_Sm3XfxPt3864zUlOwn0LXwrsnc-T3Fy_34wdH4ErUM-L6wR_Ypq3LyOpZH7BGYGOYxmKbgZJfI3TeU9th_lzLKcJXOxvmQ3cGcjNHBUYmJ1eyHX9qDhbPgAIE46JJ8Q-4FeOfrk3Jj7F9v_uw="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/067']=data;}

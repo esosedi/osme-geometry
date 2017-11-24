@@ -1,0 +1,7 @@
+var data = {
+"_ring":1544,
+"_params":".sd-1544-en",
+"regions":{"1681529":{"level":8,"name":"Municipality of Stra\u017ea","index":0,"property":{"openStreetMapId":1681529,"iso3166":"SI-203"}}},
+"paths":{"1681529":[[1]]},"ways":{"1":"3sy5Arau5QAmIrsCi8jmAAAAt8m3BWC-BAcQt8sG56-RCHKtEwvgowoUUZJdFaSMIxhPhcUYQIDQGZt8oB2MdsUhs3F5K2pgozUDSD44x0xIQO9UcUOUVvhFe1rpTPxPslHsSa5UYkS4XwQ4SWoqKvp0iBQmexQMP3xKCd99XQePfYEGPX6ZBZaArQirg5QKYoPAC-aESw1MizcO4oytCcqMMQiEjfwGKpWJAAyWigGsmZ4C6pwAAN2dcgiXob4TVqo9IV2twSlLtZE2GLcrPvS5j0M8vpdJnM2gVijT5lnO1E1dDNrEYp_e02J74j9kvOMVaK7m-W2B5X90m-W0eSXnbX2t6tyAwuyEhFPtn4fe7M-OBf4Yjv__QI8n_2uRAv0ekFP54ZZ1_AuaSfy4nbv77p7m-2ejrvp1pmP3PbT99Sm3TPUvvRfzxMVD9EbHJPDTz3DuR9a87E3T--ke2dDr-9vR6UngXueK3SzlQ-MT4fjfNODx39bfvuAP3lPgOdxP4zrZ3OVk1nTj2tMG4MjRRd8V0fXgN9FC4j3UPOuQ0yzsEs8X7CbNDuqEzLHqQszW8ODKjPLMzDj1acwo9zrKQfVfyJ_xFMfB8LzFdPDMxJnzd8Km8MbAivLZvhXzkLsJ9p26xfcpuRT99Lb__6uueekdrPbjuaQH7c6gVPCqn-zs_Z5H6L2eJOMwn7fcp5aFz_STwMwrkCXLN42Syz2L9cwaipTPZYZl0iuGqNREglrVZH6n0nV5PM0rd-HRl3MRz4JxMMyTcAzM3W8ezeZvrM-ebpvQQm7j0sVshdJHbJfTAGuW0uRpaNSJafPTAWmK2VNgId8JYUnd0GDB225gdtyTX2nbE2Bt2atfJ9kYX77TC1510G1fes4kXvTIWlx4x3lcasU4WpzDBlagw1xQ2cyzST7BLkW5vihDFrLwNhSxzDOstPMytbjqMA69GynuxlMkbtHRIgPW0xkX52gVKt_wDEDV5Qg5z6oE-csAALXJ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/203']=data;}

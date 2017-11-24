@@ -1,0 +1,7 @@
+var data = {
+"_ring":191278,
+"_params":".sd-191278-en",
+"regions":{"535828":{"level":2,"name":"Mauritius","index":0,"property":{"openStreetMapId":535828,"iso3166":"MU"}}},
+"paths":{"535828":[[1],[2]]},"ways":{"1":"1M7G_s51agMTGc_-FxlyAxeHeyYmkf4q1JGnLwiakTCDpdY-OKqFUGKoDVQSpVlTOa9zWfOqzl9erTVkJLOkWhu1rGTYu8lfQML3Yi3FmGqnyk5mB886aivTwGeg4WpuPOQkd7LugH6B91t8FfawhcLwwoQC8CKKA_L2jOnzf4m7-QGM__-CmnH9t6bJ-tClv_WprhH5OrCZ8wG5VvOJv4fvxb9P74y7q-w5v9rcvL7J2-7DrdrRwI3Ue8PWztLNScxgynnIYM2yxGngLrsW5sK0HuIgtHncGbEg4UeuOeG_rQvd66ed44-sa-VfqCvtCZxV79aRM_oBi___uIeB_eWGavVZgbr6WH3E9615LvoXd232y26v90Nt-fP-cmDuxW408QNrgO1NZJzxDWEN7GRbSOsIWIbwl1g26ThTwundUJjfd0Yu1xpFXc9JSfLN4km7yXo92MhYPXTEcDcnylQ6lcn0OcXMOTL7zfQwytBTM6XRiC521uIpItaPJSbR8SevxzIkosxOGVe8MBiyv4oWgLx8C4GVzQXEjQAAUXESBJ5rEQHGZ_ACRFhhC3ZG7weAQ0IGNTdOEP4fhRUfIacRWB4yEnEXxR2JDfIctRCEH00PfRsAALgrHAcnJ-gGoSUTEiU0Tx69PAYeHD_0JNtEyBmNSBsah0pUJDZQvRpAWhYd8179I2hj4B2Yb9ob1IGdJmaF8SQXh3sm","2":"h1DS_gBbxgO15dP-SPfIA_seEGOBEstIAADtS-ABLEUkJlEhdTnaIqU9Hi_pVdormTP3ETpFAADyUv4Lbn4HBmSSJS51hjUvcpvfOU-TX0Y_qrxF4bkhWT3Hj1VZ1i9qusSede_c-3te_Dil0-8Msf__97tt0cb-yqq89wiH__91SsPObVUevj1BJrFTQSduAzBrYPseEGM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MU']=data;}

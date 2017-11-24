@@ -1,0 +1,7 @@
+var data = {
+"_ring":2103,
+"_params":".sd-2103-en",
+"regions":{"2096901":{"level":4,"name":"S\u00e9gou Region","index":0,"property":{"openStreetMapId":2096901,"iso3166":"ML-4"}}},
+"paths":{"2096901":[[1]]},"ways":{"1":"GH2_ANjzk__oUe0AEJvD____Uo1l-3eODvtnl1_6BpoC-YCbkuFjounSiJmQzkmU0s75jfzK032qvNN4GrbkefmzVXgBrq53R6tRdPqoJ3QelWKT0Ykxm9Z6epr4d0GgCHdnpip53LL-eI22lXWJtydxeLYbb0G0uGwstMxoTraOYZW0slyqtJdbY8CHXJHEPVk5y0FZOc2jYv3az3BI41p2NfNqdYH16m0x-RFivPtfWf__f1Fm__FO8v0zUG7_t07d_-hM1_19S9P9tUs--xVJNvgpSPb07ULC86Q_WPHzPc3uYD2Q66s7GOqVOlXnDjcc6uw1p-mQNu7kSzKL4CAwNuDFKQXmoCXG5kgk9ekVI6nq_xoE6sYWbOtqE8TqGg956ToNpeaGDbnl9Azs480N8eGTECHgxw0w2SYPftUUDtDKjhJ6yWIVv8XXFOHCKxbywIMJqr5GBvK8LwJBpToEjaIdDlqgHxEhnvURP5wcE_yb5hQbmDQWfJc6Ez2SIgvDi60FTYnpBAKHIgrwhNsRpX42FkV82BZ_eAISjWQXEwBbXRJVV3IKc1O9BFFHAAAaQ18CMUBZAR48wwI1Oz8DNzlnCXw29A1qNjYPxjKODvIwfgyFL5cU_CggFmElYBJlEFYUVA-1GTsQkB78D0UgLg5aICoKuCEVBcUnAADAKvwA0i3vA-s11gQWQeUI_UHhC-BE8A_ZQx8VlkVlGR1FpxvuTNYdmFD8GSZTFRmXW20YPmbWDvRrsA13e9YOOJING5qfZSSxowkmi6TnKKah_DJEo3I1UalMOfGuYTkzvt80F8zwK7LQVS0v32o36fASPXv7Uj97-5mB__9SjQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ML/4']=data;}

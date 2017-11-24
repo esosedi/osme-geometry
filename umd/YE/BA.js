@@ -1,0 +1,7 @@
+var data = {
+"_ring":879,
+"_params":"-879-en",
+"regions":{"383901":{"level":4,"name":"Al Bayda' Governorate","index":0,"property":{"openStreetMapId":383901,"iso3166":"YE-BA"}}},
+"paths":{"383901":[[1]]},"ways":{"1":"zAPTACdVqALnNuIAtNO-ApVZiRCCWc0Nclq1DD5ckAmNXuoHg15mBo1fiwX7YEcF3mGaBdNlSAVhZvYEQGn3BE9rbgWUbW4FrXB-B1d0VwgJdlcImXYXCKB34AV0d_cBN3nOAT-AAACIh3QEA4mVBNuJrgdWiakNDIp1DtmM8A_LjwoR8p7mE3KhxBOApDIWj6YMGWOnCxvKr0cZa7rpFa-_0hRtxdUUeskwFUrRGBdI2OgZytv9G8fityH663Qr-faaNNX8n0b__zpNz_7NUKT7WlFD-cxQZusTUXrH31RbwxVWvro7Wb-0AVxyrUxo2rEeaUK7xW7qu-5yO7t2dE-1WnvatOt9gLqCfje7kH31ull8artNfO-7nnxMvZd6Jr6QeEe_2XeKwn94QsN6ehjACn85wEaFhcAzh1vBqog4xXWKys6-jSnPaJBTzkiR4cWGk23FXpx5y_acbdH0nZTXN6Eb4_GiFOM8qCLiLrFG45WxxOMms8Hj-LT85Ni32uQAuevjvbl83lm7qdmLuUbYwrhiy6-4ZcYGuMvE67gcxLe5-sM3u-rEZr4ixPLMVZls2oaOANtRiPzaJH-F2qSBnN_qg27o3oPE8ZCDHvLAgrLxIH9c8ZZ9afG9fLrxu3w08pR9A_OofYvze3uD9J94XvZDdoP4cXSR-g5zbf1QbP__UmhU-25HH_ZbQonwKj4479I6Oe9_Nn7wRzEv7mYSeMyLBvPDPAOrvUYDsLkxBCO3AAA0szAE_a3wC8CqTRESqYYT2aGKDx-ZrRGJjYoUU4q3FHaKDBiEibMdxok-I3-KtSjZivwrm4oMNv-HPjldhkw6goVMOrOEsjcXgZQsK3V5KV5zZCercr4jiHD2IjNv-CIHbnkkEWzqJBBr-iTZZzwmKmflJvVlOCc1ZAUm7WL7JgdixydkYusoC2IhLv9iRDJTYjw17GJvNrlhhDl9YTU9i15UQlJcMUP_WTFD6VYURANT2ETZUeBGglL2SEtS4UrBU29QG1OaUVhSzla9UPdbtEqGXv1IOWQ-RzxnlEI5aME-yGUEMbJfjSXKYIUia2LxIBVkkh6fY5UbnF1ZGZVZiRA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/BA']=data;}

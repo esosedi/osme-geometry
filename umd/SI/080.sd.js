@@ -1,0 +1,7 @@
+var data = {
+"_ring":1506,
+"_params":".sd-1506-en",
+"regions":{"1676363":{"level":8,"name":"Op\u0161tina Murska Sobota","index":0,"property":{"openStreetMapId":1676363,"iso3166":"SI-080"}}},
+"paths":{"1676363":[[1]]},"ways":{"1":"BQ7HArWj9QDUksgCNMT3ALeG___ygYf4lXor8Tx62u_Ic0TolG2i4_5mO-JbZKvg4WV33jpxI9XAanjPCGYF0IJkqtNNW2vQuFp8znRgJ8aSXeLCIlzow9FW0b-hW4O4Dln8tuFQorukTm2_gEszvphJEb_mPX22HkEVtWhELrH4S3OeIUvOnXFIYZ6URHmcRkGWnk8uWJnoJ9GYDSEolWoihYsaIbGHxR3fhaEaToKZG9GAPRbYevcUsHsxFMN6ERF7dqkRiHQRDe9xpwVRaQAACWeeBfhXWQX4UXgJzzxRCTk2QgT2GnANAQ6dFGETHBxXEtMnDgQWMRIKdjt0D6xEAxKHTuwYR1hfIgtv0jIMcGEyxXlhNtt_WDaIg0Ex9IZ7KXaE6yaYg7sja4FuIdKBoSArgT8hF4AyIOR_NB1_gSMcc4KWHRmDnhw4hxMd5IaKG7aI2hpOic4bn42SGNiQqhIUkGMPApMED9mToQ0blxMNKJhTDoGYRw1fm38MOJ8vDOag4wzXo5ELZKUFDHanzg5jsjAJ-rWLCjK25gkHtzQKeLceB3G50gfWuogAtsUAAOzGcARdxqEHJcpWCGLKsQsLzMkMf9D9DKHQwAvl1bkMzNi4Cwzf9Qws5ccQ0-F7GBnkeSD-4g8mNuNFLSjdwjZ96Vg8Yun6PtLnXkBr5mdDiuYvRnPlvkgG58hLsuYyTz3ooFPe5p1Wh-MCWJnjPlp73kleIduiYp3ZIWPh2V5kF-GGZoX1KXFu-N1xB_o6d___73VR_ch6-vjGe-H1Sn6X8ySGnvTVh0jytors79ePjfedjmX3c5So9VqVV_balUH0_peo8rCY__EpmLjw0phu8PaZGe8HmXbtfplF7iGbzu3xm2nrfpsD6DWd7ud9nIXmDZ3Y5VOcBuWknTzk35z3436dyt-_nJDeqp_o3F2dxNionkDZcaLW14GiztQspazSU6hyzO2rjb5ippWrQKC_pp2x0KppudurB7qCrY69e62qv-6sx8App2i9ZKBNvOOfhL8jnorBrJlEwROYvsLzktzQApKz2KeN2Nxnh6fmSIh07DyKkPFuiWf1QocG-YyG_Pu3hv__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/080']=data;}

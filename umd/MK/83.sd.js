@@ -1,0 +1,7 @@
+var data = {
+"_ring":2383,
+"_params":".sd-2383-en",
+"regions":{"2580154":{"level":7,"name":"Municipality of \u0160tip","index":0,"property":{"openStreetMapId":2580154,"iso3166":"MK-83"}}},
+"paths":{"2580154":[[1]]},"ways":{"1":"HAN6AkzrTgGYKn8CZO5VAQuV2Co0kJAtMJHrM8aPNDazipA1uYjlN5OKiTlVkLc7V5HjOBGUDDenlug2XJqSN9eftztjpYQ7eK36NsawEzY2sww3SrPqQb3B0kjox-lNp89MUmHTqVjU2DlZ4OfcUS3tJ1FU8GxSjPG_VZ7zB1h39jtZnfsoWtL-eFf__0Naff-QYo38dmks_nZuWfz2cLT4kHI08ZBpYOf2ZNXc9mSkz6BmK8RxaiO99260uzB1tLs4gEW6bIgbtcSQEKzOmpijKaJNocSsrpcUuMeOkMBzhlzGmIY90sCJFuF4itPsfI1P9TONzvyYif__qXxp-0ByX_qWaT_4nmZo9dxk8PG3Zebld2jp4YhoDdVWX5DJQVt7xrRWWMeaTf_KoUTBy288Ms4MN__N9DE80Ggyf9UqMdXYRS6z2Uoqk9cmIB_O5Rt1x38PUb5ZC1i8NwlNt8cCxK8AANyk4APem4oEd5jKDFyMtRZtgJoe34OTIxiHoCcxgNgoE2lDJ1hkECr0YFMxjV6KQshbjUujV5ZM8VAVSXpMz0EzTY095kp1PJVHPT6CRL1LiDwmT3k7BFTuNXNaLikCXsEeXV7qGH5dkxBeXLUNEV5tCqFgRwteYxYK62jyDYVrhAtQagoHMG3wA2l1AADOfgsCrIVfB_yKDwqRjLwNtYy3D2mKiBM7g-gY74BpHEyC2Rwxg38exoLpIYOEwyHShhYeWYvOIfCNTyE-jSYkuIsiJBOKXiUuir8nY45FKtePaSb0kU0m4pM2JzaVcCkLldgq"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/83']=data;}

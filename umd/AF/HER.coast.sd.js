@@ -1,0 +1,7 @@
+var data = {
+"_ring":1369,
+"_params":".sd-1369-en",
+"regions":{"1674803":{"level":4,"name":"Herat Province","index":0,"property":{"openStreetMapId":1674803,"iso3166":"AF-HER"}}},
+"paths":{"1674803":[[1]]},"ways":{"1":"a-PzAb08mwNOwB8CJM_XA2b90TFh_-ky__9WOH_9DTiV_OU5o_kYOmf4Az0U9i0--u5URgjsqFM98MJdX-9PYsvoomiU5ZZqrONQb_HhG3GR3yVym9kAcgrUVXS83d56IOFhfhzgMYE63CaEmdy6hoLbCokb3viO1eKRkr_jSpV92o2TfdTVjBbK44hzxwOLdb1eigq5DY0it5eRCrOolX2wC5sVryih2KvmpMOnJafyprGqXqhhtyWl6r6pn5fCZpwbzoWdyNHUnD_W6Z4W2jKgQ9_lpBbk6KbW5wynWur8pBTwVqYU-DelCv8Qm___2pmB_4iapO9xmT7tP5MR7lWMLu2GiKXuQ4bL7PGFGep0hwXi34RV3uSEW9VfhbvRUIgizI-HnsA7hAzCIYLXwWJ4YLy6dg26u3Qtub9uN747aFK8V2LQvjlW-cETUTnBC1C3uaxN_7JzRRGlpkNVpAhBBKXjM7SqzjBtqfIv_aZhLuGl_CiDpA4k7KGwHwaYVSCwkMQcyovBG_uAthcPe1cU7HllDjl6RgzHeNsIAXQ8Bj1sQwPhZ38CS2Q4AMFhAAAfW2ABWFmGBh9WlRCFVG0VwVT9Q0pLDUZNQyZChEBfP_g6KEA-N7c-Li3DQMEl7ECXHyNC6BoHQzccBEQgHLBGkBnaR18K_0yiAtVQzgAjVwAAGVuZAr5dJwMFdQ4A3HoyANt_ogIthbgGC4j7CjKKVgrdinEanpGtFdqX2BIdmYAQdJxfD-Cc9A1_nwgQyKBJFlCnkRrCpw8efanUHrmv1B7tsTIhwLYdJLC85yQXwWYkY8g7JxbNTScu0BgppNO8KNPXAyZi2UAnLdwaJkjgpCYw4igseOa_Kz7rcSxJ7sYuvfJ9L0n1qDFn-HYyJ_3WMWb90TE="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/HER']=data;}

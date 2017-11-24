@@ -1,0 +1,7 @@
+var data = {
+"_ring":397,
+"_params":".sd-397-en",
+"regions":{"184880":{"level":4,"name":"Hama Governorate","index":0,"property":{"openStreetMapId":184880,"iso3166":"SY-HM"}}},
+"paths":{"184880":[[1]]},"ways":{"1":"4rgTApJjJwILlSECYXZIAu2l5vfjnN392JbL_y6T__9IcYH_GmeS_b1Wv_iKTzj44EPg-MQ9rfBWMkrlTyxw4j0oLOLIH8ff1Rm3378Uqt5TDg7bWA_o2Twf8NOULqfK4ztOyQhEnsaZRf3BUEv5vqRMVb13S365CESFrY9D6akCOo-iKDUNocko26A6I5OhVSBdoLkgwZ50J--bYSeSlYsjSpLoJlqOGyVNjbkgEo0OIuCKgSGLiG8UoIUlEbCDkhNogJ4aHX5mG6970RhneHoSUneMFs9zjBYjcnUREnBdECts_gMIZIoEhWLxCQdiXRkTXW4hoVvLJFpY3yQWVkUhXVPhIEhQpxzjTR8dfUmjG-pHuxyaRiEZeEQnFjc_ehKhPIkR_ThqE6Q1RA8uMfgPmy_7FOouOxa3LM8ciS1MHukqfxyAKdwWICgGE4AlDgw0JfEJ9SMrBeQjAACYIdICdh_SAuMdXAf0GzAGpBoZAaQY8QCfF-QG7xaJCC0UNwzqFRgOsBWXEvITkBdnEFMjQg6FIVsHKyT0AI0oAAD_KyIAkC3nAe8sqQRSMdMICDKPCx03PQ5yQYUP_k54Djt3cw1yjJEKRpN5CiGZ_QgCpKUHn8IKCvXVdwqj4owJi-onB2Hu-Qei74gKv_F8C8n80Av__34N_PogEST7WxO5_YoWiPsmGB31TBm0874g9OvgIHrQLx7ju5gf5bdZHqKkcyJrpQYmaak1Kc-l0SzInzEuD55XL_udCDStmdc7-JidP62Zq0SmnKdHzKDjUcGZYlZylWZX3ZKAWbuPhFrFkaJflJgUYbKjKmYEoIJn3pveZ6GSQ2bUh8FmG4YdZ02EBGkWhU1w1ozQc5qM_nYfnXh2X56qdOCXf3IDlw5x0Jgnb2-dL28moxZxhqt_ciqxkXh0vQt8G8QIfYHGnH8OwVmIrbgsjzW4TpVvvHulH7woqcutybPJqKi5V6ULx2ulL9nuowPiSKa_9u2l5vc="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SY/HM']=data;}

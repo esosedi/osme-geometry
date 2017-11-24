@@ -1,0 +1,7 @@
+var data = {
+"_ring":1978,
+"_params":".sd-1978-en",
+"regions":{"1908808":{"level":4,"name":"Prachinburi Province","index":0,"property":{"openStreetMapId":1908808,"iso3166":"TH-25"}}},
+"paths":{"1908808":[[1]]},"ways":{"1":"j8XIAI0pBwbJqdwA98AiBmbGRP8Fw___V7-8_TS6e_3FtU76kq_k-cqoz_vWplj5dqcn-CGmXPc6pnr1pqL68pqeQu40mnnsMpig6TCJROfLfC3hJHt84mZ4bOLXdyLerXRF3M9rdM61aFnLoWO-yGRiXchMX4fLq1w-zLVc1c2NWCjTDFjizLtSdcrfT2DFclHDvvFPlr3yTuq4NVFltj9QV7N2UvSv5FFbrvdPoq3rTu-qM0sNqjJEQq6YOxKtljQYruIvz60jJaSr1yOlrJ4etK1lG76svxz2quQUwqjuDyyj6QdioC8IP5pnC-6XLxEollkRwpN-D_ORxAaVjU8EY4YAAPWA2wGff7YJ9H5GFbR_eRk-fAofWnrEJDJ6tif6eLsvE3iRMmZ1OTkeczA-13LAQI1zWkEJeDVDjXqWUpt5t1SBeD5Tv3MCVPNuAl3Rb3ZiD2s1avBqAm8_aXJvtmezbXxihG5wYNR40lzifkdX_XtHUG12_0-8dFNNFXf2SE13-UUee19BoXrDP2l0oz0xdH88UXlVOgyC8i02ghMrVod0JRCK_B9biescnIoSGxCK6BgHjAQXI4x_EmSKtA9kjY4MuIqyBjaIkwTUhy0CLIpbA2uNEAFgl6ID3pfOAoKkAACAqFkIvaoKCuKuEAsjsK0MOrE-Ezav4BXmsLcawbKAG8G1Ohv5uJIZB7yxGYW_uRdpwkEXLcadGVLQMSTL2ksladfCKvrZ2zCK2Sg0_9uxNWDiNDZg5Xk0N-gANProizLj7eUwwvFJKtH4JyfM-BgsRf1LLP__WDCd_7My-vr4NQP53Dl4-0ZCLfm4RoH2T0dO9ehJFvJ6SwzrSFLs4o1X1eTjWNnpUlkt6jtcvewaXwzrA2If7Vho9fK-aqLyM2ze65pwO_ALdWXtRXid6tx4A95QcxbXcHUxy0aB3sT_hRHAUI82wQOTDMcDk_DJ3JRSyniWLcYXmlLBj5r-wAiibr60ony-pqVpwheobsRXrt3BjbJExE63jsDzu6bBjMCFv7HBgLc0wmm2wsRSuD7JSLqHxh-9FMeKviHLk8Lnzq-_YdG4w8jTvb-Y1yjBw9s_vxPh_sCa53zE--pJxoHvV8MO94XF5_h6xi3_ZsZE_w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/25']=data;}

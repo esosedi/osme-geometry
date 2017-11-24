@@ -1,0 +1,7 @@
+var data = {
+"_ring":2343,
+"_params":".hd-2343-en",
+"regions":{"2460743":{"level":7,"name":"Petrovec Municipality","index":0,"property":{"openStreetMapId":2460743,"iso3166":"MK-59"}}},
+"paths":{"2460743":[[1]]},"ways":{"1":"8hp-Ar0pSQHHPIECtO1MAf__vX0i7CmJ2uEClbjawJs50_2mPMqYqejGLq_oxt24PMqvwDvOacSQz5XPO9B63j3JR-lAvtjx7LX__0Ovw_2cnrD2VI-z9KB4DdQicwPFuXPLtgNxZbHFbBSwY1yis0ZM67KyNuSvjCp-qpgQpqPCCyWh0gmvm4oNcI9TFSyKIRm_guAa94DkGtl_rRn3fnAYtn16F3V-bhfEf3gYgYB6GOCBbBfNga0V6YHKEWuBVRAVgV8Qj3-yEe59ZRF5fG0QznmXDmd3Cg1qd10Ih3VVButzngLucf8Aa25EAMJqAAAwaIwCr2iqBOdpCwdebV0ICG91CUFwRQsZcSkNxG-wDmpu2A_cbQgS72zwEpBrxRPZauwT_mmdE01pZxMQafkSu2hfETZn6xBTZpAQ12SDEEhjlBDCYQ4RhWAXEZVf6BBwXugQRF30EJFcjxCPW50Pl1qtDjtaxQ0tWhYMP1m-C0dYswsMVx0M9FWqDO9SdAy5URYKt04LCudNdApPTMoLI0q7DWJIQQ_mRy4RYUfsEidGqRM-ReITFkSoFCVCiR0ZRRMjFUaSQntIlGjaSD9wAkSUbfQ5lHe6JHd4aRIyeDERO3cKEHl2sQ50dpkNknb7DN92OwxKd2ILPHgECqd4mwlreRUJWHpWCJN8Fgb2fWgEeH6YA-h-ZAKGf78BV4ClAaeB2AGugrwB8IQAAeCFlAC4hgAAbYd_AHGT3wxLlqwQ5p6pFeChcB29pbguka4NNTuuzj09p75GE6PeT76lDWu8qwhuOraca-O7p2XhwEhle8amZnnOfmsy4v10__-9fQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/59']=data;}

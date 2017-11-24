@@ -1,0 +1,7 @@
+var data = {
+"_ring":2078,
+"_params":".sd-2078-en",
+"regions":{"2060171":{"level":4,"name":"Butnan District","index":0,"property":{"openStreetMapId":2060171,"iso3166":"LY-BU"}}},
+"paths":{"2060171":[[1]]},"ways":{"1":"lKusAVFGXgEwjOsBE7Z_AQAAEO9yAEXq3AJyDEmm2wsdqI4B97SJAZe5AAATwx0Ap817A2bUiA0Z3nwRQukHE____yEL_xYkCv-DJ-T8gSgr_HsqWvxSKyj_8ij3_1gqOP-DLmH_JTB7_VY2xP0wO0P9kECL_fdP-f3iUj_9Zl0x-5BmO_sMaOD6i2mP-mJpzvo_agz6u2on-ultyPk-biD6025N-cZxtvnbchf5uXfB-MZ34fiOeAD4JnvD93N6IPf2en73qHcu97R3pfdxduv2rHYE9rR7rPVpe-z1RnxJ9S19a_U6fvv0Rn4W9M-AFfO8iIryfpEg82yZmPKOnILymaHS8oiif_KnorXy8qNI8tqko_L-pRHyVKdt8kangvJ9qRbybapv8syqF_Kyq3HypKty8lGuBfJdr0TybLT28We0I_LgtXzxSrkI9JPHG_T3zNHzQNPt8lbV0PHA3NfxBuBR8Ujh6vBp7Ijvcu-z7gDzw-2f86np_fGt5kv2EuYi9mXl3_fu5K73ZeSm-HPk4fnS4zH6TOMl-R3jEfqJ4-760-JN_KTisPsz4SX-geAF_ZngA_6s3v7-dN7__1fda_zP2qf4f9hE99DWv_ei06Lsr9G_59bOIudkzevh38t032zKMd_dwk3hCL6234G1hOQgs3jnZq_G6V-nE_F0obHs4p0k7ACa3Oc0ln_m2o4u3TGLO9Xuhx_T_4MPziaAiczjfkjNWnzJ0Mpuh9vkbH7bD2nu2JJhoeG0XhXiyVeG4MpHk-7QAAjvAAAQ7w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LY/BU']=data;}

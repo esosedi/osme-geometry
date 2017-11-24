@@ -1,0 +1,7 @@
+var data = {
+"_ring":2165,
+"_params":".sd-2165-en",
+"regions":{"2200220":{"level":4,"name":"Takeo, Saga","index":0,"property":{"openStreetMapId":2200220,"iso3166":"KH-21"}}},
+"paths":{"2200220":[[1]]},"ways":{"1":"JX2gAKAsOQbRO60APaxDBi8A-4gAAHN_HgTDcJ8FynKJB7JwfgkvcNoSjHC8FD9uyRdbbtcaF3CUHnlvLB_Lbbwf-2E3JDZj-ijRYb8qfGK6MmNipjbWYNA4pWLTOfRkPz4GZ9dBzGr1Q5RrHESZbI9HfWuHSJtr_0i0bNxLXm1UT6N0jFDfdWlRa3RZU9dzjVgCbitgNG1vYjpu3W4yZzBzh2NYc0Bi93StYUx3s1qsdllSj3U4UOB1WE3gcOVAfXHmOChxuS5ic60pU36jMMKEEzC9iNUw5I-UL_ubZCmtpTchE6Z8HISpyRxApaEVS6ffEoilrhA1qakQyqqWCsqs_gcIrZkDi6sAAPm9AQARvMIChrxkBPq62wYeu78IR7zDCUi8ogzwujMORrvpDqG5fBJxuk4Vf7kAHFG6MSEXvHok7rsLJ9O4-ih5tLovbbK5No2xyT22riFFbK0wUFKsNVG0q3lTLKxsVf-tklY7rSlYN633WjSuR2Dcr2Ji1K-7Y1ivO2bruhNnlcPyZcLHb2YOzBNopdMLab3qgG7P7jFuOfbhb0__BHj_-r6AyP1Yhv__NJHW_xqU1f0NmZj9dZyb_AKe_vyvooT8uKTR_smnrf-QqzP_1quG_--sFv5Drcf-ua5B_tqv9v5csEv-XLH0_uazw_wZtxL9jLko_Ba7CfuSuwn6kr2j-Fm9w_h6vu33nL-_-HPCZfiJxEPv5sT-68TDrOZIwJ7gwMLd3WTFitcs1EPS7NXuy9DTBclr1tnI9-GAx8PiaMaR4AvFA-D7xTnkL8VZ5cLDneJnwVHj1MBu4uW-guKJvX7h77qP4oq5OOGyt-HiBLbb4Uey-eH5sGvftqwX32Grw91ZpfHbeKVz2suk19kRo_Ta456h2IOco9phlQTYEpPv2d6Q1eb6h_vm1oNU6WGAy-l3fUTrdXdr5zN0JunPcl_m43De5i1rtuhdXDbx_1aZ8BNWPvLAUFbz2E5D-ANJqv1JPv__LiyO2cokXsuAHOPC-QgPtVkBtapNAJaMLwD7iA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KH/21']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":444,
+"_params":".hd-444-en",
+"regions":{"214709":{"level":4,"name":"Totonicap\u00e1n Department","index":0,"property":{"openStreetMapId":214709,"iso3166":"GT-TO"}}},
+"paths":{"214709":[[1]]},"ways":{"1":"qSbiACHyivrLsOgAbMaQ-kpFiRb8SFIWtUrSFddKcRQVRqcC9kUAAOVRhxB5U4YPpVWvEJJZBhB5XIoLLX0lCd6pYAZqreYFyMGxHuq6Gz3pvFdxxujXdQzpq3iG6Td75-kcfBDsWn0R7ct-3e5ygOzxY4Mj82-FEPQHiC718Izh9qWPKPaYken1Spbd9vOZ_PiKm4L6HJz__0Sfovwwpaj6qaS297uimPTPouHy96BP7nqgEOxMnwXqe57Z5_2gyeUAoCbkz5_R4vGfQ-K_pOThE6ZG34KmpNynqSnb_qq_2v-sYNZWrWnUZ64s0wawMNLZsS3P-7J0zJK24soEuunJuL1nyfjATsukwjzLdsXAyBzHlMcwyBPGKMvdw2LLOcFYzIXArs7Vv2_RDMDl04K-FdTdvI3Vp7xO18e6mtdEuSPY-bcR2V-2HtsotIjc6bHn3_qwH-LErzvl_q6H56mus-k5rkPrMa0W7MyrVOslqkLptaYD5neoet4jrcbOba6OzZmvCM2ysd_MpbSzy2a1FMqNtYvIPbLqx4qIp8QIgFO_2nfDxIRrZsQdaGPF3F7VygBiq9YIXafZRVky1o5V0tPAUmLU3lAR1WlNztQlSn3VA0ha35pCnuQ9K___5SJD610hl-lDHhPoqRWt5ZEQqtAKDIDFVhZ2vvIW37yIFjO1HheztNIb9q2MG26s4RljjAUSc4LsD0qCAAANZ1UOC1ydFS5O2xr5T_keylBaJGFQdyn1UGUrl0pTLAJHrC46Qlou_j5sLGg6dytiNvIoBzhzKGw41CWBNwUkNzQjIh0yLCLMKh0iGyrmJDonKSv-IjszAh9qOPEb0Ty5Gg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GT/TO']=data;}

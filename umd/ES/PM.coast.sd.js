@@ -1,0 +1,7 @@
+var data = {
+"_ring":807,
+"_params":".sd-807-en",
+"regions":{"349039":{"level":4,"name":"Balearic Islands","index":0,"property":{"openStreetMapId":349039,"iso3166":"ES-PM"}},"536255":{"level":7,"name":"Ibiza","index":7,"property":{"openStreetMapId":536255,"iso3166":""}},"2174950":{"level":7,"name":"Migjorn","index":4,"property":{"openStreetMapId":2174950,"iso3166":""}},"2174951":{"level":7,"name":"Palma","index":2,"property":{"openStreetMapId":2174951,"iso3166":""}},"2175689":{"level":7,"name":"Raiguer","index":3,"property":{"openStreetMapId":2175689,"iso3166":""}},"2175756":{"level":7,"name":"Serra de Tramuntana","index":1,"property":{"openStreetMapId":2175756,"iso3166":""}},"2175937":{"level":7,"name":"Palma, Majorca","index":6,"property":{"openStreetMapId":2175937,"iso3166":""}},"2176079":{"level":7,"name":"Llevant","index":8,"property":{"openStreetMapId":2176079,"iso3166":""}},"2181767":{"level":7,"name":"Formentera","index":9,"property":{"openStreetMapId":2181767,"iso3166":""}},"2182001":{"level":7,"name":"Menorca","index":5,"property":{"openStreetMapId":2182001,"iso3166":""}}},
+"paths":{"349039":[[1]],"2174951":[[2]]},"ways":{"1":"Y_9UAhiALAC5n1UC2FMtAFtRAACE5RQDNHPDQYnKjlqkk0Gc__9Zohzg___Hjmb6_Y6ZvgAAm7DXE2UUp1nLIVtRAAA=","2":"Y_9UAhiALAC5n1UC2FMtAFtRAACE5RQDNHPDQYnKjlqkk0Gc__9Zohzg___Hjmb6_Y6ZvgAAm7DXE2UUp1nLIVtRAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ES/PM']=data;}

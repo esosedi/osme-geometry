@@ -1,0 +1,7 @@
+var data = {
+"_ring":1250,
+"_params":".sd-1250-en",
+"regions":{"1435831":{"level":4,"name":"Sidi Bouzid Governorate","index":0,"property":{"openStreetMapId":1435831,"iso3166":"TN-43"}}},
+"paths":{"1435831":[[1]]},"ways":{"1":"eRkLAmdXhgCH2h0Ci5OZAP__doBj_iCCmPpciqHzKosp77OMr-24jNjqVooi5ReEhOKWhD7gRIZ83t-I29nWkmDQk5h11bugx9Rdo4fS26ZXzKirWMcKsf_EtbIAwuSxc70Ru4q8eb82vejD3Lv6x1G7OM2Ou77Ri7Rf4BS4aOp_uhLuC7qD70eyxO-IqQ7yJZ-J8tCdoPVKneb6nJyn-vGaxfzDmNb9Xo5O-pGKLfgNiDH4woXj9W-CWPTIeUTszneS7C51Tul3YjTfak060J5K1tDQQmbWGkM73GlES-BERCbjMEZQ6rdEme1FQRrxNTr__8syR_4aMU_8_i3c-isrme87JQPppCbZ41klQ-HSGcLZeBTx1PcRrc12EprH4A_Cv2cOYr1wDPC7wAWBvnACAcFMALm_AABtvMsCZbVSBNu0yAeJqxAFiZzcB_iavwwinT0WAJ9ZG6uhYB05oM4fKprUIF-UISNkjRIpQYlRLDGF-zDIe_IxoXKuMZlt9DJ-bEM1q2yCOA9pVDoZZt0602M5OhlgezscXp8-uFxDRpNdQkzCWnNSOWEcVTphtFamX4VUFl4DUqJaN1IcWMVS7FYaWDtTw1eHTotZmkvfWQZITVt6RWtaqEADW_A7N16SNNJbxy-jWEAihVsSHf1ciRebX4kTxWCxC6FjBgR4ZgAAH2nHBphugg_acOMXTHMaHbl1-SQdeqAqVX2zMpp_6jIpg0AtXYWtLe6JXi-tkWA3CpYAOmaWgUHGmmxKUZxPWmudq13NoLtfgaMoYJ-k_V1FqNpapqx6XEmzV1lZtp5b7LjHWqm6jlu1vmVaJ8DiWi3Cd1-cw0Zf7MqrUULP2k7t0TlJK9LERp7TTUWX1RBF_tyASBDyJ1oq9nNi8_fIY8L7-Gku_IlpJv1tcoL-Z3Ym_Vt-gv6rgf__doA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/43']=data;}

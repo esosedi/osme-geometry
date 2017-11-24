@@ -1,0 +1,7 @@
+var data = {
+"_ring":631,
+"_params":".sd-631-en",
+"regions":{"255446":{"level":4,"name":"Fars Province","index":0,"property":{"openStreetMapId":255446,"iso3166":"IR-14"}}},
+"paths":{"255446":[[1]]},"ways":{"1":"Bw2eAVSeAwNBDOQBmtpPAyBidkTda1I9eH79M6eAeTDQghwqaImmJICK4SIEkDIjS5NYIeqU_h7olIobD5dIFn2WYA-Rl5oNEphkCMubuQf0nu4Fg6ADAyKjpgDKpQAA76eFAImojQSjqUMGmagwCSapwQmwqCYQRKl2EjateBazrM4Y2rHdIE22yiDtt28en7klILu6ICDSu_EeCb7lHqu_HR2Mw5wdE8TaGzDFaBw_xXsgdMFhJvDA4Cm8voEqTr87LCG9wS9GvvE0gcBdOEPD4Dj3yvM2Gsy2PFvUVTsv3ZI-Zt_VQHTlPEFs6mlDE-xcQ0TuiUFZ7yk_Uu-oO_TwQzng9Sk2cfblN9T0DDza9Pg-Fff8Qtn5pURt-rpIv_31Ssb9ek7__1VRQP2ZUtb4KFIZ9ixVHvawWH30Al7483lkBPnzdS_1yoGI88OEU_FViCLqgY9byNydlsU0oPa5o6bDsp-t_q_yrx-sGbGJoDiyq5wYteWZI7nHmDG9VZTbxQeR0cUXh3_Lr4KZzFp_xdFLfzbcnn0_4BdobedRZbLp61v_7ERaZOy7WeroEVjk6HJIt_v0Qkb8STPn96UxEPn3L3v8OC1b_-go__8zJc_9uiQA-2QlzPRDIn7xxCAK7aweauvSF2TpNRXS5yQTH-U3E1He3RRR2gMWxtH3FM_N0RIizNUSbsp2FLTIBhXbxfYTCMOKFFi9bxK6szcPQK9VCuSviAY8rm8F869YBPavtwJGri4CcasAADGpkwBgolgDspi3AZmTMQeZi7wG2YD2CG99sAw6fFIOgnrTE_NxhhwNZwIk7GL7MI9dATi-V3Q3fVWbOZxSfT4QU3FLf0yeVIpKlmEMRSBidkQ="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/14']=data;}

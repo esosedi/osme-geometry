@@ -1,0 +1,7 @@
+var data = {
+"_ring":2393,
+"_params":".hd-2393-en",
+"regions":{"2585982":{"level":7,"name":"Kumanovo Municipality","index":0,"property":{"openStreetMapId":2585982,"iso3166":"MK-47"}}},
+"paths":{"2585982":[[1]]},"ways":{"1":"sFKAAnGrSQEG6IQCycVPATcx__-1Lv7-dyuE_bQmvPcMIcLtrCCs6AUcXuOFGoDdLiDn22Qnrtb0K8vOMCsCxm4pIL0lKPe1FCbvrlEgO6hWGkCmlRSNpbUO0aPEC1ieGgpGmV4FI5ffATWSAABNkXQAsoglBvd_pw2uem4SBHT6EdNqERHuY1YOomEPDM9cDwzWVlYOY1N6FMdRmRnYSnker0aAJWA_EzNUONI0RDjxN9k5qTkHOtk9njdePSsvB0vCHrlOGBhiU_wVJF4sFdZh1Q66ZH8IP2TPAmtmAACqbB0AIHArA51yggb_dmALinsWEPd_zBS1iPsWxJAhGAeYjhdnn-YXeaQoGh2lkR3-o_sgyKCIJa-gZiiFotEp8KU8KUStOSnTsBQqO7WnKt24ey-7uy0zZr0ONXLAZDYbxw455dBuNtTYITRy4wg08-o2NOjplDYQ6FA6Mue7PMTmzz-y7b5FE_3ZT87-KFL__41WPf9BXWb9-GJ6-45iwvg_Y3726Wlc9advxvNUc8rud3cW5-13POMWduDh83GE4DVs7t44adraEmgl05xnVdFzaczMSWuLxYRry7v6a564rmlPtGFnOrA7ZuurO2bLpbFmZp0nZ5iWwmimjjFvKYehdfGBnXjmfwx_5n-lg3CEF4cRiNaMNIn1k9aMopfJjwukyY9oqG6JYq6dh5a0-4NOwE2D0sWdh_XJJ4y6yY-PVsv2kj7PUZNg1BKRadkDitnbeIJJ3j57ZuCEePbd1WsD3K1iitT3Ws3Q3VSd0StRDdRdUMPYhlAg3l1QTOQQS7zmokQQ5-o7z-i7OK_rOzag8JwxEvs3Mf__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/47']=data;}

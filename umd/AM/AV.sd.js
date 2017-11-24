@@ -1,0 +1,7 @@
+var data = {
+"_ring":864,
+"_params":".sd-864-en",
+"regions":{"364086":{"level":4,"name":"Armavir Province","index":0,"property":{"openStreetMapId":364086,"iso3166":"AM-AV"}}},
+"paths":{"364086":[[1]]},"ways":{"1":"m5liAuMGmgJCsWYCqwmmArptAADDd4EBfnudAC199AG3g0UEiII8BT2G9Qa9iNoKkojfDXOKNxBDi8UVtY0EFfiVoBRNm74QbaA7EOKjBA99p1MPtqp4DXWuiwz_tNsH1rxpBVm8PQRUwMMEHMdrAWHK7AI_ys8FLcfmCMrIYAvJyssJm84tCe7RAwvP1fAJu9WSCyHYEwpN3SgJu9_MCpDipwny484KF-YUC2vmUgmp7asHr--EFcL2VxaM_Xob__9DI2P1Ri3v8mQz7_IDPH3woT-i8EZDMO59SXDVw1OZw5tfzrk8baSx0IEdq4yLTKqqkXupv6gDsKOsx-r4qjntB64k6c-wt91Qs9HYUbjR2Da8t91iwJfrq8VD7inJwux2zNPjT85_4fLQ--A91fLKGu_IwvH0csBe-pywqvufqRX4BqLw-C-d9PrRm9b8r4Xe_Pl4___vdAj_fW0X_yBvT_zXdIf5SXdM8oVwbOlSdnHkDm5Z33VqdNokZA3Z_F1G2a5FSt5WPVbhxg8L3xMOzd2iDsPbXRTk2fgVXtjrEhDTiRrP0fYZ8s7ZHX_Noh94y_UcFch4H7PCLxzhwAUeQL9zF7W8cxl8uzEZ_7nnEvS42BBWt3IRiLbBFVq1QRZQsb8Tg6--D-qvpQ1Yr9QMAqx9CnuqqQqIqVAP7aeBDSalChBsor4Pa59RC0yeDAuanQERPZqpEfOXEg9IlwYND5VFESeOsA6Zi0IPrYisCpuETwqRgkEMKoCuCml-RwrEetULlXmNBzF1SAhqc9gOUXAdDvRtTAsHbjwIhmsBAT9o4gEFZwAAEWUhAQBj5QS2YAgIIVvmBVdZBgbGVqgHjFUnB7RT5QRPUuUEolCqCWZOrQ2MStER4EnTEv5FQxlHRGQaxULkGWtApx69OwQeazl1Iuk4PyhTObUp1jhzK_IzYTKZMHczWi6OMgItMjwxJ0tAfyZqQHIkeDuIIf4_jx4JPEIceD7aFz49rRUGQ1wSk0PzEK5LSQ8mTJkJoFbQCApZjQbJWBwF4FwIAj9gcAKRZscBXW1GALptAAA="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AM/AV']=data;}

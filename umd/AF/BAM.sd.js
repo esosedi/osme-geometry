@@ -1,0 +1,7 @@
+var data = {
+"_ring":1375,
+"_params":".sd-1375-en",
+"regions":{"1674849":{"level":4,"name":"Bamyan Province","index":0,"property":{"openStreetMapId":1674849,"iso3166":"AF-BAM"}}},
+"paths":{"1674849":[[1]]},"ways":{"1":"q00GAsEC9QPH-BwCHXgRBLi2hfQnnZ_-SpD__4aP2_3fjdD8_oyE-IOJjfRphMfwLH_67t18p-rZd3zngXIQ6YZwjug_cUPmCnbi4PBx2Nvfbd7Z8G5t2Npu-NQKcSrQLXOGxXx407bdeLazinS2rnJl3qmAXw2mBVdrlmJUWpA3UpiHnU3TfklL1XweSBF9nkOahKNBAIwbOxqOWTsekOE9fpIoPqSYdz1Dm5c4oqHmLomojSzVprEoRKDgI9SRhyOBjm4d14vYFiJ_8xTKeK0K_XEOCw9wyAl7bf4JHWzqDLVqSw1raZ0LzmKdB9RbGAKiWQAAklVWAhNFPQUVPa4FFDkiBb8xeQIjKA8EAyUqBj4kIAzfJjoQqCYxGHoc8hm7G1Aq0R1GMycbhD_mHUVDFxyCSBcX6kv3FYlOOxfZUPsk_FFeJ0FUJCrQV3osS1x-Mqte3DNaYJczL2EGMuBgCC9RYt0sW2dGLUdshzHlbxY2a3OhNnp5UDGnfWcpaX77JNyB1SOeg_Ah7IJqGriFARqci1Idxo5cHCmV8RIdnI0Oq58wCqKiBAgSpgAAW6eIAruqcAWnsLoGWbGMCGGw4AwIspEPIsI7EnDNeBEE0GwSrdFEFNDShhqR1iEiWtxtKTbhGy0k6qoxsfPTOMH1Nj419aFCgvb_SHPzNFFr8hxX1PM2Wv_08WKn_Mx1__9fgOz-6IZ5_UCKsPXsiyzpiot_4l6MFN_-irzWhYRd0YKCOs2Tf3rDkHsrvs16EbjKewiyFX8BrSp_jamFgRSgo4NlneuFDJ50ie-mQpXerPio-ajJs1Cp77ksrDq9ALKXvwm2BsMhtyfNlL681qa_ZNnRvzPszLVK8Fi1-vK4toX0"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/BAM']=data;}

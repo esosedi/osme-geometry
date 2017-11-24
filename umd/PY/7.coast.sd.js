@@ -1,0 +1,7 @@
+var data = {
+"_ring":913,
+"_params":".sd-913-en",
+"regions":{"389898":{"level":4,"name":"Itap\u00faa Department","index":0,"property":{"openStreetMapId":389898,"iso3166":"PY-7"}}},
+"paths":{"389898":[[1]]},"ways":{"1":"QhBd_gt5n_xSRHH-0Bi-_AyGAyCWiachtogcIrOMcSbvjKgn5YvdJ_WMZijgi8UoRo15KcaLlykwjRUrfoysLJSNpyy0ji8ua46aL0qQujCEj3QxfpKzMo2RBTQ9kyc1CJFoN4SSZThpkc04LZFiOmOQPDrKj3A70pBlPN6PrTxqkq89NpUyPM6WJj1omMI8Z5pkPgGaKT80m2Y_LJ4kQOme5kMvoPREGaY_RHOnWkW5rDpG1aweRyOuDkcUtDFMpK_NT1WwplBYsgJQlrI-UZq14lEBtyZWEbX6Wxu2d10qrvNifK0CZuuuAmimsFhpcLctavu6EWzKwIRymcbodEfPd3Zb02l7btfpe13fToHu4RaL4ugzjJ_qQo2M6qaQvexuldDsYJvw8pqgQ_appa_41KVF-pupV_8Or___BbIT8361sPL-vnjwF8Vc61TLX-hY0l3j0tVy5lXdPenA3lPs2-Ml8dPn_e8b8hjtN_ZZ7lj4zuwe-kfoHPsh6GX9UuRR_Mzfj_8r3P__gtA3-gvG3vkxw_L4VL_j9sa2UO_YsbrsGK386zWmhu4NouDuYJ-d7ruXHOvmluDo05mN5qWaJuQxmBDeapXz2p-R_Nmah1bay4Gh2JuAUNd9gNPPP3_DzPl358eGdCDDgXEowR1sR8DWZI7C_2E1wtpd-bkmXp64TGQzsxpjNLAfXzCsVl7UovhYdp2-VBib6k1YmeVDeJmoQoyWd0R1jh1DsIsWObuLtjf5iac4LobWNCeEdi_xhKIqVYmRJwKKMSWiiRUi4IZlGveHzRYLh6sRkoGOD9Z84wiYeNID-XZ3AnB14AGYcnIDR282Cfpn8wsHZnsUXGMMFzZhXxhEXBwX5lWUHOFL9xs8PpYWnzaZCmov_gC1JwAATRe0A5YE6xacBfEcxQFuIQAARSQgAFcnegFXLF4G5zMhB8I0fhCyO1AWg4i_CZuGsAv0hkEPqoSID3uC6hL8f4QUVoGYFtGDzBddg6AZnYRtGuuD0xzchXQfDIYDIA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PY/7']=data;}

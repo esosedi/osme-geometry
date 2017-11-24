@@ -1,0 +1,7 @@
+var data = {
+"_ring":1606,
+"_params":".sd-1606-en",
+"regions":{"1693560":{"level":6,"name":"Flore\u0219ti District","index":0,"property":{"openStreetMapId":1693560,"iso3166":"MD-FL"}}},
+"paths":{"1693560":[[1]]},"ways":{"1":"8LTXApaZqwE_gN0CyM-2AeH7qsa78JzEHu6LwvHqcL1J6ma2Hum0tUvjH7Xz2zqxF9hMsGHUZrAK0BCz9Mv9ueDL7rtdzf-9FtD3vwrTPMA_2BPDtufAxv7n-Mpo4XnYV-La5sfeHe3u2pftYtQ57HDGNfTfwZv4GcCa-xnAWP4Vuv__FLtM_3m52P-Asrv3KbTP8BKto-3Nr6XsraxE61ao_eoSqTrk66N74ySj6OH-oJLhGpSs4a6MxuLbhzfiQIXj2WmA19F0gE7QOHpo0Dh2s8ywdLHMe3ICy7h1XcpZeGnH-3xYxrR91sIngvrAn4WbwC2JlL4qhCK8J4sttZSI-rIUimixuoaFrp6E9qqyiVin63vGoEl7V51qdkuVXXeblBhrKZPZaJeQl2mBjrNnUI2DZWiN3GIai5hi6oidYKGGfl6wh9RcxIVMUlaE20p6hZFJxoeLSz-JvU8uiSVULoftVTCIU1UGinRXvYolUpWNb1XakW9VO5S-VuWUmFJrmIRXZp8DNvqowi88rB4n76z3JN-uwBykqngf5afYCyCbbAp5mgEK55tgBwyctwT4kgoIco09BvyBrwWbgFABkYEAAMB87Af9ej0FgXbDCTd1eQ9YcEANn25jFfFnkRkJYgceplqcHYJYVhp4VQkfIlKRIFlT7SaQThklAk1RKgFJ6ySjRPAlREJuMcJK4jRPTLIxtU61OF1UTzpQU8Y7vEVUO5E1S0sSNclimS4SYaIqa1xtJwNc5CUcWJEl5WuYEIVzwBJAdf0RaHXjEBVzDA24dawLZHiPDCV9QQo9gZ4JlYXsDBiJ4gnBk2sHjI2kAsKQAAC-nnEMprU3AT3LLwAyzDgTI8uDItbHPCI9yKJCfca0Q33Gr0Ygze9P6M98T_fZ8Fkb0dZcSdJxXuLKV2E_zj1lIs7nbD3HjW0QyCJz28y2cnrPfH7Ty81-uckMfrDKsIWjv8OLecGoj8TJio_XyeSRq9JQkhDTzI7m2tmMjth-jx3b1JQV23OXYeFQnxXjIKAJ5zym6-eUpeXonaih6g-qiOmQqo7r3qsG65asQexdrDjyna9X9gaw__8Jtr74WLpA_uK_QvzAwLr-MMPh-6rG"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/FL']=data;}

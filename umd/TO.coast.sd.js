@@ -1,0 +1,7 @@
+var data = {
+"_ring":191351,
+"_params":".sd-191351-en",
+"regions":{"2186665":{"level":2,"name":"Tonga","index":0,"property":{"openStreetMapId":2186665,"iso3166":"TO"}}},
+"paths":{"2186665":[[1],[2],[3],[4],[5],[6],[7],[8]]},"ways":{"1":"2_Ti_g7rn_Wqn-T-qXei9eKaY5PUrNJ273hhigZkCkTJOYJPRA8QEvx1AADdf9s78_m_Yf__AM9Zd___gkED1CFq4udOpPTKTGk5yJB5-6idPJ2-UUmqoxganZ8TPZqTAACehKs-3oQzUlNkx42NleKaY5M=","2":"fGi7_jpGjPXRnb7-gTeR9chw630CjVt-AImbkKx66axtXFySTWO2tLF6bsDAjUOzRq7auIar_PK-kf__pE7SyN0TyscAAI-uLhIRkxk-OYBsWTtCWpMCDMnaAAD__1AZFL4SE0SxUT6twvlcMKOnoG-Rw53imWN3VYYcZg1tW3bIcOt9","3":"-2KS_oHmUfWn45P-dPhT9VKmKRZsj893_G7OdIKUjBESIWlVqm68h4pcwduTvNPFvtseidGpp4X__0R10LDD7X1r__-nN9XagFbjhQAAampJkgAAUqYpFg==","4":"8bK4_lwgkvXVO7v-NziT9ZnJHt8AAP__sSM8U5B9AAAv8taW__811E3kZsuZyR7f","5":"W1kR_yJdh_WReRL_4IiI9RB7__8AAM6DrmEAAGPhFz___4qpPMSq-hB7__8=","6":"fEUM_xkLpPU_7wz_Xcek9QAAloeFBgAAg4bcB___S-NCiP__AACWhw==","7":"ghbS_vEVkPWUSdP-UjOR9WZfAAD__wRXwuaBzP6a___8AlHnAAC_ZWVF0yhmXwAA","8":"E3XS_ofWm_WSCdP-usOc9QAAAAD__0HNrdD__wUUm8kAAAAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TO']=data;}

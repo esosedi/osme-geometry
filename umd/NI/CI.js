@@ -1,0 +1,7 @@
+var data = {
+"_ring":2149,
+"_params":"-2149-en",
+"regions":{"2194907":{"level":4,"name":"Chinandega Department","index":0,"property":{"openStreetMapId":2194907,"iso3166":"NI-CI"}}},
+"paths":{"2194907":[[1]]},"ways":{"1":"4S67AI7Cw_re7coAvrfV-gAAGpvWEOGBnSEXdnA5llppZXs1o38VFJyZAAAPvLIKu9acFcTU0D1XspZkebKKddm1kqcGtYmonLS_qTK0G6r-sRuq9bC2qsCwYKvjsAqsnLJWrsCyg7CTs0yxpbXQsBe34LA6t3qxBbcGsv21abNDtvWzKbe-tNm5SbUou2-2tbt2t8e7srllvHO7kb2BvRW_Qb-9wArAmcQ5wNbFlsDfxjDBC8h1wvDI-MMtzATILc5JycvOG8mxz1HIhNAGxhLRyMV707DGGtRyxlfVLcUZ1h7FndcGxhDZ1sf12YDIIdsLybfcG8lN3kLIb-CKxRfiwcT84sHEXeT_xL7l3sYo5jvHVOenxwTo1ser6zvHbexax0Ht7MgU7rXJ6O7FyZjxG8my8sXJxPTDyxP2ss2g9oLPEvhD0Xz4r9Es-xPTEfzc0z39Xddg_97a__9o3e3_Et6W_dji1PxD5YT7Iud8-MvpsfYH7H32ouyg9gbuP_f97kf4wPH494_yf_fw8tzwxPSe7_L0xO7S9F3r3_P-6Lvyyuck8zvmgvFV5AfwxN0K7cXbhexN2U3s7tOQ7MXQL-11zu7tOswl71PJiu8AyPTvUcOI8hPA2fIJvr_yPrwJ80G7dPM4uXz177Yg91eyPvn2rIT856o7_eGpJf3dpfr7BKHX-2iau_wpl4L9A5Ja_06Qwv_Kjf__-omq_zWFiP4LgFH8S35O-397Lvg0esT1-Xnc9OB5zfNdenPul3kc64B5jOf4d17jGnhZ3y93yN1Adb_cvnKI3BFvLd2AbeXc9Gv92zZqRNmoZ2rXg2YI1rFlLdLJZLrQ-2JKzx9ha86tV9LIQ1X4xQJUnsMTU73C9VFtwoRQasJNS97Cw0NPwm9C9MEDQODAZz51vyM7V7oSO-K50TnOuNg4J7eHNKKtAjTkrJkw1anhL7SozS5mpYEu-6GGLqmgKy8hoAguKZ3YK56bliiNnx8oqqAnJ6ShViY8ouckg6JuI0ejFiDIpz8ey6r9G-GqAAAamw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/CI']=data;}

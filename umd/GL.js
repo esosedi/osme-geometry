@@ -1,0 +1,7 @@
+var data = {
+"_ring":191344,
+"_params":"-191344-en",
+"regions":{"2184073":{"level":2,"name":"Greenland","index":0,"property":{"openStreetMapId":2184073,"iso3166":"GL"}}},
+"paths":{"2184073":[[1]]},"ways":{"1":"qTeMA-VakvsA6f0EbaVt_9rvnzjJ8AU-b_J5Sdr783KH_5uX__85q3z-6LxG6jf96-X__7fXiuZWxOHkK6H95bOLmdd3bvDVpGQxzu5a6cAFVQupalIbptlKyKLpQ7KdWzwhkyM8eox9NfSIDirIh58fG4KkAs59AAB6egAA-nUoCe9l0RZIX0gwTlVmRW9P0lRDTrSNHEPqn5w-7KjvOOerHDGLrE4oAKu4HgisThb0r0gOBLSRAfi3AADwxa8ASchJAn_IsAI3y7AEt86tA0DPWAPq0ZsHJtMLC0DTMwyA00kNhtS0DxfVnBDv1VwRUdoVFsnclhdP4GQcDeHvHjThwx8q5gUoHuwAMNDvkzja7584"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['GL']=data;}

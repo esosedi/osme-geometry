@@ -1,0 +1,7 @@
+var data = {
+"_ring":2516,
+"_params":".sd-2516-en",
+"regions":{"2803879":{"level":4,"name":"Alibori Department","index":0,"property":{"openStreetMapId":2803879,"iso3166":"BJ-AL"}}},
+"paths":{"2803879":[[1]]},"ways":{"1":"_5KgANvJHgAjT70AMJM6AAAA2CI8NyIilDsLJrJBMiHVegAA-pGTF3uSfhremLMheJx8KFedBykGnjgohp-dKMeikSe-pDIofakOLY2rWy2crNoxXK8zMUyxXjOUsh8y5LTRMiO3GjasufU0_rtYN_G8sjXPvQ42Ub-UNIXC4zZZwvo6ysSgOmPGpzx2xRc-_sXrPirLJT2cy-U6FM5EOmPPxjq10KY4R9JFOC7TBDmx0482O9asNgrYYDS42pk1Xd9PM_7glTP14ek0YuOzNFLkJjOg50U06uguMmDqgzPj6iQz1uscNvbqyjqe7Ow7H-t9PgLu_D8U7WdEsfA4RvvuZkm17e1Jx-48S-Duhk-d8S9RNPGxVX7wblZX8oha_fCMXQnv1l387jlf_PXWYg7412L9-C1kV_p_ZAb6tmWg-ERmovglaYn9MGz__7lzUP1GeFP4B32H8OyBDu9YhD7tfYsg45WRLd5amcLZjpwi2OOgW9BvptjO36nwy7isv8lSrjLCCrDGufq18rgfuBi5y7t-uju_eLXYxtS0qsz1rz_SM6sL1NKof9gopUPYXqCM3Z2SY9cMfDnU8Gh-z8ZiAdYZVJ3raFJY7ydMcu5ZR0LvZUWx7gBCBvR9Nkj2-SrI8u0n6_LHJL31yRzG98Maxvn_GXb92hdc_0oR___uD230Bg4I0zUJh72BBBywfQPYpjkDF5CSAft9DwOSeUYIPHKoCHRoDwj4Yz4DC14FArRMKAa3RZ4Ga0NeCNZCSAj_OqIEcThVBRQx5wOjJzgCACUAANgi"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BJ/AL']=data;}

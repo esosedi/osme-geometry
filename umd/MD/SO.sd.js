@@ -1,0 +1,7 @@
+var data = {
+"_ring":1605,
+"_params":".sd-1605-en",
+"regions":{"1693523":{"level":6,"name":"Soroca County","index":0,"property":{"openStreetMapId":1693523,"iso3166":"MD-SO"}}},
+"paths":{"1693523":[[1]]},"ways":{"1":"UgvcAiVzqAGL0-EC2-60AXJegNXfYK7WZGL62QRf9uUAVNzxYVDA-gdOj_0KSz3_ukL__xU--P0WPJP61zxO-eBDm_fyRNT1XzwH8zk_6O-_PLftvz7w7Do59-d_QBjk0jay3rAyU963LGjbeyub2wMs99r8KcvZFStW2VkpCtheKFDVfCfn1YYjatDRIa_PgRugyIkbRcb5GHrBUhsav3gT2sASEwLEOgqiwyYKhcHYAaDBAAAhvhMLrLgcCs-x4A80skANoKdyCAGongf_oogOaaKlDoebRgsHmLASbJWCEfuTYhpgkU4Q_YeFDWSI3gYWgN4GaX2fCHJ8OAhZX4cLmV-WDN1RVgvVPHQUpz01HI47vxtYOC8lKjb7KZFBpjHQP7s5r1V6RelTV0imUgROKVP3TyNSeFRAU_9e61I2YJxMkWiLSZ560kV1gGQ7042dNrKFvTLamJQlLI6GHZmPbBujmCQVh5znFE2lww8uqyoP1aosDjqz4AsMtjEPAri_DgW64g-NuhUR9LfqEUC3DRSRuRgUqrnvFUK79BVrvxocjMDIG63BSh6rwOEeiMEsJavG3yRkwvkqYcfbKjTLzSZXy2AkasmfInbKzCFFz-Mfm9mtHVTWfxr62fgZ69cBEpffow7S3NgKB95iClfdZwjJ3vEHGd5HAdng9wDz4AAAdeGWAUHmmgJh5yoECeazBqbnIQcr5jUJA-qcCu3nOwwD8J4RSfF7EZrxqw_p9I8Tt_iLEP__zxtm7hQrRewhLvnsa0YJ68RLZ-hrT6rjiFIf15VWjcgNVQW6TFJPsSVTr6x6WeCt4Vvqtgxkwr9dZSPCj2aFwdtqW770cHG6znPaskxyv6KVc56epnWIm-F4UZtCfL2e3IFdq3iP3KyAksOzM5jfs_eZY69KnE-ugZ66tmGkNbfLp8y0wqnCsC2rU6jDrMqckaxjkn6q9YjlpVWAzpszfYqZ23HMmPVuS5l0ajCeHWuho_tsZqeEbtqornVGqziAoK0ahsuw-4ers2mIwLkuhWO_iYL3wCRy7MJJcJvCZmnSvUJjTb2IWxrBD1JbwhFGW8fTQmLKX0DqzzY9rtJwPerVez_41eJBydMHRSbTI0zc1BRck9RyXoDV"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/SO']=data;}

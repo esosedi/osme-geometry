@@ -1,0 +1,7 @@
+var data = {
+"_ring":2466,
+"_params":"-2466-en",
+"regions":{"2746948":{"level":4,"name":"Amnat Charoen Province","index":0,"property":{"openStreetMapId":2746948,"iso3166":"TH-37"}}},
+"paths":{"2746948":[[1]]},"ways":{"1":"ykbtANViOQbymvgAS-5CBsfcE58A3WKfhtzKojHdf6kO3les0t56rcffUbAG4V6yReKutgnjdbvm4xS-uOUfwEbrvMIY7avEDe4rx0_xoMz68TfOdfIP0f3zvtbC9P7XhvW52q_4tN6n-93g1_xo4f__B-TI_YHlA_eD6L3u5fHe6Xj0oeNJ9unaevYWyvb658Jt_gPC___zoZbtL5MY9RtqTt0RU2HakUfPw3cjqr9GH-zOuxMLzqwJHr-CAmK8_wH4uIYI_7GMJEmBYC-MVg8q3ElxJFFTrxLKQO8FCkIAAFIyAwM5J34F-iYWCPIkZgx4IxENkSKMDW0h7g14Hi0P8BrZD7AU5hAOEXkR6w_3E-sPKxbUEFEX1BAjGZIPbxvOD30cPA_4HDYO-BzaDFcbxgkmG6MI0Ru7B_gcYwc8ImMHMiPRBnAktQavJdEGgScRCMAoLgjNKdgHnyuYBhIvKQc4MNIGFTEjBsMzIwbqNMsFxjXkBLw2BgGmOAAASjw6AF1BgQLCQwwCt0R6AU5HQAEgSYECaUneA_xJ5AQ7SwAFrk40BGpSqQRtVHQFP1a1Bn1X0gbtWNIG8FoHBmBcBwYyXioHmmLwC_Rlqw4CZwIPcmgCD6ZqUw53bBMNhW28DPVuvAwpcWsNFHOrDgF3Uw5NeckORXxgENF_WhRRhIkXhYbOGQCH1BobiXIdXYxKIJOQ4iFCk_8hdpWtImCX7SN8mW4mjJwrK0WeVyxsn5YtHaT5LzGpkDFlqygzsa0SNLSvizUyspE2gbb0OEu7Kz1swQ1HksJwSfTC60rGxHBORMdhWiDIVV2DyIVg2smoZiPKLmqeyjRrJswGfNLMN3-6zOqAls3ah6_N7Yr7z9WV8NAWnIPRGp150uedt9PKnZfWPZ7_2uedb9yWnsjcE58="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/37']=data;}

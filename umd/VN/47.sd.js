@@ -1,0 +1,7 @@
+var data = {
+"_ring":1879,
+"_params":".sd-1879-en",
+"regions":{"1874471":{"level":4,"name":"Ki\u00ean Giang Province","index":0,"property":{"openStreetMapId":1874471,"iso3166":"VN-47"}}},
+"paths":{"1874471":[[1]]},"ways":{"1":"G2yPAJydOQZk0qAAAGdKBpIdhFs1RyJhDFr1ZQ9luWprZAl15mXReLBxl4M6ediMkHvNkhx7PJUgfGWa-YSvlZOHAZUkiNCVOIh5lAyJxJQVnW-AJp2IefyZ0Gtcm8BmjZ_BYk2m1V4gpxlfVrGKVky0FlPmtcBP8ba6T0S5wUiFuQVDY7SROsypijFXpxYwd6bMMJylIDBPpaQu_6ZiLU2nSiyxpv4rI6jdKMWmgiflposls6cXJbWq1CcarYcm16xpJaGvqCSlr4sjnrAAI-uxnCRdtQEi8baVI1G_jiFTwwcfDMjlGUXIOxgaxUUWBcVKFQzI-xWOyoEUGsyeFUTPjhRR1R0Qmtw_CbPb_gWt2ckE0NjNAMDanwEI3QIBpOAgA9flAACJ504JuOHTDdHpdBIs66oUfOsDGGXtHhoH8YsbbfX6Gw74ZiGX_a4ih_6MJT39Xyml_TUw__-eMGP_djsZ-_pIO_vwTt738k8y9NpOxO9VU4PijVr84f9ZstYCYwXPeITczb2GwL-snw2warKxtnO3ubVMuAO0B7cJptvHIKcvySql78p7pmHMkJ2u1HuZetVLl0XXQXP__yFowfo8Z6_7Cl-K7KFduuZUWDPoLleq5S1WueWwVtvkJVWN5BtWruPvVAvkPFXP4hNUYePmVCbis1Pb4eVT5OJSU9jiNlPS4AFRROG_UA3jmE5w4thOZeCNTSLejkty3TVKJdlXRpPVu0P4zqRAKtEwPnTRLj6S1Is8cNVkPUTZZjqn2J86Dd6qOCXhnzfr39A2IOHDNL7fHjJg39gyTd1gMAXacyri2FUrNtduK9nS9yx70xguG9LULxPS4ywNz-kt6c3BLlLKnTEEyWgzHcmtM7bHVzUfxz01e8aiMijFIzDCxQ8tHcV4KUHH0iZByzAjH8ohJHzMwCPezbcgkM3FHEHPLhz4zGUay83vGAbMHxfyyywYrMpVF53JsRcZyCoPTMalByHHkgc6wwAAib_DI0eDkB8ZgYogW30tI-Z58B3mdYYkFG9ZFeJmUB2DXpodD1ySHYRb"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/47']=data;}

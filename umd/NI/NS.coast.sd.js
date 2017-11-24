@@ -1,0 +1,7 @@
+var data = {
+"_ring":2152,
+"_params":".sd-2152-en",
+"regions":{"2194941":{"level":4,"name":"Nueva Segovia Department","index":0,"property":{"openStreetMapId":2194941,"iso3166":"NI-NS"}}},
+"paths":{"2194941":[[1]]},"ways":{"1":"1nLNAPEB1PqooNYAmqnj-nGLND13hOBAGIB7REeDkkWyhAJKfYqDTjCJUVAmgW9TpYP1WRaCYWD6gqphJ4LVZzmFM2y1hzZugo-RcCGW03PlotNzU6YDdy6tF3mQs1GBLrqJg-G1-oU-uAeJLMLei5_JI5GE2HeUZdgtmfbfYJ4M8lOiHfM9pRH2-Kbl9uGpc_xbr0X7A7Zo_525___4u2X9vr6d-Sm_uuzBuXnor7lW5Lm6fNLTx9DMIc4JvtrUQ7xS2M-_Xtv9wBzfGb_v5G254OaIql7piZ-w8cOdFfVgomH5FaOH-36ipv4FoP__WZvi_FCUS_svlH_5iI2N9hKNC_WPiXD1T4kq8y2FxPPXgy315X2M9xx3FPRPccv08G8d9t1uj_VEbZf0aWm29PtosvKrYsnyWWEe8TFe1vHkW4LuG1Im7yROke2ySw3v10gW7VtEFu2BQqfqYzWx6vExWu2bL1_rCyts65YoherfJljr2idV7YMi2u6SHm7qyhmN6_MUAuo6GOjnvRe05foRl-OWE2XdSg523KEKKddDB7HW-QCc1wAAcNYwBM_TWAO80IsKN87vEDDHrxSyxfEWVb1aFYu6UhBKurcNUrk3D4W0GhGDs2sOCLJVDuuvzRqmphIk76VpKZyj-j6Xk987QpCePLSLqDq5iVU9PYjMP3aCAEAnelU9qHbNMktu9zB0a54wgGYrLYJiRjAXYB44c0ZUNgs9_DKZN5guWzRxLVkx8TGNLgMx7SrONhIkyzoxInlGuCErTLAdKE_6F99R0geITTMCOFB8ABBVAADEYLwB1HmYAV17fwLShHUP8ISbGNt_BiC0hOImOIKgKv6DDS3gg08wq4nRNK2LcDxxizQ9"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/NS']=data;}

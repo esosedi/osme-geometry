@@ -1,0 +1,7 @@
+var data = {
+"_ring":2486,
+"_params":".sd-2486-en",
+"regions":{"2762730":{"level":4,"name":"Ebonyi State","index":0,"property":{"openStreetMapId":2762730,"iso3166":"NG-EB"}}},
+"paths":{"2762730":[[1]]},"ways":{"1":"kNJWANBJcgA_JmcAYE-CAB-Z__-6lv__8ZGP_fGR7u4ojS3lxIot5cSKveJfiL3i-4VN4JaDTeAygd3dzX7d3c1-bdsEev3YBHqM1tdyPM9ycDzPDm7MzA5uXMpFaXzFfGR8xXxk7MezX-zH6lpcylhRXMr0TuzHK0rsxytKfMWPTJvA9E4rvvROS7krSmu0YkUarTQ-yqU0Plmj0DtZo9A7eZ79QimXxke5lCtKSZIrStiPj0zYj49MiIgrShiG9E6og_ROd3ePTJdyYkWXcv1CB3XQOwd1ESsncEgmRmvjI2ZmfyFmZhof1mjtF0ZrJBNmZiQT9mO_EPZjkgmlXMkENVoAAKVcZALFV2QCdVDJBJRLvxBkP1EaZD8aH_Q8fyGDOn8hkiTjI5IkSCYiIkgmYRjjI_EV4yMREUgmwQlIJuAErCgAAAc3AAD9QuAEYkVQB8ZHUAcrSsEJK0oxDMZHMQzGR6EOYkUREWJF0hrQO3IpazlTLgc3Uy4HN8MwojQzM6I0EziZQBM4_UKjNcZHozUrSjMz9E4zM71TEzghVvQ86lpkP09dZD-zX9RBDm7UQWl8ZD9pfBM4MoFTLl-IUy6Nj-Mrg5vDMEygozV5p6M1C7EzMzm4MzNmv6M1t9lTLhzccinl4HIpSeNTLuXgozWu5ZRLSeM1WrfZNVpT16Vc7tSlXO7UFl-K0hZfJdCGYcHNFl-UxqVc1LWlXKeuFl9MoBZfFaW2bUygV3x5pziBnbr4ii_ESZLBzbmU7tS5lBzcSZJJ40mSd-rYj6Tx2I-k8SmXCfR5njb7qqqb_Rqtm_1rtP__a7T__yu-NvsMw9L4DMPS-HzFbfZ8xaTx7Mfb7MzMEujMzOXgHNSA3hzUt9mN1lPX_diK0v3YitJt213LLuX4yC7lL8QO6svBDupmv37snbp-7NS17u5ws-7ucLNe8QuxXvFCrD72FaU-9kygH_tMoI_9552P_eed__8fmf__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/EB']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":2226,
+"_params":".hd-2226-en",
+"regions":{"2306401":{"level":4,"name":"Saint Luke Parish, Dominica","index":0,"property":{"openStreetMapId":2306401,"iso3166":"DM-07"}}},
+"paths":{"2306401":[[1]]},"ways":{"1":"iXToALFyV_yXBOkAIPJX_Fpr_f8LQGq2uy3ncwAAY2K7AAViIgFWYWsBh2BVAqlg2gL8X_EDll_xAx1fJwV0XycFg154BoNe0QZSX20IZWDMB8RdzAdqXC0JAVsYCt9a5grnV6YLBlf4DDpX8g1JVoYOW1ZGD0VUIhCqU2sQY1J5EFBRXhJuT14SRU3jErZK8hJdSXcToEhFFGdGrBRzRAUVx0PFFbRD4RUIQyoWfUJ-F8FCfhfQQREYakGGGDJArRlkP5oaHD4tG3I-wRsMPpgdDz-YHS09mx99O7shmzllI9s3YCQbNkUm8zMqKPMzBynfMvwq2zA6LfovXTFoLGYyLCngMRYnGzK9JckwMiUJMBwjUjCgIQIxsyLQMW8irTKvIA40kSIXNVwh6Tf1J4M8sSc6PN8lUzzgJMY_4yWmQpMnpkLbIlxH3iNFSlolmE3BJdZTTSRMWRMknloTJHNfhCEEZvMc6Wc_G0xrTxnTbuQW0XBDFhF1WBVbeIMUrHt4Ez5-_xIYgt0SvINIE7iFFBNNiZMSSYzuEdWQ5A_omAAMKZrICp6dJwgTn0oHVaBdBn6jhQTGpQsDBKg7AhaqwgGmrb8A6a-hAKe0AAChtYMAobZqAOG2xwAhvHYBzMGUAxPHOwSEymgDWc6lBOvO9ARHz1AFh89CBVnRFQaS0fkFXtI9BqPXAAlG2icKWt5_C7fgJgxu46AMLuZLDZHqJg4k7hkPUvQhDyL2sA8e9xAQBfgeEAn4rg_A-KYPUfkyEP__cxKL9-o0OOouWia5i85-sAv15Kf78Z-Y1_N0ih334X2k-y1yhf5ca___"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DM/07']=data;}

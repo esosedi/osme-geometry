@@ -1,0 +1,7 @@
+var data = {
+"_ring":1681,
+"_params":".sd-1681-en",
+"regions":{"1720064":{"level":4,"name":"Nugal, Somalia","index":0,"property":{"openStreetMapId":1720064,"iso3166":"SO-NU"}},"1720087":{"level":6,"name":"Burtinle","index":2,"property":{"openStreetMapId":1720087,"iso3166":""}},"1720104":{"level":6,"name":"Eyl","index":1,"property":{"openStreetMapId":1720104,"iso3166":""}},"1720109":{"level":6,"name":"Garoowe","index":3,"property":{"openStreetMapId":1720109,"iso3166":""}}},
+"paths":{"1720064":[[1,2,3]],"1720087":[[4,5,6]],"1720104":[[7],[-6,8,9]],"1720109":[[-8,-5,10]]},"ways":{"1":"UBFxAMip1QJQRn0AXXPsApdf__8AYH38AACjoU4wAAC5vOhIvrwxPv__NmI=","2":"UEZ9AE8v3QJFdYsATD7wAgAAZhBDCAAA-5yHaPucX4v__x7TCL5B2Tqamuelgv__","3":"pjtvAF1z7AJNg4QAnzQAA___JjGt7gBP1-x7fKnjQZDzvh6c0NbqrSTTpMV8voLe7rL__yaTHfe7gIHpDmgWvaxO2L2hRXm2RRF4ngAA7JCsFLZ1cTPjWEc1Bk1OS5cb6EwAAA==","4":"UBFxAMip1QJQRn0AXXPsApdf__8AYH38AACjoU4wAAC5vOhIvrwxPv__NmI=","5":"IWB6ANFn3gJRRn0Ab5TuAv__AAAAAP__","6":"MaB1AF1z7AIgYHoAb5TuAv____8AAAAA","7":"6H1-AJlF_QKOEH8AR5_9AgAAAADer21x_____w==","8":"IWB6AGBt7gJNg4QASz7wAgAAghXTHoZAR5YAAP____8=","9":"pjtvAF1z7AJNg4QAnzQAA___JjGt7gBP1-x7fKnjQZDzvh6c0NbqrSTTpMV8voLe7rL__yaTHfe7gIHpDmgWvaxO2L2hRXm2RRF4ngAA7JCsFLZ1cTPjWEc1Bk1OS5cb6EwAAA==","10":"UEZ9AE8v3QJFdYsATD7wAgAAZhBDCAAA-5yHaPucX4v__x7TCL5B2Tqamuelgv__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SO/NU']=data;}

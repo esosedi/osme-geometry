@@ -1,0 +1,7 @@
+var data = {
+"_ring":992,
+"_params":"-992-en",
+"regions":{"537701":{"level":4,"name":"Tehran Province","index":0,"property":{"openStreetMapId":537701,"iso3166":"IR-07"}}},
+"paths":{"537701":[[1]]},"ways":{"1":"uigUAiTqBgM5WyYCUkwqA_ejBwEypM4BpqVgA8SqvgVys20Ksbc0EC--QBYcv0gZ8LsgHE-84R1Ouiwg2LyvIBDANB5DxNQccNFmIHXcAiTL6SEqIOYxM-_fLzeA4CZA1vOyPzb44EBs_H4_pv64QP__xFf8_WBa5_u1Wwn8Rl4k-nRjRPoEZjP2QGsa9JZsD_I0b6Xpi3Qc4VJ3WtbeeD3UNXrZzfB8r8v-fJLJVH5Kxbl_YcVLgiTB-YQvwUKGG7_jiI-_CpfEwUaYzcGPmS3GvpoAz7CfYNPgoCjcjaT65IqpBOXVqm3pVa2q6-Gvvet5svHtu7MN7qC3yelOurDn87yf5eTAfeM8wrrjWcuX4bHMoOH_zX3fWM9j3f_RHtmx1CfZ_9Xs1ALaQdXO5XXXE-d_12To59vx6vvbk-3a2e7ur9f37izPZPQ2z7X1H81h-HXEivj_vfv5s7lh-161d_tyqFv-JqTC_1KZ___0lMn-yZLW_paQlP1YjgT78ImD-LKH9PV_hbX0VYPD9Np-qu99envuc3ou7T948eulcTrom3Ht5jVtdeT3auzhGWQi1QZkitK_YbbOomHRyrhjKMiyZZzByGf0vuRrDrcTcMGx7m-WrKdtxqiebXyno29CorFxVJ5VfJOXS3xJlq2CPZLFhmWK2ojDhwWLtIdlkaqDT5EYgRmP3n8Cj0x9IZHzexaRqnpflUR5fZfsdxCTd3VpfQl2XX3AdP14k3NIcIJyHm6RcuhrVXFAY41x-F70cqRaEHNnVsF14U3ZecJLMnsxQwB-1TwMguA8V4OXOL-EbjbNhE80J4b8L0SGlCvJg2sp14P_GSV7ohX0eV0EXnoAACp5HQLRdxIChHZcCCtxVQrsa2UMRmmHEglgzRizWgIfEVQ0JW9NJiUjTHwtd0UlPBE8Kz5uOdI98TLVP04wskXMJYhHkSCbSTofA0kkFrlKmw-0SU0BjkdXAXZHCgCcSQAAJlAxAWRSdAIUW5sDn2HKBN1jDQYDZgMGzG50CPJwawh9d5kJo3mPCeJ70QrGiJYK04pBCSuR2AdClS0Fc5nOA-2hXAL3owcB"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/07']=data;}

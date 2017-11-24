@@ -1,0 +1,7 @@
+var data = {
+"_ring":1986,
+"_params":".sd-1986-en",
+"regions":{"1908816":{"level":4,"name":"Samut Sakhon Province","index":0,"property":{"openStreetMapId":1908816,"iso3166":"TH-74"}}},
+"paths":{"1908816":[[1]]},"ways":{"1":"KtPMAJpo9gUEXtEAzEr8BbFFCAKTTQAAvVQbAQ5eQwYWaL0Hln3kBRmI5AWElKkIHZ2cC86jew-wqxQZnbL0HLm1ZBxDuoAWPMAHFVDEuheQyMUXDMm3ICbDbiJLxfImK8PVJ6bEGytJwnItHsLxLwPGMTrE21Y0EN8NO_7cRjw34J1PX93KT9fZlVV-2_lWYN0jWwvfIVxx3hNdduNvXnDkjGFV4PBiVuCmZH_asGfu2Rlp6Nrraj7cSms528psl92lbVDgRHHE4sVy5eH5dUXjIXjo3sd6_uAMfIvdiH7o2yF_M9q5fFPVUn6_2s6G6NcNiyPdTpWp4LCVQ-HqlnjfipxY44ugpuWHoVnpep9169KgTexsoITxL6Vj9b6l-fjWqPz7f62-_9G3__8IxjD8csgo-xvI2fjfyW33i8cY-b3GlPiTxXL0UsY58BvEtOdJxTXl_Mah4nHHKdkZx7zZd8iP0S3K2NCkxqTCA8hZwPPJDL2lz1K6ydB3uvTSBLY01Je2X9YntIPXibX529OyINxurRvgCalk4IKn9OGrmTXk3pI75OGOBuhQiyvp3YPW59Z9i-n5e0fsE3ME7xNzaPFfdWb1F3ZT-4ByPPyhb_v6VWws_uNo__9yZor_uGO3_Udg1f1HYMT2BknE9phIMvZfNZX59TAw0_EyaMZJNv27SEQepn5JBqG_VrGbiUiXnv9D8J4SPs2dYjfsmrkxWZYLLnqRniANdhYX2Fz6A4cwAACaJFENdSABFIgfvRmxHXY6-wtZQnQGsUUIAg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/74']=data;}

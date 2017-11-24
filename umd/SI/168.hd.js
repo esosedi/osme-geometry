@@ -1,0 +1,7 @@
+var data = {
+"_ring":1498,
+"_params":".hd-1498-en",
+"regions":{"1676355":{"level":8,"name":"Markovci","index":0,"property":{"openStreetMapId":1676355,"iso3166":"SI-168"}}},
+"paths":{"1676355":[[1]]},"ways":{"1":"2mrDAqmI8gCWU8QCsAf0AEok___gHIj3UA6x4zIKQ9dlClzRPAUOxZMDPb-DAlK1AABVpKADspYWDOSLtg40iWMb_oBxH2t-hiDWfrIgln06ICt7uB27dFscLHA_G8Jm-xkMY8cZNmG8GZle-RnjXY8an13iGitcSxy5Wk4co1n1GnhWZhzrUgQci1LrHghS7yEQUqEjqFIyKv9SYS-BUvY_m1KPRmxT1lHVUw9fo1Q9ZORUBWZ9Ufho-00pbA5LM2zzSChqZkVlaD1BLmfiPKxmRDpkZmA1eGaXMiNn5C1caEkpD2wLITpwcxvCcwUYgHfnFOONyAbSk90BbZUAAHia8AI1nI8DE6E_BiGlyAhrsXMRk7IvEXC2PBNzue8TZLimG3e4Ax5YunMforscHgO9JCBrveUgW71gJka-kiVWv30jOsPLHbnIKB8bxpoipMCPKAa_ziiyvpQoZb9NLaq8my8AvlwyBbzhMrO7lzP9ux81Wr1yN9nABzxbxNY_G8VfQT_JuUNnzNhEPcsxSF3PHknVz5dO5dDpUunSVViM1MZimNbaZSHXRGZV2ZhmEto7ZgfammZP3Klmp-EAZmblJWYl6vBmP_BxZ1L3JGfm-fRnjvuvaP38FGuo_VNtI_6tcf__Znfv_mCB9_kln5fya54-9K2n5_VMrdX1m6_T81G6bvN-wAfyg8m88afNzuqlyxjntcvX4O3KhuCryxPbucjH2r3SQs-d0kDPXNMWzqfT_8uY06vICdTuw4zVJsKY1dTBpda2wGXWI7-H1bK6ddL1tr3R8bJs0RyoKs8yqGvOOaShzYOkgswslpLJZ5fPzNmX69CtlgraUJa54KmVo-X-gm_l_Hxs5tJ7rubsej_nMXUi6JRsYuoIa4DqUGtW7Adp0ex_XtPt3lvu7VVbsO2xVzHukFfK8U1LcPLWSdT0Vkki92VH5PchQwn5LDAV-p0uk_pLJP7_"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/168']=data;}

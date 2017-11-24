@@ -1,0 +1,7 @@
+var data = {
+"_ring":2335,
+"_params":".sd-2335-en",
+"regions":{"2440380":{"level":7,"name":"Karpo\u0161 Municipality","index":0,"property":{"openStreetMapId":2440380,"iso3166":"MK-38"}},"2453814":{"level":9,"name":"no-ru","index":1,"property":{"openStreetMapId":2453814,"iso3166":""}}},
+"paths":{"2440380":[[1]],"2453814":[[2]]},"ways":{"1":"vU-AAgLvRQEvjYECuxlHASj__GAk8gpz7uCqhUXTm5dgzTGd_8lhn4zBI6LjwT6nVMCVuBy-Z7y1ukvAEro3xJe-pcmywcXQZ8NA2fXAkNuXvzfiRLiZ4DS51ucrtuXnEbY2502yxuV5sjLipqxi49apUefnpzXkkZ-D6nydZOclmDXoE5ea4V6aRdgrm77NdZ5Fwp6f0LlInCS5EpzevkKaqsTajU3UAYgXzm2Jrss2gRbDMoQqvcl_yriWd9Sxdl4Yqu1egKXoXTOlf15jotddoZ-hWLWYMlBJmCRJopL8Nt-wgzRYwyAz5dT3LbLY_CXu4hYiOuw1GM728xNT_-4R__9dDzz_iAZX_L8IL_l6Cf32QAl_8Z4Hne1wBrnnhQO-5HgDdOOgBCfh8gPS2HEF7sH2BoK6UQcWtQMHM7D7BeasiQZwp6cDSpz8AE-DYgB4d9MAfGAAANhTxgKbR9IFVjE1B7sWAwQAAB1IdQBjVrUNCVzwDkJgqhH7ZI4X_2dQH7xpqx9_as8iOG4nKfZxszE5d9A3YoXGIF-JaBfVjnwb7ZKoKKWieSTapiMfBqnFHVCyyxshtGwZALm7D9XAkAs-wyEL183QERfQNxFO07IR4dY7DyXbYBCv5lYaaOnJGfjrMxcF74cWSvQ9Ftn1rBcE-B4WPf15Fa__GzL__3lVKf_8YA==","2":"COaAAvhjRgFqEIECRKVGAcmMZQ43iucihpTXKS-d_Ct7qwAeXLsHIuizNT4rvlliCfR8mDT-Pq___wPRAe3__wAA19tLLgAAw4xdDg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MK/38']=data;}

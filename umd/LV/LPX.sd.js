@@ -1,0 +1,7 @@
+var data = {
+"_ring":2062,
+"_params":".sd-2062-en",
+"regions":{"2019053":{"level":6,"name":"Liep\u0101ja","index":0,"property":{"openStreetMapId":2019053,"iso3166":"LV-LPX"}}},
+"paths":{"2019053":[[1]]},"ways":{"1":"tJddA-4pQAEmyV8DsAtCAQAAeCQgHEofZEXbEQxRRg0SYf8D72SeABVnAABKZ10BOmQxC8FoWhwkb5Qcom6RFnFvRRYEcA4dAXT-Ggp0jBt2dQMbpHVgGq517hqDdp8aBXc6IT96gB9MehAgGHxxHzN8kSAwfHsfq31mH5p_DyBvfz8i5oDBIlOG6yG-hn0huYavH-mGOiFVh3MhWorsHmWMUB7sj-8hV5GGIACSliEhlksjMJv2IpygPSF7opsfeaOjHQ6kMCImp3Umqq0nKXOuKSi9r1wojbFwKra0BSwgtrkrzLgsLtG4OTCquicyAcTCNg_ZWT732ds9KN1iQUbjp0P05cpFf-wNSVDwLU-c-dRW___nWr7_G16b-1WHWviMsR7rN6hE6GOoqeKDoQDheKFX3oaestrXnYbXDqGt1Tmh-NODow_STKR10Rumwsi6rmfGqKrYxP6rJMLjp9e_WKkFvVCtDrdprGG2yaj6r3ezKq9stiajvsmqs3vRg7Zm1M23z9Ygu9Lmebxa6a27zfM8uLT5RrPz90mwRvoQq___eKZ39DqmTPXGpr32vaVO-3GgKf2Zn__zqpnf-ZCYj_Lrkx_wsJCi7IKJgfAqgDP3uHvW98p6Uve4fD3i4nsj0E57SdD6ev3NTXv1ycZ8vcKQfJ_BpnrMwRF2aMXrdS_C3GlrruhkT6RlVLCO7DqUhUIfxpDZGO1jAhetYxsX32RIFFBnrxKIYMkSZV7JE9BbJRRxWJcWJlMFGNw7fBW9OckU8DqyE4o6xRKWNxUICD7lBok1FAG0OAQAxSQAAHgk"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/LPX']=data;}

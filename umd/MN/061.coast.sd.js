@@ -1,0 +1,7 @@
+var data = {
+"_ring":636,
+"_params":".sd-636-en",
+"regions":{"269886":{"level":4,"name":"Dornod Province","index":0,"property":{"openStreetMapId":269886,"iso3166":"MN-061"}}},
+"paths":{"269886":[[1]]},"ways":{"1":"NITBApfsrAbMQP8CYAImB4ZihBYHdaoRJn-hEAeIkxHgjAURAZ-ZCdKlxwexro0J5baFBh7CgQWixwAAfM0bCebPbA-8zloWvc9wF_nOIxiyz7Eaz9JhHVLVziE_5JknpOkBL3DsKDCm7Qw12fJZOL_0vDx8_WdG__-US-L8vE_A_btV1_tJXHv4JmFh83djYO0haDvoQXHi5vx4-u6Dg13wxIjA6TiVGuQdmHKmV4Jpo3iDdpBLevJ_Jns9ebJxYWopc59bs37AW7R_-WOlhNJncIlPZViPjmj9luponZsyZDukyliIrU5g-7B3cGW7RXAUw1tyVsW3cUjGnnIrxyhyJMnFbw7LdHAozxRvu88nb5fTJWEJ2k9a3-WcUo7mpE587RJLVOxtSyjtY0Vk8UxD2PPkPwn0vj8O9oc8yvgKNLn72TE4-0su3fwKLtL9PCuB_RIqq_-7J-_-zCb__xgj8__IIA7_ix7p__Ia4P4rHL37zRgP-wYW1feMGM32vhe59CIZ3vN-GfvvVRfX7YoXpesyGhLp_hkz5Ywg8uGoHhbgXx_C3hsint6TIYrcZh722mgcKdsRHWvXjR6V1uUcUdSeHSzQ1x_IyzYc28f2G2rFrhiswtMXQ7-BEji83xJauo8R5rcgF0-0oxXGrkYSl68-Dwqu2AdPrWsHMaQ1Cfqb0wWumTwEfZQAAK2SnRNaizgWlYhFFr15ZRMWc7oTfGnBELhdKBw9V3sin1CPJctOBi4YTo84E1CpQCJGqE3qOsZQLjb3U7wlIFe6HqlUHBjTXsIWhmKEFg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MN/061']=data;}

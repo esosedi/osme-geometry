@@ -1,0 +1,7 @@
+var data = {
+"_ring":1102,
+"_params":".sd-1102-en",
+"regions":{"1211126":{"level":6,"name":"Cimi\u0219lia District","index":0,"property":{"openStreetMapId":1211126,"iso3166":"MD-CM"}}},
+"paths":{"1211126":[[1]]},"ways":{"1":"dzLEAr-gswGPrskCf3i7ARPytD509PpB1PI0Q___vVaZ_aFXvvxxWpn6Z1tI-CxbTPTpVDrurFhx99Vi4fWYZIPzoGE77yhkcuoeaxjjH3CA43tzuebXdRfkoXkJ4sl6K9yqe_7YWn0N2Yp40NZceCLX0Hn_1SJ7r9aOgiTTKoSP0VqIksuyiSDLaYylzamPjc-hi2PPLpEhyjeWlNQPmjnWGZw_0KqkIs0ap4rNYKtjzNusocxnrmrL8rA7ynSwvssmrjzLja1qyamulcirreDGvq1Xxm-susFBr_W5ObK_taiyqq8Ntb6tL7j4tn7BNbFzxJevbcN6qyLEiaqAw4mobMRFncPLY57izbOZLtCwh1DPbopk3DSM_O8Hi-b8MYPW_FCBLvkngPD42X_z-jN66fqaeVD68ngo-4928_p4drr9SlJK__lPL_-7T5P9t01L_jdNhf9TQ___yELD89Q57_OSOR7x2Dcl8Y42JtfuP3zaJUMn2pZKx9UwTUrVHE1i1I9XY84EWTrLvlhpvwhVCcCEVAO-Wk7eviZOJr4fSuG-1UnRvRlO8rymS0O6MEmmtThGQLdeO36jLjMfqHErBpqKKQObhBdHevAOuYD6CmWFvgZfiCYE3n0AAIRmJBXbQawpORv9KcwVoSeYBsQmbQX7JgsBsDcAAHE6Rga2Q-QK7ERLDJdJxA10WN4L3mAODAJo1w4GaBQJH4aMDAmIXg3Oh04PlaARD6-fEAwFshAN5LG4IbCzziLPtrkiOLyLID7BQRscyJ4db9WeHp3dNh2u3wsZl-SLGybmfyGQ5ygjyua7IyTn-STb37spf-LSL5fcxjLN4bQ8cukkOf3paDom6LM7r-qMP4vvlTsT8rQ-"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/CM']=data;}

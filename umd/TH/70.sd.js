@@ -1,0 +1,7 @@
+var data = {
+"_ring":1981,
+"_params":".sd-1981-en",
+"regions":{"1908811":{"level":4,"name":"Ratchaburi Province","index":0,"property":{"openStreetMapId":1908811,"iso3166":"TH-70"}}},
+"paths":{"1908811":[[1]]},"ways":{"1":"n4bIAI4z6QVQxNQA9BL3BcRzlPSXcw_x1HTV7Kpw8enucH_mbG--4o1xYt9jdD_XP3Yh1WN0TdFVb3XRUmz1zsVh48rlXOjL2Fe_y-ROqcaLQ93EkTsgwvI62L4ZPCC0xTpLsLg826wTPYSmXTxPo1Y2aJZqM6qT1C3GkOcq3YzwJSmMyxlkjMgWEIvVFN-IQxJmg94PsnRZEpVk4QtoXjsMHVuwD3FXygvQUcoLpFB_DDJNVg91SiIQ_0V6FLJBuBVOPGoaSzcZHCIy3BqmMNgXUS_bE0Arugq4K7YHoCqCAQUiAAB4HFQBEBsxCrcYeQ1eFt4PFBMFEYQM2xPbCb4UGwvCF0gMsh2YDKowNgjINuYH3z2EDAFH8wrBUCQNbVZ0DfBeVwtVaKcLy3KCB6V_ZgUKiWQAlozlAvSPhQNXnQAAF6dQADWtHQIotjUDArscAQi7_QgFv3MNasHoEfDFpBQQyNoXJ8gGGfbE2xzJxDQfgsjlI2TCNC0gwhIz6cb8OyTMA1CM0VBUb9IxVjHR1VdYy1VaVMjqXJXFJGGhw6ppbsSza_DMVXGwzyZ0wNAed4zRRIA41zuHQtkVke7XEZnX1-ahP9Y5p2bXXLR-5Wm36ebSuETna7zF6Je9Sf9pxf__48pz_J7Wnflf2qD1Qdzn8bncQevx2yzgJd9G3BHf19Dd27_Jbd13v2Tbdrid36C1huNPt0fnc78y6yTBcO-JwwryXMCL8nS9sPAUu1vwdLTw8EqvJfQ3rjX64KxG-wyrHfuXqm_8h6JG-sKiyP09oaL8Bp9C_Vedwv8vnP__nZla_rCWSPoEkWT3aIw39sh9r_ZaeS_0sXa388RzlPQ="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/70']=data;}

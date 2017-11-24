@@ -1,0 +1,7 @@
+var data = {
+"_ring":637,
+"_params":".sd-637-en",
+"regions":{"269900":{"level":4,"name":"Mazandaran Province","index":0,"property":{"openStreetMapId":269900,"iso3166":"IR-21"}}},
+"paths":{"269900":[[1],[2]]},"ways":{"1":"Sz8yAh37MQPUcTICFpYyA0n_vTYRtf__AAB7_2CAxGxocgAA___LBkn_vTY=","2":"Yb4hAhiW_wL6WzQC8s45A1rGET7lwQNIusEHS7S8bE7Nu6BQirYoVcayIlfertVbRKxQZS6qm2fvqThwg7Cre3XA64_Zyb6j7s_DrXDc4btB4ODBdehX1SXwUfIX9B_3J_d4-Ov3qfng9OX4CvBq-aPuffiw70f1vu2i9PztX_MI7N3yPOw-8L3peuwm6j_pTufN5kLmVuLM443iOuYd3-7l69wx4ZTeR9yY4d7aWt9C3NXbbNqy263ZQuQA1ink6c-w5crJXea3wVzqyLvN8cK3E_WnsUn4Zac8_CKfsf3elv__1ZZL_pWSwPpnkET3oYMQ8Ex9DO8HeUHtz3Qn7axyROxSbE3r4mMn66RfQeo1VyTqv0466XBK5OWlPefgnz0W4H07Q9_LLp_dxC7P3EkmM9ueHfLTdBtY0jQZVM4XGRzLMxsYyzAd3ceXFOvDjxQew2oSVsJZErzAMxD0vz8SVL4ZEI295A-_uL0N-be0DSy3tQ-_tAcYc7ElGm2xOhyasCccAa-mFeKrVBW2pHYZR6JuGXuhmh3Yn8wjzpuRI0SWpyVzlbgpcpHkLdGPyS1zjaErsIyPKxyLXimQiQ8lC4gFJUGHZhw6hKMCjH2ZAsN8cQADfAAAaXP9AQlxIgZobwsG2G25Fq1pPiG8aJYpDGfPMc5j2zVnYdU5OV5uO_VXbz-PVR0-jkc1QIZHIUC_RuFQf0bkVOFEilb1QFVc-jzDW084wF2AN3VdKjVvYYszVmHEMoBn5TF7a0YwYmt_L3ltdy8tbSAtEW-JK6luayhycA0mcHI9JQJ0TyF-fiYhY35eIEOGVhwNiiYZJpKtFvSTTBTFmUoQtKE_DNSnlQq7p8wJyb0AAPi9lQGPwrAEKcn4BkXL8QZ4zbMH1OQ0CCvp8gjU7z4LG_CaDaj07A_A9LYQNPk_Ev__MRKo_IMTN_fXF4fwJRoQ4P4lUNUFLFXLeTXDxnk9WsYRPg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/21']=data;}

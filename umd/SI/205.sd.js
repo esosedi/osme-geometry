@@ -1,0 +1,7 @@
+var data = {
+"_ring":1500,
+"_params":".sd-1500-en",
+"regions":{"1676357":{"level":8,"name":"Municipality of Sveti Toma\u017e","index":0,"property":{"openStreetMapId":1676357,"iso3166":"SI-205"}}},
+"paths":{"1676357":[[1]]},"ways":{"1":"OKnEAqA99ADMsMUCdvn1ACq0q_qxqjj1IKqJ92GmYfnYpWH4Q6dL93CmyPUWpS_2_KQU9Qmk9_Qdn3D1mp318_aeu_CRnpftAJtZ6QicseiYmwrncZeK4zuV5t84lMnhaJCR4kKQEufSjtjnqpIY7FKSSO8Kji7vDIkt8w6HO_K0hTf0Qn4i8UV0XOuKcljuvHmm8gZ5RfM-ekL083sm9Ut9vPOVgW_1pX3o9iB2mPbCdcL4a3hU_V92Fv5Abv__jW7a_dFj3_FHXFvuZ1cS7sZSZPbyUHz2RU9f9XNN4felSSn5kEdl9xZHtPG5QXztbT4B6HA-oOIFPH3ikzmL42c1fuBaLqzVIy871Z0soNKqJZTSICTd0x0kH9ItIVDPKRx4x9EhasWoHVK9nx-xs6Mfc673IPKqCCidqx0pI6jkJyan0CmjpZcoC6QAK-CiLi5-o2cwhqXqMgKlyjWTokY0QaABNaKf0zjZocA7faKbPCCkwUC9pX5C8KeQSCWj9kY2oTFHCJ_NRJqcKD2nmPEy5ZTSIYySORvclB0WaZTmC_2PsAfUjwAAzozkAW2KGwGVia0C6IYhB-aA7gt8fqkNlHbGCyd0Zgyycj4ai2ksJ_5i3ykaYAcvpF7TMURaiTqtVnI1x0_9NPlMgj2AQF09sz2iO6U7J0JEPl5SGT6AUDQ7gk_xNrtRRTT5UtY1dFPzOVVXIj07XBk-12O0QpZk1EJyZfY_EmudQGN5dT0MfYM4MIGYNc2H9zMUijQwDY2oLSWN7SvojqAq45TnJ1CXhSdamTEoI5zJJB2gtyOop-Ac2aluHNSsYRn8r0UY1rBBFgO6qwuYvCwKcMTuDDzLhRM10G0UutEuE8rV9hKP3OwP5eDaD27kxhDN62sOfe5XCM_z4QNL9gAAG_dGAIb7gwj__2kMbf2_Fdv8ER_S--MglvbaI4X05ifa9CUsavsXNzb3F0Ct95xDH_xaS-j7-0-1-nxR3fXIU0Pz3VbU7vVgHegMZW3liGxg4s1x79x6ebXY23sc1XeBJthqhQjYGYwp37SP2t5VkurYEZrW1lqgCde3onfa6qmT3E-0S9a-xNDUeM1X1dHQE9qm197ctuavvJb2XLxw95q0pvkmtKb6"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/205']=data;}

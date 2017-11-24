@@ -1,0 +1,7 @@
+var data = {
+"_ring":1362,
+"_params":".sd-1362-en",
+"regions":{"1674767":{"level":4,"name":"Kapisa Province","index":0,"property":{"openStreetMapId":1674767,"iso3166":"AF-KAP"}}},
+"paths":{"1674767":[[1]]},"ways":{"1":"AngQAhQIIQQu6hgCxc4qBFAFzYIWB0GAwAixfw0KbYDACL6ENg0ChOAOTYXjGbGD_RqrhMYZNIckGqSKkRySik0dIYksHE2FyR_dgUwi0IBCKk2B1Cy-gGQtYH9cKyh9KStOe5suCXxbMH96CTPwed80CXheNr50ETqrdDM9VHNlQqt0sUP2dRNFLnoXRr52X0ttdHNQWnajUS54bVn8eGBbmH56XGB9pVxOeXFfTnX9ZSh1a2j2dattyntZcH96g3Nnd457yns9fvB5uIAJeriA9ndofplyEoB6a2eD0WcJg-RjvYEWYTeCgF_mhFVdFYZhWsSIT1oMibJY6YqNWOmK_lXcjL9TC44wTSyPKUxCj8xKB43MRqmMaERPjQtB6I-IO22PsznGk6E1p5bfNVKYUDN8nUMws55DLiakES2lpTEotamPI6Sq-R8or5Ub16y7F8KsiRTLqagRcap2DAasjwqJtY8GULeDA4S51AG6vwAAisUyAd_IzgDD0T4E4tPBAyHXgwVs3dQFuN7BB_jo4Qam69QFg-3OBtTvJQY68qIGPfhEBd78cAee_gYHdv8ACv__-RPD-x4mIfxQL4D3iDf582hAhfPGQzj33kwu-pNhgfL9ch_xD4Hi-CGRUfgnlv30TaDI9-ipOPfPr7DzsLY258i_COFFxpPX281D06nN4cxF1HDJnNZcv5bYB7zU2qq2JeUZryXrRqqV7IukauwMnLvq2pYM65eSGO5sjYn33YcS_MSBPf7EZ___cGQx-5tdfPYpWlD2GVZQ9PZSGPBrTjLkvEvU2ApIANMQP6_Iszl-xYIoB8HRGvS6VxVxt1wKpKwAALeR0gCMj1EA7InuA_KIVAYLh8gGHoVQBc2C"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AF/KAP']=data;}

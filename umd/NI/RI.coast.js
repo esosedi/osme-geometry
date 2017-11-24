@@ -1,0 +1,7 @@
+var data = {
+"_ring":2142,
+"_params":"-2142-en",
+"regions":{"2194846":{"level":4,"name":"Rivas Department","index":0,"property":{"openStreetMapId":2194846,"iso3166":"NI-RI"}}},
+"paths":{"2194846":[[1]]},"ways":{"1":"TcCoALwb3fq8HbMAYPPr-gAAKP7uF47WZhkIxnkoG6rNOCqgXzrPk18675IDOVmSJge8fhcIq30CCBx6OQlDefsKUHcAC_NzRgyUcogKaHE5DnVw1A4Ybb4RjWyhEuhqqhHOaZ0T62h0EpxnwhV7Z-UUjmW4F0Nk1xo1Yvcc5mOPIHZj9iCtYVghTGJiI05iaCaQYJcp0l9gMrdbcjebWHQ341bAOeZWfzs6VcU8d1UzPfNTo0JrUeZBalCMQhBQXENvUNlE_07EQ5VOhUXRTQpFsEzaR29N5kjETlxL6E3PSwhNmkoaTK5Mg0nRTZ9JAk4qS3NPcEu6T_tJQk9nSC1Q6Ee6UNRGZFEcR8VR_Ec-U45GlVWsRlhWqUVeWQxE4VhuQgxab0NOWy5DiVs5QjVdhUELXI9ACl5CPjRf4T5yYTw9vmEjPOliNTyXYz87pGmXNt5rPTPUa68yxWrWMiZqZjLUbFYwTWxhL4JvxC4fcOUssXExLN9x0CpHdEorRnYjKvp1KChHdyMoNXeBJ2p4NCU9ek4lHnqJI5974yRgf7sjPIVfHVmF7hpmiuoZTo36F_2MUBeHkI8WnpNbExCUtBHQlccRw5fbD36W2RFVmCESp5hXE3-Z6xIvmpURcJgiELSZnRDVmBAQtpkbDwucFA70mUgO3Je4Dw6ahg1znDoKVZ3uBiSfawUZn38DI6FmA9ClAACQp4UA0qgJAqCrTgHvrA4AjbDOAk6x5wJUsqQCdrPWAtu0JAT7tW4EGLjyAwu5AAQOu9AFzrxgBuvA3gY3y3gOl82YDx_OFBPBzVkUosw1FR3MBxf2zn4ZudCaG8vRiB4p0vkkANNqJjbUICdE2REoO9vVKJLehCsz32gs1N8WLtLf-C5S3Zsy29y9NvjedTfr4ME7CeKLQh_kK0Wj5R5G9uXdRmDnFEho6HNIv-uYSzPt6kt-7tlL6u5oSyXx_kqA8hBL3POeS0f0p0x58ylNT_JwTbHxl06y8RFYmvKKZP__uoj2v3f-nQvK_9QJ__8NCbD_rQaB_7oFC_8yAQj-BwAn_gAAKP4="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NI/RI']=data;}

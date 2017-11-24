@@ -1,0 +1,7 @@
+var data = {
+"_ring":2490,
+"_params":".sd-2490-en",
+"regions":{"2762734":{"level":4,"name":"Gombe State","index":0,"property":{"openStreetMapId":2762734,"iso3166":"NG-GO"}}},
+"paths":{"2762734":[[1]]},"ways":{"1":"YPWQAJAQoABx96sAH_i0AGTahLGb1Ny6KdPcuinTury30bq8RdCZvtLOmb7uy3fA7stVwgnJVcIJyTTEl8c0xCXGEsbOwRLGd73wxzy28MflsRLGwZoSxk-Z8MdqlvDH-JTPyYaTz8mGk2rPE5JI0b2NXd69jTvgSowZ4kqM-OPYivjjZonW5YGG1uUPhfjjD4UZ4p2DGeKdgzvgK4Jd3iuCoNq4gKDauIDj1tR9J9PUfUjRYnxI0WJ8as8LeM_JmXbPySZ18Me0c_DHtHMSxl1vEsZdb_DH623PyettrcuUaUjRImhI0SJoJ9NZYgXV52Dj1udgwth1X8LYdV-g2gJeftwCXl3ekFwZ4qxZ1uWsWZPpx1ZQ7cdWLu9VVS7vVVUM8eNTDPHjU-vycFLr8nBSyfT-UMn0jE-n9qdMp_anTIb4UUiG-GxFZPqIQmT6FUFC_DE-QvxMOyH-nzIh_mQr__8NJ___tiIh_tIfZPpfHmT6Xx6G-O0chvjtHKf2exvJ9AkayfSyFS7vshVP7T8UT-0_FHHrzRJx680Sk-lbEZPpWxG053cOGeJ3Dl3eBA1d3gQNoNqSC6DakgsF1SAKBdUgCmrPrgity64Iz8k7B_DHyQW6vMkFH7flAsetcgHpq3IBTqYAAHCkAACzoHIBs6AAANSe5QJ9leUCnpNXBMCRVwRUe8kFP247B6RoOwcJY60Ibl2yFZBblhixWdIf01d_KNNX1iyPW4M1OFJMO-BIoz-qPfpDMDY1S18ljE-BI3BSPic5WMw7HlvMO3Vfqj2wZkVDlWmIP-ttqj25gKo9nYPtOfSHPifYiqIh2IqOFEuM0RC9jfMOoZAVDRSSFQ1qllgJT5lYCaadvQMYnwAA4aQAAFOm3gE4qd4BHKy9A3OwWAnlsVgJrrfzDgW8FA3qvvMOs8TzDrPEjhRcwEoYXMDmHUDD5h0lxgccfMpsFtLObBa30Y4UgNfEH0ndPScS4_oq9uUwNhLj7Tkt4GdBoOEjRYTk4Ehp575KFvCxWVH3bl02-ithGv0rYY3-CWP__wlj__-Xd43-VHuN_jJ9qPvvgFL3wJFS932V3_Vbl9_1OZlt9DmZbfQYm4nx1J7A67Og2-izoPflkaKE5JGi19vHrdfbpa9l2qWvZNqEsQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NG/GO']=data;}

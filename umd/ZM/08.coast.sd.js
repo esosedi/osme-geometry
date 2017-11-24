@@ -1,0 +1,7 @@
+var data = {
+"_ring":775,
+"_params":".sd-775-en",
+"regions":{"318860":{"level":4,"name":"Copperbelt Province","index":0,"property":{"openStreetMapId":318860,"iso3166":"ZM-08"}}},
+"paths":{"318860":[[1]]},"ways":{"1":"9yks_8-amAHinUX_CHq6AQdIn_9hI_XZ-Rxr18sOR9YKC83TrQY2vVAJE6PEBCOaAABvgXkI4H7HFGaDoh8JfaokV3WxIjNtlCmhYQURUlfMEltQqQnaUMUBAkkdA9xG1B6PPpMf-QYnJwcCVzEAAJJI6giGWsIUBXESFpZ54B5wjdsijpCqIqSP1xuUlFgY4JtxDPCeBgvWp_kOTbIXCPDD8QorxcIR7s0EFU7Z3yE84QAfUuocIVj2wR4c8MM8LP2rThv6RFE4_kFd__9_Xur-qGD5-4Ngc_k4Ynn3WmH09EtlKvZVavz0ymwI9p5t9_OGcTP3dXKU-Bh2YvqNd3f97Hfx_jt3u_yfevT7C4VQ98WEBvY6hkP0Voay8GSI8uy1hkTqQIeE6fGIAu3Vi27q15EK7GqTbev_lZfdAZtg3-ecSt80nkThOp3C46adQuXZn__mk6Ci5v6ijOQTomDjt6L34kGmIOBzp1vil6pw30Wt-eBvr5LgHrKi3h60YNsdtevbdLZK2hi4K9TrurfRjcDy0O2_-86DwHPMNb-LykDA1skewpfGRcSXxszF7MRExtPCRclbwfDITL-Dyri82sjTtzXIDrfAwkqy6sDlrUbEtqkPxrCoQcd9qb3HlqKAy1efi8sZnsHKc5fYzSaX_c8ioTjThqGy1IyjEdbto0nYEJ_F2riZ9OAQmM7gsJKV43aQ0-PqkCfnDIpA6ZCJIOu6hhzsAn5f7JV87u0_e9TrBXr666p2nu7bc37tIHGV7Z9vne5zcNzwbm6U8a9vIvQBa5T2gmZZ98dkovaxXuz42lVQ-oFTqvvsTcz7Tk15_R5Pfv95Tv__wUtH_lpIXf8HSJ__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZM/08']=data;}

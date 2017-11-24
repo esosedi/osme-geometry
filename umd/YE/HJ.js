@@ -1,0 +1,7 @@
+var data = {
+"_ring":882,
+"_params":"-882-en",
+"regions":{"383905":{"level":4,"name":"Hajjah Governorate","index":0,"property":{"openStreetMapId":383905,"iso3166":"YE-HJ"}}},
+"paths":{"383905":[[1]]},"ways":{"1":"VqHsAOzCegJVgP4AE6KbAj1NQwAtrQAAgazYGN-3Ly5zw4Be78KEikfE1YyAw_iOGcL5j3HA65GMvkKS5sFEncfCP54Iw4-gdcMwofbDnaCWxHWg5cQNn37KAKAnzvqeqdbSnznYfKCf3T-lv90iqSveSan43hGteN-qrQPfva_O33uymd_cs9HfIrQ_5O200OyjtWPt0rXy7V22g_P4tkj5OreN-iW3bPx2tmr-X7e5_4i3___mt9b_gbhK_fS5avtSvIn5WcFQ9q_DffYUxFX1mMWv9XPGQvIPybTwmMoS8YnL_PDYzDXy4c9584nR5fQm0uXzptPy9YXULfW01Yr3xdV0-HjYuPfb3kP1luXM4qnlDM1_5qLD9-M5vRTjAbHg40WuQuWJqAbkZ6OY41ihmON5n8Pj5J7e5DubQudglpbp4oDO6lp8GO3AdPbt2XAp8Mtu1vC0a6nwnGm27-llKOt_YyjrtWLv6m9gEuvHXpbrb13M7KFdj-0aapDyPWoG8wRpvvMEa2n05Gqr9iBnJvkUZnH5emRu-ftfcvoHXaL6FlgQ-gFR6PrxTdr6Z0wQ-zBMB_zcSCj9DEjR_G9CE_wsQrP7dkNu-8dDHfuEQ5L6WEJq-k1Ba_pqP_36VD7Y-ms9TPtgO7n74jic-7Q13PrQNUj9mTP8_lUzpf9vMf__lDDo_5YvYf-BLkj-Ly2c_Xgqwfy2KLz8kyj4_Pwl2PxPI_381SGl_cEgwf3BIAn9vh8C_Gcglfp3IYX5uiCj-Cgi7PeFIrP2CSJ39Y4eP_PmGnTyUxSa8poSu_PmEZL0nBGS9QsR5_VaD7v15wu885EHZ_KVBmbxFgUW8c8F9u_pBmHvnAcJ7kEHa-xrBobrNAdK68UHk-pvB9nonQgY5-cID-Z2CIDl2wmg4_sJqeJ_CJTiHwi04UUI_N9KCUreigkh3TsHmNtxB2fauwbI17MFR9b1BdPTIQWPzCIBq8mIAT_HTwExwwAABMM3AerA9QYBwbkNcsGVGN_A3SXDwvMmgMLwKfLAqSzjv3kv079mMwHBejjgwhpEjcMTT0nDAFDfwoZQn8DuS8C1tEQVq8ZDvafqQnCiFEEBoBRD-J2RQ86aNET0mQ9ETpj3RdGWxkjxlTFJ4JSSTumPQVBTeDVOwyY9TUMA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['YE/HJ']=data;}

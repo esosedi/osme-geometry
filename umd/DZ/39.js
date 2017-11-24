@@ -1,0 +1,7 @@
+var data = {
+"_ring":1162,
+"_params":"-1162-en",
+"regions":{"1280071":{"level":4,"name":"El Oued Province","index":0,"property":{"openStreetMapId":1280071,"iso3166":"DZ-39"}}},
+"paths":{"1280071":[[1]]},"ways":{"1":"eU7oAf4UTwDxmA4CXFOKAL8I___OBqDavAQ-u1sCZZsAAGyIOwBNh5AahneyHrN1bT_KZfdJaWHzYshb52flWst4-1aQpnVLL8WdSELC0UcIwolHfcIoR2XEwEY9xg5GUsYTRejFs0O0w0BAj8JoPzK_oz3UvRU73b2COm6-IzqfwQU6E8KBOSbBHDjCv2M3tr2wN5a8WDc1uhc3eLlXN-23jDi5tds4bbTeOZex6jm1r0w6ZqxXOYulIzqapG05A6SeN9SiNDduoRY3RJ_yN_Kc3zlvm4Q6ppBdO-uQ0zU9kYI1-JAaJseQPyN0kEcjp5FTBuCVqghumIQI0J6OBvSi4QaFp-IGPrHnBX22cwStucMCCb0uA1TBFwUPxY0FeMnFBRPSFArA1IsKuteOC9_bRgy83UUKqeQZBjrpQAF_8JYDp_H2Am7zYwLB9IEBA_YAAF33swDS-YQDD_v4BaH9zAPe_kcG__9HBw3_kgd9_igI0PkGDm_5Gg9d-BQTIPj1FWj3zBi59tcgH_ZpIhbz_jK8814zcvfQQH73kUPO9mVEuvZBRfz0MkfD9GpJQ_R-ShLxkk3d8HhPf-4OVbbsbFbs6k5XBOuMVzrpgFjL6CRZtuhNWgbpOlzJ6o1eYO52YSzwhGJd8N1i6_FeY0HzK2Rp8u5jGu1wY6fqCmT94kFsTd_ncVLdqnOo22B4xuCNeF_pNnnN7Ud5me4Wh-nn85Od5iOiruRzraThoK333H-o-t9uox_aqKB010-gJ9eQn7rWXp-R1pGe8NUKnqPV-5171TCe0NWVnp_Vx5431a-eq9QgnmXUAZ3P066cadM_m6LSyZqq0EGbMs77nAjKCpwixlCcCcPKmvC_rJvUu3ic77fkmgiwEJ0OrKue9qcnnzWgnaEqkWOoEowfqD2HOKnchhqraILiqwl5sK6qeImzB3B9wRVsS8HuamrBWmblxCJeDsrWUwfPGjNI0e4Xhu6_CP__"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/39']=data;}

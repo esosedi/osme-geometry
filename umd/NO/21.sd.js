@@ -1,0 +1,7 @@
+var data = {
+"_ring":2530,
+"_params":".sd-2530-en",
+"regions":{"1337397":{"level":4,"name":"Svalbard","index":0,"property":{"openStreetMapId":1337397,"iso3166":"NO-21"}}},
+"paths":{"1337397":[[1],[2],[3],[4],[5]]},"ways":{"1":"WmCLBO5ZkAAyYtQE507BAX45-3WbORtzfwvkapkEy2UZAW1gAABKW20BO1YmBhVRoRMSSYIk7jwfL6AyxDz2LNNNuCrNVvMnHV36JwheHCeeXrIciGBGGNhxtwg-hyQA0pAAACqb_wZ5rmIBJL8qAMTDcANny9APk85-GZ7OJR6azZMipcvkJ4LMNS-j0v01B9VJO-rWVFSy2J5di91rX2jhPGK48IZ28_uvfpb-SIP__0-Ks_9vj13-IpSc8Hytxvbvwgn3Ycn39WDO3fON0mDnUeMq5FHl79z95o3Z2_Uc12T6ydP8_ZfN__8NyAX-xb4q9Ma3ju40sqLnhqCh1gSVD8ECikuonoGkq3BstbphY1fF71yP0MVZotMoVCLVXE0903pKgNCQQKjBMDMcu2UqhrW-Iyaw-RnhpQ0XaKAzF-qYQRv7khYfF5GcM56M5Dg1icA8loN-Oft1","2":"nz5rBH3WEgHuBHQE0GMxAaeGif8bROLtkiat2hIHCqwAAJN4ORSsSClU7RQbggAAZqx6AZPURxeI61QzzvuKXv__GJh388m-4twr3Me0mfhhjf__p4aJ_w==","3":"qmaLBCLfbgEinpUElDuSATYkrbXUCJGOAABSW5INSCxEK_EKFk0AAMN3UQjl0LxBpfRrbf__fZ0e9tvPFtkj9Ai7__9YnmX9ZCmuuTYkrbU=","4":"--msBHypggFPxrgE8QTgAZQYuF8jBcFLAAAMQIMBDzCrDCwh0UBbCWZm9AC2fwAAZJ3zBvq5uxnUwsInTM0bVVDqVm___wLN6v233qLxYO5F4PT4Fs5f_j60__-xmBD6ZoEc7VBgo809Jh-itBsjicMfT3xILCVuHBz8YZQYuF8=","5":"RiHCBFH5zQGmkcwESA8RArGJqQWEsqwZeNwOQmjuu11U_YOD___MmXrsI82ewuvyJaL__-x0DP2oTO_tAjWW2AsFBWkAAGhPAwzMLHQtpA6XVQAAC4R0BLGJqQU="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['NO/21']=data;}

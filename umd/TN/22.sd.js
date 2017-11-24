@@ -1,0 +1,7 @@
+var data = {
+"_ring":1256,
+"_params":".sd-1256-en",
+"regions":{"1435837":{"level":4,"name":"Zaghouan Governorate","index":0,"property":{"openStreetMapId":1435837,"iso3166":"TN-22"}}},
+"paths":{"1435837":[[1]]},"ways":{"1":"prQlAjtWkgD2tC8CdzKeAL-1nfepsfT4la64-Gaq1_q6pjv7taHY_SGdSP5Qmv__B5fi_vOU9_4slPD_EZHe_hOMuP5gitr8AYYv-5V6Tf_vdpv-U2-o_0lt_P05bG34ZGr39pRo8fcDaC_80Gbs_SFkUP88YXT_TV2t_JJaAPnSWQPxpFhD7TlbluHhWVXbnlb72PdP3tqYTPHaO0U52c86kNU9OXzT9DflzPo0i8iTNbfEnTP9vb00LbBWMHWuVS0IsQUp6LBoJJGu4R_ArdkZYaUMGWSgKBoznbcdcJkwE-CXqgimmukDUJgAABeNSwGDiLkDboWtBmSCswrHgGYLcn3ADvx2Bg6xch8PkW9uDcRkDBPUXCwWk1qAGCZcohvfVBMhg1K_IotOfCWYQsUkGD44GSItnBn5KxAhai5DKwc0ljLjNoA4FDj-O5c2Dj4mNMRAAi8aQu4pKUVWKVxHzylESBMjW05AIMxSQRcUUKYRxE8VD8pTug2aWs4NJ10FDSFf_AWYZwAA_2hkA9hnMAsXagsVgHHoHHR11CPJd1EmHoLNK5KJZC5_nCsx_6XkMBqqgy_Vr_Ar0rIPKWu2bCotvQM57cDpO0XNo0Aj0P1CftUkSsrbhFBU3Z9U8Nw1Wq3eLV5b5YJjjvJqZ5n8ZGwz_09v__9bc3L8gHqE-Dh--uytgqPp7YTt52yIEuk8kxXiHKaA3xmwq9kMs03OPrtnypS8Wsjdv4PHa8Pnw4DGZMFQy0nBp9SAwK7WSL5i166vF9McrJXT3K3I2cSvzNuBsWzkhqzh4pWrh-W3r_zxv7Wd9w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TN/22']=data;}

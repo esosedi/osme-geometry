@@ -1,0 +1,7 @@
+var data = {
+"_ring":706,
+"_params":".hd-706-en",
+"regions":{"253880":{"level":8,"name":"San Jose, Northern Mariana Islands","index":1,"property":{"openStreetMapId":253880,"iso3166":""}},"306005":{"level":6,"name":"Tinian Municipality","index":0,"property":{"openStreetMapId":306005,"iso3166":"MP-120"}}},
+"paths":{"253880":[[1]],"306005":[[2]]},"ways":{"1":"Vy7kAAnSrQimn-QA-iyuCDf6HlPf_JJTg_60VMn_Dlf__2BZzf_RWh7-k10l_TxepPmiXjb43WCg7M_-JjH46M8hi-cPHm_o0xzz6f4bN-zUGv__xwYY--kGdOdtBdPl6QPh4gAAVdVhAIPL5AZ4ugoSTaKjGpWKPSDwbzghgWViKcVHSS82NnlFgBsbXXALXW2TAv-EAAC_lj4CFKFgBHWoDQtqq1IRaqt6FwuoMiHzpi490KQbQRytvUfRr3dI_PBTUD70-UxL9JdRk_WiUjf6HlM=","2":"0WnhAMipqwgayuYAI--vCM61tvyqtBj8yLK_-32vXvtaqYf7KaW3-yml3Pson5b-Jp4u_qqX2P8_kP__Eml38DxX2tyQT8jVVkqB0PtIdc-DQnXFcD8Aui0-Ea2GPXWp6jfHpVYrtJ6yIcWWrR0ykXUU7odaBkpxzgArVgAAPzvcBHkkpAj1H9oKaB2_DNwXRBORDcEhTgTKLgAAmjpYAPtCJgJWSv8F10yGB49bqxPtYGgd5WGjH9ZhoB-hamo2R3QvTWl17VaIgOtCa5AONPmeqysppX8pp7jZKQ3OKS6P5Hc8--VwPf__z19a9XaR2_LdnzXtAqvs7KWreOwCrMHi3rJ84iqz0Moq2lrKA9vOtbb8"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MP/120']=data;}

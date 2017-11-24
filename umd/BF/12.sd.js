@@ -1,0 +1,7 @@
+var data = {
+"_ring":1098,
+"_params":".sd-1098-en",
+"regions":{"1159873":{"level":4,"name":"Sahel","index":0,"property":{"openStreetMapId":1159873,"iso3166":"BF-12"}}},
+"paths":{"1159873":[[1]]},"ways":{"1":"yefFACXo3__gKeYAnZwTAGnrW7Gh56aw8uGBrdLXIrESvH2rArU1rTOpSrWqqCi3gJrvvS6Yt7zekqe8Bo7XuW-Lh7n-hpe88oEGvIZ_a77AevG-Wnd9wkZyB8Lib0DEE2vYxcVmiskjY-3K22F8zSRcD8xhWS_MfVYdzv5WR9mjVE7aqlNX2aVRZ9lTT9DdO1Bq4A5PD-PmSG7obkgW6p5DyeubPonrpTvW7KQzWveIMs75PTPp_AYu___ZLM78HDDD-ZUpAPiJK2b1RCuY86wvwu2mMNHpyg2j6Z8N_-SBCtXieQqb4WEIheGSCF7eegWE3vUDgtzIBpXaiQZG2UYBLdnRAqzWlwFm020EvtIhBNDRlgGj0SsBWtANBKTPUgS-zgAAysvYAkzKIAfhyYYJR8aRDErE8xGFw3QTIsDtGAy_WB_jshooTbBXLGOsrDExqkE_vqamPtWjVkE8o2pFD6RvSZmjrUilngVF15wtRSCZpUcpl11JVJEBQ0iPNkGXjTBCaYz7RlaLw0zWjR1PRo1cUhyONk-6iS9Sx4VoUFqDTVH5gQFZfH9gXmN7UmLkeuNlC3wYZ3R6B21YedFvenXZc89zxnMacYh1vG9mePVvaHn1bmZ6F3BzfDhwNnwla1F6D2oMdtBpoHWAZqRyaGWyc1tjw3F3YkVvEl_MbFFePmsNWuJso1ZibMdUAmjLU15n8E_NYDpMkWIoSq9gskfrYE5DWl69OyphRzArZMMtnm_sKfdtSCQ0b0Eg_F8ZGuludxCvdvAP03rSEcN8whGYfYcOGYHlCYmOAADyk_EHVbZGCQS41A4jt54YdrkhIBvVTTvO2yJO__8zaP__aX1p9miAaPbZgWT_VYwV746qaetbsQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['BF/12']=data;}

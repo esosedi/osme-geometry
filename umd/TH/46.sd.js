@@ -1,0 +1,7 @@
+var data = {
+"_ring":1949,
+"_params":".sd-1949-en",
+"regions":{"1908775":{"level":4,"name":"Kalasin Province","index":0,"property":{"openStreetMapId":1908775,"iso3166":"TH-46"}}},
+"paths":{"1908775":[[1]]},"ways":{"1":"J_32ABRhJQY28QQBTqs2Bu5Eif90Ruj40kTz9MFFcfJmSH7wUkiM7bBGeeq7Q8fnn0C93tM9x9nbOZTWtTjh0jtHf9HJSJXIJUaSxcFFsMNPR1u-7keitjBKUbWnSq2w7k6Hq09OK6C-SwacdT-5jp8544mXNg6FtjPPheQuVInRJ1WKxiOYjtEgO5BmFjmP4xGWjBkJC4oGCl-FHQtthFQKKoOzB4yCtQgXfjAKd30ICsZ8iAZVfFgDJ35pAuZ8bANEej4BkXfKAR927Abcc6IIWnE-CGdu5gQacWwDeXC5Aidu4wM1bZYEXmWZBUxkZgjMZAIISWG4CddfCwQkXEED9FnPA49X6QWdVTYF-FEAAPRMdAZBSoAKMEq7Ck9Igwz6RoUaTEU7HCU_lSCSPPwhQDovLU03mjC6NIwysSzHOcArRz1vKjE8HilvNlsmgTXqJK4wCRWaMBYSZDIUEBQ5Yg5pO5EOREPXErBGJhNuS7URd04DD8BTEg5DWJEOo2WmEmJqNBDybIQQLnRDD4N2ZBBQeYcTWHxJFDZ-uBPffzALHoRfC92I0Qx-kX4KnpWBDAqZoAxnns4KPKSkD7ynNRFVtHYSE7kkEAi8dBCCvVIOMr3NCcG3fQl9tAsHx7I2A8-1NAFVu4UBQMKIBIXFyQRlyOcDO8sAAGLVpwMH2OsGAdYyDgTXdhEB1iwWUdbsF0XZvxpq2LUfidULJlTQUCoVz5IsPc86NMDM0DkHyhQ9BMl4QPHBXUatt61GnLKNSM-1cEqIuEFKH70CTI3Ie1N-0ftSQtjrU4nc7lZy4pFZAOvhWUrw0Vgn8vNaE_m3Xnz7iWEK_RpiDf6BZ___wWjS_Shwtfo7cxbzQHf18EJ5TeoBeDToxXs56ml_iepMg2znIIZp5nKIJeMUim_h54zF3LuQb9pRlhLVQ5hRz6GW5csSl0nF9Zk7wM2h1bdhpYmxKa2Urk-zA6WHuy6m2r3Zqom9rbBMvzmx7cCXr9DCGbRhxCK3WMoIvNrN4Ltdz3S43tBMuGLVbrYm2Dmxd9kurYvd7aOg4n6fheb7muXmUZaJ6miQ6usCj_7uG4q97gKIP_D_hqHyjoGP8Ah1cfL6b7b2CWca-9Zievu0Xb7-MlLM_c9K__9gRk7_7kSJ_w=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/46']=data;}

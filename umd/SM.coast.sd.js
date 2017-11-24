@@ -1,0 +1,7 @@
+var data = {
+"_ring":191144,
+"_params":".sd-191144-en",
+"regions":{"54624":{"level":2,"name":"San Marino","index":0,"property":{"openStreetMapId":54624,"iso3166":"SM"}}},
+"paths":{"54624":[[1]]},"ways":{"1":"wMOdApVDvQAdRJ8CCfq-ACkYxAqfILgO1yVaE-AoSxTORacKZ0ilCnhQJw00W10ZX2CPGtZmZBmldWgSP3hUD0t7uAg2f7AEC4PDAiGP0QFOlQAAT6FCAoifAAO8nZUFEpuvDzqYEBN5mNIXSJs-GSObyhydpmEmkqOSRrej3Uvgpy1O9qe-TyiqZFEXsJJYkrtIYVO8PGdOwoxu88SQcLvS64jM1k6SJNoTlpXiq6td49WxzeIwtezj6LqB5m_BHultxULo4MqR7CjPfuz8z0HtwM__8P7Sn_AC2IrvXNl08gfdX_Lx4Nf16uOm9-fiO_hQ5Z77W-Yc_GnkLP3t5If8NukJ_0bq5vwl7339je9v_j_u8v_l8P__y_F5_kLxD_3c8Wv9a_n5_X36vfyX_PPs__8E7Jz5oOc99zvmyvQE5DHz_Ns49afU6vWAzu73TMz-9YTJcPHxyM_qbcKj7NG3K-2TswTx66ZY616RBfsgg1n_dHyW_2lyxPy_cvn4q3FR9sBvQfS5be_zqGrc8ZdnCO3BZBrtyGCO6ZdW8OMXUWDjR09O4pNMcdyoSzjXOUq404FGHs83QWrM8j-Iytk5acsNOfTL5TgKzkc2yMzFKp3MFSrs0KsovtFbJ8TQXCTNy58dxskKFyLENgcgv3MIqKUVByWbxAdCl3oG0pKbBxKRWQXAjd4DCogvABeGOwIggQAAg3qYAD11JwVfbI4IH2m5CgJomAyPaO4PumSiEVFmRRKGZcYU72W0FjVlIRnXYZQa6l3wH4BZ5B4YUksb2U3IGctOExnvTZ8ZX0xfGFpLlBmuSUEZMUcWF4FDZxbUQGIXfz0nGl86PhrlNAkZMjF7Fe4szhNOKWQRWRzXEwAS0RX2DyYYxAo="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SM']=data;}

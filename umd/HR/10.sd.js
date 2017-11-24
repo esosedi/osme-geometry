@@ -1,0 +1,7 @@
+var data = {
+"_ring":465,
+"_params":".sd-465-en",
+"regions":{"222869":{"level":6,"name":"Virovitica-Podravina County","index":0,"property":{"openStreetMapId":222869,"iso3166":"HR-10"}}},
+"paths":{"222869":[[1]]},"ways":{"1":"Mui1AkMjBQEv2L0Cs8YTAe7InQE40c8AdtKuBPLUZANc1QAAeNhTAIraGQIy3KYFGd_ABz3jZQhZ8usRw_hXFMP49RXm9j8XCfsnGnz8rB7U-gAkWftOMC75yTPm_Nk0mf35NtP6LzgH89MzdfEfNc_xsTcN83I5Tfh0O6D5ejuD_Ps4A_79OP__tzrW_9o7KPoPPVb1rj_t9MpAR_bmQcT9nkKW_ftEEvy4RQn5gkWp9WFDhfLMRU3ys0FY8DpBC-8DQq_urUVQ8XJIuO8NSp7sMkl47B5F0u12Qo3qAUBn6-I-je6kPoHuXT3U6Jc8jeVdPnPlz0Lw5yVFIOjFR07nyEg85R1JH-NQSJXfPkpi5DlP9uDiTqvfiU8i3kBT0963VQzgR1ZU5ppTzOfbU4Lpb1bc6DZacuUBYS_ktmp24YNvFuNxeGXgBnyP2AOCfdWghbTPFIlIwHWOg7duj0uymZKqsBeVoLL9mCKyDZwvr0WeEa5MpymtnqiOqoWpXqV-rA-oqK8bqPuxZaeXs2miSLeFoXm57aE2u5WkorwOpIe-d5vwv7CYt8FBlxLFuJAqxkSPgcjZj4TJUZVXy5GbUtJJj-PUFogc2l59PNoNfZPgkXhx4cV3Q-utZSHt8loe771XuPKJVHfzLlP-_hVM0v7zSv__ekdV_4NKOfi-QEz0fDw88DglTOX5IrDiox5S4REcVt7kF7TfzhX23WEPuNw4BubSvQWLz2YBD83hAXfJDgYtyHkGdsTYBbjBoADIvwAA-LmBAu-17gcwsxALWa6RDRWnJg3ao3sL4qKwC6ifKBKvmRMVQIg0GA2EoR0-g3cjX3_4JaB8wiWPeeMoK3ZOLuhzZDAJcLkz723vMzFrbzHFaBkuxWiOKnpngymbY9ksL2EkL7NgJC_LXaQxgFwZMxRahDPRUq83hlHaO9lRT0K6WjlFmFm4TBxZQVUVXz9aWGG9YYlgpmRxY7lraWRWcf1hNXPzWJx4mFlafFZXj3wbVJJ3-U0WcAFNS3ClSJx4OUY8eVA-AINZQseHWUK6i2lAY415PrCKuzu9hss5MogUNteODDeKkZg1X5LJL0eVXS1umZYrQ6VtK62ldCWir8QbS7EeFsO4VxS9vRQSxr5eDorDPQ1oxWUI7sidAQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['HR/10']=data;}

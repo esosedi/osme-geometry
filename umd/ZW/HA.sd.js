@@ -1,0 +1,7 @@
+var data = {
+"_ring":770,
+"_params":".sd-770-en",
+"regions":{"318467":{"level":4,"name":"Harare","index":0,"property":{"openStreetMapId":318467,"iso3166":"ZW-HA"}}},
+"paths":{"318467":[[1]]},"ways":{"1":"UZDs_vEm1wGLG_L-y2bcAQoAzYcSAQCIcQL8hcAD0YV-BLGDtghvf4MLEYDXDA1_tQ0cfbYNSnoZEV54JxGkdhgSZ3VUFnxzmhcKboQaJWvjG7NnvRoBZUwba2I3GmBhkRuZYEQcL16LIENeiyC4W8siyVk4I_NX4ST4VmAmNVeRKoJSGCyZUysulFJ4K-ZOvCxdTHowYUrCMvdHlTJpRpUv_0J1MGs_gzJSP-EzLj5PM5w1XjdPNEs3zi9LOvcqbTtRKoc8MyacPwMiyD98Gfw8BRdpPBMV0D6JFBtBpheRQtsXOUPlFjxBFRM3QgsRC0S5EEdFjw44SXcVGEqXG9hM5RznTOQgB09QI4dOXiTbT2wn7E_eKaZQUiqcUBQuNFQ7L-FVvy-MWR00rVvMNLBcEzAFXc8j7WCfKwt6AAAPe6kCy37FBBiAmwZegJAJTn9mDoiB2g_ynHwJQ6i9BPCvrA2As5UHIb0lCOS_pxQUvtce7siYFkHOTjQL8PY1XekjSIzc11a82Xluu9y8bbHj421J3dx0UN-9eVLaPn2f4QiYx-Y5l6bmqph55eCZkOLGmeng4Zqh33WfY-Faoa36qbF3_AS1j_tpwpj5KMP__7LI5fxSyIL-actV-2LLZvqhx0j4rsnp9UnOyfhn0XDzhdJd-UPVkfb92vb4oeJ58XLpoune7X7rFO647Svwt-2i9F7i6vWa4W3xptjp8aDT-uxTxj7vvL-b8dO0pviyrHPqD6Y69i2i9_Irovr6zov__yeEyewdeDn7KXft-Y537vbhcw_5EHP69ZRz1fE0cUTuYmxj7khn2emAZTvqJmMe6f9fEOlaYinhm2T83E9bPNqwWb7RkFa9zkRWeMzrU-LJQU0yxmpLLMarSjDFC0LxyWJC4MszQKLQbEDt0vU-INMUJXPEISjque8nvbF3IPizaRw4tBQVEroKDP6v8gqErEwKsqXvC7SfTAgdm9wEsJEqAmSPmgFXjBoCvooAAOGHCgDNhw=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['ZW/HA']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":556,
+"_params":".sd-556-en",
+"regions":{"225479":{"level":4,"name":"Bokeo Province","index":0,"property":{"openStreetMapId":225479,"iso3166":"LA-BK"}}},
+"paths":{"225479":[[1]]},"ways":{"1":"-cctAWUq9wU4_j0Bh-4IBj24gw7rvVgPf8TMEazO_xMX1VgX_9czGrnb9hrO33EeluGcHlTjlCGS6p0l7OuFKPbvzyuX8aYuSPJMNNz1aDnW_JY9Pv6JQ0f-fEkM_B5OtPxvUfz5GFoz-kxfRvz7ZC78FGv__7FyBvtxdKr36XaU8zyEVvBAiqTri4wT4JiPJddcmsjR25ygzwidDMeZoTe9qqS0u1ekk7qUomi5WqNDsaCja6yFpR2rH6mnrSq-kalVwSamx8L3oRXHKJ4wxyOZB8pOk4zLEIt9yZ-JHcz6htrNsoJg0yV-hOAafSnmEoLz9NaBkPflf5b7uHzT-7d3zv4ScP__YV3P_9JTQ_7USm32lUZ27c9Ib-eXS5vkrExx4bZRqtxZUo3Z71C91a5QbNNuTCvMoEbuyZpBS8mGPc_DwDcJwEs1Z7pWMXm0jjAElXMp0o4oJ9qNPSP5jZ0fXJJXHFKUyxbKlM0SwY0iDrmJPgmigSYJvX5QCk98pgcjdPIHvGwHBxBrFAO4aTICwmcAAAdajwCsUuEECk2zCdpPyxC-Ub0TV1jQFQdbKRlpXdEnyl9ZODRmDEHqZ55JuWp5WOJrBFv8bMhbi24vYK9pO2DcZqZY8mFuWNJfE1twXBNj3lYxZflTlWWBUQVsb1GMbhxQGXPDSPl5kUbpgYxBFopJQO2Llzz5jp48uJC2O86VVzZWllEq_pS3JvWRciTIjr8juYt4HxmKyx6-heAffYG9HXJ_rRQVfeERYHicEkV1SBQEcZQThXDdEJNxXwgfc1MEn3adAc2BGQOOiwAATZenCHiZ5QhXnpoHLabVCj6xAgw_twkOPbiDDg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LA/BK']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1490,
+"_params":".sd-1490-en",
+"regions":{"1676344":{"level":8,"name":"Municipality of Sveti Andra\u017e v Slovenskih Goricah","index":0,"property":{"openStreetMapId":1676344,"iso3166":"SI-182"}}},
+"paths":{"1676344":[[1]]},"ways":{"1":"y2HFAqDr8gDWPcYCziv0AAAAFj0_AHg5KwITNkMBLTP1AnAuAwemK4cHzynwC10mHw3QI0sMSSKnGc8gMBeAFOgpiA1rPqwEy0U3BflOAACJT6MHD1P9B9xUNwnmX9MJS2LYCGZlqAXTaGAIcWuUCCpsMghpbAsGUG55BftuzAunbfkWMW5OGxVvhhtSca0acnM7G8d4-RjhgA4VnYTtEYiKzhI3jsARpZLMDrybGhHTqLAQtcvIAaHOOwfe1wAECN95AxDk3gTw7dQCePH8BHHzKAt_8cQTxPOPH8DxwyeV66ExbumZOmDn9ztp5fE79OTqPAbkrjuA3mM8i9pnO8nZEUS2zCRDwsenQz3B_UGdv9RA-b76Qj_BUEv9vXlNnr55T1u5sVHRvXZYFb8dX9W-smKGuM1j8LiyZhC6Z2WyvbFlpL4NZU_CZ2aBx2xmrMVjbNfEo208xNtscsPebZzG8W9-yZN0n8gLebXJunq7zO16CNKCePvXC3r62h1829ZIf9XW_oA_2p-CNtwogsbbt4Q52QeG3NamiI3VjYhH3eiLnNz0jKfckZbH2USeDOEQojjpcqI46v6gvu34o8XunaNZ8IekK-1bqu3vL6zl8pSwUvzMuP__-b48_PLCOvUfxPnyosdl7SDMUuR21fbb3dYpzRbXCcp52D7EJN4pvXroY7um7HG3Ou7ItYbw0LT49QSoRPkMnsz-K5n__0Kbqvv7oDn1EqE88SafPu6WnCftRpsc59aYsuXkl0fctpbE2M-WLteymKLW0ZhM06uVFNBrlRHN0JOQykKUmcf4ktHCs5Plv5GSB7_Lkl29Eo-Bs-OPhLOOiQWwC3zPqtl8f6hvemyoi3Nqo2putpeta3mXY2q8kuVe8H7nYW1v7l8icApeQGoCWOBhuFjpWehOCVOLT39KiEm1SrJDM0Z0Pl9DBjwiRZM3lz0YHRg8AgAYPQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/182']=data;}

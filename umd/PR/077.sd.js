@@ -1,0 +1,7 @@
+var data = {
+"_ring":629,
+"_params":".sd-629-en",
+"regions":{"254268":{"level":8,"name":"Juncos, Puerto Rico","index":0,"property":{"openStreetMapId":254268,"iso3166":"PR-077"}}},
+"paths":{"254268":[[1],[2]]},"ways":{"1":"gekVAatKEvzgKxYBV2cS_DP5AAD__8ECM_kAACX4JDSR809bMupIdHXWi44nwS-7b7341Uu7___9d3fy7m-e6kBn1dJPT_XXnzUo1_UPuslUC0zF-wXTuQAA_qA=","2":"P-kVATTwEfzRWhYBUlsS_J1D38EWOlvMoTQ20JIg69i4BqflaQQL6FEC6O1dAb75AAD__8QCZ-u4BqflkiDr2KE0NtAzOhHMnUPfwWQy0MPEKhbJ3iTSxg47N7tDT6qq4FUvphJng53yc6qTGHT9il5tzokuYRB8sF4jfgFVTHQrWehyJ2E7dTJlDnLgaFVtZ11iWYpQ6U3NTS9NckypS-NMW0eXS1NDPkysQdFRwTu1Uxs2cVlpMWFbdi0EW2UlAlZCHGFXKReMVy8S0VpoDDhfTwmMYCkHt1zSAixcngBMaEABmWk-AI5-AAAyfDgNIXlIGBlz0x9Ndesm93ScL2t4ejEAfto3L4BNQEeGzD9WiKtMBqzQUM2tKlSOrThdLbT7YIe2oWDbt1Nl87j4ZUe6RGb-vdBiC7-2YCXDP1-Ez6xDbdUtPHXS0kMD0yBGHdcWSYraqkH72po1B-FPKf__szlA-ypF3_N1U6ns5FdB99Ne7_V6YAjyL2N47T1l8eljZRXhAGpQ2jhwDtMLfKrMDn0ew_p8E7ydfiyzg3xRqiKBEafZhSumrYg1qYKPwKlFk7mrRZVTttiYpbeGm1y2jp9psSakbavzp3qpVKu-oC-uYpudrsGV0qsWkFKi447inZ6MrIo9dWaWMJbw2A=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PR/077']=data;}

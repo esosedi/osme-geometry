@@ -1,0 +1,7 @@
+var data = {
+"_ring":1682,
+"_params":".hd-1682-en",
+"regions":{"1720065":{"level":4,"name":"Sanaag","index":0,"property":{"openStreetMapId":1720065,"iso3166":"SO-SA"}},"1720095":{"level":6,"name":"El Afweyne","index":3,"property":{"openStreetMapId":1720095,"iso3166":""}},"1720099":{"level":6,"name":"Erigavo","index":1,"property":{"openStreetMapId":1720099,"iso3166":""}},"1720121":{"level":6,"name":"Las Khorey","index":2,"property":{"openStreetMapId":1720121,"iso3166":""}}},
+"paths":{"1720065":[[1,2,3,4]],"1720095":[[5,6]],"1720099":[[7,8,-6,9]],"1720121":[[-7,10]]},"ways":{"1":"gninAHcRyAJwfq0AZrfaAgAAAAByEroLgqJsVYnzuY-i-wWj__-UwOnHU-Vyzf__","2":"8ZWRAGW32gK5Xq8AoZjsAqblAACu50MumOzlN5L57mK__7yf__-3t5v4Mdut3u7ge6Jx-RZqoPvKA___AADKlg==","3":"FBKQAPuvzgLxlZEAfj_lAv_____VmW-pAAAAAA==","4":"4LyPAI4OvgKBeKcA-6_OApcD__-lAWTTAADzwplnBwmhbAAAod7KBHf94QXS_iU6mvwuS2bt4mX__xua","5":"4LyPAI4OvgKBeKcA-6_OApcD__-lAWTTAADzwplnBwmhbAAAod7KBHf94QXS_iU6mvwuS2bt4mX__xua","6":"FBKQAHYRyAKCeKcAIfbSAv__AAC-5L8qDuEEMFjGN2KpulF7j3n__yhO0_gAAI6b","7":"8ZWRAGS32gLzTawA0LrlAv__AAAZ570GItuMIFqsbK4eoifAu53j0ZOQW_Ucj___AADN9A==","8":"FBKQAPuvzgLxlZEAfj_lAv_____VmW-pAAAAAA==","9":"gninAHcRyAJwfq0AZrfaAgAAAAByEroLgqJsVYnzuY-i-wWj__-UwOnHU-Vyzf__","10":"8ZWRAGW32gK5Xq8AoZjsAqblAACu50MumOzlN5L57mK__7yf__-3t5v4Mdut3u7ge6Jx-RZqoPvKA___AADKlg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SO/SA']=data;}

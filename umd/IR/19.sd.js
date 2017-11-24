@@ -1,0 +1,7 @@
+var data = {
+"_ring":602,
+"_params":".sd-602-en",
+"regions":{"241472":{"level":4,"name":"Gilan Province","index":0,"property":{"openStreetMapId":241472,"iso3166":"IR-19"}}},
+"paths":{"241472":[[1]]},"ways":{"1":"ft4tAngP4wKGsUoCc7wDA8_-iDVF9bw0m-1ANbLomjbe5ic2QuSxNwzfXTd82MM5Vc8wOcvIdjotww064L1vPKS1ejvwsnI80a2dQLmrUUGKpT5BoKFKQwqeAkQUlHpM3YZYXlyBOmrPfXV13XqehZN3Sqeed42qOXrWr-J6UbRIeUm2xHeatrZ2orW-d5u1A3i1s0t3hrMNdCK6vXKXv_JwJ8_Ib-zS6GxB1Q1judavW8_Zh1gT3OBUvtygUNPeS0wz451J8uexQvvwsD7T9KQ55f9BNf__YTJC_VEy2_thL7j3My-E8-YqbO8YKBruAhk07ZcX2us6Fufr9xHW5_8OT-LEDqncRRHj1v4Qx890D4vLSA8_x9sN38W-DQLDUQyiwTUMxL7ICmW9rAqHujwGHbIvBq6wzwS-sGIDX6_aASOrbADEqQAASJ5TAcecfgL0ljEFYZUKBQ-RnAOwj-MEvIy9BGiIaAdihfoFAoTuBZGCRQcNgS8HKX59CDN7AhZkbSQasWuTGxFt9xz8bKwf5GkQIc9p_SDgZlgiU2U8IuxgmSNdX24tvV6UOI9ZZDtcWXk_mFSpR_NNl0uTR5hPI0QfUk0_DVLLPWdTnz2uVO47m1RrOgxXfjWZWYozBmBDMmNhhTM5ZbkyT2U-NCdpczOFarU0zmtxNEluZTLgdywkqnvjIVGEAxp0iXwXsIq7FbWOhhOZkRoTkJX4DXWYlw1xn7gJx6M-CaejvAdSrM0GpK0lBRWv_gTttQAA0bgoAEC9dwWVvqEF-L9yB0fBoQeHwisGIcWNBnrGZwjwzHEJ-8waC0bOUguazzQNhNOKDyPaYRdc398Zp-RJH1vnRySy6O4l_un2JQjqkSdV65Qn0O3PImbsAx6y7Qke9e53HNzyehzR9wcTKfmTFLT6jBSV-XoVRflsGTv4whpk-mwg5fpHJCn9Nyb1_3oq__-pMdr-xzTP_og1"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['IR/19']=data;}

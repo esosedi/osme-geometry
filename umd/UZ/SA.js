@@ -1,0 +1,7 @@
+var data = {
+"_ring":425,
+"_params":"-425-en",
+"regions":{"196249":{"level":4,"name":"Samarqand Province","index":0,"property":{"openStreetMapId":196249,"iso3166":"UZ-SA"}}},
+"paths":{"196249":[[1]]},"ways":{"1":"73xXAtil4QOVzGsCRFQGBCLoxZ8a55akO-W4senkV7z43Y--f9qWvlLZWr6s1Kq8N9JXvLfFlLyguIC-VrPJwlOr7MVdqhrGzKf0xYaj68T9olvEFaKEwfagR8Evl8jBGZUUwoyIgs_7hWPUs4R73wd9PPcZe6n4unlS-rVoxv1yZfP9E2VM_fhk9vpUZMb4_mIN9m1gcfJUXebv80qt58dJcOchRUrnXjx_51I5-Oc5Nnrp2zLY6wsqEPONJkv2YyXV9ngXbvsOEFT9vQl__yYH__-uBZb_rgbq-_0FrPlEAgLyWwF58bgAd_EAACnvBAFf67AD_OTdBIfiYwic3AUM6tOADFnSgAz10FcMT9DOC7_PygpVz9AINs_yBnvPBQV7z-YDPs9aAkTOqAFfzOgAVsFkARe_3wFDvssDbryEBgu8BQwcvRQQWL1bFDm8KBXeu30Wxrp1GwqnPxtLpFYabaJKF4GghhH9nW0OGZxnCbKTWQkEk2sKa5EoDqKNzhLZiTUVKIe-FbSFtA9QdE8KxWzTBa5nnAUHZ7cFKWQ6CA9dBwlnW7kJ51qIDrJaix1OVNQptEypLMNClyutQr0qO0JEJ_M-gCXuO-okgDigJhAQJid1DmQzlgk3ObgH1TtWB909bQdoQuAIZUUeChhKTQsxTa8LEE-CC_hdlAiTXwQInmJrBjxlLAQmasUAm2wAAMhtLQDnblUBQHhFFbR2kxefdM4b33MlHu1zgR_jdLAgtHaiIQB5WCK8iosmRp2FJ1-gZyeeosInb6SWKBOlHilXpcUpzqQbLCyeujhwnUM5OJkFO82WmzvolRQ815Q6PUWS50DkiktNQYpcT0GKG1C8jBVZdJCiZNuSZGhinW9wW59pcfCivXFhpFNxmKRub6ehJmz6oVBqIKXXaXe4Im-9vB5xPdAoc3PXi3O_2a9yY9pxcYLb4XAc6z1y9vkud2H9SHn3_dN7s_2Tfsn48YBG9leDefWRh9n1vIro-SWQ__8HlST_XJae-5OYLfPenCLoxZ8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['UZ/SA']=data;}

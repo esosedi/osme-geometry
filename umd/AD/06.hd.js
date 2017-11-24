@@ -1,0 +1,7 @@
+var data = {
+"_ring":2524,
+"_params":".hd-2524-en",
+"regions":{"2804759":{"level":7,"name":"Sant Juli\u00e0 de L\u00f2ria","index":0,"property":{"openStreetMapId":2804759,"iso3166":"AD-06"}}},
+"paths":{"2804759":[[1]]},"ways":{"1":"mGmHAs2gFQAakYgCNdIXAPRk_f-3ZO7-xGMt_rBaivqOWFX5oFa3-O1UofiDU9D4VlE0-sJPg_rZTkH75U29-ytKSvxcRT_-JUQz_hBD9_3sQWH9CEC_-xM_t_q3PHL2fjtL9XA6wvSZMZDxbiZp82Yj_vEfHy3yYRf_8DwV9PHcEGDxrg_V8NgMFe6jDdXssA1d6_IO0OgvDYXl2AzN4gENDuEDDNXeLQyx3DYOhtlhDonYDg4u16EMbNNkDGDROgwHy34Mg8dHC_PAXgiMvbAHB7xPBym4dgcdtj0HorSwBtqzBgJtsWMAFrAAACSvRAD1qWsCqqWQAzGkGQPioagDIKCaBYieWAZVnEEJGpojDsyNmQ4VjOIOhYkpD7p4fQ-dd7wQznSMEbtzixIZbvIUWWtiFs5owReaYrEYKlynGZRPWRl5S0wY_kfjF65FfhhCQ5obTj4FHxs67iMYNaMqCjCrLQYvEzMDLsE10CyVMlE0jDeCMzg8sDFCPiIylkFGM8VI2C47TV8roE4OKxhR3CtwVJMrnVnLKnRbdyulXxgu82BxLwFjGDI3ZjAz82dsNPFphDV_axM14G9CMGhzbC1IdhwpSHhtKG59RSkGg2opNIopKV2PmCiqk-0oz5poKjyccCrhnQwqk6HdJ2mwLR0ts28cbrWsGOS0eRPRtX8KfLYABUK1AAChwlkGEchSCBDO2ArEz9sKJdI-C-fWog0x2cAP9tZLGTzayB9S3yEq9-EQL57wjT0B9UdAEPmyQ_n6e0W3_OdHcf4SSv__bkw579lWE-U2X-K8x2r5pUSD6qDVwZWP89sYhwTrLHoK9MlyKPiTarL9LWd7__Nk__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AD/06']=data;}

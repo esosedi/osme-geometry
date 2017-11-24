@@ -1,0 +1,7 @@
+var data = {
+"_ring":742,
+"_params":"-742-en",
+"regions":{"311770":{"level":4,"name":"Southern Highlands Province","index":0,"property":{"openStreetMapId":311770,"iso3166":"PG-SHM"}}},
+"paths":{"311770":[[1]]},"ways":{"1":"LuGX_xrFdwiymrT_78OfCBMQ___hDln92gz7-YMMtfG3CpHtawo_558IFuM-CFzchwah2D4Gv9ByBJ3MJgRLxl4CIML8AWW7oADWuB8AarYAAGg6hABXOCQBrDd2AvM28QWSNml3vDYcfZk2vH1kNAp_DjMBgCQxF4PdLoOFcSzUjAgnSo8GJDGViB-gl4sci50KGLSfVhUVpMcRNKYbD6irnwoYrMsKILgAAKG6hgDVvgMB6L9zAXTERASaxSYGIMlmCdfKPQoGzDALqcyEDJHMCBAozC8R0MpQE4DKzxTCyjkWtssQF7XNahfX1XkX9tuvGK7e0hhQ4K8Y3OFEGPHlLBYS6dUVSetkFr3sPxia7ssYJvrfGP__Ihme_VAb3ft2HSv5OB-u-DwgzfhbIUD5DSI-_PojE_2eJWj8UyoX-TswUPqLMxz6ljT--P412Pj2Niv54TdM-k45aPprOsz56jvT93Q-a_PdQNLygEE_8sdCfq2nQiCru0L3qEJDgqdrRCGnKUWEpg5HWaU0SfSkEktno1tNc6ISUCyhLlJioJNUOp9XVkOeDFkindNakJxaXgObxl8Wmgti9ZjPYyyYNGbkllBo9JUJa6KUI23jk4pvvpJOcdKR_nOxkAR1DI2QdnOIdnmkhAF7rIDefYJ-hoBgfNWByXh_h1t1topjc6uNjHNUj592vJOTd3OW1no3m6d7mZ0YfQWgO31tocx8yaKne42kz3rqpn55BqmReEesuXdJrbh236_qdamwzXQ_sUpzjbFkaWCxOGyttCVtZ7c7cMK7b3BYvCNwUr06a9fBZGk5xLpmNMZxZcrGC2SdyGFkycoBYwnMIWKBzMliE80DX17PzFzD0WFadtMBVSfa8lEX3dxQON9UUPXgTE3x4g9KgOWGSJznp0VH6lxEGux3QcXusz138883TfOdNtzyEzW_8VQ0JfAONHjr5TEj6FMxoefnLpPmZC0v5pYpN-YqJ_3l3iRF5vsj1uZbI_3nqiI46mMhsfD3IHTxQx_D8tIdSPOGG2vz6Bcx84cVi_ZOFBr7fRHJ_hMQ__8="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['PG/SHM']=data;}

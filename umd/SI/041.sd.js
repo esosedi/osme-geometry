@@ -1,0 +1,7 @@
+var data = {
+"_ring":1383,
+"_params":".sd-1383-en",
+"regions":{"1675607":{"level":8,"name":"Municipality of Jesenice","index":0,"property":{"openStreetMapId":1675607,"iso3166":"SI-041"}}},
+"paths":{"1675607":[[1]]},"ways":{"1":"tPzDAgRt1QAFbsUCtvbXAIZxAACJi7QHv4w_ByCOzAmPjfAS_IufFleJEhkNip8ZSobsH-uKSCFPi5Eb1o7CFkOQUheojuUeyotKIl6MXyUIloAij5vuI3qj1CMSps0km637IYOyiCICtMEhcrfRIT258SLbvaMj5b83I6rBLSQDzkQiQtrJG_jf5R0X4m8o9d88MbngGzTr47Y2buVtORbqMTqI6mg7cuzyO6_s8j2r7sE-2e6uQ671MUX--c1IJPqDSvX7RkuL_1VS7f1GWbX-iWD__wRip_9aY277Wmbh-PhsQ_fLbRj2cnik8hx7yu9jgNvvUIUa7k6Mue5yj-fsyJQ27l-Y2eqpm7PryqCR6X2l8OXRp9_h0Kw64L6tdNyxrGfZrrAQ3Ou0FNyItr7ZBLuV2BPBNNWExhzT7s66ztXMe8wtzQjK5c6exmLTh7cw21O0ONlHq23doKiC4K-iHeOgotTj8ZUq5aeOxOM7jMjkJod_6HKGwuvpgVft2H-B749_GfKrfW7yt3jO90x4bvzrchP-G3J2_SJsnv4EayP-qmio_j5n__8lbevzzGHd6DdeT-MjXM_kMlcS5WFV_OOSUtjfxFVb3uZQ29x2USvbnlC32aNMSddQS8bUzEd80no3IM0IMTXOWTCyz64v5s7DK9vQzScf15UhktK1H43UHR220xoczdTfGsbTDxwl1Vgbl9bEGfLWnhRf1kkRD9NtDUHUkwiB0-MKBtL0DtnRExMAy0gTYcj4DhfBBgyTvwoNhbtwBzq2JgjrsksG_rC0BTetrQJhpwAAPqS-AyOjBwZGn8QFA5xLB7KZRAuTlpEPp5UuESiWhhI_mJYWWJRbF0eV-Bcmkvcbl5AWHkmNjSDNi7ggE4qiIoSJyyRBhxsmj4O_LgJ-iS9_eYIxN3asOeJtpTy3ZXA_TVnNRBFY5krxVFFL_lE7STtPCkjGSM5P6EEhUBk_vFFCPaxPnTiIVR8uOVeJKK5cSyVOY7AYxG3kEphwmAGGcQAA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/041']=data;}

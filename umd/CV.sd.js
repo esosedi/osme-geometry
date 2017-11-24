@@ -1,0 +1,7 @@
+var data = {
+"_ring":191276,
+"_params":".sd-191276-en",
+"regions":{"535774":{"level":2,"name":"Cape Verde","index":0,"property":{"openStreetMapId":535774,"iso3166":"CV"}}},
+"paths":{"535774":[[1],[2],[3],[4]]},"ways":{"1":"v2n4ADHmef5gkAkBxdiU_jJxSg8jgcwH55IBBZSlAAAquSIABcpLBJjYMAvv4VcTlPz3OP__IEQt_hNNHff0WEXr9WSB2QRvQs_sclC_aXUOsDd1nqL7fEKPMJMAgCGbSYc5qeGImLHPfMzQynLA6E1jz_ZIWdP7wUws_3RA___KMl7-kiCc90UUyuzxD47iFRGbzVQEF8IAAJy1RwIVqzMIsaJzEnybvx4Rl5wdWImIIyp9kDLWbYRH4GHfQ_pVJkZxSqBQdzoqYtEstWG_I_xj2RxIcN4PMnFKDw==","2":"v5nwAFEEnv4YPQQBfm6p_oShY7JokASpe4MilLl7ccH6cfHgPWap8vFTCf8zSf__UjPJ-psjBO5DGefe9gbts2QBjJ0AANeIZAFaZl8Ftk2AEvEmzyKzEBk3aQgpUGISslvmFJltOiBYd_YstX45Pt-EtS0HjQgh8ps9FhSoBQZssgAAndjTACPm2wri79QY0_reOP__x15q_Gt9R_FOmu_mvajN2kWwnLQgt7Wig7KEoWOy","3":"r97eADE-g_6YpugAIrWQ_h6yC_lscf__fEnX-b4kx-XIClzGmAP3sZgDvJr8CR2HxBb-dcwCCVsAAPg_YBDoILou1AmrUgAAzX17AvWaBQ9_wEoaq9FeJqbdJzVw5kFW2OIxbwD-XZf__-S2nPdEzNbm1-CtzWXwhLR3-B6yC_k=","4":"mFngAG73kf5oE-0AXd6i_uaI0gKvol8EeLwcAlLZvwjM8ksZs_sFJv__CDKK_aNKL_IaX_zk02pX0bdzib8tgbrQdYe_55OUGPfgobD_7LUB_OrM9fBE4cLjzu2ozW_4GrXz_C2V__9ggw__knEi-nZf0e80S5zbOUMUz9g_BcA5Q0CueB2jnTAReJUkBg2IAABpdTgF4kWRFJkv2CByI1cyMRaPVkIEgG4AAKyHiwLmiNIC"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['CV']=data;}

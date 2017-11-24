@@ -1,0 +1,7 @@
+var data = {
+"_ring":1030,
+"_params":".sd-1030-en",
+"regions":{"900278":{"level":8,"name":"Ishikawa Prefecture","index":0,"property":{"openStreetMapId":900278,"iso3166":"JP-17"}}},
+"paths":{"900278":[[1]]},"ways":{"1":"e4EVAiVzBwg3-RYCzJ8JCLXtyRlD7Kkf-O97JP3vhSqS654vmeqdNNfoZjZk5Yc3w-N2OX_fGDey2Ew3OtapOt_M1T3ryjNCh8i5SyXMV070ywVSadKOVnnSr1hh0FxYNtDsWlnUkFzU1H5jIsaaaom9xW3OynNvoMqTcpbNu3p5zTZ8t8oQf0rKvoQexPSKk8cajhjMBZdiyI6cE8b-nSvI7aH1zCqmM9KPriDdMLYt4j-5zOvjuUP17MAJ9rDF4PlvzLT6y8_T-QDT0vYX1__619m1-yPl__8a6pD5G-4U-mTz3_Et9ofuRvgu6oz44uH2-ujdaP-o3G39_dh1_C7SvfbVznLxNsQX7X220_CLtXDyELBg9KWtVPa0qjD3oqfG9rqmuvpBoVD_P5v__16WYP3TkJD8P43b-PGFbvX2gKvwKXtb7ph47OqMcnzoTm5d4zNq8-QZZ5rjc2Id5JBaj-Z7WGzkQlWR45BT6OFhTfDh1kpn4MtFmd--RYTdgEhx255J19QNS4bSd0nvzt9D2tBmQNDQWz69z8Y97c1lP8DLwzv1xqM7gMW8OE_EnTavwDg028BdLza-NCEzvgMdmrywGqS8VhWtuSYSPbmIER-2RQ_iskcSHK7mEQKr5BP8pj8PgqIuD--gzg9KnrcUHJqhFh6U_Q2yiPUMHITwB3J-dAr6etcIaHihCopy8wXeb6wFEW6aAxFtKQKDagAAsWkWAJVkfgbEZlcNxGa6GBlppSVGZpUlUWNYJw9iJCd5YMcosl5WJSdZDCtuUVUrE0owMWxHiDVDRH83JkSNPKA-0DxpPIo6SDl1PBozWjwnMJ9ALC5JRn0vhEm8LM5Osy9mVZosTVnBLB1b5Sk-aKwij3F5Im9zDyF9deMcBHjoGs98CBrMgiQbtoSMGZCHjhRDiN0QN48VDQSS2Qeck8wBTJUAAHWYmADNncYDLaHXAqWlRQU8rGMFkq8eB020ygfVu7QO3Lh5Eby7zxMfvFAVKb_HFsu-ZRoGwv4ahsUfHU3Iuhy1yvUaxs0tHB3Q2hsz0msYodREFoDW-BUR4DkYgOkhF3PtfRm17ckZ"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['JP/17']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1164,
+"_params":".sd-1164-en",
+"regions":{"1280081":{"level":4,"name":"Laghouat Province","index":0,"property":{"openStreetMapId":1280081,"iso3166":"DZ-03"}}},
+"paths":{"1280081":[[1]]},"ways":{"1":"04r0AdBfFAD1ZxECOVtEAAAAakrfAANJfAkWSFMPc0S-EXtEoRu5Qb0izD7PKl4_fi_2PLgwJD4bMA1MsUTmTFxCDUVuSMI3eExEN0FRjjjPUr4s0lm5Ll1fdC3gYdgtGGfVLnBp9zClbFAvNmwGLsVupiy3cGct_3MvLM1yOSrEdRcpK3UKKC12qSYXd1QndHl2JiV9pCfsgFomLoScJ1uMdyXBjfIi05FGIbeUhR6Tk6YZm48bE2iQOxGvlRQN25kXCwWb0AfvnrACWaEmAiekTgPXqwAAj7NaCKWzaAejukQFkL14C2fGqBNmwLMUjMX5GmPSXhwa3SojZOG7JwXhRima4n8qyuNNMI7mETYd7Bc4BPQVP6P4rUYf_l1I___sU1r3GFSk41ZWqN7yVSXasle1y51aJsxOXG_BC2BJv1Nix7k0ZB-4y2ais4RoFrJ7au-ywmsmsaZtqLZLdj6173hUuOp3CboBeLa7b3nWvN54oL3teYnEsXzQyJ6BFsmjgvzGj4O8xCWHecKnhqzEc4sfvgWMfb7ijaq5UI_Hs96O87M2jgmyrY4uoTeUyJ-xks6ampO1j-uWTo7ImNOJi5kEiGGhgYFhrTt0tLe8b0G5Q25JvNthesHsUAbgJUuU5Qo2avTaLT_2xCel-mIjBPtMGf__fB_EzlUd18vTH9HK6yE7xhUhF8NuI8vB7yJLv3ghXb4zJD-9QCCgu_kh_7lAH5C5biCVtyweYbbZHMOY0BBxpnUBiKfMDHKHlwoQfpoEK3MTAcNSAABqSg=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['DZ/03']=data;}

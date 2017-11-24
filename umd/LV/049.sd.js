@@ -1,0 +1,7 @@
+var data = {
+"_ring":1816,
+"_params":".sd-1816-en",
+"regions":{"1806939":{"level":6,"name":"Krustpils Municipality","index":0,"property":{"openStreetMapId":1806939,"iso3166":"LV-049"}}},
+"paths":{"1806939":[[1]]},"ways":{"1":"XrhcA7SziAE5pWADlEOWAWcAwGNLCmFgmBmhX0Qhb15UK5xZ5DDXUy46E06PPdFBMD7xOR1ABThgUYkyO1IgM4xU-jFPVUYyHVsqLvdeRy8wX6IwcWJpMHhkhjTBY0g2ymXlNaRnpzfGaRo3bW3POFhtbzdJceo0xWzfM-xrZS8rcSUrfXVRLrh54yz4ePcrUXqaKzp5pCnKdeknCXTdJyR3CiYNdcoiVXrCIKB60R62dfMga20ZHlF0fBaMda8RG3mcDSF5mAhafFcHdYvcBqOXzgNooQAAnKYxAJavYAO8vagG1Mz3BXzNnQdIyJ4KDsYFD2LJ4BLKyEUYGsrbGSDKnh2bz6cftdJ-JG3V2CUm1YEomteMKZjgcTTR4mg1heOvN5nn3zjl6gc7y-5YP4nxpz8N-dU____WRj7oIEqY6XpMk-frTMrl8FB54RNSbNzLULbb-k8q0ZVThtNNVkTZ1Vl_3apehuYmYWfn-GO66uZku-xraWnySG_29xpzkPMzdN3txXeP5dR5--t5e7bq_oFK7oGEF98aiSLbC4UuzviGYMMYi0TNd5HPzUaSeMo0lHbStZjK0eCayMjVnarFOZ1mwhyb7cAjnj6wk539tdmk8bsrqVG_XKrpvbqrn74LrbfDMbBcy9myos-pss3U37PI1FS1K-jauK_nmLx138C_n77j2OW5D_e2t2b4R7VR9sSqXfZ_qjD37Zmb8laVKvIsk3zyn5A99MaNQvOViXD06pT8-gaDEf5tg___4Hyq_1RdT_cgVob3Q1Ww-MBZK_p_Wqz7P1Rf_A9UKf03TpH9j0uA6XxWbun5VGveL1kq3XZWAtN8VGfTW1KI0UNTAdEBToTQukzhznpNAs5kS0XM3kX7y5BCdMrTPLrEdjmAw-Y4QMKCN1DCpjbKvyQ0Wr97M5y9dDQ2vSEzsbtmMFi8cC11u8AthbiaK8q2nCsptWM1MrZmQEC1Ll0VpgpeoqdkYEWoBGZVp3po1KeIaZOl8GzzpK5tsaKZb5OhA2ygnohw1Z0Hce2XZWb6l0Je1JRYXVGOP17LjP9MsYudSa2IoEgUiSk_boddPxyFTjxShPY7cYNINjSEvRIheC4SHHU3A89nAACMZGoAwGM="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['LV/049']=data;}

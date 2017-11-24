@@ -1,0 +1,7 @@
+var data = {
+"_ring":456,
+"_params":"-456-en",
+"regions":{"215727":{"level":4,"name":"Kyzylorda Province","index":0,"property":{"openStreetMapId":215727,"iso3166":"KZ-KZY"}},"2189882":{"level":6,"name":"Kyzylorda","index":1,"property":{"openStreetMapId":2189882,"iso3166":""}}},
+"paths":{"215727":[[1]],"2189882":[[2]]},"ways":{"1":"LvGFAle8hAODmNkCzH8RBMXS74R2zOOSX8y_lafDt6MQw4OpZryRrhS5tLOOrQDYSK4F486tXeRIqc3kZqVs5Gehzug5nqfpIJzb6E-ZLOfZlU7m_JAK5kmJRuQUhI_p1oH67RRhJO4kYJftPV1D7bxZOPBmWurxO1ga9atWLfX3UV34Wkv___tIC_4JSvf8MUlG-1pH2flWRnD6wENB-7o-7voJPr_580D_9pE5BfdANl_0rjSY9NYwBfTZLzXxVCsK8josOvMrL8fyPDBO9B4uAPQ1Lp71uCsg9YwoMfbbJhTz2xxW4-gL8tEAAArGtgDhw0ocJcSRGA-98x5Uuo4sIrUOLlu0UTbLqqlAtKWAQcKj2zmSmDU76oW1PWR2vzftXsU2g1JMThhCVliBOqBenzkuX4I4AWF-NgVtuSqzfKkaoIP4DJaL4wGnqwAAdrU4ByfAVA07xIYQecjgEoDUEx5Q1Zgmc99kJ1feCDOT-5c8__97Td73PVLo8odUgvP-V2Doql8z5XZexON0ZsXhq2ep2x1iIN6abYLa6XBF1xl1mNfMeEbSB4Ev1LeDxdLvhA==","2":"Ob-rAk2S5gMjL60CS3boA9Qpi3rsSXVnMVFDOMihAAAo7RAB___AOJng7VwCuJDO5VT__ygZkqQAAKSa8waNiNQpi3o="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['KZ/KZY']=data;}

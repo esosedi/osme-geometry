@@ -1,0 +1,7 @@
+var data = {
+"_ring":1093,
+"_params":".sd-1093-en",
+"regions":{"1104135":{"level":8,"name":"Ba\u015fcalia","index":1,"property":{"openStreetMapId":1104135,"iso3166":""}},"1104136":{"level":6,"name":"Basarabeasca District","index":0,"property":{"openStreetMapId":1104136,"iso3166":"MD-BS"}}},
+"paths":{"1104135":[[1,2]],"1104136":[[3,4]]},"ways":{"1":"EwXCAlNZtgEGE8MC6_G4ATpf__8GM3SM2yFhY8gdV14FH9NaAABbCLBs2gy6iusM4KcAADup5AA1v0U0s8roMmLLsjQWvnQ2OsJnQonF1UP__9jY","2":"eWnCAiaJuAEFE8MC6_G4Af__owe3vd4eaLoAADNbOkWHXI5Xt1DvfmUjEa5aDir1AAD__w==","3":"EwXCAlNZtgEGE8MC6_G4ATpf__8GM3SM2yFhY8gdV14FH9NaAABbCLBs2gy6iusM4KcAADup5AA1v0U0s8roMmLLsjQWvnQ2OsJnQonF1UP__9jY","4":"Ct3BAsRftwHdGcYC_-S6ASZJXFXnXupOvmk3SI5rnUjRb5tGf4AAO5mKKzElkLspmJMfIWaWGB8sl8Uci5qvGVCgXA57peYIa6sAAL_C7Eg1xblGOc8gZtHZ0Fve59SHtOtEhOTuio4Q8oWUiux1lurs05gh8jKXSfLRmF_65ZYK-2ab1_8Dmv__27VO_mC7xvrAvsjwvMji8MDKhO3Yy-PjltW631TWgswHyynILdV_yqDVUsu5_QK7__8DuYrllra6lsWwMp4FntKiPWvVvuxMRNWqTffWUE8l13RPO9nhPkHgRTj54Js1i-e0NKvn1DNk4E02ZdNRBfevAAC-rpoPco2rDSyLQRB_ip8T3IYjITty"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/BS']=data;}

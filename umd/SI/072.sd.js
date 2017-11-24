@@ -1,0 +1,7 @@
+var data = {
+"_ring":1430,
+"_params":".sd-1430-en",
+"regions":{"1675867":{"level":8,"name":"Municipality of Menge\u0161","index":0,"property":{"openStreetMapId":1675867,"iso3166":"SI-072"}}},
+"paths":{"1675867":[[1]]},"ways":{"1":"8ea_Athz3QBC5MACLKveAAIA3xb1ARMVeAgbF6kMVBdgEyERpxWhCpYYnge-Gb0Eth2CAsofAAB3IqQCAymJBrkqPgUnNA4CxzV2B1s16A0kNzoPLzhhEQo5MRmMO2odrjxpHJ5Byxw9SCoZcErSGEtO3hw4T8ccvk9nG6JQ7xtJVBAhqlZXIEJdvSQoZE8miGOkKWtlayoxZLYtQmXpLeNjQDGTYkIxwWLXMR5nWDcIZkM6YmjzO-Bp5jttbIBBo25wQ0ZvAUqMcqFSXHP-V511LlsDeWhZ5HtZWqp9wFlOgN5UYIG8VYuEg0-Wh5RNv4j-SmeMrkqbjC5J7Y7zSm-TyFH1mCpP2Zp7UCWegU9-oAdQL6RKT0inz1BusAVdH7M-YuWxyWXKtrxy6L7Cdki_QXq1wMl61sFnefLI44GGyE2C2sy5iNPXSp9Z27anb9worJ_4etBt_4vd__-Y34joB9Lq5knV5OI-6-vfFPU131X1n9py8qPVpfCY1TDvJdIL7ofStux10e7rkcmw6rzJpugCw5Hlk6yW4AqpafOGnQfxhpcm8YCXWvMSkePzfJEj8ZCE1_GFhK7vPYOw71ODh-tVeqDquHaM9KN0__-Ta8L-RG069MZrB_TmaqP-DVzF_pVaKPwoV8X4B1LE9fBRcfE6UXLxNVGG9QpOK_QrTq3wh03D8GZN1_PxSV7xukgg7yRFJu9UREfx_j9j8EY61vAEPNHgmjmL4Fk40tZxOk_W3TjCyoE3-shxNFivSDRJpGs1MqTDNX6hYDWXmpwxnppmMOCZUi_tl1kwgJfrLlmVEiwflBMpEZHqJTWRESYzlBYk4JXyIU-Uzh1OkMkgsY3UHw-LOB0bjRYZuYnDFxyH0haLg84Vk3cODxN4rRANbk8Qumv6DexmGA4DYl4O-V8PEPddlBCNWwkQBFmEEW1WcRFOVe4MO07qC3RK5gz-R5cLT0LQDEQ-VA0fM1EKCC0EC34qaQpKKisJeyOzB7QgpweLHgAA3BY="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['SI/072']=data;}

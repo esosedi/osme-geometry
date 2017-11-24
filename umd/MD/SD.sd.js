@@ -1,0 +1,7 @@
+var data = {
+"_ring":1607,
+"_params":".sd-1607-en",
+"regions":{"1693561":{"level":6,"name":"\u0218old\u0103ne\u0219ti District","index":0,"property":{"openStreetMapId":1693561,"iso3166":"MD-SD"}}},
+"paths":{"1693561":[[1]]},"ways":{"1":"keTXAk5lsQECN9wCfSK6AYL2iJw7-GGg-P14pf__iakX_06sHP1xrWHsibDb5fyyvuA8tojZnr9d1kDBCtN-wQXDJru1vQq6Nbijug-zKL1YsErAQ67LzWuloODiowDqkaAL6j2gMet8nGPqkpoz70eVXfRMgv__DoBr_cSD1_tQjUv1L4Up7xCLaeoIf4LitYGH39dtmN45YLbf414D38Bic9zzYT3asmWX1DhkyNL0ZMXPJWezzplmwszbZ6jKuGQ9yLhhD8maX7LGcF0ix1ZdRcRuRb25J0sktaBIZLFsRKiuGEWEo5hJrqNmR3SeBzaFm4I2E5_5K-aesCj7oAYUNaaXETycvBLfm7IQaZVgC5yXrAwPm5gGpJ1PB9qT0RNvkO8i1HsMJE18FyaBe8wq1XWQJKVz1yQxdQ8XVW59CEpqAABRYDsK8lTEC2FV7hbsRJMfiTxpFWY3hhslMYkmkjZsKRY0KC6OMwI1MTNjPQMv8Ub-K09quCK1Y8QZRWk-FYNnZRS8ZsMSg2dXERtj3Qt3ZWsLOGo2CF5nTQctaPIEyWWmAyBijwWmXIkGrFiKBZNXPwNVWXcBiF8wAU5jAAD7aY0BbnHWAahzTQSBdvECKHngBYN5rggRfaMLAICEC4iCDA2KgbkPjYQFE3OQ9BR3kVsUAJXfFLuTwRVGljAYQpoVIBubfCSxnwInP6lKKpOt6yzFpo8xmakfNheu0zkUrNY7iK-pPimmlkfhrLpKHqhTTXejzU2AnS9QiJywVFKWDVZjlEBYxZKtWMuS2FnZj9NZdI6rWmqR1Vx3k9dc1JiYYS-heGEhoXBjnafCbRyrcXiUsSl5h7u_d8_Mnnewzwx4vNAReqPXBnuo1rODedwPhKng04UA3RiHguYqi0fkDJSD5X6WcOcOlw_oGZmh7XWeyO_BnXLup54I8kqegvaInA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['MD/SD']=data;}

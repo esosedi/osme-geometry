@@ -1,0 +1,7 @@
+var data = {
+"_ring":1971,
+"_params":".sd-1971-en",
+"regions":{"1908801":{"level":4,"name":"Phayao Province","index":0,"property":{"openStreetMapId":1908801,"iso3166":"TH-56"}}},
+"paths":{"1908801":[[1]]},"ways":{"1":"9gofARgb8QV2Ni0BD4z_BQAAT3WdAWlwJAQAbjoCkWm9B3hnBQ6raNgSCWZMFCJi5hdaX0kXSlu6G91WyCBkTf8jPUpZK69HVS5aRSww2EB6MII4PDOsND0yfS8oMzYrJzVUKSI57ikdPbsopT6NJlJCMiXvQoYkUkK8HotEYRpbS_8WnFdxFJha1RBVYUAMxmW6CwVz3QVye4MEPYcjBEuMxAaWjhEHRZHwBVWUogKdmTsDa6NgAGiqAADYqt4FILD6CjOxwQ3MtLUsjLkDOhe4xD2ltJI_MrKlP3qnVzzNo0M85KAXPQ6eskBene1DNZ-jSRSqqVWHrP9arqw7YRKs4mIUqk9kdqrwZmSpRmmwq4drhK9Ma5awDGxZsghwB7XVcQe1i3dotqZ53LdnehG-QHptw-h-3scnfhXLnYHEzCSCcNEDgQzTiYHK3CKGwt_NiSDjcI_R45iS0uIjnKrjt50c516ftunYoY3rP6477u2xp_b9uP__nMLv_AnE4vZMyXDz5sna7CXJzuYnzPzgIc063u7OVdhl1bvUbNdSyQbY98JK4FnDZuX6wNXpTrxR7zq8__IruPL0BbfM9OC0UO9Zsprs7amG6UOj0ODkoCjfmpzv3iqXCeEtlCTjfpJ45USRlOpskXrrLZTB7AaU_e-nkLjxvI9x86mPuvc2jRT5LoMu-MN4n_UFc233MW-u-YVqNPoBZpv5tWJW-_lbKfxeWev_OVf___JQO_kwTj3vCE9v7UNO5-wNSqfqxEWa6VFC9OqSPVDvgTvq7ws7F-_PO8HpfD9-5CpCHN5lQtHW3UBq1BM0882fMlvQUDK412UxpdrzLWHc5ClA25olq9Z0JDDUTSRYynUjfccpIaLEfB3vwfsVJ79jEdi7agsKupgFVLTiAPazxgAwqicCSKY6AqSdTQMUmCgBVo2KARaLrgTGh9YD64StBWOBiANVfesC03h4ADF2AABPdQ=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/56']=data;}

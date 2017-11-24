@@ -1,0 +1,7 @@
+var data = {
+"_ring":1797,
+"_params":".sd-1797-en",
+"regions":{"1802543":{"level":4,"name":"Cuanza Sul Province","index":0,"property":{"openStreetMapId":1802543,"iso3166":"AO-CUS"}}},
+"paths":{"1802543":[[1]]},"ways":{"1":"4b9F_2v4ywBnc2z_m2b9AMW6UgDzxjEK8MjaCoDJhQxayPoOjMWjD4zFdRH1wXEWk7nEGhS6UxzYu7Yb9buXHAa6fB__uUskOrjMJKG5Vi28tQAzt7l3OA3AUT0qwwZD98LZRAPCVkoDv-pNV76qUQG121dQspBdnbcqYUK-HmPiwiFijsaCXnbLPF2mzR1eY88iYKHRFmAs2XJcLNwBXILi6l_09dJewPYQYLT0e2JP9qdnHfj5aNj2IGqA9qxtPPiUbSP5cW7492FwtfpadTL74Hoj-g59lvs2fWf7UX7s_DB9___YfCD9vYEm_daDQfrEhg77yYjT-M2JpvhEi6b1oI3O9aKPTPMXkZXyVJTZ866VePMNl5Dw2JiM8rSakfH_m4rwv5ur8N2d0PHwnXjyzJ8Z8jahmPOrpMLyk6hl9EmqbvQlrKfyIK4Z86yvRvUksCzzdrU49by8o_QYvkr3z77n9xbAmfrXv3H7xsEx-WPF0PkeyP_3gcq_-ybNYfkkzrr7adGu-DPTEPo51Z331NnH-Fvck_fp3sT1D98B9v_f3_Pe4Ubs1eJj6RzpoeIR6Krdw-xj2lrsXNBS7ozLTuq3wqbr3cFW79q_AvHguovz4rVW8pCzYfNesdT3xanB_A2pI_7lpP__1qLl_fqfr_76nLD8rppF_C-Yo_eWlpj3WpLU9EeK4-iReZHgUXkD3dJ8X9f9ebrTL3qe0Rd_LcyUbpnIyF0dv41Wmb-NSgi7fEYyqnVDo6bqQdigdz5mnfs2yJwHM--eXy4tn5QsFqG_KQKgBSYCoEgkFJ7tIYefsRoZnjkYQ5-sGEuZNRO6lDAUy5IaEbyOYBDiiTkMkYYAAK-C9AAKf7EFlH41B-N83gygc94MyHF8ChJuqguFZrEXvGHZJX5YoCWbVJ4h5k4TICVNyxalSKMUpkRzG89AVB3bPt4e4ToOIac51yqDOO8rlTS4KRgvxiyQKQQszifOLfwT6D5rE21YnBcCdjAas4hwELKRlQ4wmk8PT62UAs-1AADFulIA"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['AO/CUS']=data;}

@@ -1,0 +1,7 @@
+var data = {
+"_ring":1951,
+"_params":".sd-1951-en",
+"regions":{"1908777":{"level":4,"name":"Kanchanaburi Province","index":0,"property":{"openStreetMapId":1908777,"iso3166":"TH-71"}}},
+"paths":{"1908777":[[1]]},"ways":{"1":"zXfRAPss2gXW-u4A-jv0BTUs4POtKDbzMCSg9YcjYfZFI__57h7_-rYeav2uHUn-rxwp_v4bVPz8Eor4nxFA9ccLofNMC6LsjAzZ4LQLmttaCeXXlAhy0egD8syKAz3LhwUTxTQJXsKlCd_AGwc1vvAEi7P0AsyuEAOtq5oFuKYOBDmkagVPoKgCJJ0DAGWYAAAzlNgCspIUBmiNxwuojPAOKIv6EyiMFxZ9hjQY_4UnGiqEzxsqfxgiC33-JVZ6wCiBdu8trHYcLwF2kzHXcB4zuWqkN8RmuDtwXtVAPFbPSPJRvkdTTbdLvkhKTtVAgFSgPZlWATriXNY3M19sNXVkNzJhaqMvmWpNLptpgyxzam4rl3CDKjt0eSfyd6Uj_3obHrR_RhpXg10UX4noESOQUwuYkz4MYZdeCZ2alArtnZQK2KhqBFqqnwRLrUkHnq5_ByexPwUjs2oBh7UAAAu7dQHmv-oEEcI_BHbDygKixYoCqcZfA6vFNAiVx0kM18xoEfHNKBKZz-gRhNDdEinOEB3RyloivMtPI6TOBSOc0AQgVtAxHiLS0CAi0sUi6NL6Iw3YryOt2BoliNg5Kbvb7S4q2Ow2edYMOBXUITgL1NY4ItdLOxHbtjwR5cA9t_YhOf__nDoj_-A8rPwKP5D8dEKd-lREPftpRp361Ecq7GZSz-k9UCLmW1ev4YZYG-AwWjnfmlxG2E9hBtJYZ3jMDmqrytdv58hhceDHDHVexut2ybpAedy11XjKsid62qy-grqp6YQ2qYmGkKvSjoup3JI-qpCWXKmblxCpu5owp9meEqgOpKun2aQJo8Onv5ytqBqaQ6illm6kapK4peeRmaa_kgKpapK4qmiJzLG7ira3aIngu7CGqr19gzW7aH_1vkGAE8UBhEjJBoZoyoeNvctQjIfOuIwy0N-LMdRDjnDYOo6Q3TKN798whI3oBoE47a591--Mexf1G3vW-N93yvyMdor8E3VV-eZz4PgTcF_-8W3__85sH_9ZaYD2xGeB9TtgofRpWwH2Blks9eJSjPUgUIH0AE3W9SlBF_XrOZjssDBX7rAw9_BLL2zxxy6W8-cs4fM1LODz"},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['TH/71']=data;}

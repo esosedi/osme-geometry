@@ -1,0 +1,7 @@
+var data = {
+"_ring":1877,
+"_params":"-1877-en",
+"regions":{"1874283":{"level":4,"name":"Cn Th\u01a1","index":0,"property":{"openStreetMapId":1874283,"iso3166":"VN-48"}}},
+"paths":{"1874283":[[1]]},"ways":{"1":"nFuXABmeRQYpjZ0A4BJPBm6HzrxEgg3D4n1Nx7x5B8vfcxXP1XH60LVwMtNCbmbWZWq02hZlrd40YGbkbF0J52dYw-lVRoTynEFY9Mo9bPWdM5z5_i_X--En__8oJRP9IiXI-5Uj6fmLIer4wB459sEc9PQpGCPkSBab4xUWUONaFxrhuReK3qAY691bGIjcHxwl10kgHtNfH0PSMyAw0VwggNAeIBrQCCI8z2gjuc0lIWPNwB5wy3kbo8oUGYTJbRlDyWoYeMjJGJPFvxVoxeoVocJnFn3BJhZQwfwUeMHbE7O-yhE3u_4PvLveD_W6Ew_RutEPBbqkDLy3chPdsiwa0rdSHO64rByTuL0dj7auHbWyRyANs-Ag57KuIoGvyiPlrl0jiq6bIx2uFiKrrXggD66xH_ytlx6FreEccq1LHDat6huurE0aKazVGcarwBmxqq8YbKp-GCiqkBhtqYkZ26h1GTmoTBjZpwQX0aYaFqOmwhS8pgoTWKZ5EIaiTSj4kzUpxpMULLyUgCyxk7csvJPXLQGSIy__j60oCo6YKkmLNRpphucYe4i_FBmGVRRchhwNG4S8DaCCAACbfkEMJXbbKy1fmE3TRydNpEdjXR08CGE8OVNhSDktZw02pnKkNLKL5yUAiFYjgo06IHGK3x3UkpQYyphGFOulkAl9qocFtrEAAAS4AAMGvEMFm8AbBxHK5gsDzpYOb8kcEXXWthm71iQaQth6GfbaThtt2w4breE4H4jcYyHF3vwjpMafLS7SsEYq18hO-dwSWTXgQFgX4mNXBfLtUgX0_lkz849bSvUZXZbziF1A9axf4vbeZ2f63Wr7_u1r__9Xb5D8dXFF-lJzvfTrdrvzdHhp8_55__DgfJzrhIIo506G0tn5j5HTiJN7yziZUsfEm4DCzp3OuFOh6rSPolCo1aR8o3qoPKHXqbqbW67rl3avqpHZsqqNO7bgiXq6bofOvA=="},
+"meta": {} 
+};if(typeof exports==="object"&&typeof module!=="undefined"){module.exports = data;} else {this['osmeGeometry']=this['osmeGeometry'] || {};this['osmeGeometry']['VN/48']=data;}
